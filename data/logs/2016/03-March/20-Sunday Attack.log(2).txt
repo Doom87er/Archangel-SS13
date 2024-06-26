@@ -1,0 +1,86 @@
+
+
+Starting up. 12:22.32
+---------------------
+[12:33:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:34:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:40:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:40:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:33]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:41:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Disciple Meridian with frost blade(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[12:42:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:42:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:42:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:42:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:42:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:42:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:42:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:42:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:42:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:42:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:42:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[12:43:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:43:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:44:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:44:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:44:07]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:44:08]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:44:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 13:35.13
+---------------------
+
+
+Starting up. 14:21.15
+---------------------
+
+
+Starting up. 14:48.00
+---------------------
+
+
+Starting up. 15:20.49
+---------------------

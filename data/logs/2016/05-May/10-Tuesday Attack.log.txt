@@ -1,0 +1,61 @@
+
+
+Starting up. 13:26.10
+---------------------
+[13:47:16]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:48:20]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:50:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Venatus Kyner(drakemarshall) </font>
+[13:53:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) hit Ork Warboss with Imperial Krak Grenade</font>
+[13:55:03]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:04]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:04]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:05]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:06]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:06]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[13:55:06]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+
+
+Starting up. 17:01.51
+---------------------
+
+
+Starting up. 17:40.42
+---------------------
+[17:43:56]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[17:43:58]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[17:44:00]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+
+
+Starting up. 21:38.58
+---------------------
+[21:50:42]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[21:50:43]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[21:50:43]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[21:51:21]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[22:04:44]ATTACK: <font color='red'>Unknown(drakemarshall) knocked back Ork Warboss </font>
+[22:04:45]ATTACK: <font color='red'>Unknown(drakemarshall) knocked back Ork Warboss </font>
+[22:04:46]ATTACK: <font color='red'>Unknown(drakemarshall) knocked back Ork Warboss </font>
+[22:04:49]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:53]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:56]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:56]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:56]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:58]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:04:59]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Ork Warboss with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:53]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (787) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:57]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:58]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:05:58]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:06:03]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (787) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:06:04]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Gretchin (886) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:06:13]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:06:13]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>

@@ -1,0 +1,220 @@
+
+
+Starting up. 00:26.33
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[00:26:33]ADMIN: Loading Banlistjob
+[00:26:33]ADMIN: Loading jobban_rank
+[00:26:33]ADMIN: jobban_keylist was empty
+[00:26:33]ADMIN: Loading appearance_rank
+[00:26:33]ADMIN: appearance_keylist was empty
+[00:26:33]ADMIN: Updating jobbanfile!
+[00:26:33]ADMIN: Loading Banlist
+[00:26:33]ADMIN: Loading RTD lists
+[00:30:11]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[00:30:57]ADMIN: DrakeMarshall has started the game.
+[00:30:58]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[00:31:00]ACCESS: Logout: *no key*/(DrakeMarshall)
+[00:31:00]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:31:47]SAY: Venatus Kyner/DrakeMarshall : hm
+[00:31:47]SAY: Venatus Kyner/DrakeMarshall : well fuck
+[00:31:47]SAY: Venatus Kyner/DrakeMarshall : that went south fast...
+[00:31:47]SAY: Venatus Kyner/DrakeMarshall : like really fast.
+[00:31:47]SAY: Venatus Kyner/DrakeMarshall : damn
+[00:31:58]SAY: sentinel/ : Establishing control of planet...
+[00:32:00]SAY: Pete/ : EHEHEHEHEH
+[00:32:00]SAY: sentinel/ : Establishing control of planet...
+[00:32:00]SAY: necron scarab/ : Eliminating hostiles...
+[00:32:20]SAY: sentinel/ : DIE!
+[00:32:26]SAY: sentinel/ : Eliminating hostiles...
+[00:32:36]SAY: sentinel/ : Establishing control of planet...
+[00:32:38]SAY: sentinel/ : Eliminating hostiles...
+[00:32:40]SAY: Featherbottom/ : Bwaak bwak.
+[00:32:48]SAY: sentinel/ : DIE!
+[00:32:55]SAY: mouse/ : Squeek?
+[00:32:57]SAY: necron scarab/ : DIE!
+[00:33:01]SAY: Pugley III/ : AUUUUUU
+[00:33:09]SAY: grey baby slime (523)/ : Rawr...
+[00:33:13]SAY: sentinel/ : Establishing control of planet...
+[00:33:17]SAY: grey baby slime (500)/ : Rawr...
+[00:33:25]SAY: necron scarab/ : DIE!
+[00:33:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/l6_saw at (120,152,1)
+[00:33:39]EMOTE: monkey (238)/ : <B>The monkey (238)</B> jumps!
+[00:33:43]SAY: sentinel/ : Establishing control of planet...
+[00:33:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/um at (119,144,1)
+[00:33:52]SAY: Featherbottom/ : Bwaak bwak.
+[00:34:00]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> gasps!
+[00:34:04]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:34:08]SAY: Featherbottom/ : Cluck!
+[00:34:14]SAY: sentinel/ : DIE!
+[00:34:22]SAY: sentinel/ : DIE!
+[00:34:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/rifle at (126,142,1)
+[00:34:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/um at (126,139,1)
+[00:34:40]SAY: sentinel/ : Eliminating hostiles...
+[00:34:47]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> screams!
+[00:34:48]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> screams!
+[00:34:49]SAY: sentinel/ : DIE!
+[00:34:51]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> gasps!
+[00:34:53]SAY: sentinel/ : DIE!
+[00:34:53]EMOTE: Brother Sabius/ : <B>Brother Sabius</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:34:59]SAY: necron scarab/ : Eliminating hostiles...
+[00:35:17]SAY: mouse/ : Squeek?
+[00:35:25]SAY: sentinel/ : Establishing control of planet...
+[00:35:27]SAY: sentinel/ : DIE!
+[00:35:31]SAY: mouse/ : Squeek!
+[00:35:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (135,138,1)
+[00:35:53]SAY: sentinel/ : Eliminating hostiles...
+[00:35:56]SAY: sentinel/ : Eliminating hostiles...
+[00:36:06]SAY: sentinel/ : DIE!
+[00:36:16]EMOTE: monkey (430)/ : <B>The monkey (430)</B> jumps!
+[00:36:24]SAY: sentinel/ : Establishing control of planet...
+[00:36:28]SAY: sentinel/ : Eliminating hostiles...
+[00:36:29]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's reagents_speedmod to -10
+[00:36:32]SAY: sentinel/ : Eliminating hostiles...
+[00:36:48]SAY: necron scarab/ : DIE!
+[00:36:58]SAY: sentinel/ : DIE!
+[00:37:06]SAY: sentinel/ : DIE!
+[00:37:18]SAY: sentinel/ : DIE!
+[00:37:25]SAY: sentinel/ : Establishing control of planet...
+[00:37:25]SAY: sentinel/ : Establishing control of planet...
+[00:37:38]EMOTE: Unknown/ : <B>Unknown</B> screams!
+[00:37:39]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:37:45]SAY: necron scarab/ : DIE!
+[00:37:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (126,128,1)
+[00:37:51]SAY: sentinel/ : Establishing control of planet...
+[00:37:53]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (126,136,1)
+[00:37:56]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (126,138,1)
+[00:38:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/chainswordig/inq at (126,137,1)
+[00:38:07]EMOTE: monkey (850)/ : <B>The monkey (850)</B> jumps!
+[00:38:09]SAY: sentinel/ : Establishing control of planet...
+[00:38:17]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's reagents_speedmod to 0
+[00:38:21]SAY: necron scarab/ : DIE!
+[00:38:22]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/complexsword/pknife/sword at (127,142,1)
+[00:38:23]SAY: sentinel/ : Establishing control of planet...
+[00:38:27]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[00:38:31]SAY: sentinel/ : Establishing control of planet...
+[00:38:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/hellpistol at (127,141,1)
+[00:38:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/hellpistol at (127,142,1)
+[00:38:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/box/krakgrenades at (125,140,1)
+[00:38:48]SAY: sentinel/ : DIE!
+[00:38:52]SAY: necron scarab/ : Eliminating hostiles...
+[00:38:56]SAY: sentinel/ : Eliminating hostiles...
+[00:38:58]SAY: necron scarab/ : Establishing control of planet...
+[00:38:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (127,138,1)
+[00:39:02]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Starboard Primary Hallway (130,137,1).
+[00:39:13]SAY: sentinel/ : Eliminating hostiles...
+[00:39:15]SAY: sentinel/ : Establishing control of planet...
+[00:39:19]SAY: sentinel/ : DIE!
+[00:39:23]SAY: mouse/ : Squeek!
+[00:39:31]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Starboard Primary Hallway (144,139,1).
+[00:39:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (143,139,1)
+[00:39:37]SAY: Venatus Kyner/DrakeMarshall : HAH
+[00:39:40]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:39:42]SAY: mouse/ : Squeek!
+[00:39:44]SAY: necron scarab/ : DIE!
+[00:39:48]SAY: sentinel/ : DIE!
+[00:39:52]SAY: sentinel/ : Establishing control of planet...
+[00:40:08]SAY: sentinel/ : DIE!
+[00:40:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/guardsword/full at (125,138,1)
+[00:40:12]SAY: sentinel/ : DIE!
+[00:40:12]SAY: sentinel/ : DIE!
+[00:40:28]SAY: sentinel/ : Establishing control of planet...
+[00:40:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/chainsword at (126,122,1)
+[00:40:33]SAY: sentinel/ : DIE!
+[00:40:45]SAY: sentinel/ : DIE!
+[00:40:53]SAY: sentinel/ : Eliminating hostiles...
+[00:41:05]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[00:41:05]SAY: sentinel/ : DIE!
+[00:41:19]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:41:25]SAY: sentinel/ : Eliminating hostiles...
+[00:41:31]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:41:38]SAY: sentinel/ : Eliminating hostiles...
+[00:41:38]SAY: sentinel/ : Establishing control of planet...
+[00:41:38]SAY: sentinel/ : Establishing control of planet...
+[00:41:50]SAY: sentinel/ : Eliminating hostiles...
+[00:41:56]SAY: sentinel/ : Eliminating hostiles...
+[00:41:58]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:42:00]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:42:09]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:42:11]SAY: sentinel/ : Establishing control of planet...
+[00:42:11]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:42:13]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[00:42:15]SAY: sentinel/ : Establishing control of planet...
+[00:42:19]SAY: sentinel/ : Establishing control of planet...
+[00:42:21]SAY: sentinel/ : Establishing control of planet...
+[00:42:25]SAY: necron scarab/ : Establishing control of planet...
+[00:42:25]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:42:37]SAY: sentinel/ : DIE!
+[00:42:43]SAY: sentinel/ : DIE!
+[00:42:45]SAY: sentinel/ : DIE!
+[00:42:56]SAY: sentinel/ : DIE!
+[00:43:16]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:16]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:18]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:43:20]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:21]SAY: sentinel/ : Establishing control of planet...
+[00:43:24]SAY: necron scarab/ : Eliminating hostiles...
+[00:43:24]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:26]SAY: sentinel/ : Establishing control of planet...
+[00:43:28]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:29]EMOTE: monkey (508)/ : <B>The monkey (508)</B> jumps!
+[00:43:31]SAY: necron scarab/ : Eliminating hostiles...
+[00:43:31]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:35]SAY: necron scarab/ : DIE!
+[00:43:35]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:43:39]SAY: mouse/ : Squeek!
+[00:43:41]SAY: sentinel/ : Establishing control of planet...
+[00:43:43]SAY: Pugley III/ : Woof!
+[00:43:45]SAY: sentinel/ : DIE!
+[00:43:45]SAY: necron scarab/ : Eliminating hostiles...
+[00:43:49]SAY: sentinel/ : Establishing control of planet...
+[00:43:55]SAY: sentinel/ : Establishing control of planet...
+[00:43:59]SAY: sentinel/ : Establishing control of planet...
+[00:44:05]SAY: sentinel/ : Eliminating hostiles...
+[00:44:09]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:44:11]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:44:14]SAY: mouse/ : Squeek?
+[00:44:24]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:44:26]SAY: sentinel/ : Establishing control of planet...
+[00:44:28]SAY: necron scarab/ : Eliminating hostiles...
+[00:44:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (126,134,1)
+[00:44:47]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 10:17.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:17:59]ADMIN: Loading Banlistjob
+[10:17:59]ADMIN: Loading jobban_rank
+[10:17:59]ADMIN: jobban_keylist was empty
+[10:17:59]ADMIN: Loading appearance_rank
+[10:17:59]ADMIN: appearance_keylist was empty
+[10:17:59]ADMIN: Updating jobbanfile!
+[10:17:59]ADMIN: Loading Banlist
+[10:17:59]ADMIN: Loading RTD lists

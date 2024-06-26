@@ -1,0 +1,440 @@
+
+
+Starting up. 16:50.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[16:50:46]ADMIN: Loading Banlistjob
+[16:50:46]ADMIN: Loading jobban_rank
+[16:50:46]ADMIN: jobban_keylist was empty
+[16:50:46]ADMIN: Loading appearance_rank
+[16:50:46]ADMIN: appearance_keylist was empty
+[16:50:46]ADMIN: Updating jobbanfile!
+[16:50:46]ADMIN: Loading Banlist
+[16:50:46]ADMIN: Loading RTD lists
+[16:52:42]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[17:05:42]ADMIN: DrakeMarshall has started the game.
+[17:05:42]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[17:05:45]ACCESS: Logout: *no key*/(DrakeMarshall)
+[17:05:45]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:05:46]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:05:46]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:05:46]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:05:59]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:05:59]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:06:03]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:06:08]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:06:16]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:06:16]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:06:16]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:06:24]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:06:25]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:06:32]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:06:38]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:06:40]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:06:41]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:06:41]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:06:41]EMOTE: monkey (749)/ : <B>The monkey (749)</B> gasps!
+[17:06:41]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:06:48]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:06:49]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:06:49]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:06:57]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:07:05]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:07:05]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:07:05]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:07:11]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:07:21]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:07:21]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:07:21]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:07:21]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:07:29]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:07:30]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:07:30]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:07:30]EMOTE: monkey (749)/ : <B>The monkey (749)</B> gasps!
+[17:07:30]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:07:37]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:07:37]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:07:37]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:07:37]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:07:37]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:07:37]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:07:45]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:07:45]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:07:45]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:07:45]EMOTE: monkey (749)/ : <B>The monkey (749)</B> gasps!
+[17:07:45]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:07:49]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:07:53]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:07:53]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:07:53]EMOTE: monkey (749)/ : <B>The monkey (749)</B> gasps!
+[17:07:53]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:07:55]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:07:57]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:00]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:02]EMOTE: monkey (287)/ : <B>The monkey (287)</B> gasps!
+[17:08:02]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:08:02]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:08:02]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:08:02]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:08:02]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:08:04]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:08]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:10]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:08:10]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:08:10]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:08:10]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:08:18]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:08:18]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:08:18]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:08:18]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:08:18]EMOTE: monkey (749)/ : <B>The monkey (749)</B> gasps!
+[17:08:18]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:08:26]EMOTE: monkey (825)/ : <B>The monkey (825)</B> gasps!
+[17:08:26]EMOTE: monkey (971)/ : <B>The monkey (971)</B> gasps!
+[17:08:26]EMOTE: monkey (946)/ : <B>The monkey (946)</B> gasps!
+[17:08:26]EMOTE: monkey (856)/ : <B>The monkey (856)</B> gasps!
+[17:08:26]EMOTE: monkey (779)/ : <B>The monkey (779)</B> gasps!
+[17:08:26]EMOTE: monkey (820)/ : <B>The monkey (820)</B> gasps!
+[17:08:40]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:49]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:51]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:08:59]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:09:07]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:09:12]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's oxygen to 1e+008
+[17:09:18]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's temperature to 293
+[17:09:23]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:09:32]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:09:33]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 159,10,2 in the High Orbit. ArchAngel IV
+[17:10:32]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:10:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (160,10,2)
+[17:11:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (160,10,2)
+[17:11:22]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:11:32]GAME: A chemical smoke reaction has taken place in (Snow | 159, 125)[ Biohazardous Plague Infected Shit ]. No associated key.
+[17:12:17]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:12:20]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:12:25]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:12:31]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:12:35]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:12:47]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:12:49]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:12:51]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[17:12:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/promethium at (99,68,1)
+[17:12:59]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:13:03]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:13:09]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:13:09]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:13:14]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/hotspot at (99,69,1)
+[17:13:15]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:13:18]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[17:13:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/hotspot at (99,69,1)
+[17:13:26]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:13:33]ADMIN: DrakeMarshall/(Venatus Kyner) has toggled DrakeMarshall/(Venatus Kyner)'s nodamage to On
+[17:13:34]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:13:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (99,73,1)
+[17:14:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/mine/necron/sleepgas at (101,75,1)
+[17:14:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (101,74,1)
+[17:14:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (103,77,1)
+[17:14:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (103,77,1)
+[17:15:07]GAME: A chemical smoke reaction has taken place in (Aft Maintenance | 101, 82)[ Biohazardous Plague Infected Shit ]. No associated key.
+[17:15:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/chainsword2/full at (101,75,1)
+[17:20:03]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 18:27.05
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[18:27:05]ADMIN: Loading Banlistjob
+[18:27:05]ADMIN: Loading jobban_rank
+[18:27:05]ADMIN: jobban_keylist was empty
+[18:27:05]ADMIN: Loading appearance_rank
+[18:27:05]ADMIN: appearance_keylist was empty
+[18:27:05]ADMIN: Updating jobbanfile!
+[18:27:05]ADMIN: Loading Banlist
+[18:27:05]ADMIN: Loading RTD lists
+[18:32:01]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[18:33:56]ADMIN: DrakeMarshall has started the game.
+[18:33:57]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[18:34:00]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:34:00]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[18:34:09]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:34:09]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:34:09]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:34:22]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:34:22]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:34:22]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:34:34]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:34:34]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:34:42]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:34:46]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:34:46]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:34:46]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:34:53]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:34:53]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:34:53]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:34:53]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:35:04]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:35:04]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:35:04]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:35:05]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:35:05]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:35:15]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:35:15]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:35:15]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:35:27]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:35:34]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:35:38]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:35:42]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[18:35:42]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:35:50]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:35:54]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:35:54]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:35:54]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:06]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:06]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:36:06]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:36:06]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:06]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:13]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:14]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:14]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:14]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:36:26]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:26]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:36:26]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:36:26]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:26]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:36:27]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's temperature to 293
+[18:36:29]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:36:29]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:29]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:35]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:35]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:36:35]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:36:35]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:35]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:35]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's oxygen to 1000
+[18:36:43]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[18:36:45]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:36:46]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:46]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:46]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:36:46]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:48]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:36:48]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:36:57]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:36:57]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:36:57]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:36:57]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:36:57]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:36:57]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:36:57]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:06]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:37:06]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:37:06]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:06]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:37:06]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:37:06]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:06]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:12]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:37:17]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/ork/warboss at (160,11,2)
+[18:37:19]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:37:19]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:37:19]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:37:19]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:19]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:37:19]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:37:19]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:19]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:24]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[18:37:27]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Ork Warboss.
+[18:37:27]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:37:27]ACCESS: Login: drakemarshall/(Ork Warboss) from 127.0.0.1-3229208445 || BYOND v510
+[18:37:31]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:37:31]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:37:31]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:37:31]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:31]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:37:31]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:37:31]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:31]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:33]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:33]EMOTE: Ork Warboss/drakemarshall : <B>Ork Warboss</B> gasps!
+[18:37:38]EMOTE: Ork Warboss/drakemarshall : <B>Ork Warboss</B> gasps!
+[18:37:41]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:37:41]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:41]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:37:41]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:41]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:43]EMOTE: Ork Warboss/drakemarshall : <B>Ork Warboss</B> gasps!
+[18:37:45]ADMIN: drakemarshall/(Ork Warboss) healed / Revived drakemarshall/(Ork Warboss)
+[18:37:51]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:37:51]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:37:51]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:37:51]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:37:51]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:37:51]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:37:52]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:52]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:37:55]EMOTE: Ork Warboss/drakemarshall : <B>Ork Warboss</B> gasps!
+[18:38:02]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:38:02]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:38:02]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:38:02]EMOTE: monkey (464)/ : <B>The monkey (464)</B> gasps!
+[18:38:02]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:38:02]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:38:02]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:38:13]EMOTE: monkey (434)/ : <B>The monkey (434)</B> gasps!
+[18:38:13]EMOTE: monkey (412)/ : <B>The monkey (412)</B> gasps!
+[18:38:13]EMOTE: monkey (818)/ : <B>The monkey (818)</B> gasps!
+[18:38:13]EMOTE: monkey (61)/ : <B>The monkey (61)</B> gasps!
+[18:38:13]EMOTE: monkey (3)/ : <B>The monkey (3)</B> gasps!
+[18:38:13]EMOTE: monkey (958)/ : <B>The monkey (958)</B> gasps!
+[18:38:20]ACCESS: Logout: drakemarshall[DC]/(Ork Warboss)
+
+
+Starting up. 19:53.23
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[19:53:23]ADMIN: Loading Banlistjob
+[19:53:23]ADMIN: Loading jobban_rank
+[19:53:23]ADMIN: jobban_keylist was empty
+[19:53:23]ADMIN: Loading appearance_rank
+[19:53:23]ADMIN: appearance_keylist was empty
+[19:53:23]ADMIN: Updating jobbanfile!
+[19:53:23]ADMIN: Loading Banlist
+[19:53:23]ADMIN: Loading RTD lists
+[19:58:15]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[19:59:32]ADMIN: DrakeMarshall has started the game.
+[19:59:33]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[19:59:36]ACCESS: Logout: *no key*/(DrakeMarshall)
+[19:59:36]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:00:12]EMOTE: monkey (391)/ : <B>The monkey (391)</B> jumps!
+[20:00:22]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[20:24:52]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:26:13]SAY: grey baby slime (449)/ : Blorble...
+[20:26:34]EMOTE: monkey (397)/ : <B>The monkey (397)</B> jumps!
+[20:27:20]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[20:27:27]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[20:28:30]EMOTE: monkey (600)/ : <B>The monkey (600)</B> jumps!
+[20:29:15]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[20:30:28]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:30:47]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's temperature to 293
+[20:30:56]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:31:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (159,10,2)
+[20:32:22]EMOTE: monkey (221)/ : <B>The monkey (221)</B> jumps!
+[20:32:47]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[20:33:31]SAY: grey baby slime (449)/ : Lonely...
+[20:34:11]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[20:34:23]EMOTE: monkey (600)/ : <B>The monkey (600)</B> jumps!
+[20:34:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (159,10,2)
+[20:34:48]EMOTE: monkey (600)/ : <B>The monkey (600)</B> jumps!
+[20:36:00]EMOTE: monkey (600)/ : <B>The monkey (600)</B> jumps!
+[20:36:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (125,180,1)
+[20:36:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (125,179,1)
+[20:40:11]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[20:40:45]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[20:40:56]EMOTE: monkey (455)/ : <B>The monkey (455)</B> jumps!
+[20:41:12]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 124,181,1 in Snow
+[20:41:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (124,181,1)
+[20:41:43]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:41:51]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:42:02]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/suit/armor/harlequin at (124,181,1)
+[20:42:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/powersword/harlequin at (124,182,1)
+[20:42:53]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (133,182,1)
+[20:44:14]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[20:48:30]EMOTE: monkey (397)/ : <B>The monkey (397)</B> jumps!
+[20:49:56]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[20:51:53]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[20:53:02]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 23:07.22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[23:07:22]ADMIN: Loading Banlistjob
+[23:07:22]ADMIN: Loading jobban_rank
+[23:07:22]ADMIN: jobban_keylist was empty
+[23:07:22]ADMIN: Loading appearance_rank
+[23:07:22]ADMIN: appearance_keylist was empty
+[23:07:22]ADMIN: Updating jobbanfile!
+[23:07:22]ADMIN: Loading Banlist
+[23:07:22]ADMIN: Loading RTD lists
+[23:13:47]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[23:15:13]ADMIN: DrakeMarshall has started the game.
+[23:15:16]ACCESS: Logout: *no key*/(DrakeMarshall)
+[23:15:16]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[23:16:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (159,11,2)
+[23:16:22]EMOTE: monkey (29)/ : <B>The monkey (29)</B> jumps!
+[23:16:31]ADMIN: DrakeMarshall/(Venatus Kyner) toggled debugging on.
+[23:16:39]EMOTE: monkey (29)/ : <B>The monkey (29)</B> jumps!
+[23:16:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (159,11,2)
+[23:16:55]SAY: grey baby slime (856)/ : Blorble...
+[23:18:26]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[23:18:46]EMOTE: monkey (29)/ : <B>The monkey (29)</B> jumps!
+[23:18:46]EMOTE: monkey (186)/ : <B>The monkey (186)</B> jumps!
+[23:19:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (105,71,1)
+[23:20:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (106,77,1)
+[23:20:52]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[23:23:00]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to xfloor
+[23:23:07]SAY: grey baby slime (669)/ : Lonely...
+[23:23:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/space/real at (105,77,1)
+[23:24:26]EMOTE: monkey (741)/ : <B>The monkey (741)</B> jumps!
+[23:25:30]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[23:25:32]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[23:25:47]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

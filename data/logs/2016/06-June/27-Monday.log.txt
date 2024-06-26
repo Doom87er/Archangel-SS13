@@ -1,0 +1,79 @@
+
+
+Starting up. 20:16.55
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:16:56]ADMIN: Loading Banlistjob
+[20:16:56]ADMIN: Loading jobban_rank
+[20:16:56]ADMIN: jobban_keylist was empty
+[20:16:56]ADMIN: Loading appearance_rank
+[20:16:56]ADMIN: appearance_keylist was empty
+[20:16:56]ADMIN: Updating jobbanfile!
+[20:16:56]ADMIN: Loading Banlist
+[20:16:56]ADMIN: Loading RTD lists
+[20:22:29]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[20:22:44]ADMIN: DrakeMarshall has started the game.
+[20:22:44]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[20:22:46]ACCESS: Logout: *no key*/(DrakeMarshall)
+[20:22:46]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:23:06]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[20:24:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/chimera/kreig at (107,91,1)
+[20:25:17]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_y to 0
+[20:25:33]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_y to -15
+[20:25:42]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_height to 48
+[20:25:56]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_height to 32
+[20:28:23]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/crisessuit/loaded at (107,116,1)
+[20:28:25]SAY: grey baby slime (373)/ : Blorble...
+[20:28:39]ADMIN: DrakeMarshall/(Venatus Kyner) modified XV8 Crises Suit's bound_width to 64
+[20:29:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/dreadnought/loaded at (104,114,1)
+[20:29:34]ADMIN: DrakeMarshall/(Venatus Kyner) modified Ultra Marine Dreadnought's bound_width to 64
+[20:29:52]ADMIN: DrakeMarshall/(Venatus Kyner) modified Ultra Marine Dreadnought's pixel_x to 0
+[20:30:01]ADMIN: DrakeMarshall/(Venatus Kyner) modified XV8 Crises Suit's pixel_x to 0
+[20:30:37]EMOTE: monkey (693)/ : <B>The monkey (693)</B> jumps!
+[20:30:52]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's pixel_y to 0
+[20:30:56]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's pixel_y to -20
+[20:31:00]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's pixel_y to 0
+[20:31:09]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_y to 0
+[20:31:16]ADMIN: DrakeMarshall/(Venatus Kyner) modified Chimera's bound_height to 64
+[20:31:26]EMOTE: monkey (385)/ : <B>The monkey (385)</B> jumps!
+[20:31:38]EMOTE: monkey (693)/ : <B>The monkey (693)</B> jumps!
+[20:31:57]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/wraithlord/loaded at (107,98,1)
+[20:32:11]ADMIN: DrakeMarshall/(Venatus Kyner) modified Wraithlord's pixel_x to 0
+[20:32:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/lemanruss at (107,107,1)
+[20:32:45]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_y to 0
+[20:32:55]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's bound_height to 64
+[20:33:10]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_x to 0
+[20:33:31]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's bound_width to 64
+[20:34:03]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[20:34:09]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/lemanruss at (104,118,1)
+[20:34:30]SAY: grey baby slime (373)/ : Blorble...
+[20:34:48]SAY: grey baby slime (373)/ : Rawr...
+[20:35:08]EMOTE: monkey (111)/ : <B>The monkey (111)</B> jumps!
+[20:35:51]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+[20:36:15]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:36:26]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_y to 0
+[20:36:33]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's bound_height to 64
+[20:36:57]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_x to -26
+[20:37:01]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_x to -10
+[20:37:10]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_x to 0
+[20:37:12]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[20:37:14]ADMIN: DrakeMarshall/(Venatus Kyner) modified Leman Russ Vanquisher Tank's pixel_x to -12
+[20:37:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/dreadnought/loaded at (100,76,1)
+[20:37:57]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_casing/magic/misslelauncher at (106,76,1)
+[20:38:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (107,76,1)
+[20:38:28]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's wings to 1
+[20:38:39]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

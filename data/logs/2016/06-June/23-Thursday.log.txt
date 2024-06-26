@@ -1,0 +1,76 @@
+
+
+Starting up. 10:36.22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:36:23]ADMIN: Loading Banlistjob
+[10:36:23]ADMIN: Loading jobban_rank
+[10:36:23]ADMIN: jobban_keylist was empty
+[10:36:23]ADMIN: Loading appearance_rank
+[10:36:23]ADMIN: appearance_keylist was empty
+[10:36:23]ADMIN: Updating jobbanfile!
+[10:36:23]ADMIN: Loading Banlist
+[10:36:23]ADMIN: Loading RTD lists
+[11:21:36]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[11:34:51]ADMIN: DrakeMarshall has started the game.
+[11:34:51]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[11:34:54]ACCESS: Logout: *no key*/(DrakeMarshall)
+[11:34:54]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[11:36:47]GAME: Emitter deleted at (72,108,1)
+[11:36:48]GAME: SMES deleted at (Landed)
+[11:36:52]GAME: SMES deleted at (Telecoms Server Room)
+[11:36:54]GAME: All the communications consoles were destroyed and all AIs are inactive. Shuttle called.
+[11:36:54]GAME: SMES deleted at (AI Chamber)
+[11:36:55]GAME: Emitter deleted at (171,146,1)
+[11:36:55]GAME: Emitter deleted at (179,146,1)
+[11:36:55]GAME: SMES deleted at (Chief Engineer's office)
+[11:36:55]GAME: SMES deleted at (Chief Engineer's office)
+[11:36:55]GAME: SMES deleted at (Chief Engineer's office)
+[11:36:55]GAME: Emitter deleted at (152,153,1)
+[11:36:55]GAME: Emitter deleted at (153,153,1)
+[11:36:55]GAME: Emitter deleted at (152,154,1)
+[11:36:55]GAME: Emitter deleted at (153,154,1)
+[11:36:56]GAME: Emitter deleted at (171,164,1)
+[11:36:56]GAME: Emitter deleted at (179,164,1)
+[11:36:56]GAME: SMES deleted at (Gravity Generator Room)
+[11:37:11]GAME: SMES deleted at (Derelict Computer Core)
+[11:37:12]GAME: Emitter deleted at (160,178,4)
+[11:37:12]GAME: SMES deleted at (Derelict Solar Control)
+[11:37:12]GAME: SMES deleted at (Ruskie DJ Station)
+[11:37:12]GAME: SMES deleted at (Mining Station Port Wing)
+[11:37:12]GAME: SMES deleted at (West Mining Outpost)
+[11:37:12]GAME: SMES deleted at (Labor Camp)
+[11:37:12]GAME: SMES deleted at (North Mining Outpost)
+[11:37:13]GAME: SMES deleted at (Strange Station)
+[11:37:13]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (6182) instances of /obj/machinery.
+[11:37:24]EMOTE: monkey (57)/ : <B>The monkey (57)</B> jumps!
+[11:38:52]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (8) instances of /mob/living/carbon/monkey.
+[11:39:16]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Venatus Kyner at (161,24,2)
+[11:39:16]ACCESS: Logout: *no key*/(Venatus Kyner)
+[11:39:16]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[11:39:26]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[11:39:53]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (218) instances of /mob/living/simple_animal.
+[11:40:04]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Clown at (195,42,4)
+[11:40:08]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Clown at (197,39,4)
+[11:40:12]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Clown Pilot at (194,40,4)
+[11:40:26]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Magos Sidonius at (47,109,7)
+[11:40:35]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the grey baby slime (168) at (126,58,1)
+[11:40:40]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the grey baby slime (559) at (123,61,1)
+[11:49:14]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (17079) instances of /obj/structure.
+[11:54:29]GAME: The imperial meltabomb authentication disk has been destroyed.  Moving it to (128, 80, 1).
+[11:54:41]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (27613) instances of /obj/item.
+[12:06:09]ADMIN: DrakeMarshall/(Venatus Kyner) has deleted all (78591) instances of /turf/simulated.

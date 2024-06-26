@@ -1,0 +1,698 @@
+
+
+Starting up. 04:30.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:30:44]ADMIN: Loading Banlistjob
+[04:30:44]ADMIN: Loading jobban_rank
+[04:30:44]ADMIN: jobban_keylist was empty
+[04:30:44]ADMIN: Loading appearance_rank
+[04:30:44]ADMIN: appearance_keylist was empty
+[04:30:44]ADMIN: Updating jobbanfile!
+[04:30:44]ADMIN: Loading Banlist
+[04:30:44]ADMIN: Loading RTD lists
+[04:32:56]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[04:33:10]ADMIN: Norc has started the game.
+[04:33:11]GAME: Norc (ckey) has been selected as a Heretic
+[04:33:13]ACCESS: Logout: *no key*/(Norc)
+[04:33:13]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:33:20]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[04:33:20]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:33:20]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:38:05]EMOTE: monkey (5)/ : <B>The monkey (5)</B> jumps!
+[04:38:29]EMOTE: monkey (325)/ : <B>The monkey (325)</B> jumps!
+[04:39:05]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 04:42.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:42:14]ADMIN: Loading Banlistjob
+[04:42:14]ADMIN: Loading jobban_rank
+[04:42:14]ADMIN: jobban_keylist was empty
+[04:42:14]ADMIN: Loading appearance_rank
+[04:42:14]ADMIN: appearance_keylist was empty
+[04:42:14]ADMIN: Updating jobbanfile!
+[04:42:14]ADMIN: Loading Banlist
+[04:42:14]ADMIN: Loading RTD lists
+[04:43:30]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[04:43:42]ADMIN: Norc has started the game.
+[04:43:43]GAME: Norc (ckey) has been selected as a Heretic
+[04:43:45]ACCESS: Logout: *no key*/(Norc)
+[04:43:45]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:43:52]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[04:43:52]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:43:52]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:43:59]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:43:59]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:45:19]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 04:50.38
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:50:38]ADMIN: Loading Banlistjob
+[04:50:38]ADMIN: Loading jobban_rank
+[04:50:38]ADMIN: jobban_keylist was empty
+[04:50:38]ADMIN: Loading appearance_rank
+[04:50:38]ADMIN: appearance_keylist was empty
+[04:50:38]ADMIN: Updating jobbanfile!
+[04:50:39]ADMIN: Loading Banlist
+[04:50:39]ADMIN: Loading RTD lists
+[04:52:10]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[04:52:21]ADMIN: Norc has started the game.
+[04:52:21]GAME: Norc (ckey) has been selected as a Heretic
+[04:52:23]ACCESS: Logout: *no key*/(Norc)
+[04:52:23]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:52:31]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[04:52:31]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:52:31]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:52:44]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (192,13,2)
+[04:52:57]ADMIN: Norc/(Brian Garrison) assumed direct control of Bruce.
+[04:52:57]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:52:57]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[04:53:32]ADMIN: norc/(Goose) deleted Bruce at (192,13,2)
+[04:53:32]ACCESS: Logout: *no key*/(Goose)
+[04:53:32]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[04:53:37]EMOTE: monkey (745)/ : <B>The monkey (745)</B> jumps!
+[04:53:46]ACCESS: Logout: norc[DC]/(Goose)
+
+
+Starting up. 04:55.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:55:58]ADMIN: Loading Banlistjob
+[04:55:58]ADMIN: Loading jobban_rank
+[04:55:58]ADMIN: jobban_keylist was empty
+[04:55:58]ADMIN: Loading appearance_rank
+[04:55:58]ADMIN: appearance_keylist was empty
+[04:55:58]ADMIN: Updating jobbanfile!
+[04:55:58]ADMIN: Loading Banlist
+[04:55:58]ADMIN: Loading RTD lists
+[04:57:35]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[04:57:46]ADMIN: Norc has started the game.
+[04:57:49]ACCESS: Logout: *no key*/(Norc)
+[04:57:49]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:57:56]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[04:57:56]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:57:56]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[04:58:07]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 05:46.38
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[05:46:38]ADMIN: Loading Banlistjob
+[05:46:38]ADMIN: Loading jobban_rank
+[05:46:38]ADMIN: jobban_keylist was empty
+[05:46:38]ADMIN: Loading appearance_rank
+[05:46:38]ADMIN: appearance_keylist was empty
+[05:46:38]ADMIN: Updating jobbanfile!
+[05:46:38]ADMIN: Loading Banlist
+[05:46:38]ADMIN: Loading RTD lists
+[05:52:06]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[05:52:17]ADMIN: Norc has started the game.
+[05:52:20]ACCESS: Logout: *no key*/(Norc)
+[05:52:20]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[05:52:26]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[05:52:26]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:52:26]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[05:52:37]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:52:37]ACCESS: Login: Norc/(Shas Las Nan) from 127.0.0.1-1800816647 || BYOND v510
+[05:53:56]ACCESS: Logout: Norc[DC]/(Shas Las Nan)
+
+
+Starting up. 06:49.50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:49:50]ADMIN: Loading Banlistjob
+[06:49:50]ADMIN: Loading jobban_rank
+[06:49:50]ADMIN: jobban_keylist was empty
+[06:49:50]ADMIN: Loading appearance_rank
+[06:49:50]ADMIN: appearance_keylist was empty
+[06:49:50]ADMIN: Updating jobbanfile!
+[06:49:50]ADMIN: Loading Banlist
+[06:49:50]ADMIN: Loading RTD lists
+[06:51:30]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[06:51:42]ADMIN: Norc has started the game.
+[06:51:43]GAME: Norc (ckey) has been selected as a Heretic
+[06:51:45]ACCESS: Logout: *no key*/(Norc)
+[06:51:45]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:52:11]ADMIN: Norc/(Brian Garrison) dealt 300 amount of brute damage to Brian Garrison 
+[06:52:13]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> seizes up and falls limp, his eyes dead and lifeless...
+[06:52:18]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:52:18]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:55:00]ADMIN: Norc/(Brian Garrison) assumed direct control of Brian Garrison.
+[06:55:00]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:55:00]ACCESS: Login: norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:55:05]ACCESS: Logout: norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:00.22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:00:22]ADMIN: Loading Banlistjob
+[07:00:22]ADMIN: Loading jobban_rank
+[07:00:22]ADMIN: jobban_keylist was empty
+[07:00:22]ADMIN: Loading appearance_rank
+[07:00:22]ADMIN: appearance_keylist was empty
+[07:00:22]ADMIN: Updating jobbanfile!
+[07:00:22]ADMIN: Loading Banlist
+[07:00:22]ADMIN: Loading RTD lists
+[07:01:59]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:02:13]ADMIN: Norc has started the game.
+[07:02:13]GAME: Norc (ckey) has been selected as a Heretic
+[07:02:15]ACCESS: Logout: *no key*/(Norc)
+[07:02:15]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:02:22]EMOTE: monkey (419)/ : <B>The monkey (419)</B> jumps!
+[07:02:28]ADMIN: Norc/(Brian Garrison) dealt 200 amount of brute damage to Brian Garrison 
+[07:02:28]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> seizes up and falls limp, his eyes dead and lifeless...
+[07:02:31]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:02:31]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:03:59]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:03:59]ACCESS: Login: Norc/(Shas Kas Lo) from 127.0.0.1-1800816647 || BYOND v510
+[07:04:21]ACCESS: Logout: Norc[DC]/(Shas Kas Lo)
+
+
+Starting up. 07:07.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:07:20]ADMIN: Loading Banlistjob
+[07:07:20]ADMIN: Loading jobban_rank
+[07:07:20]ADMIN: jobban_keylist was empty
+[07:07:20]ADMIN: Loading appearance_rank
+[07:07:20]ADMIN: appearance_keylist was empty
+[07:07:20]ADMIN: Updating jobbanfile!
+[07:07:20]ADMIN: Loading Banlist
+[07:07:20]ADMIN: Loading RTD lists
+[07:13:08]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:13:18]ADMIN: Norc has started the game.
+[07:13:19]GAME: Norc (ckey) has been selected as a Heretic
+[07:13:21]ACCESS: Logout: *no key*/(Norc)
+[07:13:21]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:13:26]EMOTE: monkey (262)/ : <B>The monkey (262)</B> jumps!
+[07:13:27]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[07:13:27]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:13:27]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:13:54]EMOTE: monkey (270)/ : <B>The monkey (270)</B> jumps!
+[07:14:05]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (193,13,2)
+[07:14:12]ADMIN: Norc/(Brian Garrison) assumed direct control of Bruce.
+[07:14:12]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:14:12]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[07:14:34]ACCESS: Logout: *no key*/(Goose)
+[07:14:34]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[07:14:41]ADMIN: norc/(Goose) deleted Bruce at (193,13,2)
+[07:14:47]EMOTE: monkey (860)/ : <B>The monkey (860)</B> jumps!
+[07:14:55]ACCESS: Logout: *no key*/(Goose)
+[07:14:55]ACCESS: Login: norc/(Sister Chandra) from 127.0.0.1-1800816647 || BYOND v510
+[07:15:04]ACCESS: Logout: norc[DC]/(Sister Chandra)
+
+
+Starting up. 07:22.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:22:08]ADMIN: Loading Banlistjob
+[07:22:08]ADMIN: Loading jobban_rank
+[07:22:08]ADMIN: jobban_keylist was empty
+[07:22:08]ADMIN: Loading appearance_rank
+[07:22:08]ADMIN: appearance_keylist was empty
+[07:22:08]ADMIN: Updating jobbanfile!
+[07:22:08]ADMIN: Loading Banlist
+[07:22:08]ADMIN: Loading RTD lists
+[07:23:26]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:23:38]ADMIN: Norc has started the game.
+[07:23:38]GAME: Norc (ckey) has been selected as a Heretic
+[07:23:40]ACCESS: Logout: *no key*/(Norc)
+[07:23:40]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:23:47]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[07:23:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:23:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:23:53]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:23:53]ACCESS: Login: Norc/(Sister Debra) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:04]ADMIN: Norc/(Sister Debra) deleted Sister Debra at (29,12,7)
+[07:24:04]ACCESS: Logout: *no key*/(Sister Debra)
+[07:24:04]ACCESS: Login: Norc/(Sister Debra) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:16]ACCESS: Logout: *no key*/(Sister Debra)
+[07:24:16]ACCESS: Login: Norc/(#(73256)) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:22]ADMIN: Norc/(#(73256)) deleted #(73256) at (196,238,2)
+[07:24:22]ACCESS: Logout: *no key*/(#(73256))
+[07:24:22]ACCESS: Login: Norc/(#(73256)) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:30]ACCESS: Logout: *no key*/(#(73256))
+[07:24:30]ACCESS: Login: Norc/(Shas Tam Ra) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:46]ADMIN: Norc/(Shas Tam Ra) dealt 200 amount of brute damage to Shas Tam Ra 
+[07:24:46]EMOTE: Shas Tam Ra/Norc : <B>Shas Tam Ra</B> seizes up and falls limp, his eyes dead and lifeless...
+[07:24:49]ACCESS: Logout: *no key*/(Shas Tam Ra)
+[07:24:49]ACCESS: Login: Norc/(Shas Tam Ra) from 127.0.0.1-1800816647 || BYOND v510
+[07:24:57]ACCESS: Logout: *no key*/(Shas Tam Ra)
+[07:24:57]ACCESS: Login: Norc/(Shas Lo Kan) from 127.0.0.1-1800816647 || BYOND v510
+[07:25:04]ACCESS: Logout: Norc[DC]/(Shas Lo Kan)
+
+
+Starting up. 07:31.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:31:02]ADMIN: Loading Banlistjob
+[07:31:02]ADMIN: Loading jobban_rank
+[07:31:02]ADMIN: jobban_keylist was empty
+[07:31:02]ADMIN: Loading appearance_rank
+[07:31:02]ADMIN: appearance_keylist was empty
+[07:31:02]ADMIN: Updating jobbanfile!
+[07:31:02]ADMIN: Loading Banlist
+[07:31:02]ADMIN: Loading RTD lists
+[07:32:15]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:32:24]ADMIN: Norc has started the game.
+[07:32:24]GAME: Norc (ckey) has been selected as a Heretic
+[07:32:26]ACCESS: Logout: *no key*/(Norc)
+[07:32:26]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:32:35]ADMIN: Norc/(Brian Garrison) dealt 200 amount of brute damage to Brian Garrison 
+[07:32:37]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> seizes up and falls limp, his eyes dead and lifeless...
+[07:32:41]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:32:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:32:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:32:47]ACCESS: Login: Norc/(Sister Sandra) from 127.0.0.1-1800816647 || BYOND v510
+[07:33:01]ADMIN: Norc/(Sister Sandra) dealt 200 amount of brute damage to Sister Sandra 
+[07:33:03]EMOTE: Sister Sandra/Norc : <B>Sister Sandra</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:33:08]ACCESS: Logout: *no key*/(Sister Sandra)
+[07:33:08]ACCESS: Login: Norc/(Sister Sandra) from 127.0.0.1-1800816647 || BYOND v510
+[07:33:10]EMOTE: monkey (878)/ : <B>The monkey (878)</B> jumps!
+[07:33:17]ACCESS: Logout: *no key*/(Sister Sandra)
+[07:33:17]ACCESS: Login: Norc/(Shas Dra Nan) from 127.0.0.1-1800816647 || BYOND v510
+[07:33:36]ADMIN: Norc/(Shas Dra Nan) deleted Shas Dra Nan at (225,24,2)
+[07:33:36]ACCESS: Logout: *no key*/(Shas Dra Nan)
+[07:33:36]ACCESS: Login: Norc/(Shas Dra Nan) from 127.0.0.1-1800816647 || BYOND v510
+[07:33:44]ACCESS: Logout: *no key*/(Shas Dra Nan)
+[07:33:44]ACCESS: Login: Norc/(Sister Silena) from 127.0.0.1-1800816647 || BYOND v510
+[07:33:55]ADMIN: Norc/(Sister Silena) dealt 200 amount of brute damage to Sister Silena 
+[07:33:56]EMOTE: Sister Silena/Norc : <B>Sister Silena</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:33:58]SAY: grey baby slime (156)/ : Rawr...
+[07:34:29]EMOTE: Sister Silena/Norc : <B>Sister Silena</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:34:44]ACCESS: Logout: Norc[DC]/(Sister Silena)
+
+
+Starting up. 07:41.38
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:41:38]ADMIN: Loading Banlistjob
+[07:41:38]ADMIN: Loading jobban_rank
+[07:41:38]ADMIN: jobban_keylist was empty
+[07:41:38]ADMIN: Loading appearance_rank
+[07:41:38]ADMIN: appearance_keylist was empty
+[07:41:38]ADMIN: Updating jobbanfile!
+[07:41:38]ADMIN: Loading Banlist
+[07:41:38]ADMIN: Loading RTD lists
+[07:42:44]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:42:54]ADMIN: Norc has started the game.
+[07:42:56]ACCESS: Logout: *no key*/(Norc)
+[07:42:56]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:04]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[07:43:04]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:43:04]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:18]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:43:18]ACCESS: Login: Norc/(Sister Cassandra) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:22]ADMIN: Norc/(Sister Cassandra) deleted Sister Cassandra at (34,12,7)
+[07:43:22]ACCESS: Logout: *no key*/(Sister Cassandra)
+[07:43:22]ACCESS: Login: Norc/(Sister Cassandra) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:23]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[07:43:30]ACCESS: Logout: *no key*/(Sister Cassandra)
+[07:43:30]ACCESS: Login: Norc/(Shas Lid Sa) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:42]ADMIN: Norc/(Shas Lid Sa) deleted Shas Lid Sa at (229,25,2)
+[07:43:42]ACCESS: Logout: *no key*/(Shas Lid Sa)
+[07:43:42]ACCESS: Login: Norc/(Shas Lid Sa) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:53]ACCESS: Logout: *no key*/(Shas Lid Sa)
+[07:43:53]ACCESS: Login: Norc/(#(78260)) from 127.0.0.1-1800816647 || BYOND v510
+[07:44:00]ADMIN: Norc/(#(78260)) deleted #(78260) at (192,237,2)
+[07:44:00]ACCESS: Logout: *no key*/(#(78260))
+[07:44:00]ACCESS: Login: Norc/(#(78260)) from 127.0.0.1-1800816647 || BYOND v510
+[07:44:10]ACCESS: Logout: Norc[DC]/(#(78260))
+
+
+Starting up. 07:48.39
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:48:40]ADMIN: Loading Banlistjob
+[07:48:40]ADMIN: Loading jobban_rank
+[07:48:40]ADMIN: jobban_keylist was empty
+[07:48:40]ADMIN: Loading appearance_rank
+[07:48:40]ADMIN: appearance_keylist was empty
+[07:48:40]ADMIN: Updating jobbanfile!
+[07:48:40]ADMIN: Loading Banlist
+[07:48:40]ADMIN: Loading RTD lists
+[07:51:41]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:51:53]ADMIN: Norc has started the game.
+[07:51:53]GAME: Norc (ckey) has been selected as a Heretic
+[07:51:55]ACCESS: Logout: *no key*/(Norc)
+[07:51:55]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:05]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[07:52:05]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:52:05]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:13]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:52:13]ACCESS: Login: Norc/(Sister Debra) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:20]ADMIN: Norc/(Sister Debra) deleted Sister Debra at (34,12,7)
+[07:52:20]ACCESS: Logout: *no key*/(Sister Debra)
+[07:52:20]ACCESS: Login: Norc/(Sister Debra) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:32]ACCESS: Logout: *no key*/(Sister Debra)
+[07:52:32]ACCESS: Login: Norc/(#(79694)) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:41]ADMIN: Norc/(#(79694)) dealt 200 amount of brute damage to #(79694) 
+[07:52:42]EMOTE: #(79694)/Norc : <B>#(79694)</B> seizes up and falls limp, his eyes dead and lifeless...
+[07:52:45]ACCESS: Logout: *no key*/(#(79694))
+[07:52:45]ACCESS: Login: Norc/(#(79694)) from 127.0.0.1-1800816647 || BYOND v510
+[07:52:56]ACCESS: Logout: Norc[DC]/(#(79694))
+
+
+Starting up. 07:58.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:58:01]ADMIN: Loading Banlistjob
+[07:58:01]ADMIN: Loading jobban_rank
+[07:58:01]ADMIN: jobban_keylist was empty
+[07:58:01]ADMIN: Loading appearance_rank
+[07:58:01]ADMIN: appearance_keylist was empty
+[07:58:01]ADMIN: Updating jobbanfile!
+[07:58:01]ADMIN: Loading Banlist
+[07:58:01]ADMIN: Loading RTD lists
+[07:59:11]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:59:18]ADMIN: Norc has started the game.
+[07:59:19]GAME: Norc (ckey) has been selected as a Heretic
+[07:59:21]ACCESS: Logout: *no key*/(Norc)
+[07:59:21]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:59:28]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[07:59:28]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:59:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:59:34]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:59:34]ACCESS: Login: Norc/(Sister Silena) from 127.0.0.1-1800816647 || BYOND v510
+[07:59:42]ADMIN: Norc/(Sister Silena) deleted Sister Silena at (34,12,7)
+[07:59:42]ACCESS: Logout: *no key*/(Sister Silena)
+[07:59:42]ACCESS: Login: Norc/(Sister Silena) from 127.0.0.1-1800816647 || BYOND v510
+[07:59:48]ACCESS: Logout: *no key*/(Sister Silena)
+[07:59:48]ACCESS: Login: Norc/(Shas So Ka) from 127.0.0.1-1800816647 || BYOND v510
+[08:00:05]ADMIN: Norc/(Shas So Ka) deleted Shas So Ka at (227,19,2)
+[08:00:05]ACCESS: Logout: *no key*/(Shas So Ka)
+[08:00:05]ACCESS: Login: Norc/(Shas So Ka) from 127.0.0.1-1800816647 || BYOND v510
+[08:00:11]ACCESS: Logout: *no key*/(Shas So Ka)
+[08:00:11]ACCESS: Login: Norc/(#(82050)) from 127.0.0.1-1800816647 || BYOND v510
+[08:00:18]ACCESS: Logout: Norc[DC]/(#(82050))
+
+
+Starting up. 17:33.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[17:33:37]ADMIN: Loading Banlistjob
+[17:33:37]ADMIN: Loading jobban_rank
+[17:33:37]ADMIN: jobban_keylist was empty
+[17:33:37]ADMIN: Loading appearance_rank
+[17:33:37]ADMIN: appearance_keylist was empty
+[17:33:37]ADMIN: Updating jobbanfile!
+[17:33:37]ADMIN: Loading Banlist
+[17:33:37]ADMIN: Loading RTD lists
+[17:34:47]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[17:35:02]ADMIN: Norc has started the game.
+[17:35:05]ACCESS: Logout: *no key*/(Norc)
+[17:35:05]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[17:35:14]EMOTE: monkey (455)/ : <B>The monkey (455)</B> jumps!
+[17:35:29]ADMIN: Norc/(Brian Garrison) toggled debugging on.
+[17:37:30]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 17:42.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[17:42:14]ADMIN: Loading Banlistjob
+[17:42:14]ADMIN: Loading jobban_rank
+[17:42:14]ADMIN: jobban_keylist was empty
+[17:42:14]ADMIN: Loading appearance_rank
+[17:42:14]ADMIN: appearance_keylist was empty
+[17:42:14]ADMIN: Updating jobbanfile!
+[17:42:14]ADMIN: Loading Banlist
+[17:42:14]ADMIN: Loading RTD lists
+[17:43:25]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[17:43:36]ADMIN: Norc has started the game.
+[17:43:39]ACCESS: Logout: *no key*/(Norc)
+[17:43:39]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[17:43:46]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (192,13,2)
+[17:43:46]ACCESS: Logout: *no key*/(Brian Garrison)
+[17:43:46]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[17:43:51]ACCESS: Logout: *no key*/(Brian Garrison)
+[17:43:51]ACCESS: Login: Norc/(Shas So Ka) from 127.0.0.1-1800816647 || BYOND v510
+[17:44:03]ADMIN: Norc/(Shas So Ka) dealt 200 amount of brute damage to Shas So Ka 
+[17:44:03]EMOTE: Shas So Ka/Norc : <B>Shas So Ka</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:44:06]ACCESS: Logout: *no key*/(Shas So Ka)
+[17:44:06]ACCESS: Login: Norc/(Shas So Ka) from 127.0.0.1-1800816647 || BYOND v510
+[17:44:11]ADMIN: Norc/(Shas So Ka) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (226,15,2)
+[17:44:18]ADMIN: Norc/(Shas So Ka) assumed direct control of Bruce.
+[17:44:18]ACCESS: Logout: *no key*/(Shas So Ka)
+[17:44:18]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:44:50]ADMIN: norc/(Goose) deleted Bruce at (226,15,2)
+[17:44:50]ACCESS: Logout: *no key*/(Goose)
+[17:44:50]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:45:03]ACCESS: Logout: *no key*/(Goose)
+[17:45:03]ACCESS: Login: norc/(Sister Tammara) from 127.0.0.1-1800816647 || BYOND v510
+[17:45:15]ADMIN: norc/(Sister Tammara) dealt 300 amount of fire damage to Sister Tammara 
+[17:45:26]ADMIN: norc/(Sister Tammara) dealt 300 amount of fire damage to Sister Tammara 
+[17:45:31]ADMIN: norc/(Sister Tammara) dealt 300 amount of brute damage to Sister Tammara 
+[17:45:32]EMOTE: Sister Tammara/norc : <B>Sister Tammara</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:46:05]EMOTE: Sister Tammara/norc : <B>Sister Tammara</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:46:09]ACCESS: Logout: *no key*/(Sister Tammara)
+[17:46:09]ACCESS: Login: norc/(Sister Tammara) from 127.0.0.1-1800816647 || BYOND v510
+[17:46:14]ADMIN: norc/(Sister Tammara) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (24,12,7)
+[17:46:14]EMOTE: monkey (382)/ : <B>The monkey (382)</B> jumps!
+[17:46:26]ADMIN: norc/(Sister Tammara) assumed direct control of Bruce.
+[17:46:26]ACCESS: Logout: *no key*/(Sister Tammara)
+[17:46:26]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:46:46]ADMIN: norc/(Goose) deleted Bruce at (24,12,7)
+[17:46:46]ACCESS: Logout: *no key*/(Goose)
+[17:46:46]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:46:52]ACCESS: Logout: *no key*/(Goose)
+[17:46:52]ACCESS: Login: norc/(Brother Diodorus) from 127.0.0.1-1800816647 || BYOND v510
+[17:47:01]SAY: grey baby slime (469)/ : Blop...
+[17:47:02]ADMIN: norc/(Brother Diodorus) deleted Brother Diodorus at (124,108,2)
+[17:47:02]ACCESS: Logout: *no key*/(Brother Diodorus)
+[17:47:02]ACCESS: Login: norc/(Brother Diodorus) from 127.0.0.1-1800816647 || BYOND v510
+[17:47:10]ADMIN: norc/(Brother Diodorus) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (124,108,2)
+[17:47:19]ADMIN: norc/(Brother Diodorus) assumed direct control of Bruce.
+[17:47:19]ACCESS: Logout: *no key*/(Brother Diodorus)
+[17:47:19]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:47:54]ADMIN: norc/(Goose) deleted Bruce at (124,108,2)
+[17:47:54]ACCESS: Logout: *no key*/(Goose)
+[17:47:54]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:48:06]ADMIN: norc/(Goose) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (124,108,2)
+[17:48:14]ADMIN: norc/(Goose) assumed direct control of Bruce.
+[17:48:14]ACCESS: Logout: *no key*/(Goose)
+[17:48:14]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:48:38]ADMIN: norc/(Goose) deleted Bruce at (124,108,2)
+[17:48:38]ACCESS: Logout: *no key*/(Goose)
+[17:48:38]ACCESS: Login: norc/(Goose) from 127.0.0.1-1800816647 || BYOND v510
+[17:48:44]ACCESS: Logout: *no key*/(Goose)
+[17:48:44]ACCESS: Login: norc/(Furfar the Enlightened) from 127.0.0.1-1800816647 || BYOND v510
+[17:49:10]EMOTE: Furfar The Enlightened/norc : <B>Furfar The Enlightened</B> gasps!
+[17:50:17]ADMIN: norc/(Furfar The Enlightened) spawned /obj/mecha/combat/chimera/valhallan/loaded at (87,122,1)
+[17:50:49]ACCESS: Logout: norc[DC]/(Furfar The Enlightened)

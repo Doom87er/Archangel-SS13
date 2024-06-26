@@ -1,0 +1,440 @@
+
+
+Starting up. 04:26.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[04:26:44]ADMIN: Loading Banlistjob
+[04:26:44]ADMIN: Loading jobban_rank
+[04:26:44]ADMIN: jobban_keylist was empty
+[04:26:44]ADMIN: Loading appearance_rank
+[04:26:44]ADMIN: appearance_keylist was empty
+[04:26:44]ADMIN: Updating jobbanfile!
+[04:26:44]ADMIN: Loading Banlist
+[04:26:44]ADMIN: Loading RTD lists
+[04:28:19]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[04:28:56]ADMIN: Norc has started the game.
+[04:28:56]GAME: Norc (ckey) has been selected as a Heretic
+[04:28:58]ACCESS: Logout: *no key*/(Norc)
+[04:28:58]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[04:29:24]EMOTE: monkey (232)/ : <B>The monkey (232)</B> jumps!
+[04:30:38]SAY: sentinel/ : Establishing control of planet...
+[04:30:59]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[04:31:16]SAY: mouse/ : SQUEEK!
+[04:31:22]SAY: grey baby slime (110)/ : Blorble...
+[04:31:49]SAY: sentinel/ : Eliminating hostiles...
+[04:31:53]SAY: mouse/ : SQUEEK!
+[04:31:55]SAY: sentinel/ : Establishing control of planet...
+[04:32:06]SAY: sentinel/ : Eliminating hostiles...
+[04:32:14]SAY: sentinel/ : Eliminating hostiles...
+[04:32:16]SAY: grey baby slime (782)/ : Blorble...
+[04:32:18]SAY: mouse/ : SQUEEK!
+[04:32:32]SAY: sentinel/ : Establishing control of planet...
+[04:32:34]SAY: Betsy/ : MOOOOOO
+[04:32:34]SAY: sentinel/ : Establishing control of planet...
+[04:32:51]SAY: mouse/ : Squeek!
+[04:33:10]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/box/coinbag at (69,152,1)
+[04:33:15]SAY: sentinel/ : Establishing control of planet...
+[04:33:27]SAY: Kentucky/ : Cluck!
+[04:33:43]SAY: sentinel/ : Establishing control of planet...
+[04:33:55]SAY: Betsy/ : moo
+[04:33:59]SAY: mouse/ : Squeek?
+[04:34:03]EMOTE: monkey (956)/ : <B>The monkey (956)</B> jumps!
+[04:34:18]SAY: sentinel/ : Establishing control of planet...
+[04:35:02]SAY: sentinel/ : Eliminating hostiles...
+[04:35:18]SAY: sentinel/ : Establishing control of planet...
+[04:35:20]SAY: mouse/ : Squeek!
+[04:35:52]SAY: sentinel/ : Establishing control of planet...
+[04:36:14]SAY: mouse/ : Squeek!
+[04:36:59]SAY: Kentucky/ : Bwaak bwak.
+[04:36:59]SAY: sentinel/ : Establishing control of planet...
+[04:37:07]EMOTE: monkey (76)/ : <B>The monkey (76)</B> jumps!
+[04:37:15]SAY: sentinel/ : Establishing control of planet...
+[04:37:35]SAY: sentinel/ : Eliminating hostiles...
+[04:37:55]SAY: Pugley III/ : AUUUUUU
+[04:38:27]SAY: sentinel/ : Establishing control of planet...
+[04:38:31]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[04:39:48]EMOTE: monkey (541)/ : <B>The monkey (541)</B> jumps!
+[04:39:52]SAY: Featherbottom/ : Bwaak bwak.
+[04:39:58]SAY: sentinel/ : Eliminating hostiles...
+[04:40:22]SAY: sentinel/ : Establishing control of planet...
+[04:40:24]EMOTE: monkey (232)/ : <B>The monkey (232)</B> jumps!
+[04:41:02]SAY: sentinel/ : Eliminating hostiles...
+[04:42:09]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 22:59.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:59:10]ADMIN: Loading Banlistjob
+[22:59:10]ADMIN: Loading jobban_rank
+[22:59:10]ADMIN: jobban_keylist was empty
+[22:59:10]ADMIN: Loading appearance_rank
+[22:59:10]ADMIN: appearance_keylist was empty
+[22:59:10]ADMIN: Updating jobbanfile!
+[22:59:10]ADMIN: Loading Banlist
+[22:59:10]ADMIN: Loading RTD lists
+[23:23:20]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[23:23:30]ADMIN: DrakeMarshall has started the game.
+[23:23:30]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[23:23:32]ACCESS: Logout: *no key*/(DrakeMarshall)
+[23:23:32]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:23:42]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:23:52]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:24:36]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[23:24:50]SAY: mouse/ : Squeek?
+[23:24:52]SAY: grey baby slime (583)/ : Blop...
+[23:25:06]SAY: sentinel/ : Establishing control of planet...
+[23:25:29]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:25:33]EMOTE: monkey (78)/ : <B>The monkey (78)</B> jumps!
+[23:25:41]SAY: grey baby slime (583)/ : Lonely...
+[23:25:55]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[23:26:05]SAY: sentinel/ : Eliminating hostiles...
+[23:26:28]SAY: sentinel/ : Eliminating hostiles...
+[23:26:43]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:26:52]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:27:23]SAY: sentinel/ : Establishing control of planet...
+[23:27:47]SAY: mouse/ : SQUEEK!
+[23:27:49]SAY: mouse/ : Squeek!
+[23:27:51]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:27:57]SAY: sentinel/ : Eliminating hostiles...
+[23:28:01]SAY: sentinel/ : Eliminating hostiles...
+[23:28:25]SAY: Kentucky/ : Cluck!
+[23:28:58]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[23:29:16]SAY: mouse/ : Squeek?
+[23:29:52]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/snazzgun at (131,140,1)
+[23:30:02]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (132,138,1)
+[23:30:05]EMOTE: monkey (930)/ : <B>The monkey (930)</B> jumps!
+[23:30:15]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/sm at (130,138,1)
+[23:30:18]ADMIN: DrakeMarshall/(Venatus Kyner) used gibself.
+[23:30:20]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:30:20]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:30:23]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Brother Roman.
+[23:30:23]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:30:23]ACCESS: Login: drakemarshall/(Brother Roman) from 127.0.0.1-3229208445 || BYOND v509
+[23:30:28]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:28]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:33]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:30:38]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:38]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:30:38]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:41]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:42]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:30:42]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:42]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:42]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:30:43]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:30:45]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:54]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:55]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (139,137,1)
+[23:30:57]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:57]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:58]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:58]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:30:58]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:59]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:30:59]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:30:59]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:31:00]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:01]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:01]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:01]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:31:01]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:01]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:02]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:09]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (143,137,1)
+[23:31:09]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:09]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:10]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:10]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:11]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:11]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:12]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:12]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:12]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:31:13]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:13]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:13]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:14]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:15]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:19]SAY: Betsy/ : moo
+[23:31:25]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:25]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:27]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 1
+[23:31:29]EMOTE: monkey (259)/ : <B>The monkey (259)</B> jumps!
+[23:31:38]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 2
+[23:31:39]EMOTE: monkey (78)/ : <B>The monkey (78)</B> jumps!
+[23:31:43]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:43]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:43]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:44]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:44]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:31:44]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:45]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:46]SAY: mouse/ : Squeek!
+[23:31:46]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:48]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:51]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 1
+[23:31:52]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:31:53]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:31:53]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:54]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:54]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:55]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:55]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:31:55]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:31:55]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:31:56]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:32:12]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:14]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:20]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:28]EMOTE: monkey (885)/ : <B>The monkey (885)</B> jumps!
+[23:32:36]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:41]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:44]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:47]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (141,139,1)
+[23:32:49]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:49]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 5
+[23:32:52]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 0.5
+[23:32:56]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:32:56]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:32:56]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:32:56]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:32:57]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:32:57]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:32:57]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:32:57]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:32:58]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:32:59]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:32:59]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:33:00]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:00]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:33:02]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:07]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:33:08]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:10]SAY: Featherbottom/ : Bwaak bwak.
+[23:33:17]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:21]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:24]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 0.8
+[23:33:25]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:29]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:31]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:33:31]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (129,138,1)
+[23:33:31]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:31]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:32]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:33]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:33:34]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:33:34]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:33:34]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:33:35]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:33:35]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:37]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:39]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:33:41]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:43]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:45]EMOTE: monkey (78)/ : <B>The monkey (78)</B> jumps!
+[23:33:45]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:48]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/whitelisted/sm at (131,139,1)
+[23:33:50]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/whitelisted/sm at (130,138,1)
+[23:33:53]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:33:57]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:03]SAY: sentinel/ : Establishing control of planet...
+[23:34:05]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:05]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:06]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:34:06]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:34:06]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:07]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:08]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:34:08]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:09]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:09]SAY: mouse/ : Squeek?
+[23:34:09]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:09]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:11]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:11]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:15]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:15]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:15]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:17]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:17]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:25]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:26]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:26]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:26]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:26]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:34:26]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:32]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:34:32]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/whitelisted/sm at (139,137,1)
+[23:34:34]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:35]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:37]ADMIN: DrakeMarshall/(Brother Roman) modified Snazz Gun's deviation to 0.2
+[23:34:39]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:44]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (138,137,1)
+[23:34:44]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:44]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:44]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:45]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:45]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:46]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:34:46]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:48]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:50]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:50]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:34:52]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:53]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:54]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:34:54]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:55]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:55]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:34:55]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:57]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:34:57]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:34:58]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:35:00]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[23:35:02]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:04]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:35:05]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:35:05]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:35:05]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:35:05]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:35:06]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:35:06]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:35:06]SAY: Betsy/ : moo?
+[23:35:06]SAY: Brother Roman/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[23:35:07]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:35:07]SAY: Brother Roman/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[23:35:08]EMOTE: Brother Ferox/ : <B>Brother Ferox</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:35:08]SAY: Brother Roman/drakemarshall : DANCE HUMIE DANCE!
+[23:35:08]SAY: Brother Roman/drakemarshall : LOOK AT MY FLASH!!
+[23:35:14]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:22]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:24]EMOTE: Brother Lukas/ : <B>Brother Lukas</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:35:28]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:40]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:48]SAY: mouse/ : Squeek?
+[23:35:52]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:35:54]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[23:35:54]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:35:54]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:36:02]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:36:15]ADMIN: drakemarshall/(Brother Roman) spawned /obj/item/weapon/chainsword/chainchoppa at (133,137,1)
+[23:36:24]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:36:27]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:36:39]EMOTE: Brother Crasius/ : <B>Brother Crasius</B> gasps!
+[23:36:41]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:36:49]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:36:55]EMOTE: Brother Crasius/ : <B>Brother Crasius</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:37:11]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:37:15]ADMIN: drakemarshall/(Brother Roman) used gibself.
+[23:37:17]ACCESS: Logout: *no key*/(Brother Roman)
+[23:37:17]ACCESS: Login: drakemarshall/(Brother Roman) from 127.0.0.1-3229208445 || BYOND v509
+[23:37:23]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:37:38]ADMIN: drakemarshall/(Brother Roman) spawned /mob/living/carbon/human/OHinq at (234,100,2)
+[23:37:40]ADMIN: drakemarshall/(Brother Roman) assumed direct control of Unknown.
+[23:37:40]ACCESS: Logout: *no key*/(Brother Roman)
+[23:37:40]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[23:37:42]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:37:50]SAY: Kentucky/ : Cluck!
+[23:37:54]SAY: Pete/ : eh?
+[23:37:58]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma/lesser at (238,100,2)
+[23:38:00]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:38:28]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:38:30]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (236,98,2).
+[23:38:32]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:38:54]SAY: sentinel/ : Eliminating hostiles...
+[23:39:04]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:39:10]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:39:23]SAY: sentinel/ : Eliminating hostiles...
+[23:39:43]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:40:31]SAY: grey baby slime (583)/ : Rawr...
+[23:40:39]EMOTE: monkey (78)/ : <B>The monkey (78)</B> jumps!
+[23:40:52]ADMIN: DrakeMarshall/(Unknown) modified Unknown's tempxray to 1
+[23:40:59]EMOTE: monkey (124)/ : <B>The monkey (124)</B> jumps!
+[23:41:03]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:41:25]EMOTE: monkey (54)/ : <B>The monkey (54)</B> jumps!
+[23:41:29]SAY: sentinel/ : Eliminating hostiles...
+[23:41:54]SAY: Pugley III/ : Bark!
+[23:42:10]SAY: mouse/ : Squeek?
+[23:42:18]SAY: Featherbottom/ : Cluck!
+[23:42:44]ADMIN: DrakeMarshall/(Unknown) called Unknown's handle_regular_hud_updates() with no arguments.
+[23:42:50]SAY: sentinel/ : Eliminating hostiles...
+[23:43:01]SAY: mouse/ : SQUEEK!
+[23:43:21]SAY: mouse/ : Squeek?
+[23:43:33]EMOTE: monkey (885)/ : <B>The monkey (885)</B> jumps!
+[23:43:53]SAY: Pugley III/ : YAP
+[23:43:53]SAY: mouse/ : Squeek?
+[23:45:04]SAY: mouse/ : Squeek?
+[23:45:57]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/dnainjector/xraymut at (234,111,2)
+[23:46:01]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/dnainjector/antixray at (235,111,2)
+[23:46:20]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/dnainjector/xraymut at (228,98,2)
+[23:46:20]SAY: mouse/ : Squeek?
+[23:46:24]EMOTE: Unknown/drakemarshall : <B>Unknown</B> collapses!
+[23:46:30]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[23:46:30]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[23:46:32]SAY: grey baby slime (583)/ : Lonely...
+[23:46:44]SAY: Pugley III/ : Woof!
+[23:48:04]GAME: drakemarshall/(Unknown) has primed a Imperial Krak Grenade for detonation at Snow (235,105,2).
+[23:48:19]ACCESS: Logout: *no key*/(Unknown)
+[23:48:19]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[23:48:26]SAY: Pugley III/ : YAP
+[23:48:52]ADMIN: drakemarshall/(Unknown) changed their view range to 7.
+[23:48:59]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/monolithcore at (136,238,2)
+[23:49:27]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:49:27]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (132,237,2)
+[23:49:31]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:49:33]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:49:37]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:49:53]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:50:02]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:50:10]SAY: Pugley III/ : AUUUUUU
+[23:50:27]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/monolithcore at (113,238,2)
+[23:50:36]SAY: mouse/ : SQUEEK!
+[23:50:38]ADMIN: drakemarshall/(Unknown) spawned /mob/living/silicon/robot/necron/lord2 at (133,237,2)
+[23:50:42]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:50:44]ADMIN: drakemarshall/(Unknown) assumed direct control of Lord Mekeshet.
+[23:50:44]ACCESS: Logout: *no key*/(Unknown)
+[23:50:44]ACCESS: Login: drakemarshall/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[23:50:44]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:51:40]SAY: necron warrior/ : Eliminating hostiles...
+[23:52:23]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[23:52:23]SAY: necron warrior/ : Establishing control of planet...
+[23:52:42]ADMIN: drakemarshall/(Lord Mekeshet) jumped to 135,231,2 in Snow
+[23:52:47]SAY: Necron Immortal/ : Eliminating hostiles...
+[23:53:00]SAY: Necron Immortal/ : Establishing control of planet...
+[23:54:22]SAY: Necron Immortal/ : Establishing control of planet...
+[23:54:46]ADMIN: drakemarshall/(Lord Mekeshet) changed their view range to 7.
+[23:54:48]ADMIN: drakemarshall/(Lord Mekeshet) changed their view range to 7.
+[23:55:44]SAY: Betsy/ : moo
+[23:55:47]SAY: mouse/ : Squeek!
+[23:55:59]ACCESS: Logout: *no key*/(Lord Mekeshet)
+[23:55:59]ACCESS: Login: drakemarshall/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[23:56:13]ACCESS: Logout: *no key*/(Lord Mekeshet)
+[23:56:13]ACCESS: Login: drakemarshall/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[23:56:53]ACCESS: Logout: drakemarshall[DC]/(Lord Mekeshet)

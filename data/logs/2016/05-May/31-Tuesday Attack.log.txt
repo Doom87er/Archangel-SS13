@@ -1,0 +1,76 @@
+
+
+Starting up. 02:27.45
+---------------------
+
+
+Starting up. 02:41.51
+---------------------
+
+
+Starting up. 02:49.07
+---------------------
+
+
+Starting up. 02:58.10
+---------------------
+
+
+Starting up. 03:15.42
+---------------------
+
+
+Starting up. 03:25.10
+---------------------
+
+
+Starting up. 03:44.29
+---------------------
+
+
+Starting up. 15:28.12
+---------------------
+[15:35:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) knocked back Unknown </font>
+[15:36:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:38:14]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with shrapnel</font>
+[15:43:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:43:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with suspicious looking toolbox(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:44:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:44:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:45:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:45:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:33]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:34]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:34]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:46:34]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with shrapnel</font>
+[15:54:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tried to plant explosives on sentinel with Explosive Charge</font>
+[15:54:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) planted Explosive Charge on sentinel </font>

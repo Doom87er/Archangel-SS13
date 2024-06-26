@@ -1,0 +1,110 @@
+
+
+Starting up. 04:42.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[04:42:21]ADMIN: Loading Banlistjob
+[04:42:21]ADMIN: Loading jobban_rank
+[04:42:21]ADMIN: jobban_keylist was empty
+[04:42:21]ADMIN: Loading appearance_rank
+[04:42:21]ADMIN: appearance_keylist was empty
+[04:42:21]ADMIN: Updating jobbanfile!
+[04:42:21]ADMIN: Loading Banlist
+[04:42:21]ADMIN: Loading RTD lists
+[04:43:04]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[04:43:19]ADMIN: Norc has started the game.
+[04:43:20]GAME: Norc (ckey) has been selected as a Heretic
+[04:43:22]ACCESS: Logout: *no key*/(Norc)
+[04:43:22]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[04:43:36]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (140,211,1)
+[04:43:47]EMOTE: monkey (337)/ : <B>The monkey (337)</B> jumps!
+[04:43:48]ADMIN: Norc/(Brian Garrison) assumed direct control of Bruce.
+[04:43:48]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:43:48]ACCESS: Login: norc/(Goose) from 127.0.0.1-1324596339 || BYOND v509
+[04:44:40]SAY: sentinel/ : Establishing control of planet...
+[04:45:16]SAY: sentinel/ : Establishing control of planet...
+[04:45:20]SAY: Betsy/ : MOOOOOO
+[04:45:26]SAY: sentinel/ : Establishing control of planet...
+[04:45:46]SAY: sentinel/ : Establishing control of planet...
+[04:45:52]SAY: Featherbottom/ : Bwaak bwak.
+[04:46:13]SAY: sentinel/ : Eliminating hostiles...
+[04:46:19]SAY: sentinel/ : Establishing control of planet...
+[04:46:25]SAY: grey baby slime (727)/ : Blorble...
+[04:46:27]SAY: grey baby slime (727)/ : Rawr...
+[04:46:57]SAY: sentinel/ : Eliminating hostiles...
+[04:47:11]SAY: sentinel/ : Establishing control of planet...
+[04:47:21]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[04:47:59]SAY: grey baby slime (673)/ : Blorble...
+[04:48:01]SAY: sentinel/ : Establishing control of planet...
+[04:48:15]SAY: mouse/ : SQUEEK!
+[04:48:27]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[04:48:45]EMOTE: monkey (618)/ : <B>The monkey (618)</B> jumps!
+[04:49:07]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[04:49:15]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[04:49:21]SAY: grey baby slime (673)/ : Rawr...
+[04:49:21]EMOTE: monkey (418)/ : <B>The monkey (418)</B> jumps!
+[04:49:27]SAY: sentinel/ : Eliminating hostiles...
+[04:49:59]EMOTE: monkey (418)/ : <B>The monkey (418)</B> jumps!
+[04:49:59]EMOTE: monkey (337)/ : <B>The monkey (337)</B> jumps!
+[04:50:01]EMOTE: monkey (337)/ : <B>The monkey (337)</B> jumps!
+[04:50:11]SAY: sentinel/ : Establishing control of planet...
+[04:50:11]SAY: sentinel/ : Establishing control of planet...
+[04:50:23]SAY: Betsy/ : moo?
+[04:50:27]SAY: sentinel/ : Establishing control of planet...
+[04:51:09]SAY: Kentucky/ : Cluck!
+[04:51:31]SAY: sentinel/ : Eliminating hostiles...
+[04:51:35]SAY: sentinel/ : Establishing control of planet...
+[04:51:47]EMOTE: monkey (337)/ : <B>The monkey (337)</B> jumps!
+[04:51:54]EMOTE: monkey (693)/ : <B>The monkey (693)</B> jumps!
+[04:51:56]SAY: sentinel/ : Establishing control of planet...
+[04:53:14]SAY: mouse/ : Squeek!
+[04:53:50]EMOTE: monkey (693)/ : <B>The monkey (693)</B> jumps!
+[04:54:00]EMOTE: monkey (418)/ : <B>The monkey (418)</B> jumps!
+[04:54:54]SAY: sentinel/ : Eliminating hostiles...
+[04:55:13]ACCESS: Logout: norc[DC]/(Goose)
+
+
+Starting up. 05:09.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[05:09:20]ADMIN: Loading Banlistjob
+[05:09:20]ADMIN: Loading jobban_rank
+[05:09:20]ADMIN: jobban_keylist was empty
+[05:09:20]ADMIN: Loading appearance_rank
+[05:09:20]ADMIN: appearance_keylist was empty
+[05:09:20]ADMIN: Updating jobbanfile!
+[05:09:20]ADMIN: Loading Banlist
+[05:09:20]ADMIN: Loading RTD lists
+[05:12:10]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:12:23]ADMIN: Norc has started the game.
+[05:12:24]GAME: Norc (ckey) has been selected as a Heretic
+[05:12:26]ACCESS: Logout: *no key*/(Norc)
+[05:12:26]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:13:10]ADMIN: Norc/(Brian Garrison) gave Norc/(Brian Garrison) the spell /obj/effect/proc_holder/spell/targeted/mime/hop.
+[05:13:31]ACCESS: Logout: Norc[DC]/(Brian Garrison)

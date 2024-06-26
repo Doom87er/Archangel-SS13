@@ -1,0 +1,197 @@
+
+
+Starting up. 04:44.55
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[04:44:55]ADMIN: Loading Banlistjob
+[04:44:55]ADMIN: Loading jobban_rank
+[04:44:55]ADMIN: jobban_keylist was empty
+[04:44:55]ADMIN: Loading appearance_rank
+[04:44:55]ADMIN: appearance_keylist was empty
+[04:44:55]ADMIN: Updating jobbanfile!
+[04:44:55]ADMIN: Loading Banlist
+[04:44:55]ADMIN: Loading RTD lists
+[04:51:16]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[04:51:25]ADMIN: Norc has started the game.
+[04:51:26]GAME: Norc (ckey) has been selected as a Heretic
+[04:51:27]EMOTE: monkey (848)/ : <B>The monkey (848)</B> jumps!
+[04:51:28]ACCESS: Logout: *no key*/(Norc)
+[04:51:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[04:51:29]EMOTE: monkey (702)/ : <B>The monkey (702)</B> jumps!
+[04:51:49]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster at (126,140,1)
+[04:52:10]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[04:52:18]SAY: Betsy/ : moo
+[04:52:28]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's icon_state to computer
+[04:54:12]SAY: sentinel/ : Establishing control of planet...
+[04:54:21]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's icon_state to arcade
+[04:54:21]SAY: sentinel/ : Establishing control of planet...
+[04:54:31]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster at (126,135,1)
+[04:54:35]EMOTE: monkey (255)/ : <B>The monkey (255)</B> jumps!
+[04:54:46]SAY: mouse/ : Squeek?
+[04:54:49]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's icon_state to arcade
+[04:55:00]SAY: mouse/ : Squeek?
+[04:55:06]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's identity to one
+[04:55:12]EMOTE: monkey (157)/ : <B>The monkey (157)</B> jumps!
+[04:55:20]SAY: Pugley III/ : Bark!
+[04:55:20]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's icon_state to two
+[04:55:26]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's icon_state to arcade
+[04:55:32]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's identity to two
+[04:55:46]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[04:55:48]SAY: mouse/ : Squeek!
+[04:55:56]SAY: mouse/ : Squeek?
+[04:56:06]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[04:57:17]EMOTE: monkey (702)/ : <B>The monkey (702)</B> jumps!
+[04:57:43]EMOTE: monkey (683)/ : <B>The monkey (683)</B> jumps!
+[04:58:14]EMOTE: monkey (57)/ : <B>The monkey (57)</B> jumps!
+[04:58:32]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 05:01.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[05:01:36]ADMIN: Loading Banlistjob
+[05:01:36]ADMIN: Loading jobban_rank
+[05:01:36]ADMIN: jobban_keylist was empty
+[05:01:36]ADMIN: Loading appearance_rank
+[05:01:36]ADMIN: appearance_keylist was empty
+[05:01:36]ADMIN: Updating jobbanfile!
+[05:01:36]ADMIN: Loading Banlist
+[05:01:36]ADMIN: Loading RTD lists
+[05:02:34]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:02:43]ADMIN: Norc has started the game.
+[05:02:43]GAME: Norc (ckey) has been selected as a Heretic
+[05:02:45]ACCESS: Logout: *no key*/(Norc)
+[05:02:45]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:02:58]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster at (138,124,1)
+[05:03:01]SAY: Kentucky/ : Cluck!
+[05:03:04]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster at (135,126,1)
+[05:03:17]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's identity to one
+[05:03:17]SAY: Kentucky/ : Cluck!
+[05:03:31]SAY: Featherbottom/ : Bwaak bwak.
+[05:03:35]ADMIN: Norc/(Brian Garrison) modified Voxcaster Terminal's identity to seven
+[05:04:27]EMOTE: monkey (235)/ : <B>The monkey (235)</B> jumps!
+[05:04:43]EMOTE: monkey (235)/ : <B>The monkey (235)</B> jumps!
+[05:04:47]EMOTE: monkey (373)/ : <B>The monkey (373)</B> jumps!
+[05:05:39]SAY: Pugley III/ : Bark!
+[05:06:05]SAY: mouse/ : SQUEEK!
+[05:06:22]SAY: sentinel/ : Eliminating hostiles...
+[05:06:28]SAY: sentinel/ : Establishing control of planet...
+[05:06:34]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:06:34]SAY: sentinel/ : Eliminating hostiles...
+[05:07:00]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[05:07:06]SAY: sentinel/ : Establishing control of planet...
+[05:08:37]EMOTE: monkey (524)/ : <B>The monkey (524)</B> jumps!
+[05:09:49]SAY: Betsy/ : moo
+[05:09:50]SAY: sentinel/ : Establishing control of planet...
+[05:10:12]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:10:40]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[05:11:10]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 05:48.12
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[05:48:12]ADMIN: Loading Banlistjob
+[05:48:12]ADMIN: Loading jobban_rank
+[05:48:12]ADMIN: jobban_keylist was empty
+[05:48:12]ADMIN: Loading appearance_rank
+[05:48:12]ADMIN: appearance_keylist was empty
+[05:48:12]ADMIN: Updating jobbanfile!
+[05:48:12]ADMIN: Loading Banlist
+[05:48:12]ADMIN: Loading RTD lists
+[05:49:10]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:49:22]ADMIN: Norc has started the game.
+[05:49:22]GAME: Norc (ckey) has been selected as a Heretic
+[05:49:24]ACCESS: Logout: *no key*/(Norc)
+[05:49:24]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:49:35]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster/cargo at (147,121,1)
+[05:49:42]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/voxcaster/cargo at (146,126,1)
+[05:50:41]SAY: mouse/ : SQUEEK!
+[05:50:54]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[05:51:13]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:05.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:05:35]ADMIN: Loading Banlistjob
+[08:05:35]ADMIN: Loading jobban_rank
+[08:05:35]ADMIN: jobban_keylist was empty
+[08:05:35]ADMIN: Loading appearance_rank
+[08:05:35]ADMIN: appearance_keylist was empty
+[08:05:35]ADMIN: Updating jobbanfile!
+[08:05:35]ADMIN: Loading Banlist
+[08:05:35]ADMIN: Loading RTD lists
+[08:06:29]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:06:38]ADMIN: Norc has started the game.
+[08:06:39]GAME: Norc (ckey) has been selected as a Heretic
+[08:06:41]ACCESS: Logout: *no key*/(Norc)
+[08:06:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:06:49]SAY: mouse/ : SQUEEK!
+[08:07:13]ADMIN: Norc/(Brian Garrison) jumped to the Cargo Bay
+[08:07:20]ADMIN: Norc/(Brian Garrison) jumped to 80,151,1 in the Quartermaster's Office
+[08:07:33]ADMIN: Norc/(Brian Garrison) jumped to the Wizard's Den
+[08:07:46]ADMIN: Norc/(Brian Garrison) jumped to 243,36,2 in the Wizard's Den
+[08:07:54]SAY: Kentucky/ : Bwaak bwak.
+[08:08:06]ADMIN: Norc/(Brian Garrison) jumped to the onplanet
+[08:08:12]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[08:08:34]SAY: Featherbottom/ : Bwaak bwak.
+[08:08:42]ADMIN: Norc/(Brian Garrison) jumped to the Wizard's Den
+[08:08:52]ADMIN: Norc/(Brian Garrison) jumped to 243,23,2 in the Wizard's Den
+[08:08:57]ADMIN: Norc/(Brian Garrison) jumped to 243,21,2 in the Hidden Chamber
+[08:09:03]ADMIN: Norc/(Brian Garrison) jumped to 236,19,2 in the Hidden Chamber
+[08:09:22]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[08:09:30]SAY: grey baby slime (587)/ : Lonely...
+[08:10:04]ACCESS: Logout: Norc[DC]/(Brian Garrison)

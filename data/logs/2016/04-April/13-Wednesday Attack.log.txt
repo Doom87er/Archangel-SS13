@@ -1,0 +1,26 @@
+
+
+Starting up. 21:46.38
+---------------------
+[21:56:43]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown(drakemarshall) with Laser</font>
+[21:56:44]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown(drakemarshall) with Laser</font>
+[21:58:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(75980) with The vanquisher shell</font>
+[21:58:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(63341) with The explosive bolt</font>
+[21:58:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(63341) with The explosive bolt</font>
+[21:58:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(63341) with The explosive bolt</font>
+[21:58:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(63341) with The explosive bolt</font>
+[21:58:38]ATTACK: <font color='red'>Unknown(drakemarshall) shot #(63341) with The vanquisher shell</font>
+[22:04:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Lord with The heavy plasma</font>
+[22:04:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Lord with The heavy plasma</font>
+[22:04:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Lord with The heavy plasma</font>
+[22:04:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Lord with The heavy plasma</font>
+
+
+Starting up. 22:15.43
+---------------------
+[22:38:25]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:38:26]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:38:27]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:38:28]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:38:30]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:27]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>

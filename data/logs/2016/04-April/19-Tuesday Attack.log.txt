@@ -1,0 +1,10 @@
+
+
+Starting up. 00:16.16
+---------------------
+[00:52:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[00:53:04]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot wight with The laser</font>
+[00:55:04]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to inject Unknown(drakemarshall) with DNA injector (Xray)</font>
+[00:55:04]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with DNA injector (Xray)</font>
+[00:55:04]ATTACK: drakemarshall/(Unknown) injected drakemarshall/(Unknown) with the DNA injector (Xray)
+[01:10:35]ATTACK: <font color='red'>Brother Erastus(drakemarshall) shot wraith with Bolt</font>

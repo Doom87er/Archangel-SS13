@@ -1,0 +1,34 @@
+
+
+Starting up. 07:04.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:04:05]ADMIN: Loading Banlistjob
+[07:04:05]ADMIN: Loading jobban_rank
+[07:04:05]ADMIN: jobban_keylist was empty
+[07:04:05]ADMIN: Loading appearance_rank
+[07:04:05]ADMIN: appearance_keylist was empty
+[07:04:05]ADMIN: Updating jobbanfile!
+[07:04:05]ADMIN: Loading Banlist
+[07:04:05]ADMIN: Loading RTD lists
+[07:08:36]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[07:08:48]ADMIN: Norc has started the game.
+[07:08:51]ACCESS: Logout: *no key*/(Norc)
+[07:08:51]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:09:14]ADMIN: Norc/(Brian Garrison) jumped to the Security Office
+[07:09:36]ADMIN: Norc/(Brian Garrison) jumped to the Aft Primary Hallway
+[07:10:01]ACCESS: Logout: Norc[DC]/(Brian Garrison)

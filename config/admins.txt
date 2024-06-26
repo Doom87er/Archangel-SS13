@@ -1,0 +1,48 @@
+w######################################################################
+# Basically, ckey goes first. Rank goes after the "-"                #
+# Case is not important for ckey.                                    #
+# Case IS important for the rank. However punctuation/spaces are not #
+# Ranks can be anything defined in admin_ranks.txt           ~Carn   #
+######################################################################
+
+Norc = Goose
+
+SteveMaybe = Goose
+
+austinwelser = Goose
+
+Shadowkiller105 = Partisan du Serveur
+
+DrakeMarshall = Goose
+
+MyToesAreBlue = Goose
+
+HairyVoodooShaman = Goose
+
+Boltersam = Partisan du Serveur
+
+Matyi =  Partisan du Serveur
+
+Sose96 =  Partisan du Serveur
+
+
+
+LordRaven001 = Partisan du Serveur
+
+TheKaiser = Partisan du Serveur
+
+Windows 7 = Admin
+
+Battieralarm3 =  Partisan du Serveur
+
+Felkvir = Admin
+
+Jamklanson = Admin
+
+Raiddean = Trial Staff
+TheDarkKnight224 = Trial Staff
+
+Mitchs98 = Trial Staff
+Hellstorm of the Dark Gods = Trial Staff
+PsykerInMe = Trial Staff
+Sageofaether12 = Trial Staff

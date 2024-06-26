@@ -1,0 +1,78 @@
+
+
+Starting up. 06:10.37
+---------------------
+
+
+Starting up. 06:31.03
+---------------------
+
+
+Starting up. 06:51.07
+---------------------
+[06:52:58]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot tainted spirit with The freezing blast</font>
+
+
+Starting up. 07:19.56
+---------------------
+
+
+Starting up. 07:37.24
+---------------------
+
+
+Starting up. 18:53.33
+---------------------
+[19:01:21]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The electrode</font>
+[19:35:07]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Venatus Kyner with Bolt</font>
+[19:35:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Venatus Kyner with Bolt</font>
+[19:35:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Venatus Kyner with Bolt</font>
+
+
+Starting up. 21:34.06
+---------------------
+[21:55:11]ATTACK: <font color='red'>Iyatil(drakemarshall) shot tainted spirit with The laser</font>
+[21:55:23]ATTACK: <font color='red'>Iyatil(drakemarshall) shot void dweller with The laser</font>
+[21:55:24]ATTACK: <font color='red'>Iyatil(drakemarshall) shot void dweller with The laser</font>
+[21:55:34]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:55:35]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:55:35]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:55:38]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:55:41]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:55:42]ATTACK: <font color='red'>Iyatil(drakemarshall) shot giant spider with The laser</font>
+[21:58:57]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:58:58]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:59:03]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:59:05]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[22:21:02]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Iyatil(drakemarshall) with shrapnel</font>
+[22:31:42]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[22:31:43]ATTACK: <font color='red'>Iyatil(drakemarshall) injected Iyatil(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[22:40:05]ATTACK: <font color='red'>Iyatil(drakemarshall) attempted to disarm Unknown </font>
+[22:40:06]ATTACK: <font color='red'>Iyatil(drakemarshall) stunned Unknown </font>
+[22:40:12]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:16]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:19]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:29]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:43]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:45]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:46]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:57]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:40:59]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:07]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:10]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:12]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:12]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:14]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:14]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:15]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:16]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:17]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:17]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:41:17]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:42:13]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:42:17]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:42:21]ATTACK: <font color='red'>Iyatil(drakemarshall) attacked Unknown with Harlequin's Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:49:25]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with The shrieker shuriken REAGENTS:destroyer (10) </font>
+[22:49:31]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with The shrieker shuriken REAGENTS:destroyer (10) </font>
+[22:49:51]ATTACK: <font color='red'>Iyatil(drakemarshall) shot Unknown with The exitus bullet</font>
+[22:49:52]ATTACK: <font color='red'>Iyatil(drakemarshall) shot Unknown with The exitus bullet</font>

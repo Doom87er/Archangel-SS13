@@ -1,0 +1,96 @@
+
+
+Starting up. 13:24.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[13:24:46]ADMIN: Loading Banlistjob
+[13:24:46]ADMIN: Loading jobban_rank
+[13:24:46]ADMIN: jobban_keylist was empty
+[13:24:46]ADMIN: Loading appearance_rank
+[13:24:46]ADMIN: appearance_keylist was empty
+[13:24:46]ADMIN: Updating jobbanfile!
+[13:24:46]ADMIN: Loading Banlist
+[13:24:46]ADMIN: Loading RTD lists
+[13:32:16]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[14:13:38]ADMIN: DrakeMarshall has started the game.
+[14:13:38]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[14:13:41]ACCESS: Logout: *no key*/(DrakeMarshall)
+[14:13:41]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[14:13:44]SAY: mouse/ : Squeek!
+[14:13:55]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (124,96,1)
+[14:14:25]SAY: mouse/ : SQUEEK!
+[14:15:10]EMOTE: monkey (323)/ : <B>The monkey (323)</B> jumps!
+[14:16:37]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[14:16:58]SAY: mouse/ : Squeek!
+[14:17:13]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[14:17:25]EMOTE: monkey (323)/ : <B>The monkey (323)</B> jumps!
+[14:17:25]SAY: Pugley III/ : Woof!
+[14:17:45]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[14:18:15]SAY: grey baby slime (651)/ : Lonely...
+[14:18:21]EMOTE: monkey (323)/ : <B>The monkey (323)</B> jumps!
+[14:18:54]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[14:19:06]SAY: mouse/ : SQUEEK!
+[14:19:55]SAY: mouse/ : Squeek!
+[14:20:08]SAY: mouse/ : Squeek?
+[14:21:24]SAY: mouse/ : Squeek!
+[14:22:19]SAY: Featherbottom/ : Cluck!
+[14:22:19]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Law Office
+[14:22:23]EMOTE: monkey (47)/ : <B>The monkey (47)</B> jumps!
+[14:22:24]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 122,156,1 in the Law Office
+[14:23:46]SAY: Venatus Kyner/DrakeMarshall : huhs
+[14:23:49]SAY: Venatus Kyner/DrakeMarshall : okay then
+[14:24:10]EMOTE: monkey (323)/ : <B>The monkey (323)</B> jumps!
+[14:25:01]SAY: Kentucky/ : Bwaak bwak.
+[14:25:46]EMOTE: monkey (950)/ : <B>The monkey (950)</B> jumps!
+[14:25:50]SAY: sentinel/ : Eliminating hostiles...
+[14:26:22]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> screams!
+[14:26:27]SAY: Venatus Kyner/DrakeMarshall : damned doors
+[14:26:31]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[14:26:37]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[14:26:52]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:27:35]SAY: sentinel/ : Establishing control of planet...
+[14:27:41]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[14:27:45]SAY: sentinel/ : Establishing control of planet...
+[14:28:36]SAY: sentinel/ : Eliminating hostiles...
+[14:29:19]SAY: mouse/ : Squeek!
+[14:29:21]SAY: Venatus Kyner/DrakeMarshall : ow
+[14:29:31]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:29:34]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[14:29:47]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:30:10]SAY: sentinel/ : Eliminating hostiles...
+[14:30:23]EMOTE: monkey (323)/ : <B>The monkey (323)</B> jumps!
+[14:30:33]SAY: Venatus Kyner/DrakeMarshall : shit
+[14:30:39]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:30:45]EMOTE: monkey (47)/ : <B>The monkey (47)</B> jumps!
+[14:31:06]SAY: mouse/ : Squeek!
+[14:31:12]SAY: mouse/ : SQUEEK!
+[14:31:42]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:31:57]EMOTE: monkey (66)/ : <B>The monkey (66)</B> jumps!
+[14:32:13]SAY: grey baby slime (651)/ : Rawr...
+[14:32:23]SAY: sentinel/ : Establishing control of planet...
+[14:32:34]SAY: sentinel/ : Establishing control of planet...
+[14:32:40]EMOTE: monkey (79)/ : <B>The monkey (79)</B> jumps!
+[14:32:48]EMOTE: monkey (950)/ : <B>The monkey (950)</B> jumps!
+[14:33:34]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:33:40]SAY: sentinel/ : Eliminating hostiles...
+[14:33:43]SAY: mouse/ : Squeek!
+[14:33:50]SAY: sentinel/ : Establishing control of planet...
+[14:34:15]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:34:20]SAY: sentinel/ : Eliminating hostiles...
+[14:34:27]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[14:34:45]SAY: sentinel/ : Eliminating hostiles...
+[14:35:01]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

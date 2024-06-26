@@ -1,0 +1,615 @@
+
+
+Starting up. 12:02.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[12:02:06]ADMIN: Loading Banlistjob
+[12:02:06]ADMIN: Loading jobban_rank
+[12:02:06]ADMIN: jobban_keylist was empty
+[12:02:06]ADMIN: Loading appearance_rank
+[12:02:06]ADMIN: appearance_keylist was empty
+[12:02:06]ADMIN: Updating jobbanfile!
+[12:02:06]ADMIN: Loading Banlist
+[12:02:06]ADMIN: Loading RTD lists
+[12:06:22]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[12:06:50]ADMIN: DrakeMarshall has started the game.
+[12:06:54]ACCESS: Logout: *no key*/(DrakeMarshall)
+[12:06:54]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[12:07:49]WHISPER: Venatus Kyner/DrakeMarshall : owch
+[12:07:49]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[12:07:51]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:07:51]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[12:07:53]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:07:54]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[12:08:06]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 15:14.31
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:14:32]ADMIN: Loading Banlistjob
+[15:14:32]ADMIN: Loading jobban_rank
+[15:14:32]ADMIN: jobban_keylist was empty
+[15:14:32]ADMIN: Loading appearance_rank
+[15:14:32]ADMIN: appearance_keylist was empty
+[15:14:32]ADMIN: Updating jobbanfile!
+[15:14:32]ADMIN: Loading Banlist
+[15:14:32]ADMIN: Loading RTD lists
+[15:42:05]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[15:44:12]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:44:12]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:44:25]WHISPER: Venatus Kyner/DrakeMarshall : why the fuck am I blind
+[15:44:25]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[15:44:27]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:44:27]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:44:30]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 15:52.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:52:44]ADMIN: Loading Banlistjob
+[15:52:44]ADMIN: Loading jobban_rank
+[15:52:44]ADMIN: jobban_keylist was empty
+[15:52:44]ADMIN: Loading appearance_rank
+[15:52:44]ADMIN: appearance_keylist was empty
+[15:52:44]ADMIN: Updating jobbanfile!
+[15:52:44]ADMIN: Loading Banlist
+[15:52:44]ADMIN: Loading RTD lists
+[16:59:59]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[17:02:02]ADMIN: DrakeMarshall has started the game.
+[17:02:03]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[17:02:06]ACCESS: Logout: *no key*/(DrakeMarshall)
+[17:02:06]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:02:32]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[17:04:01]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[17:04:13]SAY: Kentucky/ : Cluck!
+[17:04:35]SAY: mouse/ : Squeek?
+[17:04:55]SAY: grey baby slime (97)/ : Rawr...
+[17:05:34]SAY: sentinel/ : Eliminating hostiles...
+[17:06:25]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[17:07:18]EMOTE: monkey (698)/ : <B>The monkey (698)</B> jumps!
+[17:07:37]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[17:08:48]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's blindness to 0
+[17:09:00]ADMIN: DrakeMarshall/(Venatus Kyner) modified  's layer to 0
+[17:09:02]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[17:09:03]ADMIN: DrakeMarshall/(Venatus Kyner) modified  's layer to 18
+[17:09:05]ADMIN: DrakeMarshall/(Venatus Kyner) modified  's layer to 0
+[17:09:17]OOC: Venatus Kyner/DrakeMarshall : test (LOCAL OOC)
+[17:09:20]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:09:22]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:09:23]SAY: mouse/ : Squeek!
+[17:09:25]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:09:50]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the flash at (0,0,0)
+[17:09:56]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[17:10:32]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's blind to 
+[17:10:34]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[17:11:04]SAY: mouse/ : Squeek?
+[17:11:06]SAY: mouse/ : Squeek?
+[17:11:16]EMOTE: monkey (668)/ : <B>The monkey (668)</B> jumps!
+[17:11:28]ADMIN: DrakeMarshall/(Venatus Kyner) modified [0x5000000] (DrakeMarshall)'s view to 14
+[17:12:53]SAY: Pugley III/ : YAP
+[17:13:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/gloves/electoos at (110,166,1)
+[17:13:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/power/apc at (121,166,1)
+[17:13:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (119,166,1)
+[17:13:42]SAY: mouse/ : Squeek!
+[17:14:07]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:14:44]EMOTE: monkey (481)/ : <B>The monkey (481)</B> jumps!
+[17:15:42]SAY: mouse/ : Squeek?
+[17:15:49]SAY: mouse/ : Squeek!
+[17:16:29]EMOTE: monkey (668)/ : <B>The monkey (668)</B> jumps!
+[17:17:06]EMOTE: monkey (766)/ : <B>The monkey (766)</B> jumps!
+[17:18:23]SAY: grey baby slime (713)/ : Rawr...
+[17:19:10]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's blindness to 1
+[17:19:20]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's blindness to 0
+[17:19:28]ADMIN: DrakeMarshall/(Venatus Kyner) changed their view range to 7.
+[17:19:38]WHISPER: Venatus Kyner/DrakeMarshall : rip
+[17:19:38]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[17:19:54]SAY: mouse/ : Squeek?
+[17:19:57]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:20:14]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[17:20:33]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[17:20:58]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (120,165,1)
+[17:21:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/power/apc at (120,167,1)
+[17:21:46]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[17:22:02]ACCESS: Logout: *no key*/(Venatus Kyner)
+[17:22:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:22:04]ACCESS: Logout: *no key*/(Venatus Kyner)
+[17:22:04]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:22:11]SAY: grey baby slime (713)/ : Lonely...
+[17:22:36]ADMIN: DrakeMarshall/(Venatus Kyner) modified  's icon_state to 
+[17:22:43]SAY: Venatus Kyner/DrakeMarshall : there
+[17:22:44]SAY: Venatus Kyner/DrakeMarshall : fuck
+[17:23:03]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/crowbar at (114,166,1)
+[17:23:12]SAY: grey baby slime (713)/ : Lonely...
+[17:23:18]EMOTE: monkey (116)/ : <B>The monkey (116)</B> jumps!
+[17:23:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (114,166,1)
+[17:24:21]EMOTE: monkey (766)/ : <B>The monkey (766)</B> jumps!
+[17:25:00]EMOTE: monkey (766)/ : <B>The monkey (766)</B> jumps!
+[17:25:08]EMOTE: monkey (481)/ : <B>The monkey (481)</B> jumps!
+[17:25:23]ADMIN: DrakeMarshall/(Venatus Kyner) used gibself.
+[17:25:24]ACCESS: Logout: *no key*/(Venatus Kyner)
+[17:25:24]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:25:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (108,127,1)
+[17:25:50]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[17:25:50]ACCESS: Logout: *no key*/(Venatus Kyner)
+[17:25:50]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[17:26:09]SAY: Pete/ : EHEHEHEHEH
+[17:27:07]SAY: Kentucky/ : Bwaak bwak.
+[17:27:21]SAY: Betsy/ : moo?
+[17:27:35]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[17:28:28]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[17:28:30]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[17:28:54]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/paper_bin at (107,127,1)
+[17:28:59]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/stamp/imp at (108,127,1)
+[17:29:38]SAY: Betsy/ : moo?
+[17:29:44]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[17:29:48]EMOTE: monkey (668)/ : <B>The monkey (668)</B> jumps!
+[17:30:19]SAY: mouse/ : SQUEEK!
+[17:30:23]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[17:31:13]SAY: mouse/ : SQUEEK!
+[17:31:22]SAY: Pugley III/ : YAP
+[17:31:26]SAY: Featherbottom/ : Cluck!
+[17:32:06]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/stamp at (108,127,1)
+[17:32:25]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[17:32:27]SAY: Featherbottom/ : Cluck!
+[17:33:10]SAY: Kentucky/ : Cluck!
+[17:34:05]SAY: mouse/ : SQUEEK!
+[17:34:31]EMOTE: monkey (14)/ : <B>The monkey (14)</B> jumps!
+[17:34:41]EMOTE: monkey (668)/ : <B>The monkey (668)</B> jumps!
+[17:35:16]SAY: mouse/ : SQUEEK!
+[17:35:34]SAY: Pugley III/ : YAP
+[17:35:38]EMOTE: monkey (481)/ : <B>The monkey (481)</B> jumps!
+[17:35:40]SAY: Featherbottom/ : Cluck!
+[17:36:32]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[17:36:32]ADMIN: drakemarshall/(Unknown) used gibself.
+[17:36:34]ACCESS: Logout: *no key*/(Unknown)
+[17:36:34]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[17:36:34]SAY: grey baby slime (713)/ : Blorble...
+[17:36:36]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 17:47.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[17:47:45]ADMIN: Loading Banlistjob
+[17:47:45]ADMIN: Loading jobban_rank
+[17:47:45]ADMIN: jobban_keylist was empty
+[17:47:45]ADMIN: Loading appearance_rank
+[17:47:45]ADMIN: appearance_keylist was empty
+[17:47:45]ADMIN: Updating jobbanfile!
+[17:47:45]ADMIN: Loading Banlist
+[17:47:45]ADMIN: Loading RTD lists
+[17:49:18]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[17:49:32]ADMIN: DrakeMarshall has started the game.
+[17:49:32]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[17:49:35]ACCESS: Logout: *no key*/(DrakeMarshall)
+[17:49:35]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[17:49:44]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[17:49:57]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Command Hallway
+[17:50:00]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:50:02]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:50:08]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:50:11]SAY: Venatus Kyner/DrakeMarshall : Test
+[17:50:48]SAY: sentinel/ : Establishing control of planet...
+[17:51:14]SAY: mouse/ : SQUEEK!
+[17:53:03]SAY: sentinel/ : Eliminating hostiles...
+[17:53:54]SAY: grey baby slime (838)/ : Lonely...
+[17:53:56]SAY: mouse/ : SQUEEK!
+[17:54:10]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[17:54:10]SAY: sentinel/ : Eliminating hostiles...
+[17:54:45]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[17:54:55]SAY: Featherbottom/ : Cluck!
+[17:55:19]SAY: Pete/ : eh?
+[17:55:31]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[17:56:08]SAY: sentinel/ : Establishing control of planet...
+[17:56:35]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[17:56:43]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[17:57:20]SAY: mouse/ : SQUEEK!
+[17:57:26]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[17:57:36]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[17:58:15]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[17:58:15]SAY: mouse/ : Squeek?
+[17:58:39]ADMIN: DrakeMarshall/(Venatus Kyner) modified  's icon_state to 
+[17:59:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/assembly/signaler at (89,115,1)
+[17:59:54]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/toolbox/electrical at (88,115,1)
+[18:00:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/toolbox/mechanical at (89,115,1)
+[18:00:05]SAY: sentinel/ : Eliminating hostiles...
+[18:00:47]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[18:01:03]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:01:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/card/emag at (118,100,1)
+[18:01:47]SAY: Kentucky/ : Cluck!
+[18:02:59]SAY: mouse/ : Squeek!
+[18:04:25]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:05:30]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:05:56]SAY: grey baby slime (838)/ : Blop...
+[18:06:11]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[18:06:31]SAY: Featherbottom/ : Bwaak bwak.
+[18:06:53]SAY: mouse/ : Squeek!
+[18:07:08]SAY: Featherbottom/ : Bwaak bwak.
+[18:08:44]SAY: mouse/ : Squeek?
+[18:08:50]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[18:10:04]SAY: grey baby slime (168)/ : Rawr...
+[18:10:24]SAY: Pugley III/ : AUUUUUU
+[18:10:57]SAY: mouse/ : Squeek!
+[18:11:32]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:11:36]SAY: Featherbottom/ : Bwaak bwak.
+[18:12:29]SAY: mouse/ : Squeek!
+[18:12:33]SAY: mouse/ : SQUEEK!
+[18:13:38]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:14:21]SAY: Betsy/ : moo
+[18:14:21]SAY: Kentucky/ : Cluck!
+[18:14:39]SAY: mouse/ : Squeek!
+[18:16:43]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[18:16:55]SAY: Pugley III/ : Bark!
+[18:16:57]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:17:03]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:17:59]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[18:18:51]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[18:19:11]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[18:19:13]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[18:19:53]SAY: Featherbottom/ : Cluck!
+[18:20:14]SAY: mouse/ : Squeek?
+[18:20:24]SAY: Kentucky/ : Cluck!
+[18:20:54]SAY: grey baby slime (838)/ : Blop...
+[18:20:58]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:21:49]SAY: mouse/ : Squeek?
+[18:23:15]SAY: mouse/ : SQUEEK!
+[18:23:17]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:23:35]SAY: mouse/ : Squeek!
+[18:24:14]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[18:24:28]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:24:42]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:24:59]SAY: grey baby slime (168)/ : Blop...
+[18:25:21]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[18:25:45]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[18:26:12]SAY: mouse/ : SQUEEK!
+[18:27:06]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[18:27:31]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:27:47]SAY: mouse/ : SQUEEK!
+[18:28:52]SAY: mouse/ : Squeek?
+[18:28:58]SAY: mouse/ : Squeek?
+[18:29:06]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:29:29]SAY: Kentucky/ : Bwaak bwak.
+[18:29:55]SAY: mouse/ : Squeek!
+[18:30:05]SAY: Kentucky/ : Cluck!
+[18:30:13]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:30:42]SAY: mouse/ : SQUEEK!
+[18:32:07]SAY: mouse/ : SQUEEK!
+[18:32:14]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:33:49]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:34:54]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[18:35:21]SAY: mouse/ : Squeek!
+[18:35:23]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:35:33]SAY: mouse/ : Squeek!
+[18:35:41]SAY: mouse/ : SQUEEK!
+[18:37:10]SAY: mouse/ : SQUEEK!
+[18:39:15]SAY: Pugley III/ : Woof!
+[18:39:19]SAY: mouse/ : SQUEEK!
+[18:40:08]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[18:42:10]SAY: grey baby slime (838)/ : Rawr...
+[18:42:48]SAY: Pete/ : EHEHEHEHEH
+[18:43:00]SAY: Betsy/ : moo?
+[18:43:41]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:43:55]SAY: grey baby slime (168)/ : Where is the food?
+[18:46:17]SAY: grey baby slime (838)/ : Rawr...
+[18:46:43]SAY: Pugley III/ : YAP
+[18:46:52]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[18:47:48]SAY: mouse/ : SQUEEK!
+[18:48:27]SAY: grey baby slime (838)/ : Blorble...
+[18:48:31]SAY: mouse/ : Squeek!
+[18:48:55]SAY: mouse/ : SQUEEK!
+[18:48:59]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[18:50:18]SAY: mouse/ : SQUEEK!
+[18:51:02]SAY: grey baby slime (838)/ : I want to eat...
+[18:51:06]SAY: Kentucky/ : Cluck!
+[18:51:37]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[18:51:57]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:53:06]SAY: grey baby slime (168)/ : Blorble...
+[18:53:26]SAY: mouse/ : Squeek!
+[18:54:11]SAY: mouse/ : SQUEEK!
+[18:54:15]SAY: mouse/ : Squeek!
+[18:55:30]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:55:36]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[18:57:50]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:58:10]SAY: mouse/ : Squeek?
+[18:58:31]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:58:43]SAY: Pete/ : EHEHEHEHEH
+[18:59:11]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[18:59:13]SAY: mouse/ : Squeek?
+[18:59:28]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[18:59:32]SAY: mouse/ : Squeek?
+[18:59:40]SAY: mouse/ : Squeek?
+[18:59:42]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[18:59:44]SAY: Betsy/ : MOOOOOO
+[19:00:22]SAY: mouse/ : Squeek?
+[19:00:41]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:00:57]SAY: mouse/ : SQUEEK!
+[19:01:11]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:02:07]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:02:54]SAY: grey baby slime (168)/ : Where is the food?
+[19:02:56]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[19:03:59]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:04:13]SAY: grey baby slime (168)/ : Blop...
+[19:04:17]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[19:04:36]SAY: mouse/ : SQUEEK!
+[19:05:04]SAY: Pugley III/ : YAP
+[19:05:24]SAY: mouse/ : Squeek?
+[19:05:41]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:06:05]SAY: mouse/ : SQUEEK!
+[19:06:09]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[19:07:28]SAY: mouse/ : Squeek!
+[19:08:06]SAY: Kentucky/ : Bwaak bwak.
+[19:08:08]SAY: Betsy/ : moo
+[19:08:59]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:08:59]SAY: mouse/ : Squeek!
+[19:09:05]SAY: Kentucky/ : Cluck!
+[19:09:15]SAY: Kentucky/ : Cluck!
+[19:09:51]SAY: grey baby slime (168)/ : Hungry...
+[19:09:53]SAY: Kentucky/ : Cluck!
+[19:10:50]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[19:11:18]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[19:11:40]SAY: grey baby slime (838)/ : I want to eat...
+[19:12:09]SAY: Pete/ : eh?
+[19:12:55]SAY: grey baby slime (838)/ : Blop...
+[19:13:05]SAY: mouse/ : Squeek!
+[19:13:31]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:13:39]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:14:03]SAY: grey baby slime (838)/ : Where is the food?
+[19:14:30]SAY: Kentucky/ : Cluck!
+[19:15:08]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:15:42]SAY: Pugley III/ : Woof!
+[19:16:03]SAY: Pugley III/ : Woof!
+[19:17:09]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[19:17:28]SAY: mouse/ : Squeek!
+[19:17:38]SAY: Pete/ : eh?
+[19:17:50]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[19:19:23]SAY: Featherbottom/ : Bwaak bwak.
+[19:20:05]SAY: Kentucky/ : Bwaak bwak.
+[19:20:21]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[19:20:29]SAY: mouse/ : Squeek?
+[19:20:39]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:21:18]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[19:21:18]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:21:54]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[19:22:04]SAY: mouse/ : SQUEEK!
+[19:22:19]SAY: grey baby slime (168)/ : Where is the food?
+[19:24:13]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:25:30]SAY: mouse/ : Squeek?
+[19:26:40]SAY: mouse/ : SQUEEK!
+[19:26:50]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:26:52]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[19:27:01]SAY: Featherbottom/ : Bwaak bwak.
+[19:27:25]SAY: grey baby slime (838)/ : Blorble...
+[19:27:27]SAY: grey baby slime (168)/ : Hungry...
+[19:27:47]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[19:27:51]SAY: mouse/ : Squeek?
+[19:28:21]SAY: grey baby slime (168)/ : Rawr...
+[19:28:34]SAY: mouse/ : SQUEEK!
+[19:28:52]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:29:00]SAY: grey baby slime (838)/ : Where is the food?
+[19:29:32]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:29:40]SAY: grey baby slime (168)/ : Blorble...
+[19:30:51]SAY: grey baby slime (838)/ : Hungry...
+[19:31:40]SAY: grey baby slime (168)/ : Hungry...
+[19:32:29]SAY: mouse/ : Squeek!
+[19:32:33]SAY: grey baby slime (838)/ : Where is the food?
+[19:32:45]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:33:26]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:33:50]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:34:01]SAY: Featherbottom/ : Bwaak bwak.
+[19:34:19]SAY: mouse/ : Squeek?
+[19:34:29]SAY: Featherbottom/ : Cluck!
+[19:34:37]SAY: grey baby slime (168)/ : Rawr...
+[19:35:38]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:36:16]SAY: mouse/ : SQUEEK!
+[19:36:26]SAY: Kentucky/ : Cluck!
+[19:36:30]SAY: mouse/ : Squeek!
+[19:37:41]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:38:01]SAY: grey baby slime (838)/ : I want to eat...
+[19:38:47]SAY: Kentucky/ : Cluck!
+[19:39:26]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[19:39:34]SAY: Pugley III/ : Bark!
+[19:39:46]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[19:39:50]SAY: mouse/ : Squeek?
+[19:39:57]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:40:05]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[19:40:07]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[19:40:50]SAY: grey baby slime (168)/ : Lonely...
+[19:41:23]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[19:41:58]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:42:18]SAY: grey baby slime (168)/ : Must... eat...
+[19:42:48]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:42:51]SAY: mouse/ : Squeek?
+[19:43:11]SAY: mouse/ : SQUEEK!
+[19:43:32]SAY: grey baby slime (838)/ : Lonely...
+[19:44:01]SAY: mouse/ : Squeek?
+[19:44:51]SAY: mouse/ : Squeek?
+[19:45:28]SAY: mouse/ : SQUEEK!
+[19:45:30]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:46:24]SAY: mouse/ : Squeek!
+[19:46:41]SAY: grey baby slime (838)/ : Must... eat...
+[19:46:47]SAY: mouse/ : SQUEEK!
+[19:47:18]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[19:47:26]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[19:47:32]SAY: Pugley III/ : YAP
+[19:48:19]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[19:49:44]SAY: Featherbottom/ : Cluck!
+[19:50:13]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:51:07]SAY: Betsy/ : moo
+[19:51:21]SAY: Featherbottom/ : Bwaak bwak.
+[19:52:40]SAY: Kentucky/ : Cluck!
+[19:52:58]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:53:23]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[19:53:31]SAY: Featherbottom/ : Cluck!
+[19:53:58]SAY: mouse/ : Squeek?
+[19:55:24]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:55:30]SAY: grey baby slime (168)/ : Lonely...
+[19:55:30]SAY: Featherbottom/ : Bwaak bwak.
+[19:55:42]SAY: Pugley III/ : Woof!
+[19:56:03]SAY: mouse/ : Squeek!
+[19:56:26]SAY: grey baby slime (838)/ : Must... eat...
+[19:56:51]SAY: mouse/ : Squeek!
+[19:57:31]SAY: grey baby slime (838)/ : Blorble...
+[19:58:14]SAY: grey baby slime (838)/ : Blorble...
+[19:59:39]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[19:59:54]SAY: grey baby slime (838)/ : Rawr...
+[20:00:10]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[20:02:55]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:03:41]SAY: mouse/ : Squeek?
+[20:04:20]SAY: mouse/ : Squeek?
+[20:04:41]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[20:04:55]SAY: mouse/ : Squeek!
+[20:05:33]SAY: Betsy/ : MOOOOOO
+[20:05:49]SAY: mouse/ : Squeek?
+[20:06:20]SAY: mouse/ : SQUEEK!
+[20:06:33]SAY: grey baby slime (838)/ : Blop...
+[20:08:38]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:08:51]SAY: grey baby slime (838)/ : Blorble...
+[20:09:19]SAY: mouse/ : Squeek!
+[20:10:50]SAY: mouse/ : Squeek?
+[20:12:21]SAY: grey baby slime (838)/ : Blop...
+[20:12:38]SAY: grey baby slime (168)/ : So... hungry...
+[20:12:44]SAY: Featherbottom/ : Bwaak bwak.
+[20:13:21]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[20:13:29]SAY: mouse/ : SQUEEK!
+[20:13:58]SAY: Pete/ : EHEHEHEHEH
+[20:14:12]SAY: mouse/ : Squeek!
+[20:15:24]SAY: Betsy/ : moo
+[20:16:00]SAY: Pugley III/ : Bark!
+[20:16:39]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[20:16:57]SAY: mouse/ : Squeek?
+[20:17:08]SAY: grey baby slime (168)/ : Lonely...
+[20:17:34]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[20:17:51]SAY: grey baby slime (168)/ : Very... hungry...
+[20:18:18]SAY: Pete/ : eh?
+[20:19:05]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:19:49]SAY: mouse/ : Squeek?
+[20:20:15]SAY: Kentucky/ : Bwaak bwak.
+[20:20:53]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:21:21]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[20:21:25]SAY: mouse/ : SQUEEK!
+[20:21:54]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:22:21]SAY: grey baby slime (838)/ : Blorble...
+[20:22:52]SAY: Betsy/ : MOOOOOO
+[20:23:25]SAY: mouse/ : Squeek!
+[20:23:56]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[20:24:20]SAY: grey baby slime (838)/ : So... hungry...
+[20:25:02]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:25:58]SAY: grey baby slime (838)/ : Must... eat...
+[20:26:31]SAY: mouse/ : SQUEEK!
+[20:26:54]SAY: mouse/ : Squeek?
+[20:27:23]EMOTE: monkey (479)/ : <B>The monkey (479)</B> jumps!
+[20:27:54]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:28:12]SAY: mouse/ : Squeek?
+[20:28:52]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:29:16]SAY: Pete/ : EHEHEHEHEH
+[20:30:35]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[20:34:47]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[20:35:01]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[20:35:18]SAY: Betsy/ : MOOOOOO
+[20:37:20]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[20:38:01]SAY: Pete/ : eh?
+[20:38:01]SAY: Kentucky/ : Cluck!
+[20:38:27]SAY: Featherbottom/ : Cluck!
+[20:38:36]SAY: mouse/ : Squeek?
+[20:39:00]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:39:17]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:39:47]SAY: mouse/ : SQUEEK!
+[20:42:23]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:43:02]SAY: Featherbottom/ : Bwaak bwak.
+[20:43:52]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[20:44:39]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[20:45:06]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[20:46:49]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[20:47:12]SAY: Betsy/ : moo?
+[20:47:39]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[20:47:53]SAY: mouse/ : Squeek?
+[20:49:22]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[20:49:55]SAY: Kentucky/ : Cluck!
+[20:50:47]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:51:42]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:52:34]SAY: mouse/ : Squeek!
+[20:53:17]SAY: mouse/ : Squeek!
+[20:53:29]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[20:53:44]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[20:54:01]SAY: Betsy/ : MOOOOOO
+[20:54:07]SAY: mouse/ : Squeek?
+[20:54:28]SAY: Kentucky/ : Bwaak bwak.
+[20:54:53]SAY: Featherbottom/ : Cluck!
+[20:55:50]EMOTE: monkey (497)/ : <B>The monkey (497)</B> jumps!
+[20:56:26]SAY: mouse/ : Squeek?
+[20:56:49]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[20:57:28]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:57:53]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:58:50]SAY: mouse/ : Squeek!
+[21:01:12]EMOTE: monkey (24)/ : <B>The monkey (24)</B> jumps!
+[21:01:57]SAY: Kentucky/ : Bwaak bwak.
+[21:02:45]SAY: mouse/ : Squeek!
+[21:03:18]SAY: mouse/ : Squeek?
+[21:03:24]SAY: mouse/ : SQUEEK!
+[21:03:55]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[21:04:06]SAY: mouse/ : SQUEEK!
+[21:05:01]SAY: Featherbottom/ : Bwaak bwak.
+[21:05:05]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[21:06:03]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[21:06:26]EMOTE: monkey (720)/ : <B>The monkey (720)</B> jumps!
+[21:07:03]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[21:09:05]SAY: mouse/ : SQUEEK!
+[21:09:16]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

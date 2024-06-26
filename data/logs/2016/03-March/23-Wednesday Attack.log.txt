@@ -1,0 +1,80 @@
+
+
+Starting up. 04:59.09
+---------------------
+
+
+Starting up. 05:15.14
+---------------------
+
+
+Starting up. 05:29.15
+---------------------
+
+
+Starting up. 05:35.02
+---------------------
+
+
+Starting up. 05:38.11
+---------------------
+
+
+Starting up. 05:55.29
+---------------------
+
+
+Starting up. 06:02.31
+---------------------
+
+
+Starting up. 06:14.01
+---------------------
+
+
+Starting up. 06:36.35
+---------------------
+[06:54:48]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 07:00.42
+---------------------
+[07:03:54]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 07:16.11
+---------------------
+[07:18:36]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+[07:18:48]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[07:19:34]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 19:18.37
+---------------------
+[19:58:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:58:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:58:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:58:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:58:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:58:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[19:59:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[19:59:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>

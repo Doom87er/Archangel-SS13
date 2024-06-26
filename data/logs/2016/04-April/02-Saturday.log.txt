@@ -1,0 +1,1474 @@
+
+
+Starting up. 08:56.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:56:58]ADMIN: Loading Banlistjob
+[08:56:58]ADMIN: Loading jobban_rank
+[08:56:58]ADMIN: jobban_keylist was empty
+[08:56:58]ADMIN: Loading appearance_rank
+[08:56:58]ADMIN: appearance_keylist was empty
+[08:56:58]ADMIN: Updating jobbanfile!
+[08:56:58]ADMIN: Loading Banlist
+[08:56:58]ADMIN: Loading RTD lists
+[08:58:05]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:58:14]ADMIN: Norc has started the game.
+[08:58:15]GAME: Norc (ckey) has been selected as a Heretic
+[08:58:16]ACCESS: Logout: *no key*/(Norc)
+[08:58:17]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:58:40]SAY: mouse/ : SQUEEK!
+[08:59:12]SAY: mouse/ : Squeek!
+[09:00:29]ADMIN: Norc/(Brian Garrison) jumped to 118,222,1 in the Brig
+[09:00:35]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:00:35]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:00:41]ADMIN: Norc/(Brian Garrison) changed their view range to 128.
+[09:00:42]SAY: mouse/ : SQUEEK!
+[09:00:46]SAY: sentinel/ : Eliminating hostiles...
+[09:00:48]SAY: sentinel/ : Eliminating hostiles...
+[09:00:54]SAY: sentinel/ : Establishing control of planet...
+[09:01:06]SAY: sentinel/ : Eliminating hostiles...
+[09:01:20]SAY: sentinel/ : Eliminating hostiles...
+[09:01:52]SAY: sentinel/ : Eliminating hostiles...
+[09:01:54]SAY: sentinel/ : Eliminating hostiles...
+[09:02:02]SAY: sentinel/ : Establishing control of planet...
+[09:02:14]SAY: sentinel/ : Establishing control of planet...
+[09:02:28]SAY: mouse/ : Squeek?
+[09:02:36]SAY: sentinel/ : Establishing control of planet...
+[09:02:46]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[09:02:52]ADMIN: Norc/(Brian Garrison) teleported @Norc[DC]/(Brian Garrison)
+[09:02:54]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:02:54]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:02:57]ADMIN: Norc/(Brian Garrison) changed their view range to 7.
+[09:02:58]SAY: sentinel/ : Eliminating hostiles...
+[09:03:24]SAY: sentinel/ : Eliminating hostiles...
+[09:03:28]SAY: sentinel/ : Establishing control of planet...
+[09:03:48]SAY: sentinel/ : Eliminating hostiles...
+[09:04:08]SAY: Featherbottom/ : Cluck!
+[09:04:16]SAY: grey baby slime (154)/ : Blorble...
+[09:04:23]ADMIN: Norc/(Brian Garrison) jumped to the onplanet
+[09:04:24]SAY: sentinel/ : Establishing control of planet...
+[09:04:31]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[09:04:38]ADMIN: Norc/(Brian Garrison) jumped to 123,63,7 in In space!
+[09:04:48]SAY: sentinel/ : Establishing control of planet...
+[09:04:52]ADMIN: Norc/(Brian Garrison) moved the orkshuttle
+[09:04:54]GAME: SMES deleted at (Landed)
+[09:05:06]EMOTE: monkey (131)/ : <B>The monkey (131)</B> jumps!
+[09:05:20]SAY: Featherbottom/ : Cluck!
+[09:05:20]SAY: sentinel/ : Eliminating hostiles...
+[09:06:06]SAY: sentinel/ : Establishing control of planet...
+[09:06:14]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:06:14]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:06:14]EMOTE: monkey (82)/ : <B>The monkey (82)</B> jumps!
+[09:06:20]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:06:20]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:06:24]SAY: sentinel/ : Eliminating hostiles...
+[09:06:34]SAY: sentinel/ : Establishing control of planet...
+[09:06:36]SAY: sentinel/ : Eliminating hostiles...
+[09:06:49]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 09:10.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[09:10:45]ADMIN: Loading Banlistjob
+[09:10:45]ADMIN: Loading jobban_rank
+[09:10:45]ADMIN: jobban_keylist was empty
+[09:10:45]ADMIN: Loading appearance_rank
+[09:10:45]ADMIN: appearance_keylist was empty
+[09:10:45]ADMIN: Updating jobbanfile!
+[09:10:45]ADMIN: Loading Banlist
+[09:10:45]ADMIN: Loading RTD lists
+[09:14:33]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:14:42]ADMIN: Norc has started the game.
+[09:14:42]GAME: Norc (ckey) has been selected as a Heretic
+[09:14:44]ACCESS: Logout: *no key*/(Norc)
+[09:14:44]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:15:01]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (141,124,1)
+[09:15:44]EMOTE: monkey (68)/ : <B>The monkey (68)</B> jumps!
+[09:16:51]SAY: Betsy/ : moo?
+[09:16:57]EMOTE: monkey (930)/ : <B>The monkey (930)</B> jumps!
+[09:17:31]EMOTE: monkey (68)/ : <B>The monkey (68)</B> jumps!
+[09:17:41]SAY: sentinel/ : Eliminating hostiles...
+[09:17:51]EMOTE: monkey (68)/ : <B>The monkey (68)</B> jumps!
+[09:17:59]SAY: sentinel/ : Eliminating hostiles...
+[09:18:33]SAY: sentinel/ : Eliminating hostiles...
+[09:19:09]SAY: Betsy/ : moo
+[09:19:23]SAY: mouse/ : Squeek!
+[09:19:39]SAY: sentinel/ : Establishing control of planet...
+[09:19:41]EMOTE: monkey (706)/ : <B>The monkey (706)</B> jumps!
+[09:19:48]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 09:32.22
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[09:32:22]ADMIN: Loading Banlistjob
+[09:32:22]ADMIN: Loading jobban_rank
+[09:32:22]ADMIN: jobban_keylist was empty
+[09:32:22]ADMIN: Loading appearance_rank
+[09:32:22]ADMIN: appearance_keylist was empty
+[09:32:22]ADMIN: Updating jobbanfile!
+[09:32:22]ADMIN: Loading Banlist
+[09:32:22]ADMIN: Loading RTD lists
+[09:33:18]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:34:07]ADMIN: Norc has started the game.
+[09:34:08]GAME: Norc (ckey) has been selected as a Heretic
+[09:34:10]ACCESS: Logout: *no key*/(Norc)
+[09:34:10]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:34:19]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:34:50]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (142,124,1)
+[09:35:42]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Maltese Falcon (142,127,1).
+[09:35:43]SAY: sentinel/ : Eliminating hostiles...
+[09:35:48]GAME: Explosion with size (4) in area Maltese Falcon 
+[09:36:01]SAY: sentinel/ : Establishing control of planet...
+[09:36:03]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (135,138,1)
+[09:36:06]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Starboard Primary Hallway (129,138,1).
+[09:36:12]GAME: Explosion with size (4) in area Central Primary Hallway 
+[09:36:15]SAY: mouse/ : SQUEEK!
+[09:36:18]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:36:18]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:36:33]SAY: sentinel/ : Establishing control of planet...
+[09:36:45]SAY: sentinel/ : Establishing control of planet...
+[09:37:01]SAY: sentinel/ : Establishing control of planet...
+[09:37:11]SAY: sentinel/ : Establishing control of planet...
+[09:37:17]SAY: sentinel/ : Eliminating hostiles...
+[09:37:25]SAY: sentinel/ : Establishing control of planet...
+[09:37:33]SAY: grey baby slime (230)/ : Blorble...
+[09:37:37]SAY: sentinel/ : Establishing control of planet...
+[09:38:01]SAY: sentinel/ : Eliminating hostiles...
+[09:38:03]SAY: grey baby slime (767)/ : Rawr...
+[09:38:03]EMOTE: monkey (795)/ : <B>The monkey (795)</B> jumps!
+[09:38:03]SAY: sentinel/ : Eliminating hostiles...
+[09:38:05]SAY: mouse/ : Squeek!
+[09:38:05]SAY: Featherbottom/ : Bwaak bwak.
+[09:38:15]SAY: sentinel/ : Eliminating hostiles...
+[09:38:25]SAY: sentinel/ : Eliminating hostiles...
+[09:38:27]EMOTE: monkey (745)/ : <B>The monkey (745)</B> jumps!
+[09:38:51]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 09:41.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[09:41:48]ADMIN: Loading Banlistjob
+[09:41:48]ADMIN: Loading jobban_rank
+[09:41:48]ADMIN: jobban_keylist was empty
+[09:41:48]ADMIN: Loading appearance_rank
+[09:41:48]ADMIN: appearance_keylist was empty
+[09:41:48]ADMIN: Updating jobbanfile!
+[09:41:48]ADMIN: Loading Banlist
+[09:41:48]ADMIN: Loading RTD lists
+[09:42:43]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:42:51]ADMIN: Norc has started the game.
+[09:42:51]GAME: Norc (ckey) has been selected as a Heretic
+[09:42:53]ACCESS: Logout: *no key*/(Norc)
+[09:42:53]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:43:01]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (146,126,1)
+[09:43:04]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Theatre (146,125,1).
+[09:43:10]GAME: Explosion with size (10) in area Theatre 
+[09:43:33]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (133,126,1)
+[09:43:37]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Central Primary Hallway (126,126,1).
+[09:43:41]EMOTE: monkey (408)/ : <B>The monkey (408)</B> jumps!
+[09:43:42]GAME: Explosion with size (10) in area Central Primary Hallway 
+[09:44:00]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:44:00]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[09:44:00]SAY: mouse/ : Squeek?
+[09:44:02]EMOTE: monkey (590)/ : <B>The monkey (590)</B> jumps!
+[09:44:13]EMOTE: monkey (866)/ : <B>The monkey (866)</B> jumps!
+[09:44:22]SAY: grey baby slime (489)/ : Blorble...
+[09:44:22]SAY: Kentucky/ : Cluck!
+[09:45:11]SAY: sentinel/ : Eliminating hostiles...
+[09:45:43]SAY: mouse/ : Squeek!
+[09:45:52]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 09:53.15
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[09:53:15]ADMIN: Loading Banlistjob
+[09:53:15]ADMIN: Loading jobban_rank
+[09:53:15]ADMIN: jobban_keylist was empty
+[09:53:15]ADMIN: Loading appearance_rank
+[09:53:15]ADMIN: appearance_keylist was empty
+[09:53:15]ADMIN: Updating jobbanfile!
+[09:53:15]ADMIN: Loading Banlist
+[09:53:15]ADMIN: Loading RTD lists
+[09:54:52]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:55:02]ADMIN: Norc has started the game.
+[09:55:02]GAME: Norc (ckey) has been selected as a Heretic
+[09:55:04]ACCESS: Logout: *no key*/(Norc)
+[09:55:04]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:55:07]EMOTE: monkey (83)/ : <B>The monkey (83)</B> jumps!
+[09:55:10]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (147,121,1)
+[09:55:13]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Theatre (146,125,1).
+[09:55:40]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (141,128,1)
+[09:55:44]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Maltese Falcon (142,128,1).
+[09:55:59]SAY: Pugley III/ : Bark!
+[09:56:04]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (126,129,1)
+[09:56:09]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Central Primary Hallway (126,140,1).
+[09:56:15]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[09:56:19]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (126,140,1)
+[09:56:25]SAY: mouse/ : SQUEEK!
+[09:56:27]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Central Primary Hallway (122,145,1).
+[09:57:08]EMOTE: monkey (534)/ : <B>The monkey (534)</B> jumps!
+[09:57:17]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (123,153,1)
+[09:57:18]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (123,152,1)
+[09:57:18]SAY: mouse/ : SQUEEK!
+[09:57:21]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Law Office (123,152,1).
+[09:57:24]SAY: sentinel/ : Eliminating hostiles...
+[09:57:26]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Law Office (123,152,1).
+[09:57:32]SAY: Kentucky/ : Cluck!
+[09:57:34]SAY: mouse/ : Squeek?
+[09:57:36]SAY: sentinel/ : Establishing control of planet...
+[09:57:44]SAY: sentinel/ : Eliminating hostiles...
+[09:57:47]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (117,144,1)
+[09:57:58]ADMIN: Norc/(Brian Garrison) spawned /obj/item/ammo_casing/magic/misslelauncher at (107,144,1)
+[09:57:58]EMOTE: monkey (324)/ : <B>The monkey (324)</B> jumps!
+[09:58:01]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (109,144,1)
+[09:58:04]SAY: sentinel/ : Establishing control of planet...
+[09:58:04]SAY: sentinel/ : Establishing control of planet...
+[09:58:05]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (110,143,1)
+[09:58:18]EMOTE: monkey (534)/ : <B>The monkey (534)</B> jumps!
+[09:58:20]SAY: mouse/ : SQUEEK!
+[09:58:21]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (110,143,1)
+[09:58:32]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (110,143,1)
+[09:58:38]SAY: necron scarab/ : Establishing control of planet...
+[09:58:52]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 10:06.18
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:06:18]ADMIN: Loading Banlistjob
+[10:06:18]ADMIN: Loading jobban_rank
+[10:06:18]ADMIN: jobban_keylist was empty
+[10:06:18]ADMIN: Loading appearance_rank
+[10:06:18]ADMIN: appearance_keylist was empty
+[10:06:18]ADMIN: Updating jobbanfile!
+[10:06:18]ADMIN: Loading Banlist
+[10:06:18]ADMIN: Loading RTD lists
+[10:07:28]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:07:39]ADMIN: Norc has started the game.
+[10:07:39]GAME: Norc (ckey) has been selected as a Heretic
+[10:07:41]ACCESS: Logout: *no key*/(Norc)
+[10:07:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:07:48]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (147,121,1)
+[10:07:51]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Theatre (146,124,1).
+[10:08:03]SAY: grey baby slime (15)/ : Blorble...
+[10:08:05]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (133,127,1)
+[10:08:09]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Central Primary Hallway (126,127,1).
+[10:08:18]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[10:08:19]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (126,127,1)
+[10:08:29]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Command Hallway (100,127,1).
+[10:08:53]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/grenade/stickbomb at (88,114,1)
+[10:08:57]SAY: mouse/ : SQUEEK!
+[10:08:57]GAME: Norc/(Brian Garrison) has primed a Stikkbomb for detonation at Central Primary Hallway (88,116,1).
+[10:09:54]SAY: mouse/ : Squeek!
+[10:10:04]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (88,117,1)
+[10:10:08]SAY: mouse/ : Squeek?
+[10:10:14]SAY: necron scarab/ : Eliminating hostiles...
+[10:10:16]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (88,122,1)
+[10:10:24]SAY: Featherbottom/ : Bwaak bwak.
+[10:10:34]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (89,132,1)
+[10:10:47]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (88,140,1)
+[10:10:49]SAY: grey baby slime (361)/ : Blop...
+[10:10:53]SAY: mouse/ : Squeek!
+[10:11:08]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (71,134,1)
+[10:11:34]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (101,115,1)
+[10:11:45]SAY: sentinel/ : Eliminating hostiles...
+[10:11:46]ADMIN: Norc/(Brian Garrison) spawned /obj/item/ammo_casing/magic/misslelauncher at (116,115,1)
+[10:11:51]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (121,115,1)
+[10:12:01]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (123,115,1)
+[10:12:23]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (113,143,1)
+[10:12:39]SAY: Featherbottom/ : Bwaak bwak.
+[10:12:42]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/flashlight at (109,158,1)
+[10:12:57]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[10:13:03]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (111,165,1)
+[10:13:15]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (109,165,1)
+[10:13:22]SAY: sentinel/ : Establishing control of planet...
+[10:13:22]SAY: necron scarab/ : Establishing control of planet...
+[10:13:24]SAY: necron scarab/ : Eliminating hostiles...
+[10:13:25]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (120,165,1)
+[10:13:28]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[10:13:37]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (121,165,1)
+[10:13:48]SAY: necron scarab/ : Establishing control of planet...
+[10:13:56]SAY: necron scarab/ : Establishing control of planet...
+[10:14:23]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[10:14:45]SAY: Betsy/ : moo
+[10:15:07]SAY: grey baby slime (361)/ : Blorble...
+[10:15:25]SAY: mouse/ : SQUEEK!
+[10:15:27]SAY: necron scarab/ : Establishing control of planet...
+[10:16:19]EMOTE: monkey (616)/ : <B>The monkey (616)</B> jumps!
+[10:16:19]SAY: sentinel/ : Establishing control of planet...
+[10:16:43]SAY: mouse/ : Squeek!
+[10:16:52]SAY: sentinel/ : Eliminating hostiles...
+[10:17:00]EMOTE: monkey (67)/ : <B>The monkey (67)</B> jumps!
+[10:17:20]SAY: sentinel/ : Establishing control of planet...
+[10:17:40]EMOTE: monkey (297)/ : <B>The monkey (297)</B> jumps!
+[10:18:01]SAY: sentinel/ : Eliminating hostiles...
+[10:18:09]SAY: Betsy/ : MOOOOOO
+[10:18:11]SAY: mouse/ : Squeek!
+[10:18:41]SAY: sentinel/ : Establishing control of planet...
+[10:19:05]SAY: necron scarab/ : Establishing control of planet...
+[10:19:12]SAY: mouse/ : Squeek!
+[10:19:14]SAY: mouse/ : Squeek!
+[10:19:20]EMOTE: monkey (396)/ : <B>The monkey (396)</B> jumps!
+[10:19:26]SAY: sentinel/ : Eliminating hostiles...
+[10:19:40]SAY: sentinel/ : Eliminating hostiles...
+[10:20:10]SAY: sentinel/ : Establishing control of planet...
+[10:20:34]SAY: sentinel/ : Eliminating hostiles...
+[10:20:47]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 10:24.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:24:43]ADMIN: Loading Banlistjob
+[10:24:43]ADMIN: Loading jobban_rank
+[10:24:43]ADMIN: jobban_keylist was empty
+[10:24:43]ADMIN: Loading appearance_rank
+[10:24:43]ADMIN: appearance_keylist was empty
+[10:24:43]ADMIN: Updating jobbanfile!
+[10:24:43]ADMIN: Loading Banlist
+[10:24:43]ADMIN: Loading RTD lists
+[10:25:44]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:25:55]ADMIN: Norc has started the game.
+[10:25:56]GAME: Norc (ckey) has been selected as a Heretic
+[10:25:58]ACCESS: Logout: *no key*/(Norc)
+[10:25:58]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:26:09]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (146,124,1)
+[10:26:13]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/flashlight at (145,124,1)
+[10:26:27]ADMIN: Norc/(Brian Garrison) modified Missile Launcher's charges to 100
+[10:26:39]EMOTE: monkey (87)/ : <B>The monkey (87)</B> jumps!
+[10:26:49]SAY: Featherbottom/ : Bwaak bwak.
+[10:28:33]SAY: Featherbottom/ : Cluck!
+[10:28:35]SAY: sentinel/ : Eliminating hostiles...
+[10:28:52]SAY: sentinel/ : Establishing control of planet...
+[10:28:58]SAY: sentinel/ : Establishing control of planet...
+[10:29:06]SAY: sentinel/ : Eliminating hostiles...
+[10:29:12]SAY: sentinel/ : Establishing control of planet...
+[10:29:24]SAY: grey baby slime (525)/ : Blop...
+[10:29:24]SAY: sentinel/ : Establishing control of planet...
+[10:30:11]SAY: sentinel/ : Eliminating hostiles...
+[10:30:17]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:30:17]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:30:26]SAY: sentinel/ : Establishing control of planet...
+[10:30:35]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 10:36.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:36:45]ADMIN: Loading Banlistjob
+[10:36:45]ADMIN: Loading jobban_rank
+[10:36:45]ADMIN: jobban_keylist was empty
+[10:36:45]ADMIN: Loading appearance_rank
+[10:36:45]ADMIN: appearance_keylist was empty
+[10:36:45]ADMIN: Updating jobbanfile!
+[10:36:45]ADMIN: Loading Banlist
+[10:36:45]ADMIN: Loading RTD lists
+[10:37:34]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:37:47]ADMIN: Norc has started the game.
+[10:37:47]GAME: Norc (ckey) has been selected as a Heretic
+[10:37:49]ACCESS: Logout: *no key*/(Norc)
+[10:37:49]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:38:01]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (146,124,1)
+[10:38:03]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[10:38:07]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/flashlight at (145,124,1)
+[10:38:29]SAY: mouse/ : Squeek?
+[10:38:38]ADMIN: Norc/(Brian Garrison) modified Missile Launcher's charges to 100
+[10:38:51]SAY: mouse/ : Squeek?
+[10:39:06]SAY: mouse/ : SQUEEK!
+[10:40:02]SAY: sentinel/ : Eliminating hostiles...
+[10:40:02]SAY: sentinel/ : Eliminating hostiles...
+[10:40:10]SAY: sentinel/ : Eliminating hostiles...
+[10:40:14]EMOTE: monkey (11)/ : <B>The monkey (11)</B> jumps!
+[10:40:34]SAY: sentinel/ : Establishing control of planet...
+[10:40:58]SAY: Featherbottom/ : Bwaak bwak.
+[10:41:06]SAY: sentinel/ : Eliminating hostiles...
+[10:41:18]EMOTE: monkey (618)/ : <B>The monkey (618)</B> jumps!
+[10:41:28]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[10:41:32]SAY: sentinel/ : Eliminating hostiles...
+[10:41:36]SAY: sentinel/ : Eliminating hostiles...
+[10:41:50]SAY: mouse/ : Squeek!
+[10:41:50]SAY: sentinel/ : Eliminating hostiles...
+[10:41:52]SAY: sentinel/ : Establishing control of planet...
+[10:42:39]SAY: mouse/ : Squeek!
+[10:42:43]SAY: sentinel/ : Eliminating hostiles...
+[10:42:47]EMOTE: monkey (239)/ : <B>The monkey (239)</B> jumps!
+[10:43:07]SAY: grey baby slime (187)/ : Blop...
+[10:43:07]SAY: sentinel/ : Establishing control of planet...
+[10:43:49]SAY: Pete/ : eh?
+[10:43:49]SAY: sentinel/ : Eliminating hostiles...
+[10:43:53]EMOTE: monkey (239)/ : <B>The monkey (239)</B> jumps!
+[10:43:55]SAY: sentinel/ : Eliminating hostiles...
+[10:44:03]SAY: sentinel/ : Eliminating hostiles...
+[10:44:11]SAY: sentinel/ : Establishing control of planet...
+[10:44:15]SAY: mouse/ : Squeek?
+[10:44:31]SAY: sentinel/ : Eliminating hostiles...
+[10:44:35]SAY: Betsy/ : moo
+[10:44:43]SAY: sentinel/ : Establishing control of planet...
+[10:44:45]SAY: sentinel/ : Eliminating hostiles...
+[10:44:57]EMOTE: monkey (618)/ : <B>The monkey (618)</B> jumps!
+[10:44:57]SAY: Kentucky/ : Bwaak bwak.
+[10:45:20]EMOTE: monkey (599)/ : <B>The monkey (599)</B> jumps!
+[10:45:20]SAY: sentinel/ : Establishing control of planet...
+[10:45:24]SAY: sentinel/ : Eliminating hostiles...
+[10:45:36]SAY: sentinel/ : Eliminating hostiles...
+[10:45:40]SAY: sentinel/ : Establishing control of planet...
+[10:45:50]SAY: sentinel/ : Eliminating hostiles...
+[10:46:33]SAY: sentinel/ : Establishing control of planet...
+[10:46:45]SAY: sentinel/ : Establishing control of planet...
+[10:46:57]SAY: sentinel/ : Establishing control of planet...
+[10:47:10]SAY: sentinel/ : Eliminating hostiles...
+[10:47:14]SAY: grey baby slime (136)/ : Rawr...
+[10:47:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[10:47:48]SAY: sentinel/ : Eliminating hostiles...
+[10:48:23]SAY: Pete/ : eh?
+[10:48:23]SAY: sentinel/ : Establishing control of planet...
+[10:48:49]SAY: sentinel/ : Eliminating hostiles...
+[10:48:58]ADMIN: Norc/(Brian Garrison) modified Bridge's luminosity to 0
+[10:49:20]ADMIN: Norc/(Brian Garrison) deleted the floor at (101,135,1)
+[10:49:24]SAY: mouse/ : Squeek!
+[10:49:58]SAY: mouse/ : SQUEEK!
+[10:50:08]ADMIN: Norc/(Brian Garrison) modified snow's lighting_lumcount to 0
+[10:50:21]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[10:50:22]ADMIN: Norc/(Brian Garrison) modified snow's luminosity to 1
+[10:50:27]SAY: sentinel/ : Eliminating hostiles...
+[10:50:35]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[10:50:49]SAY: sentinel/ : Eliminating hostiles...
+[10:50:51]SAY: sentinel/ : Eliminating hostiles...
+[10:50:59]SAY: sentinel/ : Establishing control of planet...
+[10:50:59]SAY: sentinel/ : Establishing control of planet...
+[10:51:09]EMOTE: monkey (599)/ : <B>The monkey (599)</B> jumps!
+[10:51:14]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 10:53.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[10:53:43]ADMIN: Loading Banlistjob
+[10:53:43]ADMIN: Loading jobban_rank
+[10:53:43]ADMIN: jobban_keylist was empty
+[10:53:43]ADMIN: Loading appearance_rank
+[10:53:43]ADMIN: appearance_keylist was empty
+[10:53:43]ADMIN: Updating jobbanfile!
+[10:53:43]ADMIN: Loading Banlist
+[10:53:43]ADMIN: Loading RTD lists
+[10:55:15]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:55:30]ADMIN: Norc has started the game.
+[10:55:31]GAME: Norc (ckey) has been selected as a Heretic
+[10:55:32]SAY: mouse/ : Squeek?
+[10:55:33]ACCESS: Logout: *no key*/(Norc)
+[10:55:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:55:43]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/flashlight at (146,124,1)
+[10:55:50]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (146,125,1)
+[10:56:21]ADMIN: Norc/(Brian Garrison) modified Missile Launcher's charges to 100
+[10:56:38]SAY: mouse/ : SQUEEK!
+[10:56:42]EMOTE: monkey (500)/ : <B>The monkey (500)</B> jumps!
+[10:58:03]SAY: sentinel/ : Establishing control of planet...
+[10:58:05]SAY: Pugley III/ : Woof!
+[10:58:13]SAY: sentinel/ : Establishing control of planet...
+[10:58:18]EMOTE: monkey (686)/ : <B>The monkey (686)</B> jumps!
+[10:58:34]SAY: sentinel/ : Establishing control of planet...
+[10:58:40]SAY: mouse/ : Squeek!
+[10:59:04]SAY: Pugley III/ : Woof!
+[10:59:06]SAY: sentinel/ : Establishing control of planet...
+[10:59:10]SAY: sentinel/ : Establishing control of planet...
+[10:59:24]SAY: mouse/ : Squeek?
+[10:59:29]SAY: sentinel/ : Eliminating hostiles...
+[10:59:47]SAY: Kentucky/ : Cluck!
+[11:00:11]SAY: mouse/ : Squeek!
+[11:00:13]SAY: mouse/ : Squeek!
+[11:00:19]SAY: sentinel/ : Establishing control of planet...
+[11:00:21]SAY: sentinel/ : Eliminating hostiles...
+[11:00:27]ADMIN: Norc/(Brian Garrison) modified floor's lighting_lumcount to 0
+[11:00:43]EMOTE: monkey (734)/ : <B>The monkey (734)</B> jumps!
+[11:00:59]SAY: sentinel/ : Establishing control of planet...
+[11:01:01]SAY: sentinel/ : Eliminating hostiles...
+[11:01:10]ADMIN: Norc/(Brian Garrison) modified floor's lighting_lumcount to 4
+[11:01:27]SAY: sentinel/ : Eliminating hostiles...
+[11:01:38]ADMIN: Norc/(Brian Garrison) modified floor's lighting_lumcount to 10
+[11:02:23]EMOTE: monkey (201)/ : <B>The monkey (201)</B> jumps!
+[11:02:23]EMOTE: monkey (44)/ : <B>The monkey (44)</B> jumps!
+[11:02:27]SAY: sentinel/ : Establishing control of planet...
+[11:02:54]SAY: sentinel/ : Eliminating hostiles...
+[11:03:10]GAME: Emitter deleted at (171,164,1)
+[11:03:28]SAY: sentinel/ : Eliminating hostiles...
+[11:03:50]SAY: sentinel/ : Eliminating hostiles...
+[11:04:20]SAY: mouse/ : Squeek?
+[11:05:38]SAY: sentinel/ : Eliminating hostiles...
+[11:05:42]EMOTE: monkey (556)/ : <B>The monkey (556)</B> jumps!
+[11:05:56]SAY: sentinel/ : Eliminating hostiles...
+[11:06:18]SAY: grey baby slime (789)/ : Blorble...
+[11:06:24]SAY: grey baby slime (893)/ : Blop...
+[11:06:39]SAY: sentinel/ : Establishing control of planet...
+[11:06:41]SAY: necron scarab/ : Eliminating hostiles...
+[11:06:51]SAY: Featherbottom/ : Cluck!
+[11:07:11]SAY: sentinel/ : Eliminating hostiles...
+[11:07:27]SAY: Pugley III/ : YAP
+[11:07:47]SAY: sentinel/ : Eliminating hostiles...
+[11:07:49]SAY: sentinel/ : Eliminating hostiles...
+[11:07:49]SAY: sentinel/ : Eliminating hostiles...
+[11:08:17]SAY: mouse/ : SQUEEK!
+[11:08:50]EMOTE: monkey (201)/ : <B>The monkey (201)</B> jumps!
+[11:09:41]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 11:21.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:21:11]ADMIN: Loading Banlistjob
+[11:21:11]ADMIN: Loading jobban_rank
+[11:21:11]ADMIN: jobban_keylist was empty
+[11:21:11]ADMIN: Loading appearance_rank
+[11:21:11]ADMIN: appearance_keylist was empty
+[11:21:11]ADMIN: Updating jobbanfile!
+[11:21:11]ADMIN: Loading Banlist
+[11:21:11]ADMIN: Loading RTD lists
+[11:22:13]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[11:22:25]ADMIN: Norc has started the game.
+[11:22:26]GAME: Norc (ckey) has been selected as a Heretic
+[11:22:28]ACCESS: Logout: *no key*/(Norc)
+[11:22:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[11:22:41]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (146,124,1)
+[11:22:59]ADMIN: Norc/(Brian Garrison) modified Missile Launcher's charges to 100
+[11:23:05]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[11:23:26]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 11:26.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:26:58]ADMIN: Loading Banlistjob
+[11:26:58]ADMIN: Loading jobban_rank
+[11:26:58]ADMIN: jobban_keylist was empty
+[11:26:58]ADMIN: Loading appearance_rank
+[11:26:58]ADMIN: appearance_keylist was empty
+[11:26:58]ADMIN: Updating jobbanfile!
+[11:26:58]ADMIN: Loading Banlist
+[11:26:58]ADMIN: Loading RTD lists
+[11:27:42]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[11:27:57]ADMIN: Norc has started the game.
+[11:27:58]GAME: Norc (ckey) has been selected as a Heretic
+[11:28:00]ACCESS: Logout: *no key*/(Norc)
+[11:28:00]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[11:28:13]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (147,121,1)
+[11:28:46]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 11:30.49
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:30:49]ADMIN: Loading Banlistjob
+[11:30:49]ADMIN: Loading jobban_rank
+[11:30:49]ADMIN: jobban_keylist was empty
+[11:30:49]ADMIN: Loading appearance_rank
+[11:30:49]ADMIN: appearance_keylist was empty
+[11:30:49]ADMIN: Updating jobbanfile!
+[11:30:49]ADMIN: Loading Banlist
+[11:30:49]ADMIN: Loading RTD lists
+[11:31:40]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[11:31:52]ADMIN: Norc has started the game.
+[11:31:52]GAME: Norc (ckey) has been selected as a Heretic
+[11:31:54]ACCESS: Logout: *no key*/(Norc)
+[11:31:54]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[11:32:00]SAY: mouse/ : Squeek!
+[11:32:04]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (146,121,1)
+[11:32:11]SAY: Pete/ : EHEHEHEHEH
+[11:32:31]EMOTE: monkey (906)/ : <B>The monkey (906)</B> jumps!
+[11:32:37]ADMIN: Norc/(Brian Garrison) modified Missile Launcher's charges to 100
+[11:33:11]EMOTE: monkey (125)/ : <B>The monkey (125)</B> jumps!
+[11:33:11]SAY: Pete/ : eh?
+[11:34:11]SAY: mouse/ : Squeek!
+[11:34:32]SAY: sentinel/ : Establishing control of planet...
+[11:34:50]EMOTE: monkey (13)/ : <B>The monkey (13)</B> jumps!
+[11:35:06]EMOTE: monkey (906)/ : <B>The monkey (906)</B> jumps!
+[11:36:14]SAY: mouse/ : Squeek!
+[11:36:35]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 12:38.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[12:38:59]ADMIN: Loading Banlistjob
+[12:38:59]ADMIN: Loading jobban_rank
+[12:38:59]ADMIN: jobban_keylist was empty
+[12:38:59]ADMIN: Loading appearance_rank
+[12:38:59]ADMIN: appearance_keylist was empty
+[12:38:59]ADMIN: Updating jobbanfile!
+[12:38:59]ADMIN: Loading Banlist
+[12:38:59]ADMIN: Loading RTD lists
+[12:51:11]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[12:51:18]ADMIN: DrakeMarshall has started the game.
+[12:51:18]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[12:51:19]EMOTE: monkey (741)/ : <B>The monkey (741)</B> jumps!
+[12:51:20]ACCESS: Logout: *no key*/(DrakeMarshall)
+[12:51:20]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:51:32]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[12:51:34]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/hbolter at (141,220,1)
+[12:51:41]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[12:51:47]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[12:51:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/pm at (141,221,1)
+[12:51:53]EMOTE: Disciple Soras/ : <B>Disciple Soras</B> seizes up and falls limp, his eyes dead and lifeless...
+[12:52:45]EMOTE: monkey (972)/ : <B>The monkey (972)</B> jumps!
+[12:53:40]SAY: Kentucky/ : Bwaak bwak.
+[12:53:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (143,221,1)
+[12:53:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/box/krakgrenades at (142,221,1)
+[12:53:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (143,222,1)
+[12:53:50]SAY: mouse/ : SQUEEK!
+[12:53:53]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Brig (142,222,1).
+[12:53:55]SAY: Featherbottom/ : Cluck!
+[12:53:57]SAY: mouse/ : SQUEEK!
+[12:54:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/spear/sharpstikk at (141,220,1)
+[12:54:06]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/stickbomb at (142,221,1)
+[12:54:07]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[12:54:10]GAME: DrakeMarshall/(Venatus Kyner) has primed a Stikkbomb for detonation at Brig (140,217,1).
+[12:54:21]EMOTE: monkey (589)/ : <B>The monkey (589)</B> jumps!
+[12:54:25]SAY: Featherbottom/ : Bwaak bwak.
+[12:54:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (140,219,1)
+[12:54:31]SAY: mouse/ : SQUEEK!
+[12:54:34]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Brig (137,225,1).
+[12:54:41]SAY: mouse/ : SQUEEK!
+[12:54:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/light_emitter at (133,226,1)
+[12:54:57]SAY: Kentucky/ : Bwaak bwak.
+[12:54:58]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/light_emitter at (131,225,1)
+[12:55:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (131,224,1)
+[12:55:10]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Brig (129,224,1).
+[12:55:28]SAY: sentinel/ : Establishing control of planet...
+[12:55:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (137,225,1)
+[12:55:34]SAY: sentinel/ : Establishing control of planet...
+[12:55:38]SAY: sentinel/ : Eliminating hostiles...
+[12:55:55]SAY: sentinel/ : Eliminating hostiles...
+[12:56:09]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/pm at (124,225,1)
+[12:56:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (123,225,1)
+[12:56:37]SAY: sentinel/ : Establishing control of planet...
+[12:56:45]SAY: sentinel/ : Eliminating hostiles...
+[12:57:03]SAY: sentinel/ : Establishing control of planet...
+[12:57:29]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[12:57:35]SAY: sentinel/ : Eliminating hostiles...
+[12:57:40]SAY: sentinel/ : Eliminating hostiles...
+[12:57:45]SAY: sentinel/ : Establishing control of planet...
+[12:57:55]SAY: sentinel/ : Establishing control of planet...
+[12:58:07]SAY: sentinel/ : Establishing control of planet...
+[12:58:16]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:58:16]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:58:36]SAY: sentinel/ : Eliminating hostiles...
+[12:58:39]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 18:33.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[18:33:53]ADMIN: Loading Banlistjob
+[18:33:53]ADMIN: Loading jobban_rank
+[18:33:53]ADMIN: jobban_keylist was empty
+[18:33:53]ADMIN: Loading appearance_rank
+[18:33:53]ADMIN: appearance_keylist was empty
+[18:33:53]ADMIN: Updating jobbanfile!
+[18:33:53]ADMIN: Loading Banlist
+[18:33:53]ADMIN: Loading RTD lists
+[18:36:43]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[18:36:50]ADMIN: DrakeMarshall has started the game.
+[18:36:51]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[18:36:53]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:36:53]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:42:31]SAY: sentinel/ : Eliminating hostiles...
+[18:42:33]SAY: mouse/ : Squeek!
+[18:42:49]SAY: sentinel/ : Establishing control of planet...
+[18:43:36]EMOTE: monkey (252)/ : <B>The monkey (252)</B> jumps!
+[18:44:06]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:45:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/rifle at (141,220,1)
+[18:45:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/hbolter at (142,221,1)
+[18:45:18]SAY: sentinel/ : Eliminating hostiles...
+[18:45:18]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/hflamer at (140,221,1)
+[18:45:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/meltagun/ig at (141,222,1)
+[18:45:34]SAY: sentinel/ : Eliminating hostiles...
+[18:45:46]SAY: sentinel/ : Establishing control of planet...
+[18:46:21]SAY: sentinel/ : Eliminating hostiles...
+[18:46:31]SAY: sentinel/ : Establishing control of planet...
+[18:47:07]SAY: sentinel/ : Eliminating hostiles...
+[18:47:09]SAY: grey baby slime (230)/ : Rawr...
+[18:47:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/meltagun/bp at (142,223,1)
+[18:47:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/meltagun/um at (143,223,1)
+[18:47:36]SAY: mouse/ : Squeek!
+[18:48:02]SAY: mouse/ : SQUEEK!
+[18:48:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/pistol at (124,225,1)
+[18:48:29]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (125,224,1)
+[18:48:32]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Brig (130,224,1).
+[18:48:43]SAY: grey baby slime (610)/ : Rawr...
+[18:48:45]SAY: sentinel/ : Eliminating hostiles...
+[18:48:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (129,226,1)
+[18:48:49]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Brig (132,226,1).
+[18:49:44]SAY: mouse/ : Squeek!
+[18:50:00]SAY: sentinel/ : Establishing control of planet...
+[18:50:33]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[18:50:49]SAY: sentinel/ : Establishing control of planet...
+[18:51:09]SAY: mouse/ : SQUEEK!
+[18:51:12]SAY: mouse/ : SQUEEK!
+[18:51:38]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[18:52:14]EMOTE: monkey (252)/ : <B>The monkey (252)</B> jumps!
+[18:52:24]SAY: Kentucky/ : Cluck!
+[18:52:32]SAY: sentinel/ : Eliminating hostiles...
+[18:53:06]SAY: mouse/ : Squeek!
+[18:53:10]SAY: sentinel/ : Eliminating hostiles...
+[18:54:05]SAY: grey baby slime (610)/ : Blorble...
+[18:54:25]SAY: Pugley III/ : Bark!
+[18:54:31]SAY: sentinel/ : Establishing control of planet...
+[18:54:49]SAY: sentinel/ : Establishing control of planet...
+[18:55:00]SAY: Kentucky/ : Cluck!
+[18:55:00]SAY: sentinel/ : Eliminating hostiles...
+[18:55:21]SAY: sentinel/ : Establishing control of planet...
+[18:55:27]SAY: sentinel/ : Establishing control of planet...
+[18:56:20]SAY: sentinel/ : Eliminating hostiles...
+[18:56:22]SAY: sentinel/ : Eliminating hostiles...
+[18:56:24]SAY: mouse/ : Squeek!
+[18:57:16]SAY: Kentucky/ : Cluck!
+[18:57:52]SAY: grey baby slime (610)/ : Lonely...
+[18:59:03]SAY: sentinel/ : Establishing control of planet...
+[18:59:13]EMOTE: monkey (252)/ : <B>The monkey (252)</B> jumps!
+[18:59:23]SAY: sentinel/ : Eliminating hostiles...
+[19:00:23]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:00:43]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:00:47]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:00:49]SAY: mouse/ : Squeek?
+[19:01:01]EMOTE: monkey (965)/ : <B>The monkey (965)</B> jumps!
+[19:01:47]SAY: Betsy/ : MOOOOOO
+[19:01:49]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:01:53]SAY: Featherbottom/ : Bwaak bwak.
+[19:02:08]SAY: sentinel/ : Establishing control of planet...
+[19:02:16]SAY: grey baby slime (610)/ : Rawr...
+[19:02:38]SAY: Betsy/ : MOOOOOO
+[19:02:40]EMOTE: monkey (800)/ : <B>The monkey (800)</B> jumps!
+[19:03:49]SAY: sentinel/ : Eliminating hostiles...
+[19:04:23]SAY: mouse/ : SQUEEK!
+[19:04:31]SAY: sentinel/ : Establishing control of planet...
+[19:05:03]SAY: sentinel/ : Establishing control of planet...
+[19:05:07]SAY: sentinel/ : Establishing control of planet...
+[19:05:26]SAY: sentinel/ : Establishing control of planet...
+[19:05:30]SAY: mouse/ : Squeek!
+[19:06:15]EMOTE: monkey (800)/ : <B>The monkey (800)</B> jumps!
+[19:06:29]SAY: sentinel/ : Eliminating hostiles...
+[19:06:48]SAY: sentinel/ : Eliminating hostiles...
+[19:07:14]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:07:32]SAY: Kentucky/ : Bwaak bwak.
+[19:08:00]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to Imperial Escort 'Regentropfen'
+[19:08:03]ACCESS: Logout: *no key*/(Venatus Kyner)
+[19:08:03]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[19:08:06]EMOTE: monkey (321)/ : <B>The monkey (321)</B> jumps!
+[19:08:06]SAY: sentinel/ : Eliminating hostiles...
+[19:09:07]SAY: sentinel/ : Establishing control of planet...
+[19:09:09]SAY: sentinel/ : Establishing control of planet...
+[19:09:23]EMOTE: monkey (965)/ : <B>The monkey (965)</B> jumps!
+[19:09:45]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:10:04]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:10:04]SAY: sentinel/ : Establishing control of planet...
+[19:10:28]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[19:10:49]EMOTE: monkey (252)/ : <B>The monkey (252)</B> jumps!
+[19:10:49]SAY: sentinel/ : Establishing control of planet...
+[19:11:20]SAY: sentinel/ : Eliminating hostiles...
+[19:11:34]SAY: sentinel/ : Eliminating hostiles...
+[19:11:36]SAY: sentinel/ : Eliminating hostiles...
+[19:11:42]SAY: Kentucky/ : Cluck!
+[19:11:56]SAY: grey baby slime (230)/ : Blop...
+[19:12:00]SAY: sentinel/ : Eliminating hostiles...
+[19:12:17]SAY: sentinel/ : Establishing control of planet...
+[19:12:23]SAY: Featherbottom/ : Bwaak bwak.
+[19:12:33]SAY: sentinel/ : Eliminating hostiles...
+[19:12:59]SAY: sentinel/ : Eliminating hostiles...
+[19:13:19]SAY: sentinel/ : Establishing control of planet...
+[19:13:32]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:13:59]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:14:03]SAY: sentinel/ : Eliminating hostiles...
+[19:14:05]SAY: mouse/ : SQUEEK!
+[19:14:23]SAY: sentinel/ : Eliminating hostiles...
+[19:14:27]SAY: mouse/ : Squeek!
+[19:14:44]EMOTE: monkey (550)/ : <B>The monkey (550)</B> jumps!
+[19:14:48]SAY: sentinel/ : Eliminating hostiles...
+[19:14:50]SAY: mouse/ : Squeek?
+[19:14:54]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[19:15:06]SAY: sentinel/ : Eliminating hostiles...
+[19:15:42]SAY: sentinel/ : Eliminating hostiles...
+[19:16:21]SAY: sentinel/ : Eliminating hostiles...
+[19:16:37]SAY: sentinel/ : Establishing control of planet...
+[19:17:00]SAY: sentinel/ : Eliminating hostiles...
+[19:17:34]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[19:18:28]SAY: mouse/ : SQUEEK!
+[19:18:42]SAY: sentinel/ : Establishing control of planet...
+[19:19:04]SAY: mouse/ : Squeek!
+[19:19:04]SAY: Pete/ : eh?
+[19:19:12]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[19:19:24]SAY: sentinel/ : Eliminating hostiles...
+[19:19:30]SAY: sentinel/ : Eliminating hostiles...
+[19:20:08]SAY: sentinel/ : Establishing control of planet...
+[19:20:14]SAY: sentinel/ : Establishing control of planet...
+[19:20:35]EMOTE: monkey (965)/ : <B>The monkey (965)</B> jumps!
+[19:20:56]SAY: sentinel/ : Establishing control of planet...
+[19:21:14]SAY: sentinel/ : Establishing control of planet...
+[19:22:30]SAY: Kentucky/ : Cluck!
+[19:22:34]SAY: sentinel/ : Eliminating hostiles...
+[19:22:49]SAY: mouse/ : Squeek!
+[19:22:51]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:22:53]SAY: sentinel/ : Establishing control of planet...
+[19:23:00]SAY: mouse/ : Squeek?
+[19:23:06]SAY: sentinel/ : Establishing control of planet...
+[19:23:13]SAY: sentinel/ : Establishing control of planet...
+[19:23:37]SAY: sentinel/ : Establishing control of planet...
+[19:24:15]SAY: sentinel/ : Establishing control of planet...
+[19:25:09]SAY: sentinel/ : Establishing control of planet...
+[19:25:35]SAY: sentinel/ : Establishing control of planet...
+[19:26:06]SAY: sentinel/ : Eliminating hostiles...
+[19:26:22]SAY: mouse/ : Squeek!
+[19:26:31]SAY: Featherbottom/ : Bwaak bwak.
+[19:26:47]SAY: sentinel/ : Establishing control of planet...
+[19:26:49]EMOTE: monkey (520)/ : <B>The monkey (520)</B> jumps!
+[19:27:07]SAY: sentinel/ : Establishing control of planet...
+[19:27:42]SAY: sentinel/ : Eliminating hostiles...
+[19:27:44]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:27:46]SAY: mouse/ : Squeek!
+[19:28:12]SAY: grey baby slime (610)/ : Hungry...
+[19:28:33]SAY: mouse/ : Squeek?
+[19:28:35]SAY: grey baby slime (610)/ : Where is the food?
+[19:28:51]SAY: mouse/ : Squeek!
+[19:29:01]EMOTE: monkey (800)/ : <B>The monkey (800)</B> jumps!
+[19:29:14]SAY: grey baby slime (230)/ : Blop...
+[19:29:40]EMOTE: monkey (965)/ : <B>The monkey (965)</B> jumps!
+[19:29:50]SAY: mouse/ : Squeek?
+[19:30:09]SAY: sentinel/ : Establishing control of planet...
+[19:30:09]SAY: sentinel/ : Eliminating hostiles...
+[19:30:33]SAY: mouse/ : Squeek?
+[19:30:35]SAY: Pugley III/ : YAP
+[19:31:12]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:31:18]SAY: sentinel/ : Establishing control of planet...
+[19:31:20]SAY: sentinel/ : Establishing control of planet...
+[19:31:36]SAY: sentinel/ : Eliminating hostiles...
+[19:31:42]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:32:11]SAY: sentinel/ : Establishing control of planet...
+[19:32:35]SAY: sentinel/ : Eliminating hostiles...
+[19:32:39]ADMIN: DrakeMarshall/(Venatus Kyner) modified wall's name to z_pulsecore
+[19:33:00]SAY: sentinel/ : Eliminating hostiles...
+[19:33:33]EMOTE: monkey (800)/ : <B>The monkey (800)</B> jumps!
+[19:33:34]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulsecore's pulse() with no arguments.
+[19:33:35]SAY: sentinel/ : Eliminating hostiles...
+[19:33:43]SAY: sentinel/ : Establishing control of planet...
+[19:34:07]SAY: mouse/ : SQUEEK!
+[19:35:33]SAY: sentinel/ : Establishing control of planet...
+[19:35:46]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulsecore's pulse() with the arguments 5.
+[19:36:15]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to z_pulsecore2
+[19:36:22]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulsecore2's pulse() with no arguments.
+[19:36:32]EMOTE: monkey (170)/ : <B>The monkey (170)</B> jumps!
+[19:36:40]SAY: sentinel/ : Eliminating hostiles...
+[19:36:46]SAY: sentinel/ : Establishing control of planet...
+[19:37:21]SAY: sentinel/ : Eliminating hostiles...
+[19:37:40]SAY: sentinel/ : Eliminating hostiles...
+[19:37:44]SAY: mouse/ : SQUEEK!
+[19:38:06]SAY: sentinel/ : Establishing control of planet...
+[19:38:08]SAY: sentinel/ : Establishing control of planet...
+[19:38:14]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 22:23.18
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:23:19]ADMIN: Loading Banlistjob
+[22:23:19]ADMIN: Loading jobban_rank
+[22:23:19]ADMIN: jobban_keylist was empty
+[22:23:19]ADMIN: Loading appearance_rank
+[22:23:19]ADMIN: appearance_keylist was empty
+[22:23:19]ADMIN: Updating jobbanfile!
+[22:23:19]ADMIN: Loading Banlist
+[22:23:19]ADMIN: Loading RTD lists
+[22:24:54]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[22:25:05]ADMIN: DrakeMarshall has started the game.
+[22:25:05]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[22:25:07]EMOTE: monkey (57)/ : <B>The monkey (57)</B> jumps!
+[22:25:07]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:25:07]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:25:07]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:25:22]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (140,212,1)
+[22:25:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (141,212,1)
+[22:25:51]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[22:25:56]SAY: mouse/ : SQUEEK!
+[22:25:56]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (141,221,1)
+[22:26:04]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's dodging to 2
+[22:26:12]SAY: mouse/ : Squeek!
+[22:26:30]SAY: mouse/ : SQUEEK!
+[22:30:19]SAY: Kentucky/ : Bwaak bwak.
+[22:30:44]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:30:44]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:30:49]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Venatus Kyner at (75,50,7)
+[22:31:24]SAY: mouse/ : SQUEEK!
+[22:31:53]ADMIN: DrakeMarshall/(Venatus Kyner) modified wall's name to z_pulseme
+[22:32:02]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulseme's pulse() with no arguments.
+[22:32:10]SAY: mouse/ : Squeek!
+[22:32:24]SAY: mouse/ : Squeek!
+[22:32:24]SAY: sentinel/ : Establishing control of planet...
+[22:32:35]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulseme's pulse() with the arguments 30.
+[22:32:36]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:32:38]EMOTE: monkey (907)/ : <B>The monkey (907)</B> jumps!
+[22:32:57]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to z_pulseme2
+[22:33:05]ADMIN: DrakeMarshall/(Venatus Kyner) called the z_pulseme2's pulse() with no arguments.
+[22:33:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (156,138,1)
+[22:33:36]SAY: Kentucky/ : Cluck!
+[22:33:38]SAY: sentinel/ : Eliminating hostiles...
+[22:33:42]SAY: sentinel/ : Establishing control of planet...
+[22:33:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (158,137,1)
+[22:33:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (157,138,1)
+[22:33:52]SAY: sentinel/ : Establishing control of planet...
+[22:33:54]SAY: mouse/ : Squeek?
+[22:33:54]SAY: Betsy/ : MOOOOOO
+[22:33:55]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (156,137,1)
+[22:34:33]SAY: sentinel/ : Establishing control of planet...
+[22:34:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (131,138,1)
+[22:34:37]SAY: sentinel/ : Establishing control of planet...
+[22:34:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (132,138,1)
+[22:34:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (133,138,1)
+[22:34:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (133,139,1)
+[22:34:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (132,139,1)
+[22:34:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (131,139,1)
+[22:34:49]SAY: mouse/ : SQUEEK!
+[22:35:17]SAY: sentinel/ : Eliminating hostiles...
+[22:35:19]SAY: sentinel/ : Eliminating hostiles...
+[22:36:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (131,137,1)
+[22:36:14]SAY: Featherbottom/ : Bwaak bwak.
+[22:36:15]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (132,137,1)
+[22:36:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (133,137,1)
+[22:36:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (134,137,1)
+[22:36:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (134,138,1)
+[22:36:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (134,139,1)
+[22:36:36]SAY: sentinel/ : Establishing control of planet...
+[22:36:38]SAY: mouse/ : Squeek!
+[22:36:42]SAY: sentinel/ : Eliminating hostiles...
+[22:36:50]SAY: sentinel/ : Eliminating hostiles...
+[22:36:53]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to zrelative
+[22:37:03]ADMIN: DrakeMarshall/(Venatus Kyner) called the zrelative's relativefloor() with no arguments.
+[22:37:16]SAY: mouse/ : Squeek?
+[22:37:52]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (115,144,1)
+[22:38:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (203,165,1)
+[22:40:36]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 203,166,1 in Snow
+[22:40:46]SAY: mouse/ : Squeek?
+[22:41:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (204,165,1)
+[22:41:29]ADMIN: DrakeMarshall/(Venatus Kyner) toggled debugging on.
+[22:41:29]EMOTE: monkey (516)/ : <B>The monkey (516)</B> jumps!
+[22:41:29]ADMIN: DrakeMarshall/(Venatus Kyner) toggled debugging off.
+[22:41:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (200,167,1)
+[22:41:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (206,168,1)
+[22:41:51]SAY: sentinel/ : Eliminating hostiles...
+[22:42:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (64,90,7)
+[22:42:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (62,90,7)
+[22:42:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (61,89,7)
+[22:42:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (67,90,7)
+[22:42:50]SAY: sentinel/ : Establishing control of planet...
+[22:43:00]SAY: Pugley III/ : AUUUUUU
+[22:43:00]SAY: sentinel/ : Eliminating hostiles...
+[22:43:36]SAY: sentinel/ : Eliminating hostiles...
+[22:43:46]SAY: mouse/ : Squeek?
+[22:43:58]SAY: sentinel/ : Establishing control of planet...
+[22:44:06]SAY: mouse/ : Squeek?
+[22:44:28]SAY: sentinel/ : Eliminating hostiles...
+[22:45:03]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to ztest
+[22:45:16]ADMIN: DrakeMarshall/(Venatus Kyner) called the ztest's relativefloor() with no arguments.
+[22:45:37]SAY: sentinel/ : Eliminating hostiles...
+[22:45:54]SAY: sentinel/ : Establishing control of planet...
+[22:46:16]SAY: sentinel/ : Establishing control of planet...
+[22:46:28]SAY: mouse/ : Squeek?
+[22:46:52]SAY: sentinel/ : Eliminating hostiles...
+[22:47:02]SAY: sentinel/ : Eliminating hostiles...
+[22:47:04]SAY: sentinel/ : Eliminating hostiles...
+[22:47:10]SAY: sentinel/ : Establishing control of planet...
+[22:47:10]SAY: sentinel/ : Establishing control of planet...
+[22:47:16]SAY: sentinel/ : Eliminating hostiles...
+[22:47:58]SAY: sentinel/ : Establishing control of planet...
+[22:48:18]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:48:20]SAY: Betsy/ : moo?
+[22:48:22]SAY: sentinel/ : Eliminating hostiles...
+[22:48:26]SAY: sentinel/ : Establishing control of planet...
+[22:48:41]EMOTE: monkey (907)/ : <B>The monkey (907)</B> jumps!
+[22:49:01]SAY: sentinel/ : Establishing control of planet...
+[22:49:30]SAY: sentinel/ : Establishing control of planet...
+[22:49:42]EMOTE: monkey (907)/ : <B>The monkey (907)</B> jumps!
+[22:49:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (95,123,7)
+[22:50:03]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (96,123,7)
+[22:50:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (96,124,7)
+[22:50:07]SAY: sentinel/ : Eliminating hostiles...
+[22:50:10]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (95,124,7)
+[22:50:27]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[22:50:28]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (95,125,7)
+[22:50:30]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (96,125,7)
+[22:50:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (97,125,7)
+[22:50:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (97,124,7)
+[22:50:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (97,123,7)
+[22:50:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (97,122,7)
+[22:50:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (96,122,7)
+[22:50:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (95,122,7)
+[22:50:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (98,122,7)
+[22:50:51]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (98,123,7)
+[22:50:54]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (98,124,7)
+[22:50:55]SAY: mouse/ : SQUEEK!
+[22:50:57]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron at (98,125,7)
+[22:50:57]SAY: sentinel/ : Establishing control of planet...
+[22:51:02]EMOTE: monkey (516)/ : <B>The monkey (516)</B> jumps!
+[22:51:05]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor1
+[22:51:08]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor7
+[22:51:09]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor2
+[22:51:11]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor3
+[22:51:13]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor4
+[22:51:21]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor1
+[22:51:23]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to 2
+[22:51:26]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor2
+[22:51:28]SAY: sentinel/ : Eliminating hostiles...
+[22:51:28]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor3
+[22:51:30]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor5
+[22:51:32]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor6
+[22:51:34]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor8
+[22:51:38]SAY: sentinel/ : Establishing control of planet...
+[22:51:43]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor1
+[22:51:51]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor2
+[22:51:53]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor3
+[22:51:59]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor2
+[22:52:03]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor4
+[22:52:05]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor5
+[22:52:06]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor6
+[22:52:08]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor7
+[22:52:10]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor
+[22:52:12]SAY: sentinel/ : Establishing control of planet...
+[22:52:12]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor9
+[22:52:13]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor10
+[22:52:15]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor11
+[22:52:17]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor12
+[22:52:25]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor12
+[22:52:26]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[22:52:34]SAY: sentinel/ : Eliminating hostiles...
+[22:52:34]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor11
+[22:52:35]SAY: sentinel/ : Establishing control of planet...
+[22:52:37]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor13
+[22:52:41]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor7
+[22:52:44]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor5
+[22:52:58]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor5
+[22:53:06]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor5
+[22:53:08]SAY: sentinel/ : Establishing control of planet...
+[22:53:14]SAY: sentinel/ : Establishing control of planet...
+[22:53:22]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor10
+[22:53:28]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor10
+[22:53:42]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor15
+[22:53:48]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor15
+[22:53:55]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor15
+[22:54:02]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's icon_state to floor15
+[22:54:05]SAY: sentinel/ : Establishing control of planet...
+[22:54:11]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[22:54:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/valhallan at (97,121,7)
+[22:54:15]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of #(54858).
+[22:54:15]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:54:15]ACCESS: Login: drakemarshall/(#(54858)) from 127.0.0.1-3229208445 || BYOND v509
+[22:54:41]SAY: sentinel/ : Eliminating hostiles...
+[22:54:47]SAY: sentinel/ : Establishing control of planet...
+[22:54:57]SAY: grey baby slime (41)/ : Blorble...
+[22:54:57]SAY: sentinel/ : Eliminating hostiles...
+[22:55:00]ACCESS: Logout: drakemarshall[DC]/(#(54858))
+
+
+Starting up. 22:57.56
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:57:57]ADMIN: Loading Banlistjob
+[22:57:57]ADMIN: Loading jobban_rank
+[22:57:57]ADMIN: jobban_keylist was empty
+[22:57:57]ADMIN: Loading appearance_rank
+[22:57:57]ADMIN: appearance_keylist was empty
+[22:57:57]ADMIN: Updating jobbanfile!
+[22:57:57]ADMIN: Loading Banlist
+[22:57:57]ADMIN: Loading RTD lists
+[23:09:17]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[23:09:24]ADMIN: DrakeMarshall has started the game.
+[23:09:25]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[23:09:27]ACCESS: Logout: *no key*/(DrakeMarshall)
+[23:09:27]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:09:38]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's dodging to 2
+[23:09:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (140,213,1)
+[23:09:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (141,213,1)
+[23:10:56]SAY: Betsy/ : moo
+[23:14:27]SAY: Venatus Kyner/DrakeMarshall : hm
+[23:14:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/rifle at (140,219,1)
+[23:14:27]SAY: Venatus Kyner/DrakeMarshall : big lag spike... sigh
+[23:14:27]SAY: Venatus Kyner/DrakeMarshall : too big
+[23:14:30]SAY: mouse/ : Squeek!
+[23:15:02]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[23:15:04]EMOTE: monkey (692)/ : <B>The monkey (692)</B> jumps!
+[23:15:21]SAY: sentinel/ : Establishing control of planet...
+[23:15:25]SAY: sentinel/ : Eliminating hostiles...
+[23:15:31]SAY: Betsy/ : moo?
+[23:15:51]SAY: sentinel/ : Eliminating hostiles...
+[23:16:09]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[23:16:11]SAY: sentinel/ : Establishing control of planet...
+[23:16:13]SAY: Featherbottom/ : Bwaak bwak.
+[23:16:31]SAY: sentinel/ : Eliminating hostiles...
+[23:16:35]SAY: sentinel/ : Eliminating hostiles...
+[23:16:39]SAY: sentinel/ : Establishing control of planet...
+[23:17:12]SAY: sentinel/ : Eliminating hostiles...
+[23:17:36]SAY: mouse/ : SQUEEK!
+[23:17:42]SAY: sentinel/ : Establishing control of planet...
+[23:18:34]SAY: sentinel/ : Establishing control of planet...
+[23:18:52]SAY: sentinel/ : Eliminating hostiles...
+[23:19:19]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[23:19:29]EMOTE: monkey (420)/ : <B>The monkey (420)</B> jumps!
+[23:19:31]SAY: sentinel/ : Establishing control of planet...
+[23:20:12]SAY: sentinel/ : Establishing control of planet...
+[23:20:48]SAY: Betsy/ : moo?
+[23:21:27]SAY: sentinel/ : Eliminating hostiles...
+[23:21:39]EMOTE: monkey (771)/ : <B>The monkey (771)</B> jumps!
+[23:22:13]SAY: Kentucky/ : Cluck!
+[23:22:44]SAY: Pugley III/ : Woof!
+[23:22:49]SAY: Pete/ : eh?
+[23:22:57]SAY: sentinel/ : Establishing control of planet...
+[23:23:05]EMOTE: monkey (230)/ : <B>The monkey (230)</B> jumps!
+[23:23:11]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[23:23:17]SAY: sentinel/ : Establishing control of planet...
+[23:23:45]SAY: sentinel/ : Eliminating hostiles...
+[23:24:09]SAY: sentinel/ : Establishing control of planet...
+[23:24:18]SAY: sentinel/ : Establishing control of planet...
+[23:24:51]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:24:51]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:25:19]SAY: mouse/ : Squeek!
+[23:25:31]SAY: sentinel/ : Establishing control of planet...
+[23:25:37]SAY: sentinel/ : Eliminating hostiles...
+[23:25:51]SAY: Betsy/ : moo
+[23:26:02]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (74,99,7)
+[23:26:06]SAY: sentinel/ : Establishing control of planet...
+[23:26:17]SAY: mouse/ : SQUEEK!
+[23:26:17]SAY: sentinel/ : Establishing control of planet...
+[23:26:36]EMOTE: monkey (420)/ : <B>The monkey (420)</B> jumps!
+[23:26:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:27:18]SAY: mouse/ : SQUEEK!
+[23:27:29]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (81,129,7)
+[23:29:52]EMOTE: monkey (771)/ : <B>The monkey (771)</B> jumps!
+[23:30:06]SAY: mouse/ : Squeek?
+[23:30:28]SAY: sentinel/ : Eliminating hostiles...
+[23:30:30]SAY: sentinel/ : Establishing control of planet...
+[23:30:56]SAY: sentinel/ : Eliminating hostiles...
+[23:31:15]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (98,126,7)
+[23:31:19]SAY: Featherbottom/ : Bwaak bwak.
+[23:31:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (98,126,7)
+[23:31:43]SAY: sentinel/ : Establishing control of planet...
+[23:31:58]SAY: sentinel/ : Eliminating hostiles...
+[23:32:18]SAY: sentinel/ : Eliminating hostiles...
+[23:32:42]SAY: sentinel/ : Eliminating hostiles...
+[23:32:50]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[23:33:18]EMOTE: monkey (230)/ : <B>The monkey (230)</B> jumps!
+[23:33:24]SAY: mouse/ : Squeek?
+[23:33:38]EMOTE: monkey (230)/ : <B>The monkey (230)</B> jumps!
+[23:33:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (101,125,7)
+[23:33:57]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (97,125,7)
+[23:34:29]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[23:34:57]EMOTE: monkey (692)/ : <B>The monkey (692)</B> jumps!
+[23:35:08]EMOTE: monkey (309)/ : <B>The monkey (309)</B> jumps!
+[23:35:21]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 23:36.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[23:36:22]ADMIN: Loading Banlistjob
+[23:36:22]ADMIN: Loading jobban_rank
+[23:36:22]ADMIN: jobban_keylist was empty
+[23:36:22]ADMIN: Loading appearance_rank
+[23:36:22]ADMIN: appearance_keylist was empty
+[23:36:22]ADMIN: Updating jobbanfile!
+[23:36:22]ADMIN: Loading Banlist
+[23:36:22]ADMIN: Loading RTD lists
+[23:41:38]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[23:42:11]ADMIN: DrakeMarshall has started the game.
+[23:42:12]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[23:42:14]ACCESS: Logout: *no key*/(DrakeMarshall)
+[23:42:14]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:42:20]GAME:  () has triggered a gibtonite deposit reaction at Mine (112, 32, 5).
+[23:42:24]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:42:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/inferno at (141,223,1)
+[23:42:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (142,223,1)
+[23:42:50]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Inferno Grenade for detonation at Firing Range (148,224,1).
+[23:42:52]EMOTE: monkey (943)/ : <B>The monkey (943)</B> jumps!
+[23:43:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (147,226,1)
+[23:43:07]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Firing Range (148,226,1).
+[23:47:01]SAY: sentinel/ : Eliminating hostiles...
+[23:47:22]SAY: sentinel/ : Establishing control of planet...
+[23:47:26]SAY: sentinel/ : Establishing control of planet...
+[23:47:34]SAY: Kentucky/ : Cluck!
+[23:47:36]SAY: sentinel/ : Eliminating hostiles...
+[23:48:08]SAY: sentinel/ : Establishing control of planet...
+[23:48:16]SAY: sentinel/ : Eliminating hostiles...
+[23:48:18]SAY: sentinel/ : Establishing control of planet...
+[23:48:24]SAY: sentinel/ : Eliminating hostiles...
+[23:48:36]SAY: sentinel/ : Establishing control of planet...
+[23:49:23]ADMIN: DrakeMarshall/(Venatus Kyner) used gibself.
+[23:49:25]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:49:25]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[23:49:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (60,129,7)
+[23:49:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (58,143,7)
+[23:49:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (58,136,7)
+[23:49:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (66,136,7)
+[23:49:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/tombs_maze at (66,143,7)
+[23:49:52]SAY: sentinel/ : Eliminating hostiles...
+[23:50:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/simulated/floor/onecron/cave at (60,139,7)
+[23:50:00]SAY: lych guard/ : Eliminating hostiles...
+[23:51:25]SAY: sentinel/ : Establishing control of planet...
+[23:51:27]SAY: sentinel/ : Establishing control of planet...
+[23:51:50]EMOTE: monkey (399)/ : <B>The monkey (399)</B> jumps!
+[23:52:04]SAY: grey baby slime (99)/ : Rawr...
+[23:52:04]SAY: sentinel/ : Establishing control of planet...
+[23:52:11]SAY: mouse/ : Squeek!
+[23:52:17]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[23:52:24]SAY: sentinel/ : Eliminating hostiles...
+[23:52:26]SAY: sentinel/ : Establishing control of planet...
+[23:52:28]SAY: sentinel/ : Eliminating hostiles...
+[23:52:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (63,137,7)
+[23:52:44]SAY: sentinel/ : Establishing control of planet...
+[23:52:46]SAY: sentinel/ : Establishing control of planet...
+[23:52:52]SAY: mouse/ : Squeek?
+[23:52:56]EMOTE: monkey (943)/ : <B>The monkey (943)</B> jumps!
+[23:53:04]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:53:22]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:53:34]SAY: sentinel/ : Eliminating hostiles...
+[23:53:44]SAY: sentinel/ : Establishing control of planet...
+[23:53:44]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:53:50]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[23:54:23]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:54:25]SAY: mouse/ : Squeek?
+[23:54:28]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to zfloor
+[23:54:35]SAY: sentinel/ : Eliminating hostiles...
+[23:54:37]ADMIN: DrakeMarshall/(Venatus Kyner) called the zfloor's relativefloor() with no arguments.
+[23:54:43]SAY: sentinel/ : Eliminating hostiles...
+[23:54:45]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to xfloor
+[23:54:55]ADMIN: DrakeMarshall/(Venatus Kyner) called the xfloor's relativefloor() with no arguments.
+[23:55:07]EMOTE: monkey (943)/ : <B>The monkey (943)</B> jumps!
+[23:55:27]SAY: sentinel/ : Establishing control of planet...
+[23:55:29]SAY: sentinel/ : Eliminating hostiles...
+[23:55:31]SAY: sentinel/ : Eliminating hostiles...
+[23:55:38]SAY: sentinel/ : Establishing control of planet...
+[23:55:52]SAY: sentinel/ : Eliminating hostiles...
+[23:56:08]SAY: grey baby slime (99)/ : Lonely...
+[23:56:12]SAY: Pugley III/ : Bark!
+[23:56:40]EMOTE: monkey (943)/ : <B>The monkey (943)</B> jumps!
+[23:56:55]SAY: sentinel/ : Establishing control of planet...
+[23:57:11]SAY: mouse/ : Squeek?
+[23:57:13]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[23:57:19]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

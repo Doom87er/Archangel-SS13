@@ -1,0 +1,93 @@
+
+
+Starting up. 14:23.33
+---------------------
+[14:30:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[14:30:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+
+
+Starting up. 19:28.39
+---------------------
+[19:30:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[19:39:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with brass knuckles(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[19:46:55]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with The laser</font>
+[19:47:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The stubber bullet</font>
+[19:47:07]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The stubber bullet</font>
+[19:47:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Meridian with The stubber bullet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:47:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Ferox with The pellet</font>
+[19:49:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Disciple Meridian with inertial speed 2</font>
+[19:49:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Disciple Meridian with inertial speed 2</font>
+[19:49:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Disciple Meridian passively</font>
+[19:49:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Disciple Meridian passively</font>
+[19:49:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Disciple Meridian passively</font>
+[19:50:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) neck-grabbed Disciple Meridian </font>
+
+
+Starting up. 21:01.36
+---------------------
+[21:16:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:16:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pellet</font>
+[21:18:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[21:18:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>

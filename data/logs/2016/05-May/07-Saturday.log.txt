@@ -1,0 +1,620 @@
+
+
+Starting up. 09:18.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[09:18:06]ADMIN: Loading Banlistjob
+[09:18:06]ADMIN: Loading jobban_rank
+[09:18:06]ADMIN: jobban_keylist was empty
+[09:18:06]ADMIN: Loading appearance_rank
+[09:18:06]ADMIN: appearance_keylist was empty
+[09:18:06]ADMIN: Updating jobbanfile!
+[09:18:06]ADMIN: Loading Banlist
+[09:18:06]ADMIN: Loading RTD lists
+[09:19:56]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[09:20:05]ADMIN: DrakeMarshall has started the game.
+[09:20:07]ACCESS: Logout: *no key*/(DrakeMarshall)
+[09:20:07]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[09:20:23]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[09:20:45]EMOTE: monkey (613)/ : <B>The monkey (613)</B> jumps!
+[09:22:28]SAY: mouse/ : Squeek?
+[09:22:30]EMOTE: monkey (25)/ : <B>The monkey (25)</B> jumps!
+[09:22:58]SAY: Betsy/ : moo?
+[09:23:06]SAY: Kentucky/ : Cluck!
+[09:23:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/backpack/satchel_gen at (107,114,1)
+[09:23:51]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/backpack/satchel/withwallet at (109,114,1)
+[09:23:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/backpack/satchel at (109,115,1)
+[09:24:06]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[09:24:08]EMOTE: monkey (641)/ : <B>The monkey (641)</B> jumps!
+[09:24:38]SAY: Kentucky/ : Cluck!
+[09:25:46]SAY: Betsy/ : moo?
+[09:27:33]SAY: mouse/ : SQUEEK!
+[09:27:39]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[09:27:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/suit/armor/sister/hosp at (108,109,1)
+[09:28:28]SAY: Betsy/ : moo?
+[09:29:03]SAY: mouse/ : Squeek!
+[09:29:40]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:30:22]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[09:31:19]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[09:31:34]SAY: mouse/ : Squeek!
+[09:31:40]EMOTE: monkey (613)/ : <B>The monkey (613)</B> jumps!
+[09:32:10]SAY: grey baby slime (936)/ : Lonely...
+[09:32:24]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:32:27]SAY: mouse/ : Squeek?
+[09:32:41]SAY: mouse/ : Squeek?
+[09:33:07]EMOTE: monkey (641)/ : <B>The monkey (641)</B> jumps!
+[09:33:44]SAY: mouse/ : SQUEEK!
+[09:34:57]SAY: mouse/ : Squeek?
+[09:35:09]EMOTE: monkey (613)/ : <B>The monkey (613)</B> jumps!
+[09:35:24]EMOTE: monkey (21)/ : <B>The monkey (21)</B> jumps!
+[09:35:40]SAY: mouse/ : Squeek?
+[09:35:42]SAY: Betsy/ : moo?
+[09:35:48]SAY: mouse/ : Squeek?
+[09:35:50]SAY: Featherbottom/ : Cluck!
+[09:35:50]SAY: mouse/ : SQUEEK!
+[09:36:28]SAY: Kentucky/ : Bwaak bwak.
+[09:37:55]SAY: Betsy/ : MOOOOOO
+[09:37:59]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:38:03]ADMIN: DrakeMarshall/(Venatus Kyner) has added 1 units of Psychon to Venatus Kyner
+[09:38:14]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 229,236,7 in the Strange Station
+[09:38:16]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 234,236,7 in the Strange Station
+[09:38:22]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 238,236,7 in the Strange Station
+[09:38:34]ADMIN: DrakeMarshall/(Venatus Kyner) has added 10 units of Psychon to Venatus Kyner
+[09:38:52]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/bolter/full at (238,236,7)
+[09:39:27]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[09:39:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (230,236,7)
+[09:39:38]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[09:39:38]ACCESS: Logout: *no key*/(Venatus Kyner)
+[09:39:38]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:39:45]ADMIN: drakemarshall/(Unknown) assumed direct control of Venatus Kyner.
+[09:39:45]ACCESS: Logout: *no key*/(Unknown)
+[09:39:45]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[09:39:52]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:39:54]SAY: Pugley III/ : Woof!
+[09:39:54]SAY: Featherbottom/ : Cluck!
+[09:40:04]EMOTE: monkey (21)/ : <B>The monkey (21)</B> jumps!
+[09:40:48]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (247,245,7)
+[09:40:52]GAME: drakemarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Strange Station (247,246,7).
+[09:40:58]GAME: SMES deleted at (Strange Station)
+[09:41:04]SAY: Venatus Kyner/drakemarshall : ow
+[09:41:10]ADMIN: drakemarshall/(Venatus Kyner) healed / Revived drakemarshall/(Venatus Kyner)
+[09:41:17]EMOTE: Venatus Kyner/drakemarshall : <B>Venatus Kyner</B> gasps!
+[09:41:24]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (74,60,7)
+[09:41:49]ACCESS: Logout: *no key*/(Venatus Kyner)
+[09:41:50]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[09:41:54]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/effect/light_emitter at (73,60,7)
+[09:42:02]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (74,61,7)
+[09:42:02]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/effect/landmark/corpse/explorator at (74,61,7)
+[09:42:05]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/effect/landmark/corpse/explorator at (75,62,7)
+[09:42:11]SAY: mouse/ : SQUEEK!
+[09:42:13]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/effect/landmark/corpse/explorator at (75,61,7)
+[09:42:20]ADMIN: drakemarshall/(Venatus Kyner) assumed direct control of Unknown.
+[09:42:20]ACCESS: Logout: *no key*/(Venatus Kyner)
+[09:42:20]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:42:21]SAY: Featherbottom/ : Cluck!
+[09:42:26]ADMIN: drakemarshall/(Unknown) spawned /obj/item/device/flashlight/lantern at (73,61,7)
+[09:42:37]SAY: mouse/ : Squeek?
+[09:44:25]SAY: Kentucky/ : Cluck!
+[09:44:48]EMOTE: monkey (816)/ : <B>The monkey (816)</B> jumps!
+[09:45:16]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (96,74,7)
+[09:45:40]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[09:45:41]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[09:45:48]ADMIN: drakemarshall/(Unknown) jumped to 93,73,7 in the necron catacombs
+[09:45:51]ADMIN: drakemarshall/(Unknown) jumped to 92,73,7 in the necron catacombs
+[09:46:48]SAY: Pete/ : eh?
+[09:46:51]EMOTE: Unknown/drakemarshall : <B>Unknown</B> screams!
+[09:47:00]SAY: mouse/ : Squeek!
+[09:47:00]SAY: Unknown/drakemarshall : ow
+[09:47:04]ADMIN: drakemarshall/(Unknown) jumped to 89,104,7 in the necron catacombs
+[09:47:11]ACCESS: Logout: *no key*/(Unknown)
+[09:47:11]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:47:20]EMOTE: monkey (55)/ : <B>The monkey (55)</B> jumps!
+[09:47:37]EMOTE: monkey (816)/ : <B>The monkey (816)</B> jumps!
+[09:48:47]SAY: Featherbottom/ : Cluck!
+[09:48:54]ACCESS: Logout: *no key*/(Unknown)
+[09:48:54]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:49:12]SAY: mouse/ : Squeek?
+[09:50:10]EMOTE: monkey (816)/ : <B>The monkey (816)</B> jumps!
+[09:50:31]SAY: Kentucky/ : Cluck!
+[09:51:32]SAY: Pugley III/ : YAP
+[09:51:40]WHISPER: Unknown/drakemarshall : fuck
+[09:51:40]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:51:42]ACCESS: Logout: *no key*/(Unknown)
+[09:51:42]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:52:04]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/incinerate at (33,94,7)
+[09:52:09]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (34,93,7)
+[09:52:12]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[09:52:12]ACCESS: Logout: *no key*/(Unknown)
+[09:52:12]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:52:17]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (33,93,7)
+[09:52:22]SAY: Unknown/drakemarshall : fuck
+[09:52:28]SAY: mouse/ : SQUEEK!
+[09:52:52]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[09:52:57]WHISPER: Unknown/drakemarshall : ow
+[09:52:57]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[09:52:59]ACCESS: Logout: *no key*/(Unknown)
+[09:52:59]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:53:00]EMOTE: monkey (613)/ : <B>The monkey (613)</B> jumps!
+[09:53:18]EMOTE: monkey (168)/ : <B>The monkey (168)</B> jumps!
+[09:53:33]EMOTE: monkey (816)/ : <B>The monkey (816)</B> jumps!
+[09:54:27]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (10,92,7)
+[09:54:30]ADMIN: drakemarshall/(Unknown) spawned /turf/simulated/floor/light at (11,92,7)
+[09:54:36]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (13,92,7)
+[09:54:38]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[09:54:38]ACCESS: Logout: *no key*/(Unknown)
+[09:54:38]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:54:45]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (11,92,7)
+[09:54:59]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (10,92,7)
+[09:55:03]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (10,92,7)
+[09:55:09]SAY: Pete/ : EHEHEHEHEH
+[09:55:11]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (12,91,7)
+[09:55:34]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/fake_floor/fake_wall/r_wall/tomb at (15,92,7)
+[09:55:40]SAY: grey baby slime (620)/ : Blorble...
+[09:55:42]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (13,92,7)
+[09:55:49]ACCESS: Logout: *no key*/(Unknown)
+[09:55:49]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:56:14]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/landmark/wall_destination at (15,92,7)
+[09:56:18]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/landmark/wall_destination at (14,92,7)
+[09:56:18]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[09:56:25]ACCESS: Logout: *no key*/(Unknown)
+[09:56:25]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[09:56:33]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (13,92,7)
+[09:56:39]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (13,92,7)
+[09:56:45]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (13,92,7)
+[09:56:52]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (12,91,7)
+[09:56:58]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (12,91,7)
+[09:57:03]EMOTE: monkey (21)/ : <B>The monkey (21)</B> jumps!
+[09:57:11]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/fake_floor/fake_wall/r_wall/tomb at (14,90,7)
+[09:57:14]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (12,90,7)
+[09:57:28]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[09:57:44]SAY: Pugley III/ : Bark!
+[09:57:51]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/shuffle at (10,92,7)
+[09:57:58]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 15:15.18
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:15:19]ADMIN: Loading Banlistjob
+[15:15:19]ADMIN: Loading jobban_rank
+[15:15:19]ADMIN: jobban_keylist was empty
+[15:15:19]ADMIN: Loading appearance_rank
+[15:15:19]ADMIN: appearance_keylist was empty
+[15:15:19]ADMIN: Updating jobbanfile!
+[15:15:19]ADMIN: Loading Banlist
+[15:15:19]ADMIN: Loading RTD lists
+[15:22:06]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[15:22:16]ADMIN: DrakeMarshall has started the game.
+[15:22:19]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:22:19]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:22:42]SAY: sentinel/ : Establishing control of planet...
+[15:22:42]SAY: sentinel/ : Eliminating hostiles...
+[15:22:46]SAY: Kentucky/ : Cluck!
+[15:22:51]SAY: Venatus Kyner/DrakeMarshall : hm
+[15:22:54]SAY: Venatus Kyner/DrakeMarshall : interesting
+[15:22:58]EMOTE: monkey (254)/ : <B>The monkey (254)</B> jumps!
+[15:23:02]SAY: mouse/ : Squeek?
+[15:23:18]SAY: Featherbottom/ : Cluck!
+[15:23:33]SAY: sentinel/ : Establishing control of planet...
+[15:23:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/phaseshifter at (125,127,1)
+[15:24:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (123,148,1)
+[15:24:01]SAY: sentinel/ : Establishing control of planet...
+[15:24:04]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[15:24:04]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:24:04]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:24:07]SAY: sentinel/ : Establishing control of planet...
+[15:24:10]ADMIN: drakemarshall/(Unknown) assumed direct control of Venatus Kyner.
+[15:24:10]ACCESS: Logout: *no key*/(Unknown)
+[15:24:10]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:24:23]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:24:29]SAY: sentinel/ : Eliminating hostiles...
+[15:24:32]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (122,148,1)
+[15:24:34]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (122,148,1)
+[15:24:36]GAME: drakemarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Locker Room (120,148,1).
+[15:24:54]EMOTE: monkey (361)/ : <B>The monkey (361)</B> jumps!
+[15:25:03]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (123,144,1)
+[15:25:04]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (123,144,1)
+[15:25:06]GAME: drakemarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Central Primary Hallway (123,145,1).
+[15:25:10]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[15:25:26]SAY: sentinel/ : Establishing control of planet...
+[15:25:46]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[15:26:07]SAY: mouse/ : Squeek!
+[15:26:33]SAY: grey baby slime (850)/ : Blop...
+[15:26:53]SAY: mouse/ : Squeek!
+[15:27:13]SAY: sentinel/ : Eliminating hostiles...
+[15:27:15]SAY: Featherbottom/ : Bwaak bwak.
+[15:27:23]SAY: mouse/ : Squeek!
+[15:28:04]SAY: Betsy/ : MOOOOOO
+[15:28:08]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[15:28:16]SAY: sentinel/ : Eliminating hostiles...
+[15:29:18]SAY: sentinel/ : Establishing control of planet...
+[15:29:45]SAY: Betsy/ : MOOOOOO
+[15:29:47]SAY: grey baby slime (850)/ : Rawr...
+[15:30:40]SAY: mouse/ : Squeek!
+[15:30:46]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (130,121,1)
+[15:30:56]SAY: Venatus Kyner/drakemarshall : well fuck
+[15:31:00]SAY: Venatus Kyner/drakemarshall : microwaving a grenade
+[15:31:02]SAY: Venatus Kyner/drakemarshall : bad idea
+[15:31:46]SAY: mouse/ : SQUEEK!
+[15:31:48]SAY: sentinel/ : Eliminating hostiles...
+[15:31:51]SAY: mouse/ : Squeek!
+[15:32:05]SAY: mouse/ : Squeek?
+[15:32:09]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma/lesser at (131,119,1)
+[15:32:14]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/ork/warboss at (134,119,1)
+[15:32:19]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/spear/sharpstikk at (132,119,1)
+[15:32:23]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/stickbomb at (133,119,1)
+[15:32:33]GAME: drakemarshall/(Venatus Kyner) has primed a Stikkbomb for detonation at Kitchen (132,119,1).
+[15:32:46]SAY: mouse/ : Squeek!
+[15:32:49]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/stickbomb at (131,119,1)
+[15:32:54]SAY: Venatus Kyner/drakemarshall : FOR THE EMPEROR!
+[15:32:56]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:32:56]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:32:58]SAY: Betsy/ : moo
+[15:33:18]SAY: Kentucky/ : Cluck!
+[15:33:30]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (130,152,1)
+[15:33:31]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/ork/warboss at (130,152,1)
+[15:33:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[15:33:37]ADMIN: drakemarshall/(Venatus Kyner) assumed direct control of Unknown.
+[15:33:37]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:33:37]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:33:42]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/krak at (128,152,1)
+[15:33:44]GAME: drakemarshall/(Unknown) has primed a Imperial Krak Grenade for detonation at Locker Room (128,153,1).
+[15:33:56]SAY: sentinel/ : Eliminating hostiles...
+[15:34:12]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/warboss at (134,148,1)
+[15:34:16]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma at (130,148,1)
+[15:34:18]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Locker Room (131,148,1).
+[15:34:32]SAY: Unknown/drakemarshall : fucking hell
+[15:34:35]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[15:34:37]ACCESS: Logout: *no key*/(Unknown)
+[15:34:37]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:34:51]ACCESS: Logout: *no key*/(Unknown)
+[15:34:51]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:35:07]SAY: Unknown/drakemarshall : what the fuck
+[15:35:09]SAY: grey baby slime (849)/ : Blop...
+[15:35:19]EMOTE: monkey (361)/ : <B>The monkey (361)</B> jumps!
+[15:35:34]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[15:35:36]SAY: mouse/ : SQUEEK!
+[15:36:08]SAY: sentinel/ : Establishing control of planet...
+[15:36:20]SAY: Betsy/ : MOOOOOO
+[15:37:35]SAY: mouse/ : Squeek?
+[15:37:40]EMOTE: monkey (711)/ : <B>The monkey (711)</B> jumps!
+[15:37:40]SAY: Featherbottom/ : Bwaak bwak.
+[15:37:48]SAY: Pugley III/ : YAP
+[15:37:56]SAY: sentinel/ : Establishing control of planet...
+[15:38:02]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[15:38:06]ACCESS: Logout: *no key*/(Unknown)
+[15:38:06]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:38:08]SAY: mouse/ : Squeek?
+[15:38:08]SAY: sentinel/ : Establishing control of planet...
+[15:38:09]ACCESS: Logout: *no key*/(Unknown)
+[15:38:09]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[15:38:20]SAY: grey baby slime (850)/ : Blorble...
+[15:38:26]EMOTE: Unknown/drakemarshall : <B>Unknown</B> screams!
+[15:38:28]SAY: Unknown/drakemarshall : fuck
+[15:38:28]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[15:38:32]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[15:38:33]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:38:38]ADMIN: drakemarshall/(Unknown) jumped to 79,102,7 in the necron catacombs
+[15:38:44]ADMIN: drakemarshall/(Unknown) jumped to 80,103,7 in the necron catacombs
+[15:38:48]ADMIN: drakemarshall/(Unknown) jumped to 80,105,7 in the necron catacombs
+[15:38:51]ADMIN: drakemarshall/(Unknown) jumped to 80,106,7 in the necron catacombs
+[15:38:55]ADMIN: drakemarshall/(Unknown) jumped to 80,105,7 in the necron catacombs
+[15:39:00]ADMIN: drakemarshall/(Unknown) spawned /obj/item/device/phaseshifter at (80,104,7)
+[15:39:09]SAY: sentinel/ : Establishing control of planet...
+[15:39:57]SAY: sentinel/ : Eliminating hostiles...
+[15:40:25]SAY: Pugley III/ : AUUUUUU
+[15:41:37]SAY: Betsy/ : moo
+[15:41:41]SAY: sentinel/ : Eliminating hostiles...
+[15:41:41]ADMIN: DrakeMarshall/(Unknown) toggled debugging on.
+[15:41:41]ADMIN: DrakeMarshall/(Unknown) toggled debugging off.
+[15:41:43]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (45,107,7)
+[15:41:47]SAY: mouse/ : SQUEEK!
+[15:42:09]SAY: sentinel/ : Eliminating hostiles...
+[15:42:39]EMOTE: monkey (658)/ : <B>The monkey (658)</B> jumps!
+[15:42:43]SAY: grey baby slime (849)/ : Rawr...
+[15:42:43]SAY: sentinel/ : Eliminating hostiles...
+[15:42:59]SAY: sentinel/ : Establishing control of planet...
+[15:43:28]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[15:43:30]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:43:34]EMOTE: monkey (231)/ : <B>The monkey (231)</B> jumps!
+[15:43:36]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:43:36]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:43:37]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:43:38]SAY: mouse/ : Squeek!
+[15:43:40]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:43:44]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:43:44]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:43:46]EMOTE: monkey (361)/ : <B>The monkey (361)</B> jumps!
+[15:43:51]EMOTE: Unknown/drakemarshall : <B>Unknown</B> screams!
+[15:43:55]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:44:06]SAY: grey baby slime (849)/ : Rawr...
+[15:44:14]ADMIN: drakemarshall/(Unknown) deleted the scarab (152) at (17,92,7)
+[15:44:18]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:44:27]SAY: mouse/ : SQUEEK!
+[15:44:31]SAY: sentinel/ : Establishing control of planet...
+[15:44:37]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/tau/fusionblaster at (14,92,7)
+[15:44:43]SAY: sentinel/ : Eliminating hostiles...
+[15:44:45]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[15:45:01]SAY: sentinel/ : Eliminating hostiles...
+[15:45:03]SAY: Pete/ : eh?
+[15:45:21]SAY: Featherbottom/ : Bwaak bwak.
+[15:45:38]SAY: mouse/ : Squeek!
+[15:45:40]SAY: sentinel/ : Eliminating hostiles...
+[15:45:43]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/randomize at (9,91,7)
+[15:46:03]SAY: mouse/ : Squeek!
+[15:46:12]SAY: sentinel/ : Eliminating hostiles...
+[15:46:24]EMOTE: monkey (711)/ : <B>The monkey (711)</B> jumps!
+[15:46:24]SAY: sentinel/ : Establishing control of planet...
+[15:46:28]SAY: mouse/ : SQUEEK!
+[15:46:28]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/step_trigger/crusher at (19,74,7)
+[15:46:33]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:46:38]SAY: sentinel/ : Eliminating hostiles...
+[15:46:40]SAY: sentinel/ : Establishing control of planet...
+[15:47:24]SAY: sentinel/ : Establishing control of planet...
+[15:47:33]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 15:59.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:59:54]ADMIN: Loading Banlistjob
+[15:59:54]ADMIN: Loading jobban_rank
+[15:59:54]ADMIN: jobban_keylist was empty
+[15:59:54]ADMIN: Loading appearance_rank
+[15:59:54]ADMIN: appearance_keylist was empty
+[15:59:54]ADMIN: Updating jobbanfile!
+[15:59:54]ADMIN: Loading Banlist
+[15:59:54]ADMIN: Loading RTD lists
+[16:07:36]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[16:08:16]ADMIN: DrakeMarshall has started the game.
+[16:08:19]ACCESS: Logout: *no key*/(DrakeMarshall)
+[16:08:19]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[16:08:31]EMOTE: monkey (905)/ : <B>The monkey (905)</B> jumps!
+[16:08:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (118,104,1)
+[16:08:58]SAY: sentinel/ : Establishing control of planet...
+[16:09:00]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 130,118,1 in the Kitchen
+[16:09:08]SAY: Venatus Kyner/DrakeMarshall : this is a bad idea...
+[16:09:09]SAY: Venatus Kyner/DrakeMarshall : hehe
+[16:09:12]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> laughs
+[16:09:15]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> laughs insanely
+[16:09:21]ACCESS: Logout: *no key*/(Venatus Kyner)
+[16:09:21]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[16:09:37]SAY: sentinel/ : Establishing control of planet...
+[16:09:37]SAY: sentinel/ : Establishing control of planet...
+[16:09:41]SAY: sentinel/ : Establishing control of planet...
+[16:10:13]SAY: sentinel/ : Eliminating hostiles...
+[16:10:13]SAY: sentinel/ : Establishing control of planet...
+[16:10:20]SAY: sentinel/ : Eliminating hostiles...
+[16:10:30]SAY: sentinel/ : Eliminating hostiles...
+[16:10:36]SAY: Betsy/ : moo
+[16:10:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (130,123,1)
+[16:10:39]SAY: sentinel/ : Establishing control of planet...
+[16:10:39]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[16:10:39]ACCESS: Logout: *no key*/(Venatus Kyner)
+[16:10:39]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:10:42]ACCESS: Logout: *no key*/(Unknown)
+[16:10:42]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:10:43]SAY: necron scarab/ : Establishing control of planet...
+[16:10:51]SAY: sentinel/ : Eliminating hostiles...
+[16:10:55]SAY: sentinel/ : Eliminating hostiles...
+[16:11:01]SAY: sentinel/ : Establishing control of planet...
+[16:11:05]SAY: sentinel/ : Eliminating hostiles...
+[16:11:22]SAY: mouse/ : SQUEEK!
+[16:11:33]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (7,103,2)
+[16:11:35]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:11:35]ACCESS: Logout: *no key*/(Unknown)
+[16:11:35]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:11:40]SAY: sentinel/ : Establishing control of planet...
+[16:11:45]WHISPER: Unknown/drakemarshall : owch
+[16:11:45]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:11:45]ACCESS: Logout: *no key*/(Unknown)
+[16:11:45]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:11:55]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (19,118,2)
+[16:11:57]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:11:57]ACCESS: Logout: *no key*/(Unknown)
+[16:11:57]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:12:02]SAY: Unknown/drakemarshall : shit
+[16:12:10]SAY: Unknown/drakemarshall : OH THE IRONY!!!!
+[16:12:13]SAY: sentinel/ : Establishing control of planet...
+[16:12:19]WHISPER: Unknown/drakemarshall : owch
+[16:12:19]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:12:21]SAY: sentinel/ : Eliminating hostiles...
+[16:12:22]ACCESS: Logout: *no key*/(Unknown)
+[16:12:22]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:12:23]SAY: sentinel/ : Eliminating hostiles...
+[16:12:39]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (6,108,2)
+[16:12:41]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:12:41]ACCESS: Logout: *no key*/(Unknown)
+[16:12:41]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:12:47]WHISPER: Unknown/drakemarshall : owch
+[16:12:47]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[16:12:49]ACCESS: Logout: *no key*/(Unknown)
+[16:12:49]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:12:50]SAY: sentinel/ : Eliminating hostiles...
+[16:13:00]SAY: sentinel/ : Eliminating hostiles...
+[16:13:05]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (6,85,2)
+[16:13:07]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:13:07]ACCESS: Logout: *no key*/(Unknown)
+[16:13:07]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:13:29]SAY: sentinel/ : Establishing control of planet...
+[16:13:33]SAY: necron scarab/ : Establishing control of planet...
+[16:13:33]SAY: sentinel/ : Establishing control of planet...
+[16:13:34]ACCESS: Logout: *no key*/(Unknown)
+[16:13:34]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:13:41]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (9,81,2)
+[16:13:48]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:13:48]ACCESS: Logout: *no key*/(Unknown)
+[16:13:48]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:13:57]SAY: Unknown/drakemarshall : huh.
+[16:13:59]ACCESS: Logout: *no key*/(Unknown)
+[16:13:59]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:14:10]SAY: grey baby slime (769)/ : Blorble...
+[16:14:14]EMOTE: monkey (99)/ : <B>The monkey (99)</B> jumps!
+[16:14:16]ADMIN: DrakeMarshall/(Unknown) modified wall's name to z wall
+[16:14:44]ADMIN: DrakeMarshall/(Unknown) called the z wall's shuffle() with no arguments.
+[16:15:38]SAY: mouse/ : SQUEEK!
+[16:15:42]SAY: sentinel/ : Eliminating hostiles...
+[16:15:52]SAY: sentinel/ : Establishing control of planet...
+[16:16:17]SAY: Kentucky/ : Bwaak bwak.
+[16:16:56]SAY: Betsy/ : MOOOOOO
+[16:17:28]SAY: sentinel/ : Establishing control of planet...
+[16:17:57]SAY: Featherbottom/ : Cluck!
+[16:18:03]SAY: sentinel/ : Establishing control of planet...
+[16:18:28]EMOTE: monkey (99)/ : <B>The monkey (99)</B> jumps!
+[16:18:28]EMOTE: monkey (545)/ : <B>The monkey (545)</B> jumps!
+[16:18:37]SAY: necron scarab/ : Establishing control of planet...
+[16:18:48]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 16:44.49
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[16:44:49]ADMIN: Loading Banlistjob
+[16:44:49]ADMIN: Loading jobban_rank
+[16:44:49]ADMIN: jobban_keylist was empty
+[16:44:49]ADMIN: Loading appearance_rank
+[16:44:49]ADMIN: appearance_keylist was empty
+[16:44:49]ADMIN: Updating jobbanfile!
+[16:44:49]ADMIN: Loading Banlist
+[16:44:49]ADMIN: Loading RTD lists
+[16:45:33]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[16:45:42]ADMIN: DrakeMarshall has started the game.
+[16:45:42]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[16:45:44]ACCESS: Logout: *no key*/(DrakeMarshall)
+[16:45:44]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[16:46:11]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[16:46:25]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 130,120,1 in the Kitchen
+[16:46:26]SAY: mouse/ : Squeek?
+[16:46:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/structure/reagent_dispensers/fueltank at (130,120,1)
+[16:46:32]SAY: mouse/ : Squeek?
+[16:47:15]SAY: sentinel/ : Eliminating hostiles...
+[16:47:23]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 134,127,1 in the Maltese Falcon
+[16:48:27]SAY: sentinel/ : Establishing control of planet...
+[16:48:29]SAY: mouse/ : Squeek?
+[16:48:40]SAY: Featherbottom/ : Bwaak bwak.
+[16:48:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/rifle at (125,143,1)
+[16:48:46]SAY: grey baby slime (850)/ : Blop...
+[16:49:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (126,127,1)
+[16:49:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (126,128,1)
+[16:49:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (125,137,1)
+[16:50:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (127,137,1)
+[16:50:49]SAY: mouse/ : SQUEEK!
+[16:50:54]SAY: sentinel/ : Establishing control of planet...
+[16:51:25]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[16:51:52]SAY: grey baby slime (850)/ : Blorble...
+[16:51:52]SAY: Kentucky/ : Cluck!
+[16:52:05]SAY: Venatus Kyner/DrakeMarshall : well fuck
+[16:52:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (126,140,1)
+[16:53:12]SAY: Pugley III/ : YAP
+[16:53:23]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (125,144,1)
+[16:53:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (124,144,1)
+[16:54:04]EMOTE: monkey (21)/ : <B>The monkey (21)</B> jumps!
+[16:54:49]EMOTE: monkey (39)/ : <B>The monkey (39)</B> jumps!
+[16:55:15]SAY: Kentucky/ : Bwaak bwak.
+[16:55:38]EMOTE: monkey (473)/ : <B>The monkey (473)</B> jumps!
+[16:55:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (108,144,1)
+[16:55:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/chem_grenade/plague at (107,144,1)
+[16:56:01]SAY: Venatus Kyner/DrakeMarshall : well then
+[16:56:03]GAME: A chemical smoke reaction has taken place in (Central Primary Hallway | 108, 144)[ Biohazardous Plague Infected Shit ]. No associated key.
+[16:56:04]SAY: Venatus Kyner/DrakeMarshall : lets have some fun
+[16:56:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (106,148,1)
+[16:56:14]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (106,148,1)
+[16:56:18]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Fore Primary Hallway (107,148,1).
+[16:56:29]SAY: mouse/ : Squeek!
+[16:56:29]SAY: mouse/ : Squeek?
+[16:56:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/phaseshifter at (108,158,1)
+[16:57:14]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (161,2,1)
+[16:57:15]EMOTE: monkey (862)/ : <B>The monkey (862)</B> jumps!
+[16:57:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (161,3,1)
+[16:57:29]SAY: Pugley III/ : Bark!
+[16:58:10]SAY: Kentucky/ : Cluck!
+[16:58:14]SAY: Pete/ : EHEHEHEHEH
+[16:58:24]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[16:58:40]EMOTE: monkey (39)/ : <B>The monkey (39)</B> jumps!
+[16:59:08]ACCESS: Logout: *no key*/(Venatus Kyner)
+[16:59:08]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[16:59:22]SAY: sentinel/ : Establishing control of planet...
+[16:59:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (78,76,7)
+[16:59:49]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[16:59:49]ACCESS: Logout: *no key*/(Venatus Kyner)
+[16:59:50]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:59:51]SAY: grey baby slime (277)/ : Blorble...
+[16:59:58]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (74,74,7)
+[17:00:14]ACCESS: Logout: *no key*/(Unknown)
+[17:00:14]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[17:00:59]ADMIN: drakemarshall/(Unknown) spawned /turf/simulated/floor/onecron at (52,107,7)
+[17:00:59]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:01:07]ADMIN: drakemarshall/(Unknown) spawned /turf/simulated/floor/onecron at (49,108,7)
+[17:01:12]EMOTE: monkey (150)/ : <B>The monkey (150)</B> jumps!
+[17:01:24]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:01:25]ADMIN: drakemarshall/(Unknown) spawned /obj/item/device/flashlight/lantern at (8,95,7)
+[17:01:26]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (9,95,7)
+[17:01:28]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:01:30]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:01:30]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[17:01:30]ACCESS: Logout: *no key*/(Unknown)
+[17:01:31]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[17:01:56]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:02:09]EMOTE: Venatus Kyner/ : <B>Venatus Kyner</B> gasps!
+[17:02:22]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:02:24]EMOTE: Unknown/@DrakeMarshall : <B>Unknown</B> gasps!
+[17:02:40]EMOTE: Venatus Kyner/ : <B>Venatus Kyner</B> gasps!
+[17:02:40]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[17:02:44]EMOTE: Venatus Kyner/ : <B>Venatus Kyner</B> gasps!
+[17:02:45]ACCESS: Logout: drakemarshall[DC]/(Unknown)

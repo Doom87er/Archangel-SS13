@@ -1,0 +1,514 @@
+
+
+Starting up. 00:12.49
+---------------------
+
+
+Starting up. 01:19.18
+---------------------
+[01:33:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:33:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (323) with The liquad death</font>
+[01:34:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:34:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot ravener (13) with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Crecep with The liquad death</font>
+[01:35:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:35:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Logren with The liquad death</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Disciple Nabrus with Heavy Bolt</font>
+[01:36:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:36:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Heavy Bolt</font>
+[01:37:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:37:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:37:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Lord with The liquad death</font>
+[01:38:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:38:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Necron Warrior with The liquad death</font>
+[01:39:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+[01:39:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot necron warrior with The liquad death</font>
+
+
+Starting up. 02:00.35
+---------------------
+
+
+Starting up. 12:30.13
+---------------------
+
+
+Starting up. 12:47.45
+---------------------
+
+
+Starting up. 13:04.03
+---------------------
+
+
+Starting up. 13:26.52
+---------------------
+
+
+Starting up. 13:54.52
+---------------------
+
+
+Starting up. 14:17.13
+---------------------
+
+
+Starting up. 13:42.04
+---------------------
+[14:13:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The laser</font>
+[14:13:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The laser</font>
+[14:13:37]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The laser</font>
+[14:16:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The liquad death</font>
+[14:16:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:16:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:16:26]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:16:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:16:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot lych guard with The liquad death</font>
+[14:17:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:17:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The liquad death</font>
+[14:18:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The liquad death</font>
+[14:18:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:10]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:18:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The liquad death</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Heavy Bolt</font>
+[14:19:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Heavy Bolt</font>
+[14:19:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Heavy Bolt</font>
+[14:19:26]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with Heavy Bolt</font>
+[14:19:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with Heavy Bolt</font>
+[14:19:39]ATTACK: <font color='red'>Unknown(drakemarshall) tried to plant explosives on Unknown(drakemarshall) with plastic explosives</font>
+[14:19:44]ATTACK: <font color='red'>Unknown(drakemarshall) planted plastic explosives on Unknown(drakemarshall) </font>
+
+
+Starting up. 14:32.16
+---------------------
+
+
+Starting up. 15:21.13
+---------------------
+[15:31:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:31:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:31:51]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:31:52]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:31:52]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:07]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:07]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:07]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:17]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:19]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot necron warrior with The plasma</font>
+[15:32:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:32:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:33:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Warrior with The plasma</font>
+[15:33:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:34]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:33:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:37]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:37]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:40:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:40:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:00]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:00]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:26]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The plasma</font>
+[15:41:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:41:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The plasma</font>
+[15:43:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:07]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:08]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:16]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:19]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:19]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:43:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The hellbeam</font>
+[15:44:13]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:13]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:18]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+[15:44:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The declown</font>
+
+
+Starting up. 16:35.45
+---------------------
+[16:43:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The freakin missile!</font>
+
+
+Starting up. 16:52.43
+---------------------

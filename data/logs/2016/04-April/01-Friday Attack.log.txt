@@ -1,0 +1,30 @@
+
+
+Starting up. 12:35.18
+---------------------
+
+
+Starting up. 13:07.19
+---------------------
+
+
+Starting up. 14:14.09
+---------------------
+
+
+Starting up. 17:33.54
+---------------------
+
+
+Starting up. 18:35.47
+---------------------
+[18:53:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to disarm Venatus Kyner(drakemarshall) </font>
+
+
+Starting up. 19:08.36
+---------------------
+[19:13:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to hamstring Unknown </font>
+[19:13:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[19:13:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[19:13:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[19:13:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>

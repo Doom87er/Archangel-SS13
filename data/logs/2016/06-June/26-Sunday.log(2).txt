@@ -1,0 +1,83 @@
+
+
+Starting up. 13:34.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[13:34:45]ADMIN: Loading Banlistjob
+[13:34:45]ADMIN: Loading jobban_rank
+[13:34:45]ADMIN: jobban_keylist was empty
+[13:34:45]ADMIN: Loading appearance_rank
+[13:34:45]ADMIN: appearance_keylist was empty
+[13:34:45]ADMIN: Updating jobbanfile!
+[13:34:45]ADMIN: Loading Banlist
+[13:34:45]ADMIN: Loading RTD lists
+[13:42:37]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:44:50]ACCESS: Logout: DrakeMarshall[DC]/(DrakeMarshall)
+[13:44:50]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:44:54]ADMIN: DrakeMarshall has started the game.
+[13:44:54]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[13:44:56]ACCESS: Logout: *no key*/(DrakeMarshall)
+[13:44:56]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:44:57]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:45:05]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:07]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:09]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:17]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:45:19]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:45:23]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:45:25]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:45:27]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:45:34]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:34]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:45:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/structure/closet/secure_closet/ammunitionlocker at (161,16,2)
+[13:45:39]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:45:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (161,19,2)
+[13:45:43]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:45]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:45:59]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:01]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:13]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:17]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:46:19]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:23]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:46:25]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:25]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:46:35]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:35]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:37]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:37]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:46:40]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:46:42]EMOTE: monkey (621)/ : <B>The monkey (621)</B> jumps!
+[13:46:42]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/sentinel/kreig2/loaded at (161,19,2)
+[13:46:46]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:48]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:46:54]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:46:58]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:47:02]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:47:06]EMOTE: monkey (755)/ : <B>The monkey (755)</B> jumps!
+[13:47:06]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:47:10]EMOTE: monkey (621)/ : <B>The monkey (621)</B> jumps!
+[13:47:37]ACCESS: Logout: *no key*/(Venatus Kyner)
+[13:47:37]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:47:44]EMOTE: Magos Sidonius/ : <B>Magos Sidonius</B> gasps!
+[13:47:50]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:48:00]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:48:04]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:48:09]EMOTE: Clown/ : <B>Clown</B> gasps!
+[13:48:23]EMOTE: Clown Pilot/ : <B>Clown Pilot</B> gasps!
+[13:48:39]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

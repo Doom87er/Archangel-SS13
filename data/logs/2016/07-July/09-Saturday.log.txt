@@ -1,0 +1,27 @@
+
+
+Starting up. 22:05.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[22:05:53]ADMIN: Loading Banlistjob
+[22:05:53]ADMIN: Loading jobban_rank
+[22:05:53]ADMIN: jobban_keylist was empty
+[22:05:53]ADMIN: Loading appearance_rank
+[22:05:53]ADMIN: appearance_keylist was empty
+[22:05:53]ADMIN: Updating jobbanfile!
+[22:05:53]ADMIN: Loading Banlist
+[22:05:53]ADMIN: Loading RTD lists

@@ -1,0 +1,162 @@
+
+
+Starting up. 22:37.52
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[22:37:52]ADMIN: Loading Banlistjob
+[22:37:52]ADMIN: Loading jobban_rank
+[22:37:52]ADMIN: jobban_keylist was empty
+[22:37:52]ADMIN: Loading appearance_rank
+[22:37:52]ADMIN: appearance_keylist was empty
+[22:37:52]ADMIN: Updating jobbanfile!
+[22:37:52]ADMIN: Loading Banlist
+[22:37:52]ADMIN: Loading RTD lists
+[22:39:01]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[22:39:09]ADMIN: Norc has started the game.
+[22:39:10]GAME: Norc (ckey) has been selected as a Heretic
+[22:39:12]ACCESS: Logout: *no key*/(Norc)
+[22:39:12]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[22:39:35]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork at (183,17,2)
+[22:39:44]ADMIN: Norc/(Brian Garrison) assumed direct control of the ork (831).
+[22:39:44]ACCESS: Logout: *no key*/(Brian Garrison)
+[22:39:44]ACCESS: Login: norc/(ork (831)) from 127.0.0.1-1324596339 || BYOND v509
+[22:40:06]ADMIN: norc/(ork (831)) jumped to CargoDrone
+[22:40:32]ADMIN: norc/(ork (831)) jumped to the Library
+[22:40:55]ACCESS: Logout: *no key*/(ork (831))
+[22:40:55]ACCESS: Login: norc/(ork (831)) from 127.0.0.1-1324596339 || BYOND v509
+[22:41:04]ADMIN: norc/(ork (831)) spawned /mob/living/carbon/human/ork/gretchin/gret at (114,171,1)
+[22:41:14]ADMIN: norc/(ork (831)) assumed direct control of Gretchin (710).
+[22:41:14]ACCESS: Logout: *no key*/(ork (831))
+[22:41:14]ACCESS: Login: norc/(Gretchin (710)) from 127.0.0.1-1324596339 || BYOND v509
+[22:41:29]SAY: sentinel/ : Eliminating hostiles...
+[22:41:33]SAY: Betsy/ : moo
+[22:41:43]SAY: Pete/ : eh?
+[22:41:45]SAY: Pugley III/ : Woof!
+[22:42:08]ADMIN: norc/(Gretchin (710)) jumped to 120,222,1 in the Brig
+[22:42:13]EMOTE: monkey (843)/ : <B>The monkey (843)</B> jumps!
+[22:42:15]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[22:42:18]ADMIN: norc/(Gretchin (710)) jumped to 129,233,1 in the Brig Control
+[22:42:24]ADMIN: norc/(Gretchin (710)) jumped to 131,233,1 in the Head of Security's Office
+[22:42:29]ADMIN: norc/(Gretchin (710)) jumped to 132,233,1 in the Head of Security's Office
+[22:42:34]ADMIN: norc/(Gretchin (710)) jumped to 131,233,1 in the Head of Security's Office
+[22:42:39]ADMIN: norc/(Gretchin (710)) jumped to 131,234,1 in the Brig Control
+[22:42:43]ADMIN: norc/(Gretchin (710)) jumped to 131,235,1 in the Brig Control
+[22:42:47]ADMIN: norc/(Gretchin (710)) jumped to 131,239,1 in the Brig Control
+[22:42:50]SAY: sentinel/ : Eliminating hostiles...
+[22:43:15]ADMIN: Norc/(Gretchin (710)) modified Gretchin (710)'s amount_grown to 100
+[22:43:34]SAY: Pugley III/ : AUUUUUU
+[22:43:34]SAY: sentinel/ : Establishing control of planet...
+[22:43:35]ADMIN: Norc/(Gretchin (710)) modified Gretchin (710)'s amount_grown to 200
+[22:43:45]ACCESS: Logout: *no key*/(Gretchin (710))
+[22:43:45]ACCESS: Login: norc/(Ork Oddboy (435)) from 127.0.0.1-1324596339 || BYOND v509
+[22:44:06]SAY: sentinel/ : Eliminating hostiles...
+[22:44:16]ADMIN: norc/(Ork Oddboy (435)) spawned /obj/item/weapon/taperoll at (129,239,1)
+[22:44:22]SAY: mouse/ : SQUEEK!
+[22:44:25]ADMIN: norc/(Ork Oddboy (435)) spawned /obj/item/weapon/gun/projectile/slugga at (128,239,1)
+[22:44:52]SAY: sentinel/ : Eliminating hostiles...
+[22:45:55]SAY: sentinel/ : Eliminating hostiles...
+[22:46:27]SAY: grey baby slime (586)/ : Lonely...
+[22:46:31]SAY: mouse/ : Squeek?
+[22:46:41]SAY: sentinel/ : Eliminating hostiles...
+[22:47:27]SAY: mouse/ : Squeek?
+[22:47:49]EMOTE: monkey (177)/ : <B>The monkey (177)</B> jumps!
+[22:48:13]SAY: sentinel/ : Eliminating hostiles...
+[22:48:28]SAY: sentinel/ : Establishing control of planet...
+[22:48:34]ADMIN: norc/(Ork Oddboy (435)) spawned /obj/item/weapon/gun/projectile/slugga at (133,239,1)
+[22:48:38]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[22:48:47]ADMIN: norc/(Ork Oddboy (435)) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (134,239,1)
+[22:48:48]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:49:12]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[22:49:14]ADMIN: norc/(Ork Oddboy (435)) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (135,239,1)
+[22:50:16]SAY: grey baby slime (284)/ : Blorble...
+[22:50:18]SAY: mouse/ : Squeek?
+[22:50:42]SAY: mouse/ : SQUEEK!
+[22:50:50]SAY: mouse/ : Squeek!
+[22:52:00]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:52:16]EMOTE: monkey (988)/ : <B>The monkey (988)</B> jumps!
+[22:52:22]EMOTE: monkey (347)/ : <B>The monkey (347)</B> jumps!
+[22:52:47]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[22:53:05]SAY: mouse/ : SQUEEK!
+[22:53:19]EMOTE: monkey (645)/ : <B>The monkey (645)</B> jumps!
+[22:53:25]ACCESS: Logout: norc[DC]/(Ork Oddboy (435))
+
+
+Starting up. 23:01.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[23:01:37]ADMIN: Loading Banlistjob
+[23:01:37]ADMIN: Loading jobban_rank
+[23:01:37]ADMIN: jobban_keylist was empty
+[23:01:37]ADMIN: Loading appearance_rank
+[23:01:37]ADMIN: appearance_keylist was empty
+[23:01:37]ADMIN: Updating jobbanfile!
+[23:01:37]ADMIN: Loading Banlist
+[23:01:37]ADMIN: Loading RTD lists
+[23:03:28]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[23:03:39]ADMIN: Norc has started the game.
+[23:03:41]ACCESS: Logout: *no key*/(Norc)
+[23:03:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[23:03:53]EMOTE: monkey (200)/ : <B>The monkey (200)</B> jumps!
+[23:03:57]ADMIN: Norc/(Brian Garrison) jumped to the Brig
+[23:04:01]SAY: Pete/ : EHEHEHEHEH
+[23:04:07]SAY: sentinel/ : Eliminating hostiles...
+[23:04:10]ADMIN: Norc/(Brian Garrison) jumped to the Escape Pod Three
+[23:04:13]SAY: Featherbottom/ : Bwaak bwak.
+[23:04:19]EMOTE: monkey (271)/ : <B>The monkey (271)</B> jumps!
+[23:04:31]SAY: sentinel/ : Establishing control of planet...
+[23:04:42]ADMIN: Norc/(Brian Garrison) jumped to the Head of Security's Office
+[23:04:48]ADMIN: Norc/(Brian Garrison) jumped to 137,233,1 in the Head of Security's Office
+[23:04:56]ADMIN: Norc/(Brian Garrison) jumped to 137,234,1 in the Brig Control
+[23:04:59]ADMIN: Norc/(Brian Garrison) jumped to 137,235,1 in the Brig Control
+[23:05:02]ADMIN: Norc/(Brian Garrison) jumped to 136,237,1 in the Brig Control
+[23:05:08]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork/gretchin/gret at (137,237,1)
+[23:05:10]SAY: grey baby slime (415)/ : Blop...
+[23:05:12]SAY: sentinel/ : Establishing control of planet...
+[23:05:19]ADMIN: Norc/(Brian Garrison) modified Gretchin (392)'s amount_grown to 200
+[23:05:23]ADMIN: Norc/(Brian Garrison) assumed direct control of Gretchin (392).
+[23:05:23]ACCESS: Logout: *no key*/(Brian Garrison)
+[23:05:23]ACCESS: Login: norc/(Gretchin (392)) from 127.0.0.1-1324596339 || BYOND v509
+[23:05:24]SAY: sentinel/ : Establishing control of planet...
+[23:05:31]ACCESS: Logout: *no key*/(Gretchin (392))
+[23:05:31]ACCESS: Login: norc/(Ork Oddboy (982)) from 127.0.0.1-1324596339 || BYOND v509
+[23:05:36]EMOTE: monkey (633)/ : <B>The monkey (633)</B> jumps!
+[23:05:46]SAY: sentinel/ : Eliminating hostiles...
+[23:06:18]EMOTE: monkey (200)/ : <B>The monkey (200)</B> jumps!
+[23:06:20]ADMIN: norc/(Ork Oddboy (982)) spawned /obj/item/weapon/gun/projectile/slugga at (134,239,1)
+[23:07:06]ADMIN: norc/(Ork Oddboy (982)) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (129,239,1)
+[23:07:18]EMOTE: monkey (964)/ : <B>The monkey (964)</B> jumps!
+[23:07:48]ADMIN: norc/(Ork Oddboy (982)) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (131,239,1)
+[23:07:56]ADMIN: norc/(Ork Oddboy (982)) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (130,239,1)
+[23:08:12]EMOTE: monkey (203)/ : <B>The monkey (203)</B> jumps!
+[23:08:54]EMOTE: monkey (675)/ : <B>The monkey (675)</B> jumps!
+[23:09:14]SAY: sentinel/ : Eliminating hostiles...
+[23:09:25]SAY: sentinel/ : Eliminating hostiles...
+[23:09:46]ACCESS: Logout: norc[DC]/(Ork Oddboy (982))

@@ -1,0 +1,78 @@
+
+
+Starting up. 10:32.36
+---------------------
+
+
+Starting up. 10:40.01
+---------------------
+
+
+Starting up. 10:44.14
+---------------------
+
+
+Starting up. 11:06.34
+---------------------
+
+
+Starting up. 11:37.03
+---------------------
+[11:44:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[11:44:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+
+
+Starting up. 11:56.55
+---------------------
+[12:05:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Mace of Absolution(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:05:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Mace of Absolution(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[12:05:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Mace of Absolution(INTENT: HARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 12:35.39
+---------------------
+[12:40:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[12:55:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:55:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The autogun bullet</font>
+[12:56:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:56:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+[12:58:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[12:58:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[12:58:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+[12:58:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The needle</font>
+
+
+Starting up. 13:26.06
+---------------------

@@ -1,0 +1,497 @@
+
+
+Starting up. 17:58.27
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[17:58:27]ADMIN: Loading Banlistjob
+[17:58:27]ADMIN: Loading jobban_rank
+[17:58:27]ADMIN: jobban_keylist was empty
+[17:58:27]ADMIN: Loading appearance_rank
+[17:58:27]ADMIN: appearance_keylist was empty
+[17:58:27]ADMIN: Updating jobbanfile!
+[17:58:27]ADMIN: Loading Banlist
+[17:58:27]ADMIN: Loading RTD lists
+[18:05:19]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[18:14:25]ADMIN: DrakeMarshall has started the game.
+[18:14:25]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[18:14:27]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:14:27]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:14:39]SAY: mouse/ : SQUEEK!
+[18:15:27]SAY: Venatus Kyner/DrakeMarshall : heresy!
+[18:15:50]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[18:15:50]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:16:07]SAY: grey baby slime (45)/ : Blorble...
+[18:16:07]SAY: sentinel/ : Eliminating hostiles...
+[18:16:08]ACCESS: Logout: *no key*/(Someperson1)
+[18:16:08]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[18:16:08]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:16:17]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:16:17]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:16:17]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:16:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted at (142,59,1)
+[18:16:49]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[18:16:52]ADMIN: DrakeMarshall/(Venatus Kyner) has toggled *no key*/(Unknown)'s nodamage to On
+[18:16:53]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[18:16:57]EMOTE: monkey (273)/ : <B>The monkey (273)</B> jumps!
+[18:17:16]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:17:42]SAY: mouse/ : Squeek!
+[18:17:42]SAY: sentinel/ : Establishing control of planet...
+[18:17:45]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Unknown at (142,59,1)
+[18:17:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/dummy at (142,59,1)
+[18:18:01]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Test Dummy at (142,59,1)
+[18:18:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted at (142,59,1)
+[18:18:14]SAY: grey baby slime (45)/ : Rawr...
+[18:18:22]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's base_icon_state to vindicaire
+[18:18:22]EMOTE: monkey (834)/ : <B>The monkey (834)</B> jumps!
+[18:18:31]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's icon_state to vindicaire_s
+[18:18:41]EMOTE: monkey (989)/ : <B>The monkey (989)</B> jumps!
+[18:19:02]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's icon_state to vindicare_s
+[18:19:08]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's base_icon_state to vindicare
+[18:19:17]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (143,59,1)
+[18:19:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_box/magazine/exitus at (143,60,1)
+[18:19:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_box/magazine/exitus at (142,60,1)
+[18:19:25]SAY: Pugley III/ : Bark!
+[18:19:43]SAY: grey baby slime (45)/ : Blop...
+[18:19:50]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[18:20:16]ACCESS: Logout: *no key*/(Saul Albright)
+[18:20:16]ACCESS: Login: someperson1/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[18:20:16]ACCESS: Notice: someperson1/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:20:16]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's ckey to someperson1
+[18:20:26]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's base_icon_state to vindicare
+[18:20:30]ADMIN: DrakeMarshall/(Venatus Kyner) modified Unknown's icon_state to vindicare_s
+[18:20:32]SAY: Featherbottom/ : Bwaak bwak.
+[18:20:38]SAY: mouse/ : Squeek?
+[18:21:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/under/acj at (141,60,1)
+[18:21:03]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:21:03]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:21:03]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as someperson1/(Unknown).
+[18:21:33]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[18:21:47]SAY: mouse/ : SQUEEK!
+[18:21:51]SAY: mouse/ : Squeek!
+[18:22:01]SAY: mouse/ : SQUEEK!
+[18:22:54]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:22:54]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:22:54]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as someperson1/(Unknown).
+[18:22:56]EMOTE: monkey (281)/ : <B>The monkey (281)</B> jumps!
+[18:22:56]SAY: Featherbottom/ : Cluck!
+[18:23:06]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (170,85,1)
+[18:23:12]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[18:23:12]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:23:12]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[18:23:12]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as someperson1/(Unknown).
+[18:23:33]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[18:24:22]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (171,85,1)
+[18:24:40]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[18:24:51]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/hellgun at (169,84,1)
+[18:24:56]EMOTE: monkey (273)/ : <B>The monkey (273)</B> jumps!
+[18:25:21]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[18:26:18]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectile_type to /obj/item/projectile/bullet/exitus
+[18:26:39]EMOTE: monkey (426)/ : <B>The monkey (426)</B> jumps!
+[18:27:37]ADMIN: DrakeMarshall/(Unknown) modified Hellgun Magazine's ammo_type to /obj/item/ammo_casing/exitus
+[18:27:50]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+[18:28:04]ACCESS: Logout: someperson1[DC]/(Unknown)
+
+
+Starting up. 18:52.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[18:52:08]ADMIN: Loading Banlistjob
+[18:52:08]ADMIN: Loading jobban_rank
+[18:52:08]ADMIN: jobban_keylist was empty
+[18:52:08]ADMIN: Loading appearance_rank
+[18:52:08]ADMIN: appearance_keylist was empty
+[18:52:08]ADMIN: Updating jobbanfile!
+[18:52:08]ADMIN: Loading Banlist
+[18:52:08]ADMIN: Loading RTD lists
+[18:53:23]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[18:53:50]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[18:53:50]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:54:33]ADMIN: DrakeMarshall has started the game.
+[18:54:33]GAME: Someperson1 (ckey) has been selected as a Heretic
+[18:54:35]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:54:35]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:35]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:54:36]ACCESS: Logout: *no key*/(Someperson1)
+[18:54:36]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:36]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:54:51]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (124,94,1)
+[18:55:08]SAY: sentinel/ : Eliminating hostiles...
+[18:55:27]ADMIN: DrakeMarshall/(Venatus Kyner) modified Exitus Rifle's w_class to 4
+[18:55:36]SAY: sentinel/ : Establishing control of planet...
+[18:55:42]ADMIN: DrakeMarshall/(Venatus Kyner) modified Exitus Rifle's w_class to 4
+[18:55:44]ADMIN: DrakeMarshall/(Venatus Kyner) modified Exitus Rifle's w_class to 5
+[18:56:06]SAY: sentinel/ : Eliminating hostiles...
+[18:56:15]SAY: Venatus Kyner/DrakeMarshall : huh
+[18:56:23]SAY: Venatus Kyner/DrakeMarshall : big vision
+[18:56:27]EMOTE: monkey (453)/ : <B>The monkey (453)</B> jumps!
+[18:56:42]SAY: mouse/ : Squeek?
+[18:56:56]SAY: Venatus Kyner/DrakeMarshall : odd
+[18:56:59]SAY: sentinel/ : Establishing control of planet...
+[18:57:18]SAY: Saul Albright/Someperson1 : oh
+[18:57:19]SAY: Saul Albright/Someperson1 : shit
+[18:57:19]SAY: grey baby slime (492)/ : Rawr...
+[18:57:22]SAY: Saul Albright/Someperson1 : that is bad
+[18:57:26]SAY: mouse/ : Squeek?
+[18:57:30]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[18:57:34]SAY: sentinel/ : Eliminating hostiles...
+[18:57:34]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (114,82,1)
+[18:57:47]SAY: Saul Albright/Someperson1 : wow
+[18:57:48]SAY: Saul Albright/Someperson1 : nice meds
+[18:57:53]SAY: Saul Albright/Someperson1 : really nice meds
+[18:58:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/paper/hospitalar at (115,82,1)
+[18:58:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/suit/armor/sister/hosp at (115,81,1)
+[18:58:17]SAY: sentinel/ : Eliminating hostiles...
+[18:58:21]ADMIN: DrakeMarshall/(Venatus Kyner) modified Sister Hospitaller Armored Robes's icon_state to hospitaller
+[18:58:27]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[18:58:33]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:58:45]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived Someperson1/(Saul Albright)
+[18:58:45]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[18:58:55]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived Someperson1/(Saul Albright)
+[18:59:12]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[18:59:26]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[18:59:30]ADMIN: DrakeMarshall/(Venatus Kyner) modified Saul Albright's ignore_pain to 0
+[18:59:32]ADMIN: DrakeMarshall/(Venatus Kyner) modified Saul Albright's suppress_pain to 0
+[18:59:34]EMOTE: monkey (418)/ : <B>The monkey (418)</B> jumps!
+[18:59:50]SAY: mouse/ : Squeek?
+[19:00:08]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[19:00:10]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[19:00:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/under/surgerycybernetic at (114,82,1)
+[19:00:20]SAY: grey baby slime (492)/ : Lonely...
+[19:00:24]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[19:00:31]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived Someperson1/(Saul Albright)
+[19:00:33]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:36]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:38]SAY: Kentucky/ : Cluck!
+[19:00:40]SAY: Betsy/ : MOOOOOO
+[19:00:40]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:44]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:47]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:51]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:55]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:00:56]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[19:00:57]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:01]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:04]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:08]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:11]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:15]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:18]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:20]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[19:01:22]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> screams!
+[19:01:22]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[19:01:28]EMOTE: monkey (70)/ : <B>The monkey (70)</B> jumps!
+[19:01:30]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:01:36]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[19:01:38]ACCESS: Logout: Someperson1[DC]/(Saul Albright)
+[19:01:40]SAY: grey baby slime (636)/ : Blop...
+[19:01:42]SAY: Unknown/DrakeMarshall : hm
+[19:01:44]SAY: Unknown/DrakeMarshall : exitus rifle is deadly
+[19:01:58]SAY: sentinel/ : Establishing control of planet...
+[19:02:11]SAY: sentinel/ : Eliminating hostiles...
+[19:02:12]SAY: mouse/ : Squeek?
+[19:02:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_box/magazine/exitus at (129,89,1)
+[19:02:23]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_box/magazine/exitus at (128,89,1)
+[19:02:25]SAY: Betsy/ : moo
+[19:02:37]EMOTE: monkey (823)/ : <B>The monkey (823)</B> jumps!
+[19:02:39]SAY: Kentucky/ : Cluck!
+[19:02:41]SAY: mouse/ : Squeek?
+[19:03:21]SAY: sentinel/ : Establishing control of planet...
+[19:03:36]GAME: DrakeMarshall/(Venatus Kyner) triggered a fueltank explosion.
+[19:03:37]SAY: Betsy/ : moo?
+[19:04:08]SAY: Pete/ : EHEHEHEHEH
+[19:04:46]SAY: Featherbottom/ : Bwaak bwak.
+[19:04:56]SAY: sentinel/ : Eliminating hostiles...
+[19:05:23]EMOTE: monkey (298)/ : <B>The monkey (298)</B> jumps!
+[19:05:41]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[19:05:45]SAY: Pugley III/ : Woof!
+[19:05:59]SAY: mouse/ : SQUEEK!
+[19:07:08]SAY: sentinel/ : Establishing control of planet...
+[19:07:18]SAY: mouse/ : SQUEEK!
+[19:07:45]SAY: sentinel/ : Eliminating hostiles...
+[19:07:51]SAY: mouse/ : Squeek?
+[19:08:00]EMOTE: monkey (158)/ : <B>The monkey (158)</B> jumps!
+[19:08:00]SAY: sentinel/ : Establishing control of planet...
+[19:08:38]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 20:38.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:38:48]ADMIN: Loading Banlistjob
+[20:38:48]ADMIN: Loading jobban_rank
+[20:38:48]ADMIN: jobban_keylist was empty
+[20:38:48]ADMIN: Loading appearance_rank
+[20:38:48]ADMIN: appearance_keylist was empty
+[20:38:48]ADMIN: Updating jobbanfile!
+[20:38:48]ADMIN: Loading Banlist
+[20:38:48]ADMIN: Loading RTD lists
+[21:07:20]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[21:09:14]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[21:09:14]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[21:09:29]ACCESS: Logout: *no key*/(DrakeMarshall)
+[21:09:29]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[21:09:29]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[21:09:29]ACCESS: Logout: *no key*/(Someperson1)
+[21:09:29]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[21:09:29]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[21:09:29]GAME: DrakeMarshall (ckey) has been selected as a Warlock
+[21:10:07]SAY: grey baby slime (567)/ : Lonely...
+[21:10:11]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/clothing/mask/gas/artifact at (113,84,1)
+[21:10:16]SAY: sentinel/ : Eliminating hostiles...
+[21:10:27]SAY: sentinel/ : Eliminating hostiles...
+[21:10:29]ADMIN: DrakeMarshall/(Circe the Great) healed / Revived DrakeMarshall/(Circe the Great)
+[21:10:50]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/weapon/gun/projectile/automatic/exitus/enforcement at (113,83,1)
+[21:11:17]EMOTE: monkey (847)/ : <B>The monkey (847)</B> jumps!
+[21:11:23]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus
+[21:11:56]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus
+[21:11:59]SAY: mouse/ : Squeek!
+[21:12:15]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (113,84,1)
+[21:12:18]EMOTE: monkey (793)/ : <B>The monkey (793)</B> jumps!
+[21:12:19]ADMIN: DrakeMarshall/(Circe the Great) deleted Exitus Rifle at (0,0,0)
+[21:12:29]SAY: Saul Albright/Someperson1 : shit
+[21:12:32]SAY: Featherbottom/ : Bwaak bwak.
+[21:12:33]SAY: Saul Albright/Someperson1 : you just killed me
+[21:12:38]WHISPER: Saul Albright/Someperson1 : fuck
+[21:12:38]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:12:53]ADMIN: DrakeMarshall/(Circe the Great) modified Saul Albright's bleedout to 0
+[21:12:58]ADMIN: DrakeMarshall/(Circe the Great) healed / Revived Someperson1/(Saul Albright)
+[21:13:18]SAY: Betsy/ : moo?
+[21:13:22]WHISPER: Circe the Great/DrakeMarshall : AULIE OXIN FIERA
+[21:13:41]SAY: sentinel/ : Eliminating hostiles...
+[21:13:48]GAME: DrakeMarshall/(Circe the Great) triggered a fueltank explosion.
+[21:13:49]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:13:58]SAY: sentinel/ : Eliminating hostiles...
+[21:14:14]SAY: sentinel/ : Eliminating hostiles...
+[21:14:43]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/weapon/gun/projectile/automatic/exitus/enforcement at (114,83,1)
+[21:14:51]SAY: sentinel/ : Eliminating hostiles...
+[21:14:57]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus-6
+[21:15:01]SAY: Kentucky/ : Cluck!
+[21:15:05]SAY: Betsy/ : moo?
+[21:15:07]SAY: mouse/ : SQUEEK!
+[21:15:16]OOC: Saul Albright/Someperson1 : wow
+[21:15:33]EMOTE: monkey (847)/ : <B>The monkey (847)</B> jumps!
+[21:15:36]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus-6
+[21:15:44]ADMIN: DrakeMarshall/(Circe the Great) modified Saul Albright's bleedout to 0
+[21:15:45]EMOTE: monkey (406)/ : <B>The monkey (406)</B> jumps!
+[21:15:49]ADMIN: DrakeMarshall/(Circe the Great) healed / Revived Someperson1/(Saul Albright)
+[21:15:50]SAY: Betsy/ : MOOOOOO
+[21:15:52]WHISPER: Circe the Great/DrakeMarshall : AULIE OXIN FIERA
+[21:16:28]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[21:16:37]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus-6-e
+[21:16:37]EMOTE: monkey (394)/ : <B>The monkey (394)</B> jumps!
+[21:16:43]SAY: Pete/ : eh?
+[21:16:43]SAY: sentinel/ : Establishing control of planet...
+[21:16:45]WHISPER: Circe the Great/DrakeMarshall : AULIE OXIN FIERA
+[21:16:53]SAY: Featherbottom/ : Cluck!
+[21:16:57]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/ammo_box/magazine/exitus/enforcement at (114,82,1)
+[21:17:08]OOC: Saul Albright/Someperson1 : test
+[21:17:09]SAY: mouse/ : Squeek?
+[21:17:20]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[21:17:34]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[21:17:54]EMOTE: monkey (847)/ : <B>The monkey (847)</B> jumps!
+[21:18:12]EMOTE: monkey (443)/ : <B>The monkey (443)</B> jumps!
+[21:18:20]SAY: mouse/ : Squeek?
+[21:18:43]SAY: Betsy/ : MOOOOOO
+[21:18:47]SAY: sentinel/ : Establishing control of planet...
+[21:19:22]SAY: Kentucky/ : Bwaak bwak.
+[21:19:30]SAY: mouse/ : SQUEEK!
+[21:19:36]SAY: sentinel/ : Establishing control of planet...
+[21:19:40]SAY: sentinel/ : Eliminating hostiles...
+[21:20:39]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (116,81,1)
+[21:20:45]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's recoil to 2
+[21:20:46]SAY: Featherbottom/ : Cluck!
+[21:21:09]WHISPER: Circe the Great/DrakeMarshall : AULIE OXIN FIERA
+[21:21:20]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:21:28]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[21:21:50]SAY: Kentucky/ : Cluck!
+[21:22:06]ADMIN: DrakeMarshall/(Circe the Great) modified Exitus Rifle's icon_state to exitus-6
+[21:22:25]SAY: mouse/ : Squeek!
+[21:22:54]EMOTE: monkey (394)/ : <B>The monkey (394)</B> jumps!
+[21:23:04]SAY: mouse/ : Squeek!
+[21:23:16]SAY: sentinel/ : Establishing control of planet...
+[21:23:20]SAY: sentinel/ : Eliminating hostiles...
+[21:23:48]ADMIN: DrakeMarshall/(Circe the Great) spawned /obj/item/weapon/nullrod/conduit at (115,85,1)
+[21:23:51]ADMIN: DrakeMarshall/(Circe the Great) spawned /mob/living/simple_animal/hostile/retaliate/daemon/daemonette at (115,86,1)
+[21:24:11]EMOTE: monkey (37)/ : <B>The monkey (37)</B> jumps!
+[21:24:13]WHISPER: Circe the Great/DrakeMarshall : ow
+[21:24:13]EMOTE: Circe the Great/DrakeMarshall : <B>Circe the Great</B> seizes up and falls limp, her eyes dead and lifeless...
+[21:24:14]GAME: Antagonists at round end were...
+[21:24:14]GAME: Wizards: Circe the Great(DrakeMarshall).
+[21:24:21]ADMIN: DrakeMarshall/(Circe the Great) healed / Revived DrakeMarshall/(Circe the Great)
+[21:24:51]ACCESS: Logout: DrakeMarshall[DC]/(Circe the Great)
+[21:24:51]ACCESS: Logout: Someperson1[DC]/(Saul Albright)
+
+
+Starting up. 21:26.10
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[21:26:10]ADMIN: Loading Banlistjob
+[21:26:11]ADMIN: Loading jobban_rank
+[21:26:11]ADMIN: jobban_keylist was empty
+[21:26:11]ADMIN: Loading appearance_rank
+[21:26:11]ADMIN: appearance_keylist was empty
+[21:26:11]ADMIN: Updating jobbanfile!
+[21:26:11]ADMIN: Loading Banlist
+[21:26:11]ADMIN: Loading RTD lists
+[21:26:52]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[21:26:53]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[21:26:53]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[21:26:59]ACCESS: Logout: Someperson1[DC]/(Someperson1)
+[21:27:01]ACCESS: Logout: DrakeMarshall[DC]/(DrakeMarshall)
+
+
+Starting up. 21:41.16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[21:41:16]ADMIN: Loading Banlistjob
+[21:41:16]ADMIN: Loading jobban_rank
+[21:41:16]ADMIN: jobban_keylist was empty
+[21:41:16]ADMIN: Loading appearance_rank
+[21:41:16]ADMIN: appearance_keylist was empty
+[21:41:16]ADMIN: Updating jobbanfile!
+[21:41:16]ADMIN: Loading Banlist
+[21:41:16]ADMIN: Loading RTD lists
+[21:51:46]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[21:51:56]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[21:51:56]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[21:52:19]ADMIN: DrakeMarshall has started the game.
+[21:52:20]GAME: Someperson1 (ckey) has been selected as a Heretic
+[21:52:22]ACCESS: Logout: *no key*/(DrakeMarshall)
+[21:52:22]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[21:52:22]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[21:52:23]ACCESS: Logout: *no key*/(Someperson1)
+[21:52:23]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[21:52:23]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[21:52:40]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[21:52:42]ADMIN: DrakeMarshall/(Venatus Kyner) toggled debugging on.
+[21:52:43]ADMIN: DrakeMarshall/(Venatus Kyner) toggled debugging off.
+[21:52:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/exitus/enforcement at (120,85,1)
+[21:52:58]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[21:53:13]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[21:53:25]SAY: mouse/ : Squeek?
+[21:53:43]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[21:54:12]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[21:54:24]SAY: sentinel/ : Establishing control of planet...
+[21:54:40]SAY: grey baby slime (74)/ : Lonely...
+[21:55:13]SAY: sentinel/ : Eliminating hostiles...
+[21:55:17]SAY: mouse/ : Squeek!
+[21:55:37]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[21:56:30]SAY: sentinel/ : Eliminating hostiles...
+[21:57:06]EMOTE: monkey (1)/ : <B>The monkey (1)</B> jumps!
+[21:58:02]SAY: sentinel/ : Establishing control of planet...
+[21:58:07]SAY: sentinel/ : Establishing control of planet...
+[21:58:18]SAY: sentinel/ : Establishing control of planet...
+[21:58:24]SAY: sentinel/ : Eliminating hostiles...
+[21:59:03]EMOTE: monkey (945)/ : <B>The monkey (945)</B> jumps!
+[21:59:31]SAY: Featherbottom/ : Bwaak bwak.
+[22:00:20]SAY: mouse/ : SQUEEK!
+[22:01:25]SAY: grey baby slime (957)/ : Blop...
+[22:02:52]SAY: Betsy/ : MOOOOOO
+[22:03:32]SAY: Featherbottom/ : Cluck!
+[22:03:57]EMOTE: monkey (263)/ : <B>The monkey (263)</B> jumps!
+[22:04:29]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:05:54]SAY: sentinel/ : Eliminating hostiles...
+[22:07:14]EMOTE: monkey (656)/ : <B>The monkey (656)</B> jumps!
+[22:07:16]SAY: mouse/ : Squeek!
+[22:07:34]SAY: Kentucky/ : Bwaak bwak.
+[22:08:00]EMOTE: monkey (676)/ : <B>The monkey (676)</B> jumps!
+[22:08:07]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[22:09:23]SAY: Betsy/ : MOOOOOO
+[22:09:29]SAY: sentinel/ : Eliminating hostiles...
+[22:09:33]ADMIN: DrakeMarshall/(Venatus Kyner) deleted Exitus Rifle at (0,0,0)
+[22:09:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (114,84,1)
+[22:09:51]SAY: Featherbottom/ : Bwaak bwak.
+[22:09:57]SAY: Pete/ : EHEHEHEHEH
+[22:10:47]SAY: mouse/ : SQUEEK!
+[22:11:02]SAY: sentinel/ : Establishing control of planet...
+[22:11:22]SAY: mouse/ : SQUEEK!
+[22:11:48]SAY: Featherbottom/ : Cluck!
+[22:13:49]SAY: mouse/ : Squeek!
+[22:14:35]ADMIN: DrakeMarshall/(Venatus Kyner) modified bullet casing's caliber to exitus
+[22:15:09]EMOTE: monkey (1)/ : <B>The monkey (1)</B> jumps!
+[22:16:04]SAY: grey baby slime (74)/ : Bored...
+[22:16:04]EMOTE: monkey (263)/ : <B>The monkey (263)</B> jumps!
+[22:17:06]SAY: mouse/ : SQUEEK!
+[22:17:51]SAY: mouse/ : SQUEEK!
+[22:18:17]SAY: grey baby slime (957)/ : Lonely...
+[22:18:53]SAY: mouse/ : SQUEEK!
+[22:19:29]SAY: mouse/ : Squeek!
+[22:19:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (114,83,1)
+[22:19:39]EMOTE: monkey (1)/ : <B>The monkey (1)</B> jumps!
+[22:19:41]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[22:19:46]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:19:57]EMOTE: monkey (339)/ : <B>The monkey (339)</B> jumps!
+[22:20:41]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+[22:20:48]SAY: mouse/ : Squeek?
+[22:21:04]SAY: Featherbottom/ : Bwaak bwak.
+[22:21:43]ACCESS: Logout: Someperson1[DC]/(Saul Albright)

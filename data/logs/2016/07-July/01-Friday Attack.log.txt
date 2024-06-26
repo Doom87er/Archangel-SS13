@@ -1,0 +1,41 @@
+
+
+Starting up. 16:42.21
+---------------------
+[16:54:16]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe, which had Nanite Drug (INTENT: DISARM)</font>
+[16:57:03]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe (emergency cardiac stabilization), which had Tricordrazine and Epinephrine (INTENT: DISARM)</font>
+[16:57:04]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe (emergency cardiac stabilization), which had Tricordrazine and Epinephrine (INTENT: DISARM)</font>
+[16:57:05]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe (emergency cardiac stabilization), which had Tricordrazine and Epinephrine (INTENT: DISARM)</font>
+[17:16:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Venatus Kyner(drakemarshall) </font>
+[17:17:36]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with Kereline Injector, which had Thenozine, Venonine, Lho Leaf, Tricordrazine and Legecillin (INTENT: DISARM)</font>
+[17:17:39]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with Kereline Injector, which had Thenozine, Venonine, Lho Leaf, Tricordrazine and Legecillin (INTENT: DISARM)</font>
+[17:48:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The tester beam</font>
+[17:48:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The tester beam</font>
+
+
+Starting up. 18:25.01
+---------------------
+[18:35:19]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe, which had Blood (INTENT: DISARM)</font>
+[18:35:20]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe, which had Blood (INTENT: DISARM)</font>
+[18:35:39]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe, which had Inaprovaline (INTENT: DISARM)</font>
+[18:35:40]ATTACK: <font color='red'>Venatus Kyner (drakemarshall) injected Venatus Kyner (drakemarshall) with syringe, which had Inaprovaline (INTENT: DISARM)</font>
+[18:59:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[18:59:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[18:59:47]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Unknown with The laser</font>
+[18:59:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Fusion blast</font>
+[18:59:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Fusion blast</font>
+[19:00:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Fusion blast</font>
+[19:00:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Fusion blast</font>
+[19:12:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pulse blast</font>
+[19:12:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pulse blast</font>
+[19:12:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pulse blast</font>
+[19:12:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The pulse blast</font>
+[19:13:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The laser</font>
+
+
+Starting up. 21:28.59
+---------------------
+
+
+Starting up. 22:31.40
+---------------------

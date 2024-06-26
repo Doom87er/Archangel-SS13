@@ -1,0 +1,29 @@
+
+
+Starting up. 08:16.48
+---------------------
+
+
+Starting up. 08:26.02
+---------------------
+
+
+Starting up. 15:35.25
+---------------------
+[15:46:30]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:46:30]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:46:31]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:46:31]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Georgene Gibson(drakemarshall) with The bullet</font>
+[15:46:34]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:46:34]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:46:35]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot Russian with The laser</font>
+[15:48:51]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot void dweller with The laser</font>
+[15:48:52]ATTACK: <font color='red'>Georgene Gibson(drakemarshall) shot void dweller with The laser</font>
+
+
+Starting up. 16:18.44
+---------------------
+
+
+Starting up. 16:32.28
+---------------------

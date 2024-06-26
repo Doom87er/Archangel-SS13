@@ -1,0 +1,195 @@
+
+
+Starting up. 04:14.21
+---------------------
+
+
+Starting up. 04:20.02
+---------------------
+
+
+Starting up. 06:30.33
+---------------------
+
+
+Starting up. 06:43.42
+---------------------
+
+
+Starting up. 07:03.37
+---------------------
+
+
+Starting up. 21:56.10
+---------------------
+[22:00:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:00:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with Information Extractor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:13:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:33]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:13:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:13:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:14:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:14:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:14:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:14:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Unknown passively</font>
+[22:14:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) neck-grabbed Unknown </font>
+[22:15:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:15:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:15:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 3</font>
+[22:15:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Unknown passively</font>
+[22:15:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 5</font>
+[22:16:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Unknown passively</font>
+[22:16:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 2</font>
+[22:16:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 6</font>
+[22:16:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 2</font>
+[22:16:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 3</font>
+[22:17:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Unknown passively</font>
+[22:17:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 4</font>
+[22:17:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:17:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with 9-70 Entrenchment Tool(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:35]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with 9-70 Entrenchment Tool(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with 9-70 Entrenchment Tool(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[22:17:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[22:17:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[22:17:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[22:17:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:17:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[22:19:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:19:24]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:19:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:19:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:19:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:19:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:20:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:20:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:20:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:20:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:20:54]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:21:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:21:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:21:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Unknown with inertial speed 14</font>
+[22:21:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) grabbed Unknown passively</font>
+[22:21:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) neck-grabbed Unknown </font>
+[22:21:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) strangled Unknown </font>
+[22:22:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:33]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:22:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[22:23:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:23:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:24:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Brother Cephas </font>
+[22:24:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Brother Cephas </font>
+[22:24:33]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:24:37]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:24:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:24:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:24:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:24:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:25:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:25:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Unknown </font>
+[22:25:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Brother Cephas </font>
+[22:25:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) tackled Brother Cephas with inertial speed 15</font>
+[22:25:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:25:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:26:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:26:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:26:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Brother Cephas </font>
+[22:26:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Brother Cephas with Bolter(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:26:54]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:56]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:57]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:26:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:27:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Cephas with Bolt</font>
+[22:35:01]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:03]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:04]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:05]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:06]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:07]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:08]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Ork Nob with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:09]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[22:35:10]ATTACK: <font color='red'>Venatus Kyner (as #(89766))(drakemarshall) attacked Unknown with mercy chainsword (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>

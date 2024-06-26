@@ -1,0 +1,31 @@
+
+
+Starting up. 17:32.36
+---------------------
+[17:40:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+
+
+Starting up. 17:46.22
+---------------------
+[17:48:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[17:48:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[17:48:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[17:48:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[17:49:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) implanted Venatus Kyner(drakemarshall) with Digital Weapon Implant</font>
+[17:49:25]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Sergeant Valocius Kyublai with The laser</font>
+[17:49:25]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Sergeant Valocius Kyublai with The laser</font>
+[17:49:25]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Sergeant Valocius Kyublai with The laser</font>
+[17:53:27]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to inject Unknown(drakemarshall) with DNA injector (Xray)</font>
+[17:53:28]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with DNA injector (Xray)</font>
+[17:53:28]ATTACK: drakemarshall/(Unknown) injected drakemarshall/(Unknown) with the DNA injector (Xray)
+[18:01:36]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to inject Unknown(drakemarshall) with DNA injector (Xray)</font>
+[18:01:36]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with DNA injector (Xray)</font>
+[18:01:36]ATTACK: drakemarshall/(Unknown) injected drakemarshall/(Unknown) with the DNA injector (Xray)
+
+
+Starting up. 20:05.05
+---------------------
+
+
+Starting up. 20:23.34
+---------------------

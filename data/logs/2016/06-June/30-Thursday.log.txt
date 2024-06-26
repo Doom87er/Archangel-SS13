@@ -1,0 +1,177 @@
+
+
+Starting up. 00:41.39
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[00:41:41]ADMIN: Loading Banlistjob
+[00:41:41]ADMIN: Loading jobban_rank
+[00:41:41]ADMIN: jobban_keylist was empty
+[00:41:41]ADMIN: Loading appearance_rank
+[00:41:41]ADMIN: appearance_keylist was empty
+[00:41:41]ADMIN: Updating jobbanfile!
+[00:41:41]ADMIN: Loading Banlist
+[00:41:41]ADMIN: Loading RTD lists
+[00:44:52]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[00:45:17]ADMIN: DrakeMarshall has started the game.
+[00:45:18]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[00:45:20]ACCESS: Logout: *no key*/(DrakeMarshall)
+[00:45:20]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[00:45:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/lasgun/full at (161,17,2)
+[00:46:22]EMOTE: monkey (494)/ : <B>The monkey (494)</B> jumps!
+[00:47:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (160,13,2)
+[00:48:00]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[00:48:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/screwdriver at (106,72,1)
+[00:48:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (106,72,1)
+[00:48:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/weldingtool at (107,72,1)
+[00:50:25]ADMIN: DrakeMarshall/(Venatus Kyner) modified air vent's name to z air vent
+[00:50:37]ADMIN: DrakeMarshall/(Venatus Kyner) called the z air vent's update_icon() with no arguments.
+[00:51:38]ADMIN: DrakeMarshall/(Venatus Kyner) called the z air vent's update_icon() with no arguments.
+[00:54:16]EMOTE: monkey (143)/ : <B>The monkey (143)</B> jumps!
+[00:54:38]EMOTE: monkey (980)/ : <B>The monkey (980)</B> jumps!
+[00:54:52]EMOTE: monkey (592)/ : <B>The monkey (592)</B> jumps!
+[00:55:02]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the maintenance
+[00:55:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/glasses/night at (55,227,8)
+[00:55:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/phaseshifter at (55,227,8)
+[00:55:56]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the maintenance
+[00:57:41]EMOTE: monkey (469)/ : <B>The monkey (469)</B> jumps!
+[00:57:43]EMOTE: monkey (108)/ : <B>The monkey (108)</B> jumps!
+[01:00:06]EMOTE: monkey (187)/ : <B>The monkey (187)</B> jumps!
+[01:00:10]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 12:30.55
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[12:30:55]ADMIN: Loading Banlistjob
+[12:30:55]ADMIN: Loading jobban_rank
+[12:30:55]ADMIN: jobban_keylist was empty
+[12:30:55]ADMIN: Loading appearance_rank
+[12:30:55]ADMIN: appearance_keylist was empty
+[12:30:55]ADMIN: Updating jobbanfile!
+[12:30:55]ADMIN: Loading Banlist
+[12:30:55]ADMIN: Loading RTD lists
+[13:01:24]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:01:51]ADMIN: DrakeMarshall has started the game.
+[13:01:53]ACCESS: Logout: *no key*/(DrakeMarshall)
+[13:01:53]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:02:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (161,14,2)
+[13:02:21]EMOTE: monkey (162)/ : <B>The monkey (162)</B> jumps!
+[13:03:32]SAY: grey baby slime (401)/ : Blorble...
+[13:03:46]SAY: grey baby slime (401)/ : Blop...
+[13:06:24]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[13:06:51]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[13:06:56]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/screwdriver at (105,76,1)
+[13:06:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (106,76,1)
+[13:07:03]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/weldingtool at (107,76,1)
+[13:07:57]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[13:10:11]EMOTE: monkey (503)/ : <B>The monkey (503)</B> jumps!
+[13:10:41]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[13:11:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (0,0,0)
+[13:11:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (0,0,0)
+[13:11:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/light_emitter at (0,0,0)
+[13:11:46]EMOTE: monkey (110)/ : <B>The monkey (110)</B> jumps!
+[13:12:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_box/magazine/boltermag/inf at (146,18,1)
+[13:12:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/bolter at (145,18,1)
+[13:12:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (138,13,1)
+[13:13:11]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:13:24]WHISPER: Venatus Kyner/DrakeMarshall : owch
+[13:13:24]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[13:13:26]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 13:37.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[13:37:45]ADMIN: Loading Banlistjob
+[13:37:45]ADMIN: Loading jobban_rank
+[13:37:45]ADMIN: jobban_keylist was empty
+[13:37:45]ADMIN: Loading appearance_rank
+[13:37:45]ADMIN: appearance_keylist was empty
+[13:37:45]ADMIN: Updating jobbanfile!
+[13:37:45]ADMIN: Loading Banlist
+[13:37:45]ADMIN: Loading RTD lists
+[13:44:48]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:45:28]ADMIN: DrakeMarshall has started the game.
+[13:45:31]ACCESS: Logout: *no key*/(DrakeMarshall)
+[13:45:31]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:45:34]SAY: grey baby slime (189)/ : Blorble...
+[13:45:39]EMOTE: monkey (359)/ : <B>The monkey (359)</B> jumps!
+[13:46:03]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (162,14,2)
+[13:46:42]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[13:46:52]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[13:47:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/autogun/full at (106,74,1)
+[13:47:55]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[13:47:55]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:48:38]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[13:49:08]EMOTE: monkey (522)/ : <B>The monkey (522)</B> jumps!
+[13:49:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/screwdriver at (105,78,1)
+[13:49:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (105,77,1)
+[13:49:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/weldingtool at (105,76,1)
+[13:51:42]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[13:52:05]SAY: grey baby slime (731)/ : Lonely...
+[13:52:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (106,76,8)
+[13:54:26]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/screwdriver at (106,70,8)
+[13:54:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/weldingtool at (106,70,8)
+[13:54:41]EMOTE: monkey (359)/ : <B>The monkey (359)</B> jumps!
+[13:54:51]EMOTE: monkey (508)/ : <B>The monkey (508)</B> jumps!
+[13:54:57]EMOTE: monkey (508)/ : <B>The monkey (508)</B> jumps!
+[13:55:13]EMOTE: monkey (495)/ : <B>The monkey (495)</B> jumps!
+[13:56:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (100,73,1)
+[13:56:34]EMOTE: monkey (508)/ : <B>The monkey (508)</B> jumps!
+[13:57:07]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 104,76,1 in the Departure Lounge
+[13:57:09]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> snores.
+[13:57:11]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> snores.
+[13:57:11]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:57:18]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's sleeping to 0
+[13:58:16]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 104,77,1 in the Departure Lounge
+[13:58:21]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> snores.
+[13:58:22]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's sleeping to 0
+[13:58:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/tank/oxygen/red at (105,69,1)
+[13:58:46]SAY: grey baby slime (189)/ : Blorble...
+[13:59:34]ADMIN: DrakeMarshall/(Venatus Kyner) modified [0x210047c4] (/datum/gas_mixture2)'s oxygen to 1e+019
+[13:59:36]GAME: Explosive tank rupture! last key to touch the tank was drakemarshall.
+[13:59:40]ACCESS: Logout: *no key*/(Venatus Kyner)
+[13:59:40]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[14:07:26]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

@@ -1,0 +1,62 @@
+
+
+Starting up. 04:59.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:59:58]ADMIN: Loading Banlistjob
+[04:59:58]ADMIN: Loading jobban_rank
+[04:59:58]ADMIN: jobban_keylist was empty
+[04:59:58]ADMIN: Loading appearance_rank
+[04:59:58]ADMIN: appearance_keylist was empty
+[04:59:58]ADMIN: Updating jobbanfile!
+[04:59:58]ADMIN: Loading Banlist
+[04:59:58]ADMIN: Loading RTD lists
+[05:01:05]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:01:15]ADMIN: Norc has started the game.
+[05:01:15]GAME: Norc (ckey) has been selected as a Heretic
+[05:01:17]ACCESS: Logout: *no key*/(Norc)
+[05:01:17]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:01:22]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:01:22]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:01:36]ADMIN: Norc/(Brian Garrison) jumped to the High Orbit. ArchAngel IV
+[05:01:44]EMOTE: monkey (484)/ : <B>The monkey (484)</B> jumps!
+[05:02:15]ADMIN: Norc/(Brian Garrison) teleported *no key*/(Magos Sidonius)
+[05:02:27]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (188,17,2)
+[05:02:32]SAY: sentinel/ : Establishing control of planet...
+[05:02:34]ADMIN: Norc/(Brian Garrison) assumed direct control of Unknown.
+[05:02:34]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:02:34]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v509
+[05:02:50]SAY: Featherbottom/ : Cluck!
+[05:04:13]EMOTE: monkey (878)/ : <B>The monkey (878)</B> jumps!
+[05:04:27]SAY: grey baby slime (40)/ : Blorble...
+[05:04:33]SAY: sentinel/ : Establishing control of planet...
+[05:04:55]SAY: sentinel/ : Establishing control of planet...
+[05:05:05]SAY: mouse/ : Squeek?
+[05:05:17]SAY: sentinel/ : Establishing control of planet...
+[05:05:45]SAY: sentinel/ : Eliminating hostiles...
+[05:06:14]SAY: Kentucky/ : Cluck!
+[05:06:18]SAY: Pugley III/ : YAP
+[05:06:30]SAY: sentinel/ : Eliminating hostiles...
+[05:06:54]SAY: sentinel/ : Establishing control of planet...
+[05:07:26]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[05:07:58]SAY: mouse/ : Squeek?
+[05:08:20]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[05:08:38]SAY: sentinel/ : Establishing control of planet...
+[05:08:54]SAY: mouse/ : Squeek?
+[05:09:03]SAY: Unknown/norc : HEY!
+[05:09:12]SAY: Unknown/norc : Can ya hear me?
+[05:09:20]ACCESS: Logout: norc[DC]/(Unknown)

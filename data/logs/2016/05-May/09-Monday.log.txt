@@ -1,0 +1,289 @@
+
+
+Starting up. 03:10.31
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:10:31]ADMIN: Loading Banlistjob
+[03:10:31]ADMIN: Loading jobban_rank
+[03:10:31]ADMIN: jobban_keylist was empty
+[03:10:31]ADMIN: Loading appearance_rank
+[03:10:31]ADMIN: appearance_keylist was empty
+[03:10:31]ADMIN: Updating jobbanfile!
+[03:10:31]ADMIN: Loading Banlist
+[03:10:31]ADMIN: Loading RTD lists
+[03:11:34]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[03:11:55]ADMIN: Norc has started the game.
+[03:11:58]ACCESS: Logout: *no key*/(Norc)
+[03:11:58]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:12:11]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/kb at (83,132,2)
+[03:12:15]SAY: mouse/ : Squeek!
+[03:12:35]SAY: necron scarab/ : Eliminating hostiles...
+[03:12:48]ADMIN: Norc/(Brian Garrison) spawned /obj/mecha/combat/chimera at (125,127,1)
+[03:12:51]SAY: sentinel/ : Establishing control of planet...
+[03:13:21]SAY: sentinel/ : Eliminating hostiles...
+[03:13:41]SAY: mouse/ : Squeek!
+[03:13:47]SAY: sentinel/ : Eliminating hostiles...
+[03:13:56]ADMIN: Norc/(Brian Garrison) modified Chimera's pixel_y to -20
+[03:14:00]ADMIN: Norc/(Brian Garrison) modified Chimera's pixel_y to -32
+[03:14:05]ADMIN: Norc/(Brian Garrison) modified Chimera's pixel_x to -20
+[03:14:35]ADMIN: Norc/(Brian Garrison) modified Chimera's pixel_y to -20
+[03:15:01]SAY: mouse/ : Squeek!
+[03:15:09]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 10:11.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:11:48]ADMIN: Loading Banlistjob
+[10:11:48]ADMIN: Loading jobban_rank
+[10:11:48]ADMIN: jobban_keylist was empty
+[10:11:48]ADMIN: Loading appearance_rank
+[10:11:48]ADMIN: appearance_keylist was empty
+[10:11:48]ADMIN: Updating jobbanfile!
+[10:11:48]ADMIN: Loading Banlist
+[10:11:48]ADMIN: Loading RTD lists
+[10:29:50]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[10:32:15]ADMIN: DrakeMarshall has started the game.
+[10:32:19]ACCESS: Logout: *no key*/(DrakeMarshall)
+[10:32:19]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[10:32:26]EMOTE: monkey (254)/ : <B>The monkey (254)</B> jumps!
+[10:32:34]SAY: Betsy/ : moo?
+[10:32:36]SAY: mouse/ : Squeek!
+[10:32:42]SAY: sentinel/ : Eliminating hostiles...
+[10:33:04]SAY: sentinel/ : Establishing control of planet...
+[10:33:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (121,98,1)
+[10:33:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (120,98,1)
+[10:33:35]SAY: mouse/ : Squeek!
+[10:33:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (121,99,1)
+[10:33:59]SAY: grey baby slime (835)/ : Rawr...
+[10:34:40]SAY: sentinel/ : Eliminating hostiles...
+[10:34:55]EMOTE: monkey (254)/ : <B>The monkey (254)</B> jumps!
+[10:35:05]SAY: Venatus Kyner/DrakeMarshall : oh god
+[10:35:07]SAY: Venatus Kyner/DrakeMarshall : run
+[10:35:19]SAY: Venatus Kyner/DrakeMarshall : fuck
+[10:35:54]ACCESS: Logout: *no key*/(Venatus Kyner)
+[10:35:54]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[10:36:01]SAY: mouse/ : Squeek?
+[10:36:07]EMOTE: monkey (744)/ : <B>The monkey (744)</B> jumps!
+[10:36:58]SAY: Ghost/DrakeMarshall : wow
+[10:37:03]SAY: Ghost/DrakeMarshall : holy shit
+[10:37:24]EMOTE: monkey (614)/ : <B>The monkey (614)</B> jumps!
+[10:37:30]EMOTE: monkey (940)/ : <B>The monkey (940)</B> jumps!
+[10:38:59]EMOTE: monkey (254)/ : <B>The monkey (254)</B> jumps!
+[10:39:30]ADMIN: DrakeMarshall/(Venatus Kyner) changed their view range to 14.
+[10:40:48]ADMIN: DrakeMarshall/(Venatus Kyner) changed their view range to 7.
+[10:40:53]EMOTE: monkey (940)/ : <B>The monkey (940)</B> jumps!
+[10:40:57]SAY: grey baby slime (835)/ : Blorble...
+[10:41:21]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 21:48.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[21:48:10]ADMIN: Loading Banlistjob
+[21:48:10]ADMIN: Loading jobban_rank
+[21:48:10]ADMIN: jobban_keylist was empty
+[21:48:10]ADMIN: Loading appearance_rank
+[21:48:10]ADMIN: appearance_keylist was empty
+[21:48:10]ADMIN: Updating jobbanfile!
+[21:48:10]ADMIN: Loading Banlist
+[21:48:10]ADMIN: Loading RTD lists
+[22:01:01]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[22:01:18]ADMIN: DrakeMarshall has started the game.
+[22:01:20]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:01:20]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:01:24]SAY: mouse/ : Squeek!
+[22:01:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (120,98,1)
+[22:01:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (121,98,1)
+[22:01:50]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Research Division (114,110,1).
+[22:01:54]SAY: Venatus Kyner/DrakeMarshall : hm
+[22:01:56]SAY: Venatus Kyner/DrakeMarshall : lets see...
+[22:02:13]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Research Division (121,100,1).
+[22:02:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/lasgun/full at (119,100,1)
+[22:03:12]SAY: Betsy/ : moo?
+[22:03:30]SAY: necron scarab/ : Establishing control of planet...
+[22:03:35]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[22:03:52]SAY: Betsy/ : moo
+[22:04:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/lasgun/full at (107,106,1)
+[22:04:21]SAY: Pugley III/ : Woof!
+[22:04:31]SAY: mouse/ : Squeek!
+[22:04:50]SAY: sentinel/ : Eliminating hostiles...
+[22:05:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/hellgun/full at (105,109,1)
+[22:05:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:06:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (106,73,1)
+[22:06:08]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Departure Lounge (106,74,1).
+[22:06:23]SAY: mouse/ : Squeek?
+[22:06:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_casing/shotgun/makeshift/overcharge at (105,76,1)
+[22:06:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/shotgun/makeshift at (105,77,1)
+[22:06:42]SAY: grey baby slime (529)/ : Rawr...
+[22:07:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/ammo_casing/shotgun/makeshift/overcharge at (106,78,1)
+[22:07:06]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[22:07:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (100,73,1)
+[22:07:14]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:07:53]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (103,70,1)
+[22:08:05]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[22:08:10]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Departure Lounge (106,73,1).
+[22:08:26]SAY: Venatus Kyner/DrakeMarshall : ow
+[22:08:31]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[22:08:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/syndieminibomb at (101,70,1)
+[22:08:42]GAME: DrakeMarshall/(Venatus Kyner) has primed a blood pact grenade for detonation at Departure Lounge (105,70,1).
+[22:09:37]SAY: grey baby slime (529)/ : Blop...
+[22:10:00]SAY: necron scarab/ : Establishing control of planet...
+[22:10:10]SAY: mouse/ : Squeek?
+[22:11:52]SAY: mouse/ : SQUEEK!
+[22:12:36]SAY: mouse/ : Squeek!
+[22:13:04]SAY: Pete/ : eh?
+[22:14:39]EMOTE: monkey (625)/ : <B>The monkey (625)</B> jumps!
+[22:14:47]EMOTE: monkey (340)/ : <B>The monkey (340)</B> jumps!
+[22:14:49]EMOTE: monkey (95)/ : <B>The monkey (95)</B> jumps!
+[22:15:20]EMOTE: monkey (625)/ : <B>The monkey (625)</B> jumps!
+[22:16:06]SAY: mouse/ : Squeek!
+[22:16:26]EMOTE: monkey (311)/ : <B>The monkey (311)</B> jumps!
+[22:16:30]SAY: Betsy/ : moo
+[22:16:36]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[22:16:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (99,73,1)
+[22:16:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (100,73,1)
+[22:17:13]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[22:17:14]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (100,74,1)
+[22:17:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (100,74,1)
+[22:17:23]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (99,74,1)
+[22:18:15]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:18:15]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:19:30]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (100,69,1)
+[22:19:33]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[22:19:33]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:19:33]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:19:40]SAY: mouse/ : Squeek?
+[22:19:46]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[22:19:47]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/chem_grenade/incendiary at (99,67,1)
+[22:19:49]GAME: drakemarshall/(Unknown) has primed a incendiary grenade casing for detonation at Departure Lounge (100,67,1).
+[22:19:53]SAY: Unknown/drakemarshall : hm...
+[22:20:04]SAY: Unknown/drakemarshall : well huh
+[22:20:19]ACCESS: Logout: *no key*/(Unknown)
+[22:20:19]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:21:18]SAY: mouse/ : Squeek?
+[22:22:48]SAY: Betsy/ : moo
+[22:23:55]SAY: necron scarab/ : Eliminating hostiles...
+[22:23:57]SAY: mouse/ : Squeek?
+[22:25:21]SAY: Betsy/ : moo?
+[22:27:31]SAY: mouse/ : SQUEEK!
+[22:28:14]SAY: grey baby slime (529)/ : Blorble...
+[22:28:31]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (162,4,1)
+[22:28:33]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[22:28:33]ACCESS: Logout: *no key*/(Unknown)
+[22:28:33]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:28:37]ADMIN: drakemarshall/(Unknown) spawned /obj/item/device/flashlight/lantern at (161,4,1)
+[22:28:39]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:28:47]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/exitus at (162,4,1)
+[22:29:01]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (162,5,1)
+[22:29:08]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:29:24]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/powersword/paxe at (164,4,1)
+[22:29:30]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/chainsword/frostblade at (165,2,1)
+[22:29:45]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/energy/plasma/rifle at (165,2,1)
+[22:30:02]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/rack/bolter/full at (166,3,1)
+[22:30:07]EMOTE: monkey (533)/ : <B>The monkey (533)</B> jumps!
+[22:30:09]SAY: mouse/ : Squeek!
+[22:30:22]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/imperial at (162,2,1)
+[22:30:31]GAME: drakemarshall/(Unknown) has primed a Imperial Fragmentation Grenade for detonation at necron catacombs (68,95,7).
+[22:30:36]SAY: mouse/ : Squeek?
+[22:30:40]SAY: sentinel/ : Eliminating hostiles...
+[22:31:12]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:31:16]SAY: mouse/ : SQUEEK!
+[22:31:24]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:31:33]SAY: mouse/ : Squeek?
+[22:31:33]SAY: sentinel/ : Eliminating hostiles...
+[22:31:42]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:32:07]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:32:08]SAY: mouse/ : Squeek?
+[22:32:24]SAY: sentinel/ : Establishing control of planet...
+[22:32:33]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:32:53]SAY: Kentucky/ : Cluck!
+[22:32:55]SAY: grey baby slime (213)/ : Rawr...
+[22:33:05]SAY: sentinel/ : Eliminating hostiles...
+[22:33:11]SAY: mouse/ : Squeek!
+[22:33:12]ADMIN: DrakeMarshall/(Unknown) modified floor's temperature to 20000
+[22:33:28]ADMIN: drakemarshall/(Unknown) jumped to 37,94,7 in the necron catacombs
+[22:33:34]ADMIN: drakemarshall/(Unknown) jumped to 37,92,7 in the necron catacombs
+[22:33:35]SAY: Betsy/ : moo
+[22:33:38]ADMIN: drakemarshall/(Unknown) jumped to 38,92,7 in the necron catacombs
+[22:33:43]ADMIN: drakemarshall/(Unknown) jumped to 39,92,7 in the necron catacombs
+[22:33:47]ADMIN: drakemarshall/(Unknown) jumped to 40,92,7 in the necron catacombs
+[22:33:48]EMOTE: monkey (829)/ : <B>The monkey (829)</B> jumps!
+[22:33:50]SAY: mouse/ : Squeek?
+[22:33:50]ADMIN: drakemarshall/(Unknown) jumped to 40,91,7 in the necron catacombs
+[22:34:25]SAY: Pete/ : EHEHEHEHEH
+[22:34:29]SAY: mouse/ : SQUEEK!
+[22:34:59]SAY: mouse/ : Squeek!
+[22:35:15]SAY: mouse/ : Squeek!
+[22:35:43]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[22:35:59]EMOTE: Unknown/drakemarshall : <B>Unknown</B> screams!
+[22:36:00]SAY: Pugley III/ : Woof!
+[22:36:03]SAY: Unknown/drakemarshall : ow
+[22:36:07]SAY: Unknown/drakemarshall : fucking doors
+[22:36:14]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:36:24]SAY: sentinel/ : Establishing control of planet...
+[22:36:28]SAY: mouse/ : SQUEEK!
+[22:36:55]SAY: mouse/ : Squeek!
+[22:37:03]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:37:07]SAY: sentinel/ : Eliminating hostiles...
+[22:37:15]SAY: mouse/ : Squeek?
+[22:37:47]ADMIN: DrakeMarshall/(Unknown) modified wall's name to z entrane
+[22:38:03]ADMIN: DrakeMarshall/(Unknown) called the z entrane's shuffle() with no arguments.
+[22:38:31]SAY: sentinel/ : Establishing control of planet...
+[22:38:43]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:38:45]SAY: sentinel/ : Eliminating hostiles...
+[22:39:10]SAY: sentinel/ : Establishing control of planet...
+[22:39:10]SAY: sentinel/ : Eliminating hostiles...
+[22:39:12]SAY: mouse/ : Squeek!
+[22:39:16]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:39:22]SAY: sentinel/ : Establishing control of planet...
+[22:39:36]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[22:39:42]SAY: Pugley III/ : Bark!
+[22:39:50]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/imperial at (26,81,7)
+[22:39:51]SAY: necron scarab/ : Eliminating hostiles...
+[22:40:00]GAME: drakemarshall/(Unknown) has primed a Imperial Fragmentation Grenade for detonation at necron catacombs (26,81,7).
+[22:40:05]SAY: sentinel/ : Eliminating hostiles...
+[22:40:06]SAY: Unknown/drakemarshall : SAVE YOURSELVES!!!
+[22:40:23]ACCESS: Logout: drakemarshall[DC]/(Unknown)

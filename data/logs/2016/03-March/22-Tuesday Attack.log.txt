@@ -1,0 +1,113 @@
+
+
+Starting up. 04:47.56
+---------------------
+[04:49:30]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[04:49:37]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[04:49:41]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[04:49:46]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[04:49:54]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[04:50:00]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[04:50:08]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 04:55.50
+---------------------
+[04:57:38]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[04:57:43]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[04:58:03]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[04:58:10]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 05:02.38
+---------------------
+[05:04:23]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[05:04:29]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:32]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:40]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:43]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:46]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[05:04:50]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:52]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:04:56]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 05:24.49
+---------------------
+[05:27:22]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 05:33.58
+---------------------
+[05:36:26]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 05:40.49
+---------------------
+[05:42:36]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 05:45.06
+---------------------
+[05:46:25]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: HELP) (DAMTYE: BRUTE)</font>
+[05:46:34]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[05:46:47]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:46:58]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:00]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:01]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:02]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:03]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:04]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:47:06]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[05:47:14]ATTACK: <font color='red'>Brian Garrison(norc) neck-grabbed Unknown </font>
+[05:47:18]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:49:03]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[05:49:07]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:49:09]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[05:49:17]ATTACK: <font color='red'>Brian Garrison(norc) attacked Unknown with chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 06:25.29
+---------------------
+[06:34:36]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:34:41]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:34:49]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:34:50]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:34:59]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:35:01]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:35:02]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:35:03]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:35:21]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[06:35:29]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:36:10]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:36:19]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+[06:36:20]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Unknown passively</font>
+[06:36:35]ATTACK: <font color='red'>Brian Garrison(norc) shot Unknown with The laser</font>
+
+
+Starting up. 18:52.22
+---------------------
+
+
+Starting up. 19:05.33
+---------------------
+
+
+Starting up. 19:13.18
+---------------------
+
+
+Starting up. 19:21.06
+---------------------
+
+
+Starting up. 19:29.47
+---------------------
+
+
+Starting up. 19:44.36
+---------------------
+
+
+Starting up. 20:00.04
+---------------------

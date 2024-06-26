@@ -1,0 +1,206 @@
+
+
+Starting up. 00:36.08
+---------------------
+
+
+Starting up. 01:29.43
+---------------------
+
+
+Starting up. 04:22.29
+---------------------
+
+
+Starting up. 05:00.13
+---------------------
+
+
+Starting up. 05:19.05
+---------------------
+
+
+Starting up. 05:40.50
+---------------------
+
+
+Starting up. 05:53.14
+---------------------
+
+
+Starting up. 06:01.11
+---------------------
+
+
+Starting up. 13:01.24
+---------------------
+[13:06:40]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:41]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:42]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:45]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:52]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:53]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:54]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:06:55]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:11]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:12]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:13]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:14]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:18]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:19]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:20]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:22]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:25]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:26]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:27]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:28]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:32]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:33]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:34]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:07:36]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:09:28]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:09:49]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:11:11]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[13:11:12]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[13:11:14]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[13:11:14]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[13:11:15]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[13:14:28]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:29]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:30]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:36]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with scalpel(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:37]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with scalpel(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:43]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:45]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:46]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:49]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with scalpel(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with scalpel(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:53]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with surgical drill(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:14:54]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with surgical drill(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:15:01]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:16:09]ATTACK: <font color='red'>Unknown(drakemarshall) implanted Unknown(drakemarshall) with a the personal AI device using a surgical mechadendrite. INTENT: HARM</font>
+[13:17:13]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:17:14]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:17:16]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:17:17]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:17:26]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[13:18:03]ATTACK: <font color='red'>Unknown(drakemarshall) augmented Unknown(drakemarshall) by giving him new chest INTENT: HARM</font>
+[13:19:18]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:19:22]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[13:22:01]ATTACK: <font color='red'>Unknown debrained Unknown with a surgical mechadendrite. INTENT: HARM</font>
+[13:29:22]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[13:29:23]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[13:29:24]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[13:29:31]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[13:29:32]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[13:29:33]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[13:29:42]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[13:29:43]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[13:29:44]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[13:29:55]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:29:57]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:29:58]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:13]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:14]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:15]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:24]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:25]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:30:26]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Ketoconazole injector(Mindbreaker Toxin and Chloral Hydrate)</font>
+[13:31:04]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:05]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:06]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:07]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:11]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:12]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:13]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:14]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:18]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:19]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:20]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[13:31:21]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[14:03:32]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to inject Unknown(drakemarshall) with DNA injector (Xray)</font>
+[14:03:32]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with DNA injector (Xray)</font>
+[14:03:32]ATTACK: drakemarshall/(Unknown) injected drakemarshall/(Unknown) with the DNA injector (Xray)
+
+
+Starting up. 15:17.17
+---------------------
+[15:33:29]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:33:31]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:33:32]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:33:45]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) attacked Unknown with circular saw(INTENT: HELP) (DAMTYE: BRUTE)</font>
+[15:34:23]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Unknown by giving him new chest INTENT: HELP</font>
+[15:35:12]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) attacked Sarai Koepple(drakemarshall) with circular saw(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[15:36:04]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) debrained Unknown with a surgical mechadendrite. INTENT: HARM</font>
+[15:36:15]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:36:53]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new mouth INTENT: DISARM</font>
+[15:37:28]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new left leg INTENT: DISARM</font>
+[15:37:57]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new left arm INTENT: DISARM</font>
+[15:38:39]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new chest INTENT: DISARM</font>
+[15:39:11]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new right leg INTENT: DISARM</font>
+[15:39:40]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new right arm INTENT: DISARM</font>
+[15:44:39]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with surgical drill(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:45:57]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:46:45]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[15:46:47]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[15:47:57]ATTACK: <font color='red'>Unknown(drakemarshall) implanted Unknown(drakemarshall) with a Vox Caster using a surgical mechadendrite. INTENT: DISARM</font>
+[15:50:05]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:07]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:08]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:10]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:23]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:26]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:28]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:50:47]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:51:06]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:51:07]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:51:08]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:51:11]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:51:12]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:52:58]ATTACK: <font color='red'>Inquisition(drakemarshall) injected Unknown with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[15:56:31]ATTACK: <font color='red'>Inquisition(drakemarshall) attacked Unknown with surgical drill(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[15:58:06]ATTACK: <font color='red'>Inquisition(drakemarshall) debrained Unknown with a surgical mechadendrite. INTENT: DISARM</font>
+[16:51:24]ATTACK: <font color='red'>Inquisition(drakemarshall) injected Inquisition(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[17:00:59]ATTACK: <font color='red'>Inquisition(drakemarshall) removed the implanted  from Inquisition(drakemarshall) using a surgical mechadendrite. INTENT: DISARM</font>
+[17:02:31]ATTACK: <font color='red'>Inquisition(drakemarshall) injected Inquisition(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[17:04:42]ATTACK: <font color='red'>Inquisition(drakemarshall) implanted Inquisition(drakemarshall) with a the retractor using a surgical mechadendrite. INTENT: DISARM</font>
+[17:51:34]ATTACK: <font color='red'>Inquisition(drakemarshall) attacked Inquisition(drakemarshall) with Clamp(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[18:01:29]ATTACK: <font color='red'>Inquisition debrained Inquisition with a surgical mechadendrite. INTENT: DISARM</font>
+
+
+Starting up. 18:28.52
+---------------------
+[18:35:52]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+
+
+Starting up. 19:12.18
+---------------------
+[19:22:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[19:22:08]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[19:22:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[19:22:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[19:26:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) augmented Venatus Kyner(drakemarshall) by giving him new chest INTENT: DISARM</font>
+[19:26:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with surgical drapes(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[19:26:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with surgical drapes(INTENT: HELP) (DAMTYE: BRUTE)</font>
+[19:26:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[19:26:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Isilonimine Injector(Legecillin)</font>
+[19:27:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Isilonimine Injector(Legecillin)</font>
+[19:27:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Isilonimine Injector(Legecillin)</font>
+[19:27:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Isilonimine Injector(Legecillin)</font>
+[19:34:24]ATTACK: <font color='red'>Unknown(drakemarshall) disarmed Disciple Nabrus </font>
+[19:34:25]ATTACK: <font color='red'>Unknown(drakemarshall) disarmed Disciple Nabrus </font>
+[19:34:26]ATTACK: <font color='red'>Unknown(drakemarshall) disarmed Disciple Nabrus </font>
+[19:34:33]ATTACK: <font color='red'>Unknown(drakemarshall) hit Disciple Nabrus with Rotting head</font>
+
+
+Starting up. 23:09.13
+---------------------
+
+
+Starting up. 23:33.26
+---------------------
+
+
+Starting up. 23:46.42
+---------------------

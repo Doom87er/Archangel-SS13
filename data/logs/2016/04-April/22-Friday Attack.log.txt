@@ -1,0 +1,181 @@
+
+
+Starting up. 20:38.53
+---------------------
+
+
+Starting up. 20:54.19
+---------------------
+
+
+Starting up. 21:15.33
+---------------------
+
+
+Starting up. 21:24.14
+---------------------
+
+
+Starting up. 21:39.08
+---------------------
+
+
+Starting up. 21:51.37
+---------------------
+
+
+Starting up. 21:56.17
+---------------------
+[22:14:20]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:21]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:22]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:22]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:23]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:23]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:24]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:25]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:25]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:26]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:26]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:27]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:28]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:28]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:29]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:30]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:30]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:31]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:31]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:32]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot Brother Augustus with Bolt</font>
+[22:14:53]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:54]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:54]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:55]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:56]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:57]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:57]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:58]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:59]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:14:59]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:15:00]ATTACK: <font color='red'>Brother Tiberias(drakemarshall) shot ravener (207) with Bolt</font>
+[22:17:49]ATTACK: <font color='red'>#(78805)(drakemarshall) injected #(78805)(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[22:19:16]ATTACK: <font color='red'>#(78805)(drakemarshall) injected #(78805)(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[22:19:45]ATTACK: <font color='red'>#(78805)(drakemarshall) injected #(78805)(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[22:20:03]ATTACK: <font color='red'>#(78805)(drakemarshall) shot wraith with The laser</font>
+[22:20:13]ATTACK: <font color='red'>#(78805)(drakemarshall) shot wraith with The laser</font>
+[22:20:13]ATTACK: <font color='red'>#(78805)(drakemarshall) shot wraith with The laser</font>
+[22:20:42]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:43]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:44]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:45]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:46]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:47]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:50]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:50]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:51]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:52]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:52]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:54]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:54]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:54]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:20:55]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:00]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:00]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:01]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:02]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:02]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:03]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:04]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:04]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:05]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:06]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:06]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:06]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:07]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:11]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:11]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:12]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:14]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:16]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:16]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:17]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:18]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:18]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:19]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:20]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:21]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:24]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:27]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:28]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:28]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:29]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:30]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:31]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:32]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:32]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:33]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:34]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:34]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:36]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:37]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:38]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:42]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:47]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:47]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:48]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:49]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:21:50]ATTACK: <font color='red'>#(78805)(drakemarshall) shot Necron Immortal with The laser</font>
+[22:29:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot wraith with The laser</font>
+[22:29:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:29:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Necron Immortal with The laser</font>
+[22:30:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:17]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:17]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:30:59]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:31:00]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:31:00]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:31:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:31:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab with The laser</font>
+[22:31:29]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[22:31:31]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[22:31:32]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[22:31:33]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>

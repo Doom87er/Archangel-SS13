@@ -1,0 +1,287 @@
+
+
+Starting up. 05:05.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[05:05:14]ADMIN: Loading Banlistjob
+[05:05:14]ADMIN: Loading jobban_rank
+[05:05:14]ADMIN: jobban_keylist was empty
+[05:05:14]ADMIN: Loading appearance_rank
+[05:05:14]ADMIN: appearance_keylist was empty
+[05:05:14]ADMIN: Updating jobbanfile!
+[05:05:14]ADMIN: Loading Banlist
+[05:05:14]ADMIN: Loading RTD lists
+[05:07:30]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:07:41]ADMIN: Norc has started the game.
+[05:07:41]GAME: Norc (ckey) has been selected as a Heretic
+[05:07:43]ACCESS: Logout: *no key*/(Norc)
+[05:07:43]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:08:07]ADMIN: Norc/(Brian Garrison) jumped to Order of the Sacred Rose
+[05:08:11]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:08:11]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:08:25]SAY: Betsy/ : MOOOOOO
+[05:08:41]EMOTE: monkey (590)/ : <B>The monkey (590)</B> jumps!
+[05:08:42]ADMIN: Norc/(Brian Garrison) teleported @Norc[DC]/(Brian Garrison)
+[05:08:44]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:08:44]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:09:42]SAY: sentinel/ : Eliminating hostiles...
+[05:09:50]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> seizes up and falls limp, his eyes dead and lifeless...
+[05:09:54]GAME: A chemical smoke reaction has taken place in (Snow | 236, 30)[ Biohazardous Plague Infected Shit ]. No associated key.
+[05:10:00]SAY: sentinel/ : Establishing control of planet...
+[05:10:08]SAY: sentinel/ : Eliminating hostiles...
+[05:10:10]EMOTE: monkey (753)/ : <B>The monkey (753)</B> jumps!
+[05:10:14]SAY: sentinel/ : Establishing control of planet...
+[05:10:23]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[05:10:36]SAY: sentinel/ : Eliminating hostiles...
+[05:10:40]SAY: sentinel/ : Establishing control of planet...
+[05:10:44]SAY: mouse/ : Squeek?
+[05:10:53]GAME: A chemical smoke reaction has taken place in (Snow | 236, 4)[ Biohazardous Plague Infected Shit ]. No associated key.
+[05:10:54]EMOTE: monkey (500)/ : <B>The monkey (500)</B> jumps!
+[05:10:58]SAY: sentinel/ : Eliminating hostiles...
+[05:10:58]SAY: sentinel/ : Establishing control of planet...
+[05:11:00]SAY: mouse/ : Squeek!
+[05:11:06]GAME: A chemical smoke reaction has taken place in (Snow | 236, 4)[ Biohazardous Plague Infected Shit ]. No associated key.
+[05:11:08]SAY: mouse/ : Squeek!
+[05:11:12]SAY: sentinel/ : Eliminating hostiles...
+[05:11:14]EMOTE: monkey (500)/ : <B>The monkey (500)</B> jumps!
+[05:11:46]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:57.32
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[06:57:32]ADMIN: Loading Banlistjob
+[06:57:32]ADMIN: Loading jobban_rank
+[06:57:32]ADMIN: jobban_keylist was empty
+[06:57:32]ADMIN: Loading appearance_rank
+[06:57:32]ADMIN: appearance_keylist was empty
+[06:57:32]ADMIN: Updating jobbanfile!
+[06:57:32]ADMIN: Loading Banlist
+[06:57:32]ADMIN: Loading RTD lists
+[06:58:21]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[06:58:33]ADMIN: Norc has started the game.
+[06:58:33]GAME: Norc (ckey) has been selected as a Heretic
+[06:58:35]ACCESS: Logout: *no key*/(Norc)
+[06:58:35]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[06:58:50]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (147,121,1)
+[06:59:10]ADMIN: Norc/(Brian Garrison) deleted Gateway Access Shutter at (121,117,1)
+[06:59:20]SAY: mouse/ : SQUEEK!
+[07:00:44]EMOTE: monkey (419)/ : <B>The monkey (419)</B> jumps!
+[07:00:50]SAY: sentinel/ : Establishing control of planet...
+[07:01:00]EMOTE: monkey (308)/ : <B>The monkey (308)</B> jumps!
+[07:01:10]SAY: mouse/ : Squeek?
+[07:01:10]SAY: Kentucky/ : Cluck!
+[07:01:12]EMOTE: monkey (782)/ : <B>The monkey (782)</B> jumps!
+[07:01:18]SAY: sentinel/ : DIE!
+[07:01:24]SAY: sentinel/ : Establishing control of planet...
+[07:01:33]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:10.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[07:10:10]ADMIN: Loading Banlistjob
+[07:10:10]ADMIN: Loading jobban_rank
+[07:10:10]ADMIN: jobban_keylist was empty
+[07:10:10]ADMIN: Loading appearance_rank
+[07:10:10]ADMIN: appearance_keylist was empty
+[07:10:10]ADMIN: Updating jobbanfile!
+[07:10:10]ADMIN: Loading Banlist
+[07:10:10]ADMIN: Loading RTD lists
+[07:10:56]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:11:08]ADMIN: Norc has started the game.
+[07:11:09]GAME: Norc (ckey) has been selected as a Heretic
+[07:11:10]ACCESS: Logout: *no key*/(Norc)
+[07:11:10]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:11:19]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (147,121,1)
+[07:11:38]ADMIN: Norc/(Brian Garrison) deleted Gateway Access Shutter at (121,117,1)
+[07:11:40]EMOTE: monkey (416)/ : <B>The monkey (416)</B> jumps!
+[07:11:48]SAY: mouse/ : Squeek?
+[07:12:11]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (120,120,1)
+[07:12:24]SAY: mouse/ : SQUEEK!
+[07:12:40]SAY: sentinel/ : DIE!
+[07:13:23]SAY: sentinel/ : DIE!
+[07:13:47]SAY: sentinel/ : Establishing control of planet...
+[07:13:49]SAY: sentinel/ : Eliminating hostiles...
+[07:13:57]SAY: mouse/ : Squeek!
+[07:14:08]SAY: sentinel/ : DIE!
+[07:14:10]SAY: sentinel/ : Eliminating hostiles...
+[07:14:10]SAY: sentinel/ : DIE!
+[07:14:16]SAY: sentinel/ : Establishing control of planet...
+[07:14:17]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:18.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[07:18:08]ADMIN: Loading Banlistjob
+[07:18:08]ADMIN: Loading jobban_rank
+[07:18:08]ADMIN: jobban_keylist was empty
+[07:18:08]ADMIN: Loading appearance_rank
+[07:18:08]ADMIN: appearance_keylist was empty
+[07:18:08]ADMIN: Updating jobbanfile!
+[07:18:08]ADMIN: Loading Banlist
+[07:18:08]ADMIN: Loading RTD lists
+
+
+Starting up. 07:21.18
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[07:21:18]ADMIN: Loading Banlistjob
+[07:21:18]ADMIN: Loading jobban_rank
+[07:21:18]ADMIN: jobban_keylist was empty
+[07:21:18]ADMIN: Loading appearance_rank
+[07:21:18]ADMIN: appearance_keylist was empty
+[07:21:18]ADMIN: Updating jobbanfile!
+[07:21:18]ADMIN: Loading Banlist
+[07:21:18]ADMIN: Loading RTD lists
+[07:22:02]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:22:10]ADMIN: Norc has started the game.
+[07:22:10]GAME: Norc (ckey) has been selected as a Heretic
+[07:22:12]ACCESS: Logout: *no key*/(Norc)
+[07:22:12]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:22:21]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (147,121,1)
+[07:22:40]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (126,123,1)
+[07:22:42]SAY: mouse/ : Squeek?
+[07:22:48]ADMIN: Norc/(Brian Garrison) deleted Gateway Access Shutter at (120,117,1)
+[07:24:33]SAY: necron scarab/ : Establishing control of planet...
+[07:24:40]SAY: sentinel/ : DIE!
+[07:24:54]SAY: mouse/ : Squeek!
+[07:24:56]SAY: sentinel/ : DIE!
+[07:25:05]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:36.27
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[07:36:27]ADMIN: Loading Banlistjob
+[07:36:27]ADMIN: Loading jobban_rank
+[07:36:27]ADMIN: jobban_keylist was empty
+[07:36:27]ADMIN: Loading appearance_rank
+[07:36:27]ADMIN: appearance_keylist was empty
+[07:36:27]ADMIN: Updating jobbanfile!
+[07:36:27]ADMIN: Loading Banlist
+[07:36:27]ADMIN: Loading RTD lists
+[07:37:23]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:36]ADMIN: Norc has started the game.
+[07:37:36]GAME: Norc (ckey) has been selected as a Heretic
+[07:37:38]ACCESS: Logout: *no key*/(Norc)
+[07:37:38]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:51]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (142,124,1)
+[07:38:07]ADMIN: Norc/(Brian Garrison) deleted Gateway Access Shutter at (121,117,1)
+[07:38:58]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:41.24
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[07:41:24]ADMIN: Loading Banlistjob
+[07:41:24]ADMIN: Loading jobban_rank
+[07:41:24]ADMIN: jobban_keylist was empty
+[07:41:24]ADMIN: Loading appearance_rank
+[07:41:24]ADMIN: appearance_keylist was empty
+[07:41:24]ADMIN: Updating jobbanfile!
+[07:41:24]ADMIN: Loading Banlist
+[07:41:24]ADMIN: Loading RTD lists
+[07:42:11]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:42:18]ADMIN: Norc has started the game.
+[07:42:18]GAME: Norc (ckey) has been selected as a Heretic
+[07:42:20]ACCESS: Logout: *no key*/(Norc)
+[07:42:20]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:42:36]ADMIN: Norc/(Brian Garrison) jumped to 121,124,1 in the Gateway
+[07:42:41]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/hacktool at (121,123,1)
+[07:42:50]SAY: mouse/ : Squeek?
+[07:43:35]SAY: Betsy/ : MOOOOOO
+[07:44:36]SAY: sentinel/ : DIE!
+[07:44:40]ACCESS: Logout: Norc[DC]/(Brian Garrison)

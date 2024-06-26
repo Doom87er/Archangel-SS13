@@ -1,0 +1,109 @@
+
+
+Starting up. 20:24.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:24:02]ADMIN: Loading Banlistjob
+[20:24:02]ADMIN: Loading jobban_rank
+[20:24:02]ADMIN: jobban_keylist was empty
+[20:24:02]ADMIN: Loading appearance_rank
+[20:24:02]ADMIN: appearance_keylist was empty
+[20:24:02]ADMIN: Updating jobbanfile!
+[20:24:02]ADMIN: Loading Banlist
+[20:24:02]ADMIN: Loading RTD lists
+[20:33:54]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[20:34:22]ADMIN: Norc has started the game.
+[20:34:23]GAME: Norc (ckey) has been selected as a Heretic
+[20:34:25]ACCESS: Logout: *no key*/(Norc)
+[20:34:25]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[20:35:08]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/intelmain at (161,7,2)
+[20:35:31]ADMIN: Norc/(Brian Garrison) initiated a reboot.
+[20:35:36]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 20:42.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:42:51]ADMIN: Loading Banlistjob
+[20:42:51]ADMIN: Loading jobban_rank
+[20:42:51]ADMIN: jobban_keylist was empty
+[20:42:51]ADMIN: Loading appearance_rank
+[20:42:51]ADMIN: appearance_keylist was empty
+[20:42:51]ADMIN: Updating jobbanfile!
+[20:42:51]ADMIN: Loading Banlist
+[20:42:51]ADMIN: Loading RTD lists
+[20:45:55]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[20:48:07]ADMIN: Norc has started the game.
+[20:48:07]GAME: Norc (ckey) has been selected as a Heretic
+[20:48:09]ACCESS: Logout: *no key*/(Norc)
+[20:48:10]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[20:48:29]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/intelmain at (161,7,2)
+[20:48:38]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[20:49:08]EMOTE: monkey (194)/ : <B>The monkey (194)</B> jumps!
+[20:49:15]EMOTE: monkey (413)/ : <B>The monkey (413)</B> jumps!
+[20:49:35]EMOTE: monkey (804)/ : <B>The monkey (804)</B> jumps!
+[20:51:08]EMOTE: monkey (322)/ : <B>The monkey (322)</B> jumps!
+[20:52:47]EMOTE: monkey (747)/ : <B>The monkey (747)</B> jumps!
+[20:52:59]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 21:12.27
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[21:12:27]ADMIN: Loading Banlistjob
+[21:12:27]ADMIN: Loading jobban_rank
+[21:12:27]ADMIN: jobban_keylist was empty
+[21:12:27]ADMIN: Loading appearance_rank
+[21:12:27]ADMIN: appearance_keylist was empty
+[21:12:27]ADMIN: Updating jobbanfile!
+[21:12:27]ADMIN: Loading Banlist
+[21:12:27]ADMIN: Loading RTD lists
+[21:15:44]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[21:15:58]ADMIN: Norc has started the game.
+[21:16:00]ACCESS: Logout: *no key*/(Norc)
+[21:16:00]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[21:16:13]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/computer/intelmain at (161,7,2)
+[21:16:34]EMOTE: monkey (700)/ : <B>The monkey (700)</B> jumps!
+[21:16:49]ACCESS: Logout: Norc[DC]/(Brian Garrison)

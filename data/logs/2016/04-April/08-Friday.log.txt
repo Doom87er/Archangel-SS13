@@ -1,0 +1,145 @@
+
+
+Starting up. 08:15.57
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:15:57]ADMIN: Loading Banlistjob
+[08:15:57]ADMIN: Loading jobban_rank
+[08:15:57]ADMIN: jobban_keylist was empty
+[08:15:57]ADMIN: Loading appearance_rank
+[08:15:57]ADMIN: appearance_keylist was empty
+[08:15:57]ADMIN: Updating jobbanfile!
+[08:15:57]ADMIN: Loading Banlist
+[08:15:57]ADMIN: Loading RTD lists
+[08:18:10]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:18]ADMIN: Norc has started the game.
+[08:18:18]GAME: Norc (ckey) has been selected as a Heretic
+[08:18:21]ACCESS: Logout: *no key*/(Norc)
+[08:18:21]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:38]SAY: grey baby slime (831)/ : Lonely...
+[08:18:42]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/projectile/shoota at (137,210,1)
+[08:18:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:18:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:53]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork at (137,211,1)
+[08:19:01]ADMIN: Norc/(Brian Garrison) assumed direct control of the ork (286).
+[08:19:01]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:19:01]ACCESS: Login: norc/(ork (286)) from 127.0.0.1-1324596339 || BYOND v509
+[08:19:10]SAY: ork (286)/norc : LOOK AT MY FLASH!!
+[08:19:14]SAY: ork (286)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:19:15]SAY: mouse/ : Squeek!
+[08:19:18]SAY: ork (286)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:19:22]SAY: ork (286)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:19:26]SAY: ork (286)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:19:31]SAY: ork (286)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:19:42]SAY: ork (286)/norc : DANCE! DANCE HUMIE DANCE!
+[08:19:49]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> gasps!
+[08:19:51]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> gasps!
+[08:20:16]ACCESS: Logout: *no key*/(ork (286))
+[08:20:16]ACCESS: Login: norc/(ork (286)) from 127.0.0.1-1324596339 || BYOND v509
+[08:20:17]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:20:19]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:20:33]SAY: sentinel/ : Establishing control of planet...
+[08:20:33]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:20:35]SAY: Betsy/ : moo
+[08:20:52]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:21:00]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:21:02]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:21:05]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:21:08]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[08:21:23]SAY: sentinel/ : Eliminating hostiles...
+[08:21:25]SAY: sentinel/ : Establishing control of planet...
+[08:21:27]SAY: Pete/ : eh?
+[08:21:29]ACCESS: Logout: norc[DC]/(ork (286))
+
+
+Starting up. 08:24.03
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:24:03]ADMIN: Loading Banlistjob
+[08:24:03]ADMIN: Loading jobban_rank
+[08:24:03]ADMIN: jobban_keylist was empty
+[08:24:03]ADMIN: Loading appearance_rank
+[08:24:03]ADMIN: appearance_keylist was empty
+[08:24:03]ADMIN: Updating jobbanfile!
+[08:24:03]ADMIN: Loading Banlist
+[08:24:03]ADMIN: Loading RTD lists
+[08:26:35]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:26:47]ADMIN: Norc has started the game.
+[08:26:48]GAME: Norc (ckey) has been selected as a Heretic
+[08:26:50]ACCESS: Logout: *no key*/(Norc)
+[08:26:50]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:26:54]SAY: mouse/ : Squeek!
+[08:27:00]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork at (140,211,1)
+[08:27:06]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/projectile/shoota at (141,211,1)
+[08:27:13]ADMIN: Norc/(Brian Garrison) assumed direct control of the ork (520).
+[08:27:13]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:27:13]ACCESS: Login: norc/(ork (520)) from 127.0.0.1-1324596339 || BYOND v509
+[08:27:17]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:17]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:20]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:20]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:21]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:21]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:23]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:24]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:24]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:25]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:25]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:25]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:26]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:27]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:27]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:28]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:29]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:29]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:31]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:27:31]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:32]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:32]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:33]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:35]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:38]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:39]EMOTE: monkey (483)/ : <B>The monkey (483)</B> jumps!
+[08:27:39]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> gasps!
+[08:27:40]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:41]EMOTE: Brian Garrison/ : <B>Brian Garrison</B> seizes up and falls limp, his eyes dead and lifeless...
+[08:27:41]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:42]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:43]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:43]SAY: ork (520)/norc : DANCE HUMIE DANCE!
+[08:27:43]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:45]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:45]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:47]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:50]SAY: ork (520)/norc : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[08:27:51]EMOTE: monkey (173)/ : <B>The monkey (173)</B> jumps!
+[08:27:52]SAY: ork (520)/norc : LOOK AT MY FLASH!!
+[08:27:53]SAY: ork (520)/norc : WAAAAAAAAAAAAAAGH!!!
+[08:27:53]SAY: mouse/ : Squeek?
+[08:28:01]ACCESS: Logout: norc[DC]/(ork (520))

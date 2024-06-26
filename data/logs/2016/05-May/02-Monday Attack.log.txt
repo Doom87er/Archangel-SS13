@@ -1,0 +1,51 @@
+
+
+Starting up. 17:58.27
+---------------------
+[18:26:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+[18:26:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+[18:27:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+[18:27:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+[18:27:42]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+[18:27:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown(someperson1) with The hellbeam</font>
+
+
+Starting up. 18:52.08
+---------------------
+[18:57:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[18:57:39]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Saul Albright(someperson1) with Stimulant Injector(Satrophine and Psychon)</font>
+[18:59:14]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[18:59:15]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[18:59:16]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Naproxen injector(Leporazine, Dexalin Plus and Bicaridine)</font>
+[18:59:37]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[18:59:38]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[18:59:39]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[18:59:51]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[18:59:52]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[18:59:53]ATTACK: <font color='red'>Saul Albright(someperson1) injected Saul Albright(someperson1) with Adalent injector(Tricordrazine and Legecillin)</font>
+[19:01:23]ATTACK: <font color='red'>Unknown(drakemarshall) injected Saul Albright(someperson1) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+
+
+Starting up. 20:38.48
+---------------------
+[21:12:22]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:13:43]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:13:46]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:13:48]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:13:48]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:20:48]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[21:22:10]ATTACK: <font color='red'>Circe the Great(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+
+
+Starting up. 21:26.10
+---------------------
+
+
+Starting up. 21:41.16
+---------------------
+[22:19:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[22:19:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[22:19:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[22:19:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[22:19:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>
+[22:19:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Saul Albright(someperson1) with The exitus bullet</font>

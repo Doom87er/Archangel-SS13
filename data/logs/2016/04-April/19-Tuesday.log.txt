@@ -1,0 +1,153 @@
+
+
+Starting up. 00:16.16
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[00:16:16]ADMIN: Loading Banlistjob
+[00:16:16]ADMIN: Loading jobban_rank
+[00:16:16]ADMIN: jobban_keylist was empty
+[00:16:16]ADMIN: Loading appearance_rank
+[00:16:16]ADMIN: appearance_keylist was empty
+[00:16:16]ADMIN: Updating jobbanfile!
+[00:16:16]ADMIN: Loading Banlist
+[00:16:16]ADMIN: Loading RTD lists
+[00:49:31]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[00:51:07]ADMIN: DrakeMarshall has started the game.
+[00:51:08]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[00:51:10]ACCESS: Logout: *no key*/(DrakeMarshall)
+[00:51:10]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:51:30]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/snazzgun at (137,138,1)
+[00:51:31]EMOTE: monkey (132)/ : <B>The monkey (132)</B> jumps!
+[00:51:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (134,138,1)
+[00:51:56]SAY: sentinel/ : Establishing control of planet...
+[00:52:14]GAME: DrakeMarshall/(Venatus Kyner) has primed a Vortex Grenade for detonation at Starboard Primary Hallway (134,139,1).
+[00:52:25]SAY: Venatus Kyner/DrakeMarshall : fuck
+[00:52:33]SAY: Venatus Kyner/DrakeMarshall : shit
+[00:52:46]SAY: Venatus Kyner/DrakeMarshall : well
+[00:52:48]SAY: Venatus Kyner/DrakeMarshall : I&#39;m fucked
+[00:52:50]SAY: sentinel/ : Establishing control of planet...
+[00:53:04]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> flips the bird.
+[00:53:12]SAY: Venatus Kyner/DrakeMarshall : hah
+[00:53:15]WHISPER: Venatus Kyner/DrakeMarshall : ow
+[00:53:15]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[00:53:18]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:53:18]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:53:18]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:53:18]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:53:25]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:53:25]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:53:26]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:53:26]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:53:35]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:53:35]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[00:53:35]SAY: sentinel/ : Establishing control of planet...
+[00:53:45]SAY: sentinel/ : Eliminating hostiles...
+[00:54:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (234,101,2)
+[00:54:06]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[00:54:06]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:54:06]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[00:54:26]SAY: Unknown/drakemarshall : hm
+[00:54:28]SAY: Unknown/drakemarshall : hm...
+[00:54:48]SAY: sentinel/ : Establishing control of planet...
+[00:54:54]SAY: sentinel/ : Eliminating hostiles...
+[00:54:58]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[00:55:02]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/dnainjector/xraymut at (233,100,2)
+[00:55:56]SAY: mouse/ : SQUEEK!
+[00:56:06]SAY: sentinel/ : Establishing control of planet...
+[00:56:10]EMOTE: monkey (637)/ : <B>The monkey (637)</B> jumps!
+[00:56:26]SAY: Featherbottom/ : Bwaak bwak.
+[00:56:46]ADMIN: DrakeMarshall/(Unknown) modified Twin Linked Heavy Bolter's dir to 8
+[00:56:49]ADMIN: DrakeMarshall/(Unknown) modified Twin Linked Heavy Bolter's dir to 4
+[00:56:59]ADMIN: DrakeMarshall/(Unknown) modified Twin Linked Heavy Bolter's dir to 8
+[00:57:05]ADMIN: DrakeMarshall/(Unknown) modified Twin Linked Heavy Bolter's name to xshootme
+[00:57:24]SAY: mouse/ : Squeek!
+[00:57:37]ADMIN: DrakeMarshall/(Unknown) called the xshootme's fire() with the arguments Unknown.
+[00:57:47]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:57:47]ADMIN: DrakeMarshall/(Unknown) modified xshootme's dir to 4
+[00:58:04]ADMIN: DrakeMarshall/(Unknown) called the xshootme's fire() with the arguments Unknown.
+[00:58:34]GAME: drakemarshall/(Unknown) has primed a Imperial Krak Grenade for detonation at Snow (208,118,2).
+[00:58:40]SAY: mouse/ : Squeek!
+[00:58:42]ACCESS: Logout: *no key*/(Unknown)
+[00:58:42]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[00:58:48]SAY: Betsy/ : moo
+[00:58:53]EMOTE: monkey (664)/ : <B>The monkey (664)</B> jumps!
+[00:58:58]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (220,114,2)
+[00:59:05]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma/lesser at (220,114,2)
+[00:59:22]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (219,114,2)
+[00:59:24]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[00:59:24]ACCESS: Logout: *no key*/(Unknown)
+[00:59:24]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[00:59:27]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (220,114,2).
+[00:59:33]SAY: Unknown/drakemarshall : FOR SCIENCE!!!!!!
+[00:59:35]ACCESS: Logout: *no key*/(Unknown)
+[00:59:35]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[00:59:36]EMOTE: monkey (718)/ : <B>The monkey (718)</B> jumps!
+[00:59:40]EMOTE: monkey (883)/ : <B>The monkey (883)</B> jumps!
+[00:59:50]SAY: mouse/ : Squeek!
+[00:59:55]SAY: Pete/ : EHEHEHEHEH
+[01:00:22]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/landmark/monolithcore at (136,238,2)
+[01:00:27]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/monolithcore at (136,238,2)
+[01:00:34]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/monolithcore at (113,238,2)
+[01:00:44]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/monolithcore at (91,238,2)
+[01:00:56]EMOTE: Unknown/ : <B>Unknown</B> collapses!
+[01:00:56]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (142,236,2)
+[01:00:58]EMOTE: Unknown/ : <B>Unknown</B> collapses!
+[01:00:58]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[01:01:16]EMOTE: monkey (880)/ : <B>The monkey (880)</B> jumps!
+[01:01:55]ADMIN: drakemarshall/(Unknown) deleted Unknown at (143,239,2)
+[01:02:00]ADMIN: drakemarshall/(Unknown) spawned /obj/mecha/combat/lemanruss at (144,238,2)
+[01:02:13]ADMIN: DrakeMarshall/(Unknown) modified Gauss Flux Arc's dir to 4
+[01:02:17]SAY: Kentucky/ : Cluck!
+[01:02:32]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (137,237,2)
+[01:02:33]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[01:02:33]EMOTE: Unknown/ : <B>Unknown</B> collapses!
+[01:02:33]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[01:02:41]ADMIN: drakemarshall/(Unknown) deleted Unknown at (141,238,2)
+[01:02:52]ADMIN: drakemarshall/(Unknown) spawned /turf/simulated/wall at (142,242,2)
+[01:03:18]ADMIN: drakemarshall/(Unknown) spawned /turf/simulated/wall at (142,238,2)
+[01:04:19]SAY: Betsy/ : moo?
+[01:04:31]SAY: mouse/ : Squeek?
+[01:04:37]SAY: mouse/ : Squeek!
+[01:05:24]EMOTE: monkey (140)/ : <B>The monkey (140)</B> jumps!
+[01:05:40]ADMIN: drakemarshall/(Unknown) spawned /mob/living/silicon/robot/necron/lord2 at (139,237,2)
+[01:05:47]ADMIN: drakemarshall/(Unknown) assumed direct control of Lord Khedereh.
+[01:05:47]ACCESS: Logout: *no key*/(Unknown)
+[01:05:47]ACCESS: Login: drakemarshall/(Lord Khedereh) from 127.0.0.1-3229208445 || BYOND v509
+[01:06:25]SAY: Featherbottom/ : Bwaak bwak.
+[01:06:33]SAY: mouse/ : Squeek?
+[01:07:11]SAY: grey baby slime (329)/ : Rawr...
+[01:07:11]EMOTE: monkey (880)/ : <B>The monkey (880)</B> jumps!
+[01:07:39]SAY: Pete/ : EHEHEHEHEH
+[01:08:29]ACCESS: Logout: *no key*/(Lord Khedereh)
+[01:08:29]ACCESS: Login: drakemarshall/(Lord Khedereh) from 127.0.0.1-3229208445 || BYOND v509
+[01:08:34]ADMIN: drakemarshall/(Lord Khedereh) changed their view range to 7.
+[01:08:49]ADMIN: drakemarshall/(Lord Khedereh) spawned /mob/living/simple_animal/hostile/necronwraith at (107,94,1)
+[01:08:59]ADMIN: drakemarshall/(Lord Khedereh) spawned /mob/living/carbon/human/whitelisted/sm at (113,91,1)
+[01:09:02]ADMIN: drakemarshall/(Lord Khedereh) assumed direct control of Brother Erastus.
+[01:09:02]ACCESS: Logout: *no key*/(Lord Khedereh)
+[01:09:02]ACCESS: Login: drakemarshall/(Brother Erastus) from 127.0.0.1-3229208445 || BYOND v509
+[01:09:45]ADMIN: drakemarshall/(Brother Erastus) jumped to 109,90,1 in the Mech Bay
+[01:09:51]ADMIN: drakemarshall/(Brother Erastus) healed / Revived drakemarshall/(Brother Erastus)
+[01:09:58]ADMIN: drakemarshall/(Brother Erastus) jumped to 113,86,1 in the Robotics Lab
+[01:10:00]EMOTE: monkey (883)/ : <B>The monkey (883)</B> jumps!
+[01:10:06]EMOTE: monkey (883)/ : <B>The monkey (883)</B> jumps!
+[01:10:09]ADMIN: drakemarshall/(Brother Erastus) jumped to 119,81,1 in Research Division
+[01:10:24]ADMIN: drakemarshall/(Brother Erastus) jumped to 124,88,1 in the Toxins Lab
+[01:10:29]ADMIN: drakemarshall/(Brother Erastus) healed / Revived drakemarshall/(Brother Erastus)
+[01:10:32]ADMIN: drakemarshall/(Brother Erastus) jumped to 120,90,1 in Research Division
+[01:10:39]SAY: mouse/ : Squeek?
+[01:10:39]SAY: mouse/ : Squeek!
+[01:10:42]ACCESS: Logout: drakemarshall[DC]/(Brother Erastus)

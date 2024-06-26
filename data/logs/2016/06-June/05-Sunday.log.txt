@@ -1,0 +1,130 @@
+
+
+Starting up. 23:35.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[23:35:29]ADMIN: Loading Banlistjob
+[23:35:29]ADMIN: Loading jobban_rank
+[23:35:29]ADMIN: jobban_keylist was empty
+[23:35:29]ADMIN: Loading appearance_rank
+[23:35:29]ADMIN: appearance_keylist was empty
+[23:35:29]ADMIN: Updating jobbanfile!
+[23:35:29]ADMIN: Loading Banlist
+[23:35:29]ADMIN: Loading RTD lists
+[23:36:14]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[23:36:42]ADMIN: DrakeMarshall has started the game.
+[23:36:42]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[23:36:44]ACCESS: Logout: *no key*/(DrakeMarshall)
+[23:36:44]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[23:37:00]SAY: Venatus Kyner/DrakeMarshall : why the hell am I blind?
+[23:37:17]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's blindness to 0
+[23:37:30]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (160,10,2)
+[23:37:36]SAY: Venatus Kyner/DrakeMarshall : tets
+[23:37:40]SAY: Venatus Kyner/DrakeMarshall : test, even
+[23:37:46]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[23:37:46]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:37:46]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[23:38:25]ADMIN: drakemarshall/(Unknown) used gibself.
+[23:38:27]ACCESS: Logout: *no key*/(Unknown)
+[23:38:27]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[23:38:34]ADMIN: drakemarshall/(Unknown) assumed direct control of Venatus Kyner.
+[23:38:34]ACCESS: Logout: *no key*/(Unknown)
+[23:38:34]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[23:38:47]EMOTE: monkey (686)/ : <B>The monkey (686)</B> jumps!
+[23:38:51]ADMIN: DrakeMarshall/(Venatus Kyner) : huh
+[23:38:54]OOC: Venatus Kyner/DrakeMarshall : test (LOCAL OOC)
+[23:39:29]SAY: mouse/ : Squeek!
+[23:39:37]SAY: Pete/ : eh?
+[23:40:03]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/sm at (158,11,2)
+[23:40:16]EMOTE: monkey (569)/ : <B>The monkey (569)</B> jumps!
+[23:40:41]EMOTE: Brother Marcus/ : <B>Brother Marcus</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:41:01]EMOTE: monkey (607)/ : <B>The monkey (607)</B> jumps!
+[23:42:20]SAY: Venatus Kyner/drakemarshall : why
+[23:42:22]SAY: Venatus Kyner/drakemarshall : the hell
+[23:42:25]SAY: Venatus Kyner/drakemarshall : am I blind
+[23:42:28]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/simple_animal/hostile/alien/parasite at (158,20,2)
+[23:42:49]SAY: Pugley III/ : AUUUUUU
+[23:42:50]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:42:50]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[23:42:57]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:42:57]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[23:43:10]SAY: Kentucky/ : Cluck!
+[23:43:20]SAY: grey baby slime (711)/ : Rawr...
+[23:44:21]SAY: Featherbottom/ : Cluck!
+[23:44:27]SAY: Venatus Kyner/drakemarshall : Test.
+[23:44:32]SAY: Venatus Kyner/drakemarshall : Test.
+[23:44:41]SAY: mouse/ : Squeek!
+[23:44:50]SAY: Venatus Kyner/drakemarshall : Test.
+[23:45:16]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[23:45:18]SAY: mouse/ : Squeek?
+[23:46:13]EMOTE: monkey (52)/ : <B>The monkey (52)</B> jumps!
+[23:46:30]SAY: mouse/ : Squeek?
+[23:46:32]EMOTE: monkey (52)/ : <B>The monkey (52)</B> jumps!
+[23:46:44]SAY: mouse/ : Squeek!
+[23:47:01]SAY: mouse/ : Squeek!
+[23:47:39]SAY: mouse/ : Squeek?
+[23:48:08]EMOTE: monkey (202)/ : <B>The monkey (202)</B> jumps!
+[23:48:26]EMOTE: monkey (202)/ : <B>The monkey (202)</B> jumps!
+[23:49:31]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/paper_bin at (123,179,1)
+[23:49:34]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/structure/shredder at (124,179,1)
+[23:49:36]SAY: mouse/ : Squeek!
+[23:49:41]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/stamp/imp at (123,180,1)
+[23:50:15]SAY: mouse/ : SQUEEK!
+[23:50:27]EMOTE: monkey (775)/ : <B>The monkey (775)</B> jumps!
+[23:52:06]SAY: mouse/ : Squeek?
+[23:52:42]EMOTE: monkey (686)/ : <B>The monkey (686)</B> jumps!
+[23:53:05]SAY: mouse/ : Squeek?
+[23:53:25]SAY: Featherbottom/ : Bwaak bwak.
+[23:53:48]SAY: Betsy/ : MOOOOOO
+[23:53:50]SAY: mouse/ : Squeek!
+[23:54:11]EMOTE: monkey (775)/ : <B>The monkey (775)</B> jumps!
+[23:54:41]SAY: Pugley III/ : AUUUUUU
+[23:55:24]EMOTE: monkey (52)/ : <B>The monkey (52)</B> jumps!
+[23:56:13]SAY: mouse/ : SQUEEK!
+[23:57:06]SAY: Pugley III/ : AUUUUUU
+[23:57:07]ADMIN: drakemarshall/(Venatus Kyner) spawned /mob/living/carbon/human/whitelisted/um at (111,166,1)
+[23:57:14]ADMIN: drakemarshall/(Venatus Kyner) healed / Revived drakemarshall/(Venatus Kyner)
+[23:57:31]SAY: Pete/ : eh?
+[23:57:41]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's status_flags to 0
+[23:58:20]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/clothing/gloves/electoos at (88,119,1)
+[23:58:22]EMOTE: Brother Cadmus/ : <B>Brother Cadmus</B> seizes up and falls limp, his eyes dead and lifeless...
+[23:58:30]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/stock_parts/cell/hyper at (93,115,1)
+[23:58:49]EMOTE: monkey (775)/ : <B>The monkey (775)</B> jumps!
+[23:58:55]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/crowbar/tireiron at (106,116,1)
+[23:59:02]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/crowbar/tireiron at (105,116,1)
+[23:59:05]ADMIN: drakemarshall/(Venatus Kyner) spawned /obj/item/weapon/crowbar/red at (106,116,1)
+[23:59:17]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[23:59:42]ADMIN: drakemarshall/(Venatus Kyner) deleted the ripper at (108,115,1)
+[23:59:49]ADMIN: drakemarshall/(Venatus Kyner) changed their view range to 8.
+[23:59:53]ACCESS: Logout: *no key*/(Venatus Kyner)
+[23:59:53]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[00:00:03]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:00:03]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[00:00:03]ADMIN: *no key*/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (0,0,0)
+[00:00:37]SAY: mouse/ : Squeek!
+[00:01:24]ADMIN: drakemarshall/(Venatus Kyner) used gibself.
+[00:01:25]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:01:25]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[00:01:36]ADMIN: drakemarshall/(Venatus Kyner) assumed direct control of Unknown.
+[00:01:36]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:01:36]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[00:01:59]SAY: Betsy/ : moo
+[00:02:10]ADMIN: drakemarshall/(Unknown) used gibself.
+[00:02:11]ACCESS: Logout: *no key*/(Unknown)
+[00:02:11]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[00:02:26]SAY: mouse/ : Squeek!
+[00:02:44]ACCESS: Logout: drakemarshall[DC]/(Unknown)

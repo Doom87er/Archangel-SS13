@@ -1,0 +1,95 @@
+
+
+Starting up. 07:28.12
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:28:12]ADMIN: Loading Banlistjob
+[07:28:12]ADMIN: Loading jobban_rank
+[07:28:12]ADMIN: jobban_keylist was empty
+[07:28:12]ADMIN: Loading appearance_rank
+[07:28:12]ADMIN: appearance_keylist was empty
+[07:28:12]ADMIN: Updating jobbanfile!
+[07:28:12]ADMIN: Loading Banlist
+[07:28:12]ADMIN: Loading RTD lists
+[07:31:40]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[07:32:18]ADMIN: Norc has started the game.
+[07:32:18]GAME: Norc (ckey) has been selected as a Heretic
+[07:32:20]ACCESS: Logout: *no key*/(Norc)
+[07:32:20]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:32:33]ADMIN: Norc/(Brian Garrison) initiated a reboot.
+[07:32:38]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:35.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:35:45]ADMIN: Loading Banlistjob
+[07:35:45]ADMIN: Loading jobban_rank
+[07:35:45]ADMIN: jobban_keylist was empty
+[07:35:45]ADMIN: Loading appearance_rank
+[07:35:45]ADMIN: appearance_keylist was empty
+[07:35:45]ADMIN: Updating jobbanfile!
+[07:35:45]ADMIN: Loading Banlist
+[07:35:45]ADMIN: Loading RTD lists
+[07:38:05]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[07:39:11]ADMIN: Norc has started the game.
+[07:39:11]GAME: Norc (ckey) has been selected as a Heretic
+[07:39:13]ACCESS: Logout: *no key*/(Norc)
+[07:39:13]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:40:05]EMOTE: monkey (417)/ : <B>The monkey (417)</B> jumps!
+[07:42:09]SAY: grey baby slime (91)/ : Blorble...
+[07:43:30]EMOTE: monkey (358)/ : <B>The monkey (358)</B> jumps!
+[07:45:08]SAY: grey baby slime (928)/ : Blop...
+[07:45:18]EMOTE: monkey (828)/ : <B>The monkey (828)</B> jumps!
+[07:45:28]EMOTE: monkey (920)/ : <B>The monkey (920)</B> jumps!
+[07:45:50]EMOTE: monkey (358)/ : <B>The monkey (358)</B> jumps!
+[07:47:24]SAY: grey baby slime (91)/ : Blop...
+[07:49:15]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[07:49:21]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:49:21]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:49:30]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/chaosspawn/nspawn at (123,144,1)
+[07:49:34]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/nspawn at (115,144,1)
+[07:49:42]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/chaosspawn/nspawn at (111,144,1)
+[07:49:52]EMOTE: monkey (417)/ : <B>The monkey (417)</B> jumps!
+[07:50:19]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/chaosspawn/nspawn at (104,144,1)
+[07:50:22]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:50:22]ACCESS: Login: norc/(Lesser Nurgle Spawn) from 127.0.0.1-1324596339 || BYOND v510
+[07:50:32]ACCESS: Logout: *no key*/(Lesser Nurgle Spawn)
+[07:50:32]ACCESS: Login: norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:50:38]ADMIN: norc/(Brian Garrison) spawned /mob/living/simple_animal/chaosspawn/nspawn at (88,117,1)
+[07:50:38]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:50:38]ACCESS: Login: norc/(Lesser Nurgle Spawn) from 127.0.0.1-1324596339 || BYOND v510
+[07:50:50]ACCESS: Logout: *no key*/(Lesser Nurgle Spawn)
+[07:50:50]ACCESS: Login: norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[07:50:58]ADMIN: norc/(Brian Garrison) spawned /mob/living/simple_animal/nspawn at (108,102,1)
+[07:51:09]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[07:51:11]EMOTE: monkey (427)/ : <B>The monkey (427)</B> jumps!
+[07:51:13]ACCESS: Logout: norc[DC]/(Brian Garrison)

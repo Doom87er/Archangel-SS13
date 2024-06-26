@@ -1,0 +1,112 @@
+
+
+Starting up. 14:51.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[14:51:46]ADMIN: Loading Banlistjob
+[14:51:46]ADMIN: Loading jobban_rank
+[14:51:46]ADMIN: jobban_keylist was empty
+[14:51:46]ADMIN: Loading appearance_rank
+[14:51:46]ADMIN: appearance_keylist was empty
+[14:51:46]ADMIN: Updating jobbanfile!
+[14:51:46]ADMIN: Loading Banlist
+[14:51:46]ADMIN: Loading RTD lists
+[14:58:14]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[14:59:55]ADMIN: DrakeMarshall has started the game.
+[14:59:55]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[14:59:58]ACCESS: Logout: *no key*/(DrakeMarshall)
+[14:59:58]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:00:55]EMOTE: monkey (605)/ : <B>The monkey (605)</B> jumps!
+[15:01:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /turf/space/real at (162,22,2)
+[15:01:44]ADMIN: DrakeMarshall/(Venatus Kyner) modified floor's name to xfloor
+[15:02:14]ADMIN: DrakeMarshall/(Venatus Kyner) called /proc/vacuum() with the arguments the+xfloor.
+[15:02:47]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 15:11.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:11:45]ADMIN: Loading Banlistjob
+[15:11:45]ADMIN: Loading jobban_rank
+[15:11:45]ADMIN: jobban_keylist was empty
+[15:11:45]ADMIN: Loading appearance_rank
+[15:11:45]ADMIN: appearance_keylist was empty
+[15:11:45]ADMIN: Updating jobbanfile!
+[15:11:45]ADMIN: Loading Banlist
+[15:11:45]ADMIN: Loading RTD lists
+[15:16:47]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[15:18:02]ADMIN: DrakeMarshall has started the game.
+[15:18:05]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:18:05]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:18:45]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:18:45]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:19:43]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:19:43]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:20:36]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 15:25.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:25:02]ADMIN: Loading Banlistjob
+[15:25:02]ADMIN: Loading jobban_rank
+[15:25:02]ADMIN: jobban_keylist was empty
+[15:25:02]ADMIN: Loading appearance_rank
+[15:25:02]ADMIN: appearance_keylist was empty
+[15:25:02]ADMIN: Updating jobbanfile!
+[15:25:02]ADMIN: Loading Banlist
+[15:25:02]ADMIN: Loading RTD lists
+[15:34:07]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[15:34:20]ADMIN: DrakeMarshall has started the game.
+[15:34:23]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:34:23]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[15:34:38]EMOTE: monkey (952)/ : <B>The monkey (952)</B> jumps!
+[15:35:13]EMOTE: monkey (230)/ : <B>The monkey (230)</B> jumps!
+[15:35:40]EMOTE: monkey (149)/ : <B>The monkey (149)</B> jumps!
+[15:35:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/bolterc at (164,21,2)
+[15:35:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/cannonball/boltermag at (164,22,2)
+[15:36:15]EMOTE: monkey (952)/ : <B>The monkey (952)</B> jumps!
+[15:36:49]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/meltagun/ig at (164,15,2)
+[15:37:38]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

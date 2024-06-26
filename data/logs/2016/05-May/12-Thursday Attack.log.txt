@@ -1,0 +1,29 @@
+
+
+Starting up. 13:24.45
+---------------------
+[14:23:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (224) with The hellbeam</font>
+[14:23:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (397) with The hellbeam</font>
+[14:26:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (899) with The hellbeam</font>
+[14:27:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot sentinel with The declown</font>
+[14:27:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot sentinel with The declown</font>
+[14:27:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot sentinel with The declown</font>
+[14:27:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot sentinel with The declown</font>
+[14:27:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot sentinel with The declown</font>
+[14:28:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:28:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:28:28]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:28:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:28:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:30:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:30:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:30:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:30:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:30:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with The hellbeam</font>
+[14:33:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with The declown</font>
+[14:33:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with The declown</font>
+[14:33:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with The declown</font>
+[14:33:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with The declown</font>
+[14:33:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with The declown</font>
+[14:33:30]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (532) with Bolt</font>
+[14:34:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot scarab (835) with The hellbeam</font>

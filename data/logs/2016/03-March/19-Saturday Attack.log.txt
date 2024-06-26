@@ -1,0 +1,98 @@
+
+
+Starting up. 09:28.42
+---------------------
+[10:01:44]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:02:24]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new chest INTENT: DISARM</font>
+[10:03:07]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) augmented Sarai Koepple(drakemarshall) by giving him new head INTENT: DISARM</font>
+[10:03:20]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:22]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:25]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:43]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:44]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:45]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:03:57]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:03:58]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:03:59]ATTACK: <font color='red'>Sarai Koepple(drakemarshall) injected Sarai Koepple(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:05:22]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:05:24]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:05:25]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:07:16]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:17]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:18]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:19]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:22]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:23]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:24]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:25]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:28]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:29]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:30]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:31]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:35]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:35]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:37]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:07:37]ATTACK: <font color='red'>#(60374)(drakemarshall) injected Disciple Davros with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:09:16]ATTACK: <font color='red'>#(60374)(drakemarshall) debrained Disciple Davros with a surgical mechadendrite. INTENT: DISARM</font>
+[10:10:47]ATTACK: <font color='red'>#(60374)(drakemarshall) attacked #(60374)(drakemarshall) with brain(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[10:15:08]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:15:09]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:15:10]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:20:48]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:20:49]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:20:50]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:23:49]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:23:50]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:23:51]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Adalent injector(Tricordrazine and Legecillin)</font>
+[10:25:06]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Huge Needle(Morphine, Phenol and Tricordrazine)</font>
+[10:34:25]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:34:27]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:34:28]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:35:53]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:35:54]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:35:55]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:40:37]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:40:38]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+[10:40:39]ATTACK: <font color='red'>#(60374)(drakemarshall) injected #(60374)(drakemarshall) with Bumetanide injector(Tricordrazine and Speed)</font>
+
+
+Starting up. 13:26.49
+---------------------
+
+
+Starting up. 14:18.55
+---------------------
+
+
+Starting up. 15:21.25
+---------------------
+
+
+Starting up. 15:55.39
+---------------------
+[16:12:12]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with surgical drill(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[16:12:22]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[16:12:23]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[16:12:24]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[16:12:25]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[16:12:26]ATTACK: <font color='red'>Disciple Razal(drakemarshall) attacked Disciple Razal(drakemarshall) with circular saw(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 16:16.02
+---------------------
+
+
+Starting up. 21:10.16
+---------------------
+[22:26:13]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:18]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:20]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:21]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:23]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:24]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:25]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:26]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:27]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:29]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:31]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[22:26:32]ATTACK: <font color='red'>Disciple Logren(drakemarshall) attacked Disciple Logren(drakemarshall) with Plague Knife(INTENT: DISARM) (DAMTYE: BRUTE)</font>

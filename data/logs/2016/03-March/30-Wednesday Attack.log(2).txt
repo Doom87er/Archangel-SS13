@@ -1,0 +1,13 @@
+
+
+Starting up. 07:55.17
+---------------------
+[07:59:39]ATTACK: <font color='red'>Brian Garrison(norc) grabbed Gretchin (753) passively</font>
+[07:59:44]ATTACK: <font color='red'>Brian Garrison(norc) dealt a piercing blow to Gretchin (753) </font>
+[08:00:02]ATTACK: <font color='red'>Brian Garrison(norc) dealt a piercing blow to Gretchin (753) </font>
+[08:00:18]ATTACK: <font color='red'>Brian Garrison(norc) dealt a piercing blow to Gretchin (753) </font>
+[08:00:22]ATTACK: <font color='red'>Brian Garrison(norc) attacked Gretchin (753) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:00:29]ATTACK: <font color='red'>Brian Garrison(norc) used a chainsword to gib Gretchin (753) </font>
+[08:05:41]ATTACK: <font color='red'>Gretchin (585)(norc) grabbed Brian Garrison(@norc) passively</font>
+[08:05:48]ATTACK: <font color='red'>Gretchin (585)(norc) attacked Brian Garrison(@norc) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:05:55]ATTACK: <font color='red'>Gretchin (585)(norc) used a chainsword to gib Brian Garrison(@norc) </font>

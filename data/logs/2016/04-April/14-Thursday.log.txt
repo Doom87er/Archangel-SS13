@@ -1,0 +1,83 @@
+
+
+Starting up. 21:06.25
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[21:06:25]ADMIN: Loading Banlistjob
+[21:06:25]ADMIN: Loading jobban_rank
+[21:06:25]ADMIN: jobban_keylist was empty
+[21:06:26]ADMIN: Loading appearance_rank
+[21:06:26]ADMIN: appearance_keylist was empty
+[21:06:26]ADMIN: Updating jobbanfile!
+[21:06:26]ADMIN: Loading Banlist
+[21:06:26]ADMIN: Loading RTD lists
+[21:26:21]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[22:13:24]ADMIN: DrakeMarshall has started the game.
+[22:13:24]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[22:13:27]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:13:27]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:13:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (132,138,1)
+[22:13:49]SAY: sentinel/ : Eliminating hostiles...
+[22:14:06]EMOTE: monkey (597)/ : <B>The monkey (597)</B> jumps!
+[22:14:16]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:14:16]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:22]SAY: sentinel/ : Eliminating hostiles...
+[22:14:31]SAY: Betsy/ : MOOOOOO
+[22:14:58]SAY: sentinel/ : Eliminating hostiles...
+[22:15:23]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 22:29.40
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[22:29:40]ADMIN: Loading Banlistjob
+[22:29:40]ADMIN: Loading jobban_rank
+[22:29:40]ADMIN: jobban_keylist was empty
+[22:29:40]ADMIN: Loading appearance_rank
+[22:29:40]ADMIN: appearance_keylist was empty
+[22:29:40]ADMIN: Updating jobbanfile!
+[22:29:40]ADMIN: Loading Banlist
+[22:29:40]ADMIN: Loading RTD lists
+[22:52:54]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[22:53:03]ADMIN: DrakeMarshall has started the game.
+[22:53:03]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[22:53:05]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:53:05]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:53:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (131,138,1)
+[22:53:35]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:53:35]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:53:39]SAY: mouse/ : Squeek?
+[22:54:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/powersword/paxe at (234,140,2)
+[22:54:34]SAY: Kentucky/ : Cluck!
+[22:54:38]SAY: mouse/ : Squeek?
+[22:54:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (236,140,2)
+[22:54:42]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[22:54:42]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:54:42]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:54:51]ACCESS: Logout: drakemarshall[DC]/(Unknown)

@@ -1,0 +1,101 @@
+
+
+Starting up. 20:19.42
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:19:43]ADMIN: Loading Banlistjob
+[20:19:43]ADMIN: Loading jobban_rank
+[20:19:43]ADMIN: jobban_keylist was empty
+[20:19:43]ADMIN: Loading appearance_rank
+[20:19:43]ADMIN: appearance_keylist was empty
+[20:19:43]ADMIN: Updating jobbanfile!
+[20:19:43]ADMIN: Loading Banlist
+[20:19:43]ADMIN: Loading RTD lists
+[20:24:24]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[20:24:46]ADMIN: DrakeMarshall has started the game.
+[20:24:49]ACCESS: Logout: *no key*/(DrakeMarshall)
+[20:24:49]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:25:10]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/wrench at (114,116,1)
+[20:25:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/microwave at (113,116,1)
+[20:25:17]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/frags/full at (113,115,1)
+[20:25:42]EMOTE: monkey (22)/ : <B>The monkey (22)</B> jumps!
+[20:26:08]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:26:23]SAY: sentinel/ : Establishing control of planet...
+[20:26:30]SAY: Venatus Kyner/DrakeMarshall : well then
+[20:26:35]SAY: Venatus Kyner/DrakeMarshall : lets see how this goes down...
+[20:26:37]SAY: Venatus Kyner/DrakeMarshall : oh god
+[20:26:37]SAY: mouse/ : Squeek!
+[20:26:39]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[20:26:41]SAY: Venatus Kyner/DrakeMarshall : emperor
+[20:26:43]SAY: Venatus Kyner/DrakeMarshall : help
+[20:26:43]SAY: Kentucky/ : Bwaak bwak.
+[20:26:49]SAY: Venatus Kyner/DrakeMarshall : the suspense is killing me
+[20:26:52]SAY: Venatus Kyner/DrakeMarshall : but the bomb will soon
+[20:26:54]SAY: Venatus Kyner/DrakeMarshall : hehe
+[20:26:57]SAY: Venatus Kyner/DrakeMarshall : soon and very soon
+[20:27:04]SAY: Venatus Kyner/DrakeMarshall : fucking get it done already!
+[20:27:08]SAY: Venatus Kyner/DrakeMarshall : get it over with microwave bomb!
+[20:27:11]SAY: Venatus Kyner/DrakeMarshall : help!
+[20:27:18]EMOTE: monkey (785)/ : <B>The monkey (785)</B> jumps!
+[20:27:24]SAY: Venatus Kyner/DrakeMarshall : shit...
+[20:27:59]SAY: Betsy/ : MOOOOOO
+[20:28:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/step_trigger/incinerate at (105,71,1)
+[20:28:17]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/chem_grenade/mini/promethium at (106,76,1)
+[20:28:19]GAME: DrakeMarshall/(Venatus Kyner) has primed a Promethium Charge casing for detonation at Departure Lounge (106,76,1).
+[20:28:29]SAY: mouse/ : Squeek?
+[20:28:29]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:28:31]SAY: sentinel/ : Establishing control of planet...
+[20:28:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/step_trigger/incinerate at (106,70,1)
+[20:29:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/mine/necron/incinerator at (107,76,1)
+[20:29:27]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[20:29:43]SAY: sentinel/ : Establishing control of planet...
+[20:29:53]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:29:56]SAY: sentinel/ : Establishing control of planet...
+[20:30:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/chem_grenade/incendiary at (100,70,1)
+[20:30:14]SAY: sentinel/ : Eliminating hostiles...
+[20:30:16]GAME: DrakeMarshall/(Venatus Kyner) has primed a incendiary grenade casing for detonation at Departure Lounge (101,70,1).
+[20:30:20]SAY: mouse/ : SQUEEK!
+[20:31:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/plasma at (101,71,1)
+[20:31:14]GAME: DrakeMarshall/(Venatus Kyner) has primed a Plasma Grenade for detonation at Departure Lounge (101,70,1).
+[20:31:19]SAY: Venatus Kyner/DrakeMarshall : less lag hopefully?
+[20:31:22]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:31:22]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:32:10]SAY: Kentucky/ : Cluck!
+[20:32:28]SAY: grey baby slime (108)/ : Rawr...
+[20:33:26]SAY: Featherbottom/ : Bwaak bwak.
+[20:33:28]SAY: sentinel/ : Establishing control of planet...
+[20:34:01]EMOTE: monkey (858)/ : <B>The monkey (858)</B> jumps!
+[20:34:48]SAY: mouse/ : SQUEEK!
+[20:35:26]EMOTE: monkey (833)/ : <B>The monkey (833)</B> jumps!
+[20:36:07]EMOTE: monkey (22)/ : <B>The monkey (22)</B> jumps!
+[20:36:25]SAY: grey baby slime (324)/ : Lonely...
+[20:36:31]SAY: mouse/ : SQUEEK!
+[20:37:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/hotspot at (107,86,1)
+[20:38:35]SAY: mouse/ : SQUEEK!
+[20:38:41]SAY: mouse/ : Squeek!
+[20:38:53]EMOTE: monkey (22)/ : <B>The monkey (22)</B> jumps!
+[20:41:02]EMOTE: monkey (833)/ : <B>The monkey (833)</B> jumps!
+[20:41:02]SAY: Pugley III/ : YAP
+[20:41:15]SAY: mouse/ : SQUEEK!
+[20:41:31]SAY: mouse/ : Squeek?
+[20:41:33]SAY: mouse/ : Squeek!
+[20:42:17]EMOTE: monkey (642)/ : <B>The monkey (642)</B> jumps!
+[20:42:22]EMOTE: monkey (785)/ : <B>The monkey (785)</B> jumps!
+[20:42:28]SAY: mouse/ : Squeek?
+[20:42:48]SAY: mouse/ : Squeek!
+[20:43:29]EMOTE: monkey (89)/ : <B>The monkey (89)</B> jumps!
+[20:43:58]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

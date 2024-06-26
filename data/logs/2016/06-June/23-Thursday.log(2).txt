@@ -1,0 +1,262 @@
+
+
+Starting up. 07:49.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:49:36]ADMIN: Loading Banlistjob
+[07:49:36]ADMIN: Loading jobban_rank
+[07:49:36]ADMIN: jobban_keylist was empty
+[07:49:36]ADMIN: Loading appearance_rank
+[07:49:36]ADMIN: appearance_keylist was empty
+[07:49:36]ADMIN: Updating jobbanfile!
+[07:49:36]ADMIN: Loading Banlist
+[07:49:36]ADMIN: Loading RTD lists
+[07:51:00]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:51:12]ADMIN: Norc has started the game.
+[07:51:12]GAME: Norc (ckey) has been selected as a Heretic
+[07:51:15]ACCESS: Logout: *no key*/(Norc)
+[07:51:15]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:51:51]ADMIN: Norc/(Brian Garrison) has deleted all (9) instances of /obj/mecha.
+[07:52:22]ADMIN: Norc/(Brian Garrison) has deleted all (44) instances of /obj/machinery/space_heater.
+[07:52:49]ADMIN: Norc/(Brian Garrison) has deleted all (545) instances of /turf/simulated/floor/airless.
+[07:53:22]EMOTE: monkey (248)/ : <B>The monkey (248)</B> jumps!
+[07:53:48]ADMIN: Norc/(Brian Garrison) has deleted all (1109) instances of /turf/simulated/floor/plating/airless.
+[07:54:11]ADMIN: Norc/(Brian Garrison) has deleted all (1642) instances of /turf/simulated/floor/plating/asteroid/airless.
+[07:54:42]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /turf/simulated/floor/mech_bay_recharge_floor/airless.
+[07:55:19]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /obj/machinery/atmospherics/unary/cryo_cell.
+[07:55:35]ADMIN: Norc/(Brian Garrison) has deleted all (30) instances of /obj/structure/sign/map.
+[07:55:49]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /obj/structure/sign/map/right.
+[07:55:51]EMOTE: monkey (854)/ : <B>The monkey (854)</B> jumps!
+[07:56:03]ADMIN: Norc/(Brian Garrison) has deleted all (754) instances of /obj/machinery/door/airlock.
+[07:56:53]ADMIN: Norc/(Brian Garrison) has deleted all (83) instances of /obj/machinery/door/airlock/glass.
+[07:57:11]ADMIN: Norc/(Brian Garrison) has deleted all (154) instances of /obj/machinery/firealarm.
+[07:57:42]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /obj/machinery/door/airlock/alarmlock.
+[07:58:13]GAME: All the communications consoles were destroyed and all AIs are inactive. Shuttle called.
+[07:58:13]ADMIN: Norc/(Brian Garrison) has deleted all (217) instances of /obj/machinery/computer.
+[07:58:50]ADMIN: Norc/(Brian Garrison) has deleted all (114) instances of /obj/machinery/vending.
+[07:59:22]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /obj/machinery/atmospherics/pipe.
+[07:59:52]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[07:59:57]EMOTE: monkey (248)/ : <B>The monkey (248)</B> jumps!
+
+
+Starting up. 08:05.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:05:02]ADMIN: Loading Banlistjob
+[08:05:02]ADMIN: Loading jobban_rank
+[08:05:02]ADMIN: jobban_keylist was empty
+[08:05:02]ADMIN: Loading appearance_rank
+[08:05:02]ADMIN: appearance_keylist was empty
+[08:05:02]ADMIN: Updating jobbanfile!
+[08:05:02]ADMIN: Loading Banlist
+[08:05:02]ADMIN: Loading RTD lists
+[08:06:32]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:06:44]ADMIN: Norc has started the game.
+[08:06:48]ACCESS: Logout: *no key*/(Norc)
+[08:06:48]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:07:08]ADMIN: Norc/(Brian Garrison) has deleted all (161) instances of /mob/living/simple_animal.
+[08:07:35]GAME: Emitter deleted at (72,108,1)
+[08:07:38]GAME: SMES deleted at (Landed)
+[08:07:44]GAME: SMES deleted at (Telecoms Server Room)
+[08:07:46]GAME: All the communications consoles were destroyed and all AIs are inactive. Shuttle called.
+[08:07:47]GAME: SMES deleted at (AI Chamber)
+[08:07:48]GAME: Emitter deleted at (171,146,1)
+[08:07:48]GAME: Emitter deleted at (179,146,1)
+[08:07:48]GAME: SMES deleted at (Chief Engineer's office)
+[08:07:48]GAME: SMES deleted at (Chief Engineer's office)
+[08:07:48]GAME: SMES deleted at (Chief Engineer's office)
+[08:07:48]GAME: Emitter deleted at (152,153,1)
+[08:07:48]GAME: Emitter deleted at (153,153,1)
+[08:07:48]GAME: Emitter deleted at (152,154,1)
+[08:07:48]GAME: Emitter deleted at (153,154,1)
+[08:07:49]GAME: Emitter deleted at (171,164,1)
+[08:07:49]GAME: Emitter deleted at (179,164,1)
+[08:07:49]GAME: SMES deleted at (Gravity Generator Room)
+[08:08:04]GAME: SMES deleted at (Derelict Computer Core)
+[08:08:04]GAME: Emitter deleted at (160,178,4)
+[08:08:04]GAME: SMES deleted at (Derelict Solar Control)
+[08:08:04]GAME: SMES deleted at (Ruskie DJ Station)
+[08:08:04]GAME: SMES deleted at (Mining Station Port Wing)
+[08:08:04]GAME: SMES deleted at (West Mining Outpost)
+[08:08:04]GAME: SMES deleted at (Labor Camp)
+[08:08:05]GAME: SMES deleted at (North Mining Outpost)
+[08:08:05]GAME: SMES deleted at (Strange Station)
+[08:08:05]ADMIN: Norc/(Brian Garrison) has deleted all (6207) instances of /obj/machinery.
+[08:08:10]EMOTE: monkey (453)/ : <B>The monkey (453)</B> jumps!
+
+
+Starting up. 08:17.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:17:43]ADMIN: Loading Banlistjob
+[08:17:43]ADMIN: Loading jobban_rank
+[08:17:43]ADMIN: jobban_keylist was empty
+[08:17:43]ADMIN: Loading appearance_rank
+[08:17:43]ADMIN: appearance_keylist was empty
+[08:17:43]ADMIN: Updating jobbanfile!
+[08:17:43]ADMIN: Loading Banlist
+[08:17:43]ADMIN: Loading RTD lists
+[08:19:23]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:19:41]ADMIN: Norc has started the game.
+[08:19:43]ACCESS: Logout: *no key*/(Norc)
+[08:19:43]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:21:43]ADMIN: Norc/(Brian Garrison) has deleted all (48507) instances of /turf/space/real.
+[08:23:56]ADMIN: Norc/(Brian Garrison) toggled debugging on.
+[08:24:22]SAY: grey baby slime (401)/ : Lonely...
+[08:25:15]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s Tickcomp to 4
+[08:25:46]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s Tickcomp to 0.1
+[08:25:54]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s Tickcomp to 1
+[08:26:00]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s Ticklag to 0.1
+[08:26:10]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s Ticklag to 0.7
+[08:26:49]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s walk_speed to 1
+[08:27:17]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s run_speed to 4
+[08:27:29]ADMIN: Norc/(Brian Garrison) modified [0x2104e840] (/datum/configuration)'s run_speed to 0.5
+[08:28:28]EMOTE: monkey (205)/ : <B>The monkey (205)</B> jumps!
+[08:28:34]EMOTE: monkey (154)/ : <B>The monkey (154)</B> jumps!
+[08:29:01]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[08:29:20]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[08:29:39]EMOTE: monkey (58)/ : <B>The monkey (58)</B> jumps!
+[08:30:16]SAY: grey baby slime (401)/ : Blorble...
+[08:30:36]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[08:30:50]EMOTE: monkey (109)/ : <B>The monkey (109)</B> jumps!
+[08:32:06]ADMIN: Norc/(Brian Garrison) initiated a reboot.
+[08:32:13]EMOTE: monkey (46)/ : <B>The monkey (46)</B> jumps!
+[08:32:15]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:33.12
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:33:12]ADMIN: Loading Banlistjob
+[08:33:12]ADMIN: Loading jobban_rank
+[08:33:12]ADMIN: jobban_keylist was empty
+[08:33:12]ADMIN: Loading appearance_rank
+[08:33:12]ADMIN: appearance_keylist was empty
+[08:33:12]ADMIN: Updating jobbanfile!
+[08:33:12]ADMIN: Loading Banlist
+[08:33:12]ADMIN: Loading RTD lists
+[08:34:48]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:38:27]ADMIN: Norc has started the game.
+[08:38:30]ACCESS: Logout: *no key*/(Norc)
+[08:38:30]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:38:45]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:38:45]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:39:27]ADMIN: Norc/(Brian Garrison) jumped to Norc/(Brian Garrison)
+[08:39:34]ADMIN: Norc/(Brian Garrison) jumped to @Norc[DC]/(Brian Garrison)
+[08:39:40]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (190,23,2)
+[08:40:30]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[08:40:42]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[08:41:04]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[08:42:19]EMOTE: monkey (439)/ : <B>The monkey (439)</B> jumps!
+[08:42:55]EMOTE: monkey (439)/ : <B>The monkey (439)</B> jumps!
+[08:44:11]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[08:46:53]SAY: grey baby slime (29)/ : Rawr...
+[08:47:46]EMOTE: monkey (477)/ : <B>The monkey (477)</B> jumps!
+[08:48:22]SAY: grey baby slime (286)/ : Lonely...
+[08:48:25]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[08:51:04]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 09:04.43
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[09:04:43]ADMIN: Loading Banlistjob
+[09:04:43]ADMIN: Loading jobban_rank
+[09:04:43]ADMIN: jobban_keylist was empty
+[09:04:43]ADMIN: Loading appearance_rank
+[09:04:43]ADMIN: appearance_keylist was empty
+[09:04:43]ADMIN: Updating jobbanfile!
+[09:04:43]ADMIN: Loading Banlist
+[09:04:43]ADMIN: Loading RTD lists
+[09:06:13]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[09:06:24]ADMIN: Norc has started the game.
+[09:06:27]ACCESS: Logout: *no key*/(Norc)
+[09:06:27]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[09:08:05]EMOTE: monkey (754)/ : <B>The monkey (754)</B> jumps!
+[09:08:33]EMOTE: monkey (290)/ : <B>The monkey (290)</B> jumps!
+[09:09:25]EMOTE: monkey (216)/ : <B>The monkey (216)</B> jumps!
+[09:09:43]EMOTE: monkey (56)/ : <B>The monkey (56)</B> jumps!
+[09:10:31]EMOTE: monkey (290)/ : <B>The monkey (290)</B> jumps!
+[09:10:58]EMOTE: monkey (171)/ : <B>The monkey (171)</B> jumps!
+[09:11:56]EMOTE: monkey (367)/ : <B>The monkey (367)</B> jumps!
+[09:14:10]EMOTE: monkey (803)/ : <B>The monkey (803)</B> jumps!
+[09:17:45]EMOTE: monkey (803)/ : <B>The monkey (803)</B> jumps!
+[09:18:28]SAY: grey baby slime (493)/ : Lonely...
+[09:18:43]ADMIN: Norc/(Brian Garrison) toggled debugging on.
+[09:19:13]EMOTE: monkey (216)/ : <B>The monkey (216)</B> jumps!
+[09:20:31]ADMIN: Norc/(Brian Garrison) toggled debugging off.
+[09:20:32]ADMIN: Norc/(Brian Garrison) toggled debugging on.
+[09:22:30]EMOTE: monkey (216)/ : <B>The monkey (216)</B> jumps!
+[09:22:48]EMOTE: monkey (367)/ : <B>The monkey (367)</B> jumps!
+[09:22:48]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[09:23:28]ACCESS: Logout: Norc[DC]/(Brian Garrison)

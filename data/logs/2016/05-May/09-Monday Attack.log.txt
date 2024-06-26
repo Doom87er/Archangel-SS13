@@ -1,0 +1,100 @@
+
+
+Starting up. 03:10.31
+---------------------
+
+
+Starting up. 10:11.48
+---------------------
+
+
+Starting up. 21:48.09
+---------------------
+[22:02:22]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:06:15]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:06:15]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:07:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The shrapnel</font>
+[22:08:16]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:16]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:17]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:17]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:17]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:52]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:53]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:08:54]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The shrapnel</font>
+[22:29:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The exitus bullet</font>
+[22:29:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The exitus bullet</font>
+[22:29:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The exitus bullet</font>
+[22:29:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The exitus bullet</font>
+[22:30:37]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:30:37]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:30:37]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:30:38]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:30:38]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:30:38]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot sentinel with The shrapnel</font>
+[22:31:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:06]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:30]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:33]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:48]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:51]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:52]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:31:52]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:32:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:32:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:32:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:32:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with The heavy plasma</font>
+[22:32:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The heavy plasma</font>
+[22:32:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The heavy plasma</font>
+[22:34:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:34:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:35:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:35:10]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:35:10]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:35:19]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with Bolt</font>
+[22:36:17]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (43) with Bolt</font>
+[22:36:31]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:36:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:36:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:36:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot sentinel with Bolt</font>
+[22:36:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (294) with Bolt</font>
+[22:36:51]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (918) with Bolt</font>
+[22:38:18]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (848) with Bolt</font>
+[22:38:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (445) with Bolt</font>
+[22:38:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (652) with Bolt</font>
+[22:38:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (221) with Bolt</font>
+[22:38:30]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (952) with Bolt</font>
+[22:38:49]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to disarm Unknown(drakemarshall) </font>
+[22:38:49]ATTACK: <font color='red'>Unknown(drakemarshall) stunned Unknown(drakemarshall) </font>
+[22:39:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (668) with Bolt</font>
+[22:39:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (458) with Bolt</font>
+[22:40:09]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot scarab (444) with The shrapnel</font>
+[22:40:11]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot scarab (444) with The shrapnel</font>

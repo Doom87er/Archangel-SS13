@@ -1,0 +1,23 @@
+
+
+Starting up. 12:02.06
+---------------------
+
+
+Starting up. 15:14.31
+---------------------
+
+
+Starting up. 15:52.44
+---------------------
+[17:21:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:21:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:21:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:21:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:21:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:21:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[17:24:29]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Venatus Kyner(drakemarshall) </font>
+
+
+Starting up. 17:47.44
+---------------------

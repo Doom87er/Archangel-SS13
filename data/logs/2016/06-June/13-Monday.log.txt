@@ -1,0 +1,472 @@
+
+
+Starting up. 05:44.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[05:44:21]ADMIN: Loading Banlistjob
+[05:44:21]ADMIN: Loading jobban_rank
+[05:44:21]ADMIN: jobban_keylist was empty
+[05:44:21]ADMIN: Loading appearance_rank
+[05:44:21]ADMIN: appearance_keylist was empty
+[05:44:21]ADMIN: Updating jobbanfile!
+[05:44:21]ADMIN: Loading Banlist
+[05:44:21]ADMIN: Loading RTD lists
+[05:45:46]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[05:45:58]ADMIN: Norc has started the game.
+[05:46:01]ACCESS: Logout: *no key*/(Norc)
+[05:46:01]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[05:46:21]ADMIN: Norc/(Brian Garrison) jumped to Engineering
+[05:46:49]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[05:47:15]ADMIN: Norc/(Brian Garrison) deleted Power Monitoring at (155,149,1)
+[05:47:50]SAY: Betsy/ : MOOOOOO
+[05:48:14]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:48:26]EMOTE: monkey (723)/ : <B>The monkey (723)</B> jumps!
+[05:48:30]EMOTE: monkey (536)/ : <B>The monkey (536)</B> jumps!
+[05:48:38]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:48:54]EMOTE: monkey (934)/ : <B>The monkey (934)</B> jumps!
+[05:49:04]EMOTE: monkey (535)/ : <B>The monkey (535)</B> jumps!
+[05:49:31]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:50:53]EMOTE: monkey (934)/ : <B>The monkey (934)</B> jumps!
+[05:51:09]EMOTE: monkey (245)/ : <B>The monkey (245)</B> jumps!
+[05:52:02]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/power/plasmagen/pgen at (163,154,1)
+[05:53:36]EMOTE: monkey (723)/ : <B>The monkey (723)</B> jumps!
+[05:54:02]EMOTE: monkey (245)/ : <B>The monkey (245)</B> jumps!
+[05:54:34]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[05:55:13]SAY: grey baby slime (272)/ : Rawr...
+[05:55:59]EMOTE: monkey (536)/ : <B>The monkey (536)</B> jumps!
+[05:56:15]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[05:56:35]EMOTE: monkey (49)/ : <B>The monkey (49)</B> jumps!
+[05:56:37]ADMIN: Norc/(Brian Garrison) modified electrical supplies locker's locked to 0
+[05:57:11]SAY: grey baby slime (272)/ : Lonely...
+[05:57:29]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:29.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:29:21]ADMIN: Loading Banlistjob
+[06:29:21]ADMIN: Loading jobban_rank
+[06:29:21]ADMIN: jobban_keylist was empty
+[06:29:21]ADMIN: Loading appearance_rank
+[06:29:21]ADMIN: appearance_keylist was empty
+[06:29:21]ADMIN: Updating jobbanfile!
+[06:29:21]ADMIN: Loading Banlist
+[06:29:21]ADMIN: Loading RTD lists
+[06:30:29]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[06:30:39]ADMIN: Norc has started the game.
+[06:30:39]GAME: Norc (ckey) has been selected as a Heretic
+[06:30:41]ACCESS: Logout: *no key*/(Norc)
+[06:30:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:30:49]EMOTE: monkey (509)/ : <B>The monkey (509)</B> jumps!
+[06:30:51]ADMIN: Norc/(Brian Garrison) jumped to Engineering
+[06:31:25]ADMIN: Norc/(Brian Garrison) deleted Power Monitoring at (155,149,1)
+[06:33:54]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 1.2e+006
+[06:33:59]SAY: grey baby slime (939)/ : Blorble...
+[06:34:24]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 600000
+[06:34:33]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[06:34:46]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_output to 2
+[06:35:03]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[06:35:28]SAY: grey baby slime (987)/ : Lonely...
+[06:35:42]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[06:36:00]SAY: Kentucky/ : Cluck!
+[06:36:24]EMOTE: monkey (791)/ : <B>The monkey (791)</B> jumps!
+[06:37:33]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 500000
+[06:37:55]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 400000
+[06:38:15]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 300000
+[06:38:44]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 200000
+[06:39:09]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 100000
+[06:39:23]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's power_gen to 200000
+[06:40:10]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/power/plasmagen/pgen at (163,149,1)
+[06:40:21]EMOTE: monkey (136)/ : <B>The monkey (136)</B> jumps!
+[06:40:29]EMOTE: monkey (179)/ : <B>The monkey (179)</B> jumps!
+[06:41:27]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[06:41:29]SAY: grey baby slime (987)/ : Blop...
+[06:41:37]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[06:42:55]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[06:43:15]ADMIN: Norc/(Brian Garrison) modified Imperial Plasma Generator's active to 1
+[06:48:00]EMOTE: monkey (791)/ : <B>The monkey (791)</B> jumps!
+[06:48:54]ADMIN: Norc/(Brian Garrison) modified power cable's d1 to 1
+[06:50:19]ADMIN: Norc/(Brian Garrison) modified power cable's d1 to 0
+[06:50:30]EMOTE: monkey (665)/ : <B>The monkey (665)</B> jumps!
+[06:51:29]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[06:52:07]SAY: Kentucky/ : Cluck!
+[06:52:20]EMOTE: monkey (384)/ : <B>The monkey (384)</B> jumps!
+[06:52:42]EMOTE: monkey (509)/ : <B>The monkey (509)</B> jumps!
+[06:52:50]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:55.00
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:55:00]ADMIN: Loading Banlistjob
+[06:55:00]ADMIN: Loading jobban_rank
+[06:55:00]ADMIN: jobban_keylist was empty
+[06:55:00]ADMIN: Loading appearance_rank
+[06:55:00]ADMIN: appearance_keylist was empty
+[06:55:00]ADMIN: Updating jobbanfile!
+[06:55:00]ADMIN: Loading Banlist
+[06:55:00]ADMIN: Loading RTD lists
+[06:55:59]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[06:56:07]ADMIN: Norc has started the game.
+[06:56:09]ACCESS: Logout: *no key*/(Norc)
+[06:56:09]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:56:19]ADMIN: Norc/(Brian Garrison) jumped to Engineering
+[06:56:24]ADMIN: Norc/(Brian Garrison) jumped to 166,151,1 in Engineering
+[06:57:01]ADMIN: Norc/(Brian Garrison) deleted Power Monitoring at (155,149,1)
+[06:57:24]SAY: Betsy/ : MOOOOOO
+[06:59:04]SAY: Kentucky/ : Cluck!
+[06:59:41]SAY: Kentucky/ : Cluck!
+[07:00:37]EMOTE: monkey (96)/ : <B>The monkey (96)</B> jumps!
+[07:02:30]SAY: grey baby slime (948)/ : Blorble...
+[07:02:46]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/power/plasmagen/pgen at (164,150,1)
+[07:02:49]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/power/plasmagen/pgen at (164,149,1)
+[07:03:38]EMOTE: monkey (7)/ : <B>The monkey (7)</B> jumps!
+[07:03:59]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/plastique at (160,149,1)
+[07:04:09]GAME: Norc/(Brian Garrison) planted C4 on Imperial Plasma Generator at (164,149,1) with 10 second fuse
+[07:04:24]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:04:24]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:04:25]SAY: Betsy/ : moo?
+[07:04:36]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:37.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:37:04]ADMIN: Loading Banlistjob
+[07:37:04]ADMIN: Loading jobban_rank
+[07:37:04]ADMIN: jobban_keylist was empty
+[07:37:04]ADMIN: Loading appearance_rank
+[07:37:05]ADMIN: appearance_keylist was empty
+[07:37:05]ADMIN: Updating jobbanfile!
+[07:37:05]ADMIN: Loading Banlist
+[07:37:05]ADMIN: Loading RTD lists
+[07:38:24]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:40:25]ADMIN: Norc has started the game.
+[07:40:26]GAME: Norc (ckey) has been selected as a Heretic
+[07:40:28]ACCESS: Logout: *no key*/(Norc)
+[07:40:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:40:37]ADMIN: Norc/(Brian Garrison) jumped to Engineering
+[07:40:43]ADMIN: Norc/(Brian Garrison) jumped to 163,150,1 in Engineering
+[07:41:12]ADMIN: Norc/(Brian Garrison) jumped to 154,149,1 in Engineering
+[07:41:26]ADMIN: Norc/(Brian Garrison) jumped to 160,154,1 in Engineering
+[07:42:03]GAME: Emitter deleted at (153,153,1)
+[07:42:04]GAME: Emitter deleted at (171,146,1)
+[07:42:05]GAME: Emitter deleted at (153,154,1)
+[07:42:05]GAME: Emitter deleted at (152,153,1)
+[07:42:06]GAME: Emitter deleted at (171,164,1)
+[07:42:07]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:42:07]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:43:37]EMOTE: monkey (135)/ : <B>The monkey (135)</B> jumps!
+[07:45:32]ADMIN: Norc/(Brian Garrison) spawned /obj/machinery/power/plasmagen/pgen at (158,138,1)
+[07:45:38]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (158,137,1)
+[07:45:44]ADMIN: Norc/(Brian Garrison) assumed direct control of Unknown.
+[07:45:44]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:45:44]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1800816647 || BYOND v510
+[07:45:58]ADMIN: norc/(Unknown) spawned /obj/item/weapon/plastique at (158,135,1)
+[07:46:07]GAME: norc/(Unknown) planted C4 on Imperial Plasma Generator at (158,138,1) with 10 second fuse
+[07:46:18]ACCESS: Logout: *no key*/(Unknown)
+[07:46:18]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1800816647 || BYOND v510
+[07:46:35]ADMIN: norc/(Unknown) spawned /mob/living/carbon/human at (132,127,1)
+[07:46:50]ADMIN: norc/(Unknown) spawned /obj/item/weapon/plastique at (132,127,1)
+[07:46:52]EMOTE: monkey (372)/ : <B>The monkey (372)</B> jumps!
+[07:47:02]ADMIN: norc/(Unknown) spawned /obj/machinery/power/plasmagen/pgen at (131,127,1)
+[07:47:16]ADMIN: norc/(Unknown) assumed direct control of Unknown.
+[07:47:16]ACCESS: Logout: *no key*/(Unknown)
+[07:47:16]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1800816647 || BYOND v510
+[07:47:22]EMOTE: monkey (357)/ : <B>The monkey (357)</B> jumps!
+[07:47:25]GAME: norc/(Unknown) planted C4 on Imperial Plasma Generator at (130,127,1) with 10 second fuse
+[07:47:35]ACCESS: Logout: *no key*/(Unknown)
+[07:47:35]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1800816647 || BYOND v510
+[07:47:49]ACCESS: Logout: norc[DC]/(Unknown)
+
+
+Starting up. 08:34.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:34:06]ADMIN: Loading Banlistjob
+[08:34:06]ADMIN: Loading jobban_rank
+[08:34:06]ADMIN: jobban_keylist was empty
+[08:34:06]ADMIN: Loading appearance_rank
+[08:34:06]ADMIN: appearance_keylist was empty
+[08:34:06]ADMIN: Updating jobbanfile!
+[08:34:06]ADMIN: Loading Banlist
+[08:34:06]ADMIN: Loading RTD lists
+[08:34:53]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:35:05]ADMIN: Norc has started the game.
+[08:35:07]ACCESS: Logout: *no key*/(Norc)
+[08:35:07]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:35:16]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[08:35:22]ADMIN: Norc/(Brian Garrison) jumped to 130,107,7 in the orkland
+[08:35:56]ADMIN: Norc/(Brian Garrison) moved the orkshuttle
+[08:36:28]ADMIN: Norc/(Brian Garrison) initiated a reboot.
+[08:36:33]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:37.24
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:37:24]ADMIN: Loading Banlistjob
+[08:37:24]ADMIN: Loading jobban_rank
+[08:37:24]ADMIN: jobban_keylist was empty
+[08:37:24]ADMIN: Loading appearance_rank
+[08:37:24]ADMIN: appearance_keylist was empty
+[08:37:24]ADMIN: Updating jobbanfile!
+[08:37:24]ADMIN: Loading Banlist
+[08:37:24]ADMIN: Loading RTD lists
+[08:38:03]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:38:35]ADMIN: Norc has started the game.
+[08:38:37]ACCESS: Logout: *no key*/(Norc)
+[08:38:37]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:38:46]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[08:38:51]EMOTE: monkey (234)/ : <B>The monkey (234)</B> jumps!
+[08:38:51]ADMIN: Norc/(Brian Garrison) jumped to 125,60,7 in In space!
+[08:39:18]ADMIN: Norc/(Brian Garrison) moved the orkshuttle
+[08:39:47]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:44.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:44:04]ADMIN: Loading Banlistjob
+[08:44:04]ADMIN: Loading jobban_rank
+[08:44:04]ADMIN: jobban_keylist was empty
+[08:44:04]ADMIN: Loading appearance_rank
+[08:44:04]ADMIN: appearance_keylist was empty
+[08:44:04]ADMIN: Updating jobbanfile!
+[08:44:04]ADMIN: Loading Banlist
+[08:44:04]ADMIN: Loading RTD lists
+[08:47:50]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[08:48:00]ADMIN: Norc has started the game.
+[08:48:02]ACCESS: Logout: *no key*/(Norc)
+[08:48:02]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[08:48:11]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[08:48:21]EMOTE: monkey (821)/ : <B>The monkey (821)</B> jumps!
+[08:48:32]ADMIN: Norc/(Brian Garrison) moved the orkshuttle
+[08:49:08]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[08:49:18]SAY: grey baby slime (866)/ : Blorble...
+[08:49:29]ADMIN: Norc/(Brian Garrison) initiated a reboot.
+[08:49:34]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:50.27
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:50:27]ADMIN: Loading Banlistjob
+[08:50:27]ADMIN: Loading jobban_rank
+[08:50:27]ADMIN: jobban_keylist was empty
+[08:50:27]ADMIN: Loading appearance_rank
+[08:50:27]ADMIN: appearance_keylist was empty
+[08:50:27]ADMIN: Updating jobbanfile!
+[08:50:27]ADMIN: Loading Banlist
+[08:50:27]ADMIN: Loading RTD lists
+
+
+Starting up. 08:58.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:58:59]ADMIN: Loading Banlistjob
+[08:58:59]ADMIN: Loading jobban_rank
+[08:58:59]ADMIN: jobban_keylist was empty
+[08:58:59]ADMIN: Loading appearance_rank
+[08:58:59]ADMIN: appearance_keylist was empty
+[08:58:59]ADMIN: Updating jobbanfile!
+[08:58:59]ADMIN: Loading Banlist
+[08:58:59]ADMIN: Loading RTD lists
+[09:11:21]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[09:11:30]ADMIN: Norc has started the game.
+[09:11:33]ACCESS: Logout: *no key*/(Norc)
+[09:11:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[09:11:34]EMOTE: monkey (935)/ : <B>The monkey (935)</B> jumps!
+[09:11:34]EMOTE: monkey (272)/ : <B>The monkey (272)</B> jumps!
+[09:14:23]EMOTE: monkey (272)/ : <B>The monkey (272)</B> jumps!
+[09:14:41]EMOTE: monkey (935)/ : <B>The monkey (935)</B> jumps!
+[09:15:21]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[09:15:26]ADMIN: Norc/(Brian Garrison) jumped to 140,98,7 in the orkland
+[09:15:31]ADMIN: Norc/(Brian Garrison) jumped to 140,100,7 in the orkland
+[09:15:35]EMOTE: monkey (944)/ : <B>The monkey (944)</B> jumps!
+[09:15:52]ADMIN: Norc/(Brian Garrison) moved the orkshuttle
+[09:16:18]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 22:24.15
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[22:24:19]ADMIN: Loading Banlistjob
+[22:24:19]ADMIN: Loading jobban_rank
+[22:24:19]ADMIN: jobban_keylist was empty
+[22:24:19]ADMIN: Loading appearance_rank
+[22:24:19]ADMIN: appearance_keylist was empty
+[22:24:19]ADMIN: Updating jobbanfile!
+[22:24:19]ADMIN: Loading Banlist
+[22:24:19]ADMIN: Loading RTD lists
+[22:25:28]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[22:26:58]ADMIN: DrakeMarshall has started the game.
+[22:26:59]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[22:27:01]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:27:01]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[22:28:52]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's wings to 1
+[22:29:18]SAY: grey baby slime (444)/ : Lonely...
+[22:30:03]EMOTE: monkey (746)/ : <B>The monkey (746)</B> jumps!
+[22:30:31]ADMIN: DrakeMarshall/(Venatus Kyner) called Venatus Kyner's mutate() with the arguments goldenglow.
+[22:30:32]EMOTE: monkey (930)/ : <B>The monkey (930)</B> jumps!
+[22:30:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/head/helmet/sister/halo at (162,18,2)
+[22:30:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/head/helmet/sister/halo at (162,20,2)
+[22:31:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/shoes/sister at (161,16,2)
+[22:31:28]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/suit/armor/sister at (161,14,2)
+[22:31:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/backpack/sister at (161,13,2)
+[22:31:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/clothing/gloves/sister at (161,10,2)
+[22:32:34]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/chainsword/ultramarine_chainsword/glow at (162,27,2)
+[22:32:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/bolter/glow at (162,28,2)
+[22:32:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/chainsword/ultramarine_chainsword/glow at (161,28,2)
+[22:35:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/sob at (110,144,1)
+[22:35:36]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Sister Debra.
+[22:35:36]ACCESS: Logout: *no key*/(Venatus Kyner)
+[22:35:36]ACCESS: Login: drakemarshall/(Sister Debra) from 127.0.0.1-3229208445 || BYOND v510
+[22:36:07]ADMIN: DrakeMarshall/(Sister Debra) modified Sister Debra's reagents_speedmod to 0
+[22:36:11]ADMIN: drakemarshall/(Sister Debra) dealt 180 amount of brute damage to Sister Debra 
+[22:36:22]EMOTE: Sister Debra/drakemarshall : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[22:36:28]EMOTE: Venatus Kyner/ : <B>Venatus Kyner</B> gasps!
+[22:36:47]EMOTE: Venatus Kyner/ : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[22:37:00]EMOTE: Sister Debra/drakemarshall : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[22:37:01]SAY: mouse/ : SQUEEK!
+[22:37:17]ACCESS: Logout: drakemarshall[DC]/(Sister Debra)

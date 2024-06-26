@@ -1,0 +1,265 @@
+
+
+Starting up. 06:25.18
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:25:18]ADMIN: Loading Banlistjob
+[06:25:18]ADMIN: Loading jobban_rank
+[06:25:18]ADMIN: jobban_keylist was empty
+[06:25:18]ADMIN: Loading appearance_rank
+[06:25:18]ADMIN: appearance_keylist was empty
+[06:25:18]ADMIN: Updating jobbanfile!
+[06:25:18]ADMIN: Loading Banlist
+[06:25:18]ADMIN: Loading RTD lists
+[06:26:09]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[06:26:21]ADMIN: Norc has started the game.
+[06:26:24]ACCESS: Logout: *no key*/(Norc)
+[06:26:24]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v509
+[06:26:45]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/um at (79,132,2)
+[06:26:48]SAY: grey baby slime (842)/ : Lonely...
+[06:26:53]ADMIN: Norc/(Brian Garrison) assumed direct control of Brother Augustus.
+[06:26:53]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:26:53]ACCESS: Login: norc/(Brother Augustus) from 127.0.0.1-1800816647 || BYOND v509
+[06:27:03]ADMIN: norc/(Brother Augustus) test.
+[06:27:06]SAY: mouse/ : Squeek?
+[06:27:08]ADMIN: norc/(Brother Augustus) test.
+[06:27:16]ADMIN: norc/(Brother Augustus) test.
+[06:27:36]ACCESS: Logout: norc[DC]/(Brother Augustus)
+
+
+Starting up. 06:47.41
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:47:42]ADMIN: Loading Banlistjob
+[06:47:42]ADMIN: Loading jobban_rank
+[06:47:42]ADMIN: jobban_keylist was empty
+[06:47:42]ADMIN: Loading appearance_rank
+[06:47:42]ADMIN: appearance_keylist was empty
+[06:47:42]ADMIN: Updating jobbanfile!
+[06:47:42]ADMIN: Loading Banlist
+[06:47:42]ADMIN: Loading RTD lists
+[06:48:34]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[06:48:42]ADMIN: Norc has started the game.
+[06:48:42]GAME: Norc (ckey) has been selected as a Heretic
+[06:48:44]ACCESS: Logout: *no key*/(Norc)
+[06:48:44]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v509
+[06:48:49]EMOTE: monkey (536)/ : <B>The monkey (536)</B> jumps!
+[06:49:04]EMOTE: monkey (269)/ : <B>The monkey (269)</B> jumps!
+[06:49:18]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/um at (79,131,2)
+[06:49:25]ADMIN: Norc/(Brian Garrison) assumed direct control of Brother Gabriel.
+[06:49:25]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:49:25]ACCESS: Login: norc/(Brother Gabriel) from 127.0.0.1-1800816647 || BYOND v509
+[06:49:54]SAY: mouse/ : Squeek!
+[06:50:19]ACCESS: Logout: norc[DC]/(Brother Gabriel)
+
+
+Starting up. 07:24.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:24:21]ADMIN: Loading Banlistjob
+[07:24:21]ADMIN: Loading jobban_rank
+[07:24:21]ADMIN: jobban_keylist was empty
+[07:24:21]ADMIN: Loading appearance_rank
+[07:24:21]ADMIN: appearance_keylist was empty
+[07:24:21]ADMIN: Updating jobbanfile!
+[07:24:21]ADMIN: Loading Banlist
+[07:24:21]ADMIN: Loading RTD lists
+[07:25:16]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[07:25:24]ADMIN: Norc has started the game.
+[07:25:25]GAME: Norc (ckey) has been selected as a Heretic
+[07:25:26]ACCESS: Logout: *no key*/(Norc)
+[07:25:26]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v509
+[07:25:40]ADMIN: Norc/(Brian Garrison) jumped to the Centcom Docks
+[07:25:49]EMOTE: monkey (202)/ : <B>The monkey (202)</B> jumps!
+[07:25:49]SAY: Kentucky/ : Bwaak bwak.
+[07:25:55]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/um at (129,98,2)
+[07:26:00]ADMIN: Norc/(Brian Garrison) assumed direct control of Brother Lukas.
+[07:26:00]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:26:00]ACCESS: Login: norc/(Brother Lukas) from 127.0.0.1-1800816647 || BYOND v509
+[07:26:03]SAY: Pete/ : EHEHEHEHEH
+[07:26:35]SAY: sentinel/ : Establishing control of planet...
+[07:27:40]ADMIN: Norc/(Brother Lukas) modified Brother Lukas's soundevent to 0
+[07:28:04]SAY: sentinel/ : Eliminating hostiles...
+[07:28:06]SAY: Kentucky/ : Cluck!
+[07:28:10]SAY: mouse/ : SQUEEK!
+[07:28:18]EMOTE: monkey (306)/ : <B>The monkey (306)</B> jumps!
+[07:28:54]SAY: mouse/ : SQUEEK!
+[07:29:02]SAY: sentinel/ : Eliminating hostiles...
+[07:29:10]SAY: mouse/ : SQUEEK!
+[07:29:18]SAY: grey baby slime (217)/ : Lonely...
+[07:29:28]EMOTE: monkey (202)/ : <B>The monkey (202)</B> jumps!
+[07:29:38]EMOTE: monkey (932)/ : <B>The monkey (932)</B> jumps!
+[07:29:47]SAY: grey baby slime (507)/ : Blorble...
+[07:29:53]ACCESS: Logout: norc[DC]/(Brother Lukas)
+
+
+Starting up. 07:39.33
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:39:33]ADMIN: Loading Banlistjob
+[07:39:33]ADMIN: Loading jobban_rank
+[07:39:33]ADMIN: jobban_keylist was empty
+[07:39:33]ADMIN: Loading appearance_rank
+[07:39:33]ADMIN: appearance_keylist was empty
+[07:39:33]ADMIN: Updating jobbanfile!
+[07:39:33]ADMIN: Loading Banlist
+[07:39:33]ADMIN: Loading RTD lists
+[07:40:24]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[07:40:33]ADMIN: Norc has started the game.
+[07:40:36]ACCESS: Logout: *no key*/(Norc)
+[07:40:36]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v509
+[07:40:47]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/smleader at (79,131,2)
+[07:40:51]ADMIN: Norc/(Brian Garrison) assumed direct control of Sergeant Valius.
+[07:40:51]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:40:51]ACCESS: Login: norc/(Sergeant Valius) from 127.0.0.1-1800816647 || BYOND v509
+[07:41:10]SAY: mouse/ : Squeek!
+[07:41:31]ACCESS: Logout: norc[DC]/(Sergeant Valius)
+
+
+Starting up. 07:50.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:50:29]ADMIN: Loading Banlistjob
+[07:50:29]ADMIN: Loading jobban_rank
+[07:50:29]ADMIN: jobban_keylist was empty
+[07:50:29]ADMIN: Loading appearance_rank
+[07:50:29]ADMIN: appearance_keylist was empty
+[07:50:29]ADMIN: Updating jobbanfile!
+[07:50:29]ADMIN: Loading Banlist
+[07:50:29]ADMIN: Loading RTD lists
+[07:52:27]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[07:52:38]ADMIN: Norc has started the game.
+[07:52:41]ACCESS: Logout: *no key*/(Norc)
+[07:52:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v509
+[07:52:50]EMOTE: monkey (755)/ : <B>The monkey (755)</B> jumps!
+[07:52:59]ADMIN: Norc/(Brian Garrison) jumped to the Centcom Docks
+[07:53:05]ADMIN: Norc/(Brian Garrison) jumped to 124,105,2 in the Centcom Transport Shuttle
+[07:53:10]ADMIN: Norc/(Brian Garrison) jumped to 123,100,2 in the Centcom Transport Shuttle
+[07:53:22]EMOTE: monkey (326)/ : <B>The monkey (326)</B> jumps!
+[07:53:26]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ravenguardhead at (111,99,2)
+[07:53:37]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/sm at (110,99,2)
+[07:53:41]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/smleader at (108,99,2)
+[07:53:50]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/um at (107,99,2)
+[07:53:54]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/umleader at (107,98,2)
+[07:54:02]ADMIN: Norc/(Brian Garrison) assumed direct control of Sergeant Valocius Kyublai.
+[07:54:02]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:54:02]ACCESS: Login: norc/(Sergeant Valocius Kyublai) from 127.0.0.1-1800816647 || BYOND v509
+[07:54:11]SAY: Betsy/ : moo?
+[07:54:25]ADMIN: norc/(Sergeant Valocius Kyublai) assumed direct control of Sergeant Valius.
+[07:54:25]ACCESS: Logout: *no key*/(Sergeant Valocius Kyublai)
+[07:54:25]ACCESS: Login: norc/(Sergeant Valius) from 127.0.0.1-1800816647 || BYOND v509
+[07:54:34]SAY: Pete/ : EHEHEHEHEH
+[07:54:38]EMOTE: monkey (326)/ : <B>The monkey (326)</B> jumps!
+[07:54:40]ADMIN: norc/(Sergeant Valius) assumed direct control of Brother Augustus.
+[07:54:40]ACCESS: Logout: *no key*/(Sergeant Valius)
+[07:54:40]ACCESS: Login: norc/(Brother Augustus) from 127.0.0.1-1800816647 || BYOND v509
+[07:54:51]SAY: sentinel/ : Eliminating hostiles...
+[07:55:01]ADMIN: norc/(Brother Augustus) assumed direct control of Sergeant Tiberius.
+[07:55:01]ACCESS: Logout: *no key*/(Brother Augustus)
+[07:55:01]ACCESS: Login: norc/(Sergeant Tiberius) from 127.0.0.1-1800816647 || BYOND v509
+[07:55:04]SAY: Featherbottom/ : Cluck!
+[07:55:12]ADMIN: norc/(Sergeant Tiberius) assumed direct control of Brother Roman.
+[07:55:12]ACCESS: Logout: *no key*/(Sergeant Tiberius)
+[07:55:12]ACCESS: Login: norc/(Brother Roman) from 127.0.0.1-1800816647 || BYOND v509
+[07:55:22]ACCESS: Logout: norc[DC]/(Brother Roman)
+
+
+Starting up. 08:52.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[08:52:51]ADMIN: Loading Banlistjob
+[08:52:51]ADMIN: Loading jobban_rank
+[08:52:51]ADMIN: jobban_keylist was empty
+[08:52:51]ADMIN: Loading appearance_rank
+[08:52:51]ADMIN: appearance_keylist was empty
+[08:52:51]ADMIN: Updating jobbanfile!
+[08:52:51]ADMIN: Loading Banlist
+[08:52:51]ADMIN: Loading RTD lists
+[08:53:42]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[08:58:19]ACCESS: Logout: Norc[DC]/(Norc)
+[08:59:49]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v509
+[08:59:57]ACCESS: Logout: Norc[DC]/(Norc)

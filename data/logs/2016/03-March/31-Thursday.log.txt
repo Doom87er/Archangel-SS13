@@ -1,0 +1,454 @@
+
+
+Starting up. 08:16.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:16:49]ADMIN: Loading Banlistjob
+[08:16:49]ADMIN: Loading jobban_rank
+[08:16:49]ADMIN: jobban_keylist was empty
+[08:16:49]ADMIN: Loading appearance_rank
+[08:16:49]ADMIN: appearance_keylist was empty
+[08:16:49]ADMIN: Updating jobbanfile!
+[08:16:49]ADMIN: Loading Banlist
+[08:16:49]ADMIN: Loading RTD lists
+[08:17:53]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:07]ADMIN: Norc has started the game.
+[08:18:07]GAME: Norc (ckey) has been selected as a Heretic
+[08:18:09]ACCESS: Logout: *no key*/(Norc)
+[08:18:09]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:12]SAY: Betsy/ : MOOOOOO
+[08:18:20]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork/gretchin at (145,126,1)
+[08:18:22]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork/gretchin/gret at (145,127,1)
+[08:18:43]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:18:43]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:18:51]EMOTE: monkey (520)/ : <B>The monkey (520)</B> jumps!
+[08:18:53]EMOTE: monkey (80)/ : <B>The monkey (80)</B> jumps!
+[08:18:59]EMOTE: monkey (486)/ : <B>The monkey (486)</B> jumps!
+[08:19:05]EMOTE: monkey (544)/ : <B>The monkey (544)</B> jumps!
+[08:19:11]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[08:19:21]EMOTE: monkey (544)/ : <B>The monkey (544)</B> jumps!
+[08:20:05]SAY: sentinel/ : Establishing control of planet...
+[08:20:10]SAY: sentinel/ : DIE!
+[08:20:14]EMOTE: monkey (544)/ : <B>The monkey (544)</B> jumps!
+[08:20:16]SAY: sentinel/ : Eliminating hostiles...
+[08:20:18]SAY: necron scarab/ : Establishing control of planet...
+[08:20:20]SAY: sentinel/ : Eliminating hostiles...
+[08:20:38]SAY: sentinel/ : Eliminating hostiles...
+[08:20:44]SAY: sentinel/ : Establishing control of planet...
+[08:20:52]SAY: sentinel/ : DIE!
+[08:21:02]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[08:21:04]SAY: mouse/ : Squeek!
+[08:21:04]SAY: sentinel/ : Eliminating hostiles...
+[08:21:04]SAY: sentinel/ : DIE!
+[08:21:06]SAY: sentinel/ : Establishing control of planet...
+[08:21:12]SAY: sentinel/ : Eliminating hostiles...
+[08:21:24]SAY: sentinel/ : Establishing control of planet...
+[08:21:26]SAY: Pugley III/ : Bark!
+[08:21:30]SAY: sentinel/ : Eliminating hostiles...
+[08:21:32]SAY: sentinel/ : Establishing control of planet...
+[08:21:34]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 08:26.02
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[08:26:02]ADMIN: Loading Banlistjob
+[08:26:02]ADMIN: Loading jobban_rank
+[08:26:02]ADMIN: jobban_keylist was empty
+[08:26:02]ADMIN: Loading appearance_rank
+[08:26:02]ADMIN: appearance_keylist was empty
+[08:26:02]ADMIN: Updating jobbanfile!
+[08:26:02]ADMIN: Loading Banlist
+[08:26:02]ADMIN: Loading RTD lists
+[08:27:54]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:03]ADMIN: Norc has started the game.
+[08:28:03]GAME: Norc (ckey) has been selected as a Heretic
+[08:28:05]ACCESS: Logout: *no key*/(Norc)
+[08:28:05]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:16]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork/gretchin at (146,126,1)
+[08:28:20]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/ork/gretchin/gret at (146,127,1)
+[08:28:22]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:28:22]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:32]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:28:32]ACCESS: Login: Norc/(Gretchin (548)) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:38]ACCESS: Logout: *no key*/(Gretchin (548))
+[08:28:38]ACCESS: Login: Norc/(Gretchin (548)) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:47]ACCESS: Logout: *no key*/(Gretchin (548))
+[08:28:47]ACCESS: Login: Norc/(Gretchin (405)) from 127.0.0.1-1324596339 || BYOND v509
+[08:28:51]SAY: mouse/ : Squeek?
+[08:28:56]ACCESS: Logout: *no key*/(Gretchin (405))
+[08:28:56]ACCESS: Login: Norc/(Gretchin (405)) from 127.0.0.1-1324596339 || BYOND v509
+[08:29:14]ACCESS: Logout: Norc[DC]/(Gretchin (405))
+
+
+Starting up. 15:35.25
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[15:35:25]ADMIN: Loading Banlistjob
+[15:35:25]ADMIN: Loading jobban_rank
+[15:35:25]ADMIN: jobban_keylist was empty
+[15:35:25]ADMIN: Loading appearance_rank
+[15:35:25]ADMIN: appearance_keylist was empty
+[15:35:25]ADMIN: Updating jobbanfile!
+[15:35:25]ADMIN: Loading Banlist
+[15:35:25]ADMIN: Loading RTD lists
+[15:40:58]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[15:41:32]ADMIN: DrakeMarshall has started the game.
+[15:41:33]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[15:41:35]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:41:35]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[15:42:19]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[15:42:34]SAY: mouse/ : Squeek!
+[15:43:25]SAY: sentinel/ : Establishing control of planet...
+[15:43:37]SAY: sentinel/ : Establishing control of planet...
+[15:43:43]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[15:43:44]SAY: mouse/ : Squeek!
+[15:44:00]SAY: sentinel/ : Eliminating hostiles...
+[15:44:30]SAY: sentinel/ : Establishing control of planet...
+[15:44:34]EMOTE: monkey (512)/ : <B>The monkey (512)</B> jumps!
+[15:44:45]SAY: sentinel/ : Establishing control of planet...
+[15:44:53]ADMIN: DrakeMarshall/(Georgene Gibson) spawned /obj/item/device/laser_pointer/purple at (112,110,1)
+[15:44:55]SAY: sentinel/ : Eliminating hostiles...
+[15:45:15]SAY: mouse/ : Squeek?
+[15:45:17]SAY: sentinel/ : Eliminating hostiles...
+[15:45:23]ADMIN: DrakeMarshall/(Georgene Gibson) changed their view range to 7.
+[15:45:34]ADMIN: DrakeMarshall/(Georgene Gibson) jumped to 115,125,1 in the Gateway
+[15:45:38]EMOTE: monkey (772)/ : <B>The monkey (772)</B> jumps!
+[15:46:00]SAY: sentinel/ : Establishing control of planet...
+[15:46:04]SAY: sentinel/ : Establishing control of planet...
+[15:46:08]EMOTE: monkey (772)/ : <B>The monkey (772)</B> jumps!
+[15:46:24]ADMIN: DrakeMarshall/(Georgene Gibson) spawned /obj/item/weapon/gun/projectile/automatic/lasgunb at (221,65,7)
+[15:46:27]SAY: grey baby slime (258)/ : Blorble...
+[15:46:42]SAY: sentinel/ : Eliminating hostiles...
+[15:46:54]SAY: sentinel/ : Establishing control of planet...
+[15:47:44]SAY: Pete/ : EHEHEHEHEH
+[15:47:44]SAY: sentinel/ : Establishing control of planet...
+[15:48:03]SAY: Betsy/ : moo
+[15:48:58]ADMIN: DrakeMarshall/(Georgene Gibson) healed / Revived DrakeMarshall/(Georgene Gibson)
+[15:49:01]SAY: sentinel/ : Eliminating hostiles...
+[15:49:09]ADMIN: DrakeMarshall/(Georgene Gibson) healed / Revived DrakeMarshall/(Georgene Gibson)
+[15:49:15]EMOTE: monkey (591)/ : <B>The monkey (591)</B> jumps!
+[15:49:15]SAY: sentinel/ : Establishing control of planet...
+[15:49:21]ADMIN: DrakeMarshall/(Georgene Gibson) healed / Revived DrakeMarshall/(Georgene Gibson)
+[15:49:33]SAY: Kentucky/ : Bwaak bwak.
+[15:49:45]SAY: sentinel/ : Establishing control of planet...
+[15:49:51]SAY: Kentucky/ : Cluck!
+[15:49:52]ADMIN: DrakeMarshall/(Georgene Gibson) jumped to 119,117,1 in the Gateway
+[15:50:09]SAY: mouse/ : Squeek!
+[15:50:13]SAY: sentinel/ : Eliminating hostiles...
+[15:50:33]SAY: sentinel/ : Eliminating hostiles...
+[15:50:41]EMOTE: monkey (512)/ : <B>The monkey (512)</B> jumps!
+[15:50:55]SAY: grey baby slime (258)/ : Blorble...
+[15:50:59]SAY: sentinel/ : Establishing control of planet...
+[15:51:17]EMOTE: monkey (591)/ : <B>The monkey (591)</B> jumps!
+[15:51:45]SAY: sentinel/ : Eliminating hostiles...
+[15:51:53]ADMIN: DrakeMarshall/(Georgene Gibson) used gibself.
+[15:51:55]ACCESS: Logout: *no key*/(Georgene Gibson)
+[15:51:55]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[15:52:25]EMOTE: monkey (549)/ : <B>The monkey (549)</B> jumps!
+[15:52:53]SAY: Betsy/ : moo?
+[15:52:53]SAY: sentinel/ : Eliminating hostiles...
+[15:52:58]ADMIN: DrakeMarshall/(Georgene Gibson) called /proc/explode() with the arguments Pugley+III&5&7&8&3.
+[15:53:05]EMOTE: monkey (215)/ : <B>The monkey (215)</B> jumps!
+[15:53:27]SAY: Kentucky/ : Cluck!
+[15:53:41]SAY: sentinel/ : Eliminating hostiles...
+[15:53:51]SAY: sentinel/ : Eliminating hostiles...
+[15:54:02]SAY: sentinel/ : Eliminating hostiles...
+[15:54:28]SAY: mouse/ : Squeek?
+[15:54:36]SAY: necron scarab/ : Establishing control of planet...
+[15:55:20]SAY: Featherbottom/ : Bwaak bwak.
+[15:55:22]SAY: mouse/ : Squeek?
+[15:55:42]SAY: mouse/ : Squeek!
+[15:55:48]ADMIN: DrakeMarshall/(Georgene Gibson) jumped to Snow
+[15:56:02]ACCESS: Logout: DrakeMarshall[DC]/(Georgene Gibson)
+
+
+Starting up. 16:18.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[16:18:44]ADMIN: Loading Banlistjob
+[16:18:44]ADMIN: Loading jobban_rank
+[16:18:44]ADMIN: jobban_keylist was empty
+[16:18:44]ADMIN: Loading appearance_rank
+[16:18:44]ADMIN: appearance_keylist was empty
+[16:18:44]ADMIN: Updating jobbanfile!
+[16:18:44]ADMIN: Loading Banlist
+[16:18:44]ADMIN: Loading RTD lists
+[16:21:00]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[16:21:12]ADMIN: DrakeMarshall has started the game.
+[16:21:13]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[16:21:15]ACCESS: Logout: *no key*/(DrakeMarshall)
+[16:21:15]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[16:21:20]SAY: grey baby slime (887)/ : Blop...
+[16:21:58]EMOTE: monkey (288)/ : <B>The monkey (288)</B> jumps!
+[16:22:18]SAY: Featherbottom/ : Bwaak bwak.
+[16:22:20]ADMIN: DrakeMarshall/(Georgene Gibson) used gibself.
+[16:22:21]ACCESS: Logout: *no key*/(Georgene Gibson)
+[16:22:21]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[16:23:22]SAY: Ghost/DrakeMarshall : lag spike...
+[16:23:37]EMOTE: monkey (871)/ : <B>The monkey (871)</B> jumps!
+[16:23:38]SAY: mouse/ : Squeek?
+[16:23:46]SAY: sentinel/ : Eliminating hostiles...
+[16:23:54]ADMIN: DrakeMarshall/(Georgene Gibson) called /proc/explode() with the arguments Pugley+III&4&6&8&7.
+[16:24:00]SAY: sentinel/ : Establishing control of planet...
+[16:24:06]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[16:24:24]EMOTE: monkey (941)/ : <B>The monkey (941)</B> jumps!
+[16:24:24]SAY: sentinel/ : Eliminating hostiles...
+[16:24:26]SAY: sentinel/ : Establishing control of planet...
+[16:24:44]SAY: sentinel/ : Establishing control of planet...
+[16:24:56]SAY: sentinel/ : Eliminating hostiles...
+[16:24:58]SAY: sentinel/ : Eliminating hostiles...
+[16:25:10]SAY: mouse/ : SQUEEK!
+[16:25:16]SAY: mouse/ : SQUEEK!
+[16:25:22]SAY: sentinel/ : Establishing control of planet...
+[16:25:32]SAY: sentinel/ : Eliminating hostiles...
+[16:25:34]SAY: mouse/ : Squeek!
+[16:25:36]SAY: sentinel/ : Establishing control of planet...
+[16:25:38]SAY: mouse/ : Squeek?
+[16:25:38]SAY: sentinel/ : Establishing control of planet...
+[16:26:05]ACCESS: Logout: DrakeMarshall[DC]/(Georgene Gibson)
+
+
+Starting up. 16:32.28
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[16:32:28]ADMIN: Loading Banlistjob
+[16:32:28]ADMIN: Loading jobban_rank
+[16:32:28]ADMIN: jobban_keylist was empty
+[16:32:28]ADMIN: Loading appearance_rank
+[16:32:28]ADMIN: appearance_keylist was empty
+[16:32:28]ADMIN: Updating jobbanfile!
+[16:32:28]ADMIN: Loading Banlist
+[16:32:28]ADMIN: Loading RTD lists
+[16:34:18]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[16:35:01]ADMIN: DrakeMarshall has started the game.
+[16:35:01]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[16:35:03]ACCESS: Logout: *no key*/(DrakeMarshall)
+[16:35:03]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[16:35:09]SAY: mouse/ : Squeek!
+[16:35:23]ADMIN: DrakeMarshall/(Georgene Gibson) called /proc/explode() with the arguments Georgene+Gibson&5&6&7&6.
+[16:35:27]ACCESS: Logout: *no key*/(Georgene Gibson)
+[16:35:27]ACCESS: Login: DrakeMarshall/(Georgene Gibson) from 127.0.0.1-3229208445 || BYOND v509
+[16:36:45]SAY: sentinel/ : Eliminating hostiles...
+[16:36:47]SAY: sentinel/ : Eliminating hostiles...
+[16:36:57]SAY: sentinel/ : Eliminating hostiles...
+[16:37:08]EMOTE: monkey (224)/ : <B>The monkey (224)</B> jumps!
+[16:37:30]SAY: mouse/ : Squeek!
+[16:37:36]SAY: grey baby slime (887)/ : Lonely...
+[16:37:52]SAY: sentinel/ : Establishing control of planet...
+[16:38:07]ADMIN: DrakeMarshall/(Georgene Gibson) called /proc/explode() with the arguments Pugley+III&12&15&17&4.
+[16:38:34]SAY: mouse/ : Squeek?
+[16:38:36]SAY: sentinel/ : Eliminating hostiles...
+[16:38:46]SAY: sentinel/ : Eliminating hostiles...
+[16:38:58]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[16:39:03]SAY: necron scarab/ : Eliminating hostiles...
+[16:39:18]ADMIN: DrakeMarshall/(Georgene Gibson) spawned /mob/living/carbon/human/OHinq at (107,159,1)
+[16:39:24]SAY: sentinel/ : Establishing control of planet...
+[16:39:24]SAY: sentinel/ : Establishing control of planet...
+[16:39:28]ADMIN: DrakeMarshall/(Georgene Gibson) assumed direct control of Unknown.
+[16:39:28]ACCESS: Logout: *no key*/(Georgene Gibson)
+[16:39:28]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:39:32]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[16:39:38]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (107,158,1)
+[16:39:41]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/misslea at (107,159,1)
+[16:39:45]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/misslea at (108,159,1)
+[16:39:47]SAY: sentinel/ : Establishing control of planet...
+[16:39:53]EMOTE: monkey (224)/ : <B>The monkey (224)</B> jumps!
+[16:39:57]SAY: necron scarab/ : Eliminating hostiles...
+[16:39:57]SAY: sentinel/ : Establishing control of planet...
+[16:40:01]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (109,159,1)
+[16:40:04]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (109,158,1)
+[16:40:06]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (108,158,1)
+[16:40:11]GAME: Explosion with size (2, 2, 3, 0) in area Fore Primary Hallway (95,159,1)
+[16:40:18]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[16:40:26]GAME: Explosion with size (2, 2, 3, 0) in area Courtroom (109,148,1)
+[16:41:13]SAY: necron scarab/ : Eliminating hostiles...
+[16:41:15]SAY: sentinel/ : Establishing control of planet...
+[16:41:17]SAY: sentinel/ : Eliminating hostiles...
+[16:41:18]GAME: Explosion with size (2, 2, 3, 0) in area Brig (109,161,1)
+[16:41:23]GAME: drakemarshall/(Unknown) has primed a blood pact grenade for detonation at Fore Primary Hallway (107,151,1).
+[16:41:27]SAY: Pete/ : eh?
+[16:41:31]SAY: sentinel/ : Eliminating hostiles...
+[16:41:36]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (108,157,1)
+[16:41:47]SAY: sentinel/ : Establishing control of planet...
+[16:41:51]SAY: grey baby slime (385)/ : Bored...
+[16:42:00]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[16:42:02]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[16:42:18]SAY: mouse/ : Squeek?
+[16:42:24]SAY: sentinel/ : Eliminating hostiles...
+[16:42:24]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (123,147,1)
+[16:42:26]SAY: sentinel/ : Eliminating hostiles...
+[16:42:27]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (123,147,1)
+[16:42:29]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (123,147,1)
+[16:42:52]SAY: sentinel/ : Eliminating hostiles...
+[16:42:52]SAY: sentinel/ : Establishing control of planet...
+[16:42:54]SAY: mouse/ : SQUEEK!
+[16:43:18]SAY: sentinel/ : Eliminating hostiles...
+[16:43:49]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (107,122,1)
+[16:43:57]SAY: necron scarab/ : Establishing control of planet...
+[16:43:59]SAY: sentinel/ : Eliminating hostiles...
+[16:44:08]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[16:44:08]SAY: sentinel/ : Eliminating hostiles...
+[16:44:10]SAY: sentinel/ : Establishing control of planet...
+[16:44:24]SAY: sentinel/ : Establishing control of planet...
+[16:44:28]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (88,121,1)
+[16:44:30]SAY: Featherbottom/ : Bwaak bwak.
+[16:44:32]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (88,121,1)
+[16:44:34]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (88,121,1)
+[16:44:36]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (88,121,1)
+[16:45:21]ADMIN: drakemarshall/(Unknown) jumped to the Security Office
+[16:45:22]SAY: sentinel/ : Establishing control of planet...
+[16:45:32]SAY: sentinel/ : Eliminating hostiles...
+[16:45:40]SAY: Betsy/ : moo?
+[16:45:48]GAME: Explosion with size (2, 2, 3, 0) in area Brig (120,214,1)
+[16:46:10]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[16:46:15]ACCESS: Logout: *no key*/(Unknown)
+[16:46:15]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:46:20]SAY: sentinel/ : Establishing control of planet...
+[16:46:44]SAY: necron scarab/ : Establishing control of planet...
+[16:46:54]SAY: sentinel/ : Establishing control of planet...
+[16:47:16]EMOTE: monkey (192)/ : <B>The monkey (192)</B> jumps!
+[16:47:18]SAY: mouse/ : Squeek?
+[16:47:24]SAY: sentinel/ : Eliminating hostiles...
+[16:47:26]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (163,242,1)
+[16:47:28]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (163,242,1)
+[16:47:30]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[16:47:32]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (163,242,1)
+[16:47:33]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (163,242,1)
+[16:47:36]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (163,242,1)
+[16:47:42]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[16:47:42]ACCESS: Logout: *no key*/(Unknown)
+[16:47:42]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:47:46]GAME: Explosion with size (2, 2, 3, 0) in area Brig Control (149,242,1)
+[16:47:52]EMOTE: monkey (22)/ : <B>The monkey (22)</B> jumps!
+[16:47:52]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[16:48:16]SAY: mouse/ : SQUEEK!
+[16:48:16]SAY: Betsy/ : moo
+[16:48:24]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[16:48:38]SAY: mouse/ : SQUEEK!
+[16:48:44]SAY: necron scarab/ : Eliminating hostiles...
+[16:49:04]SAY: necron scarab/ : Eliminating hostiles...
+[16:49:06]SAY: sentinel/ : Eliminating hostiles...
+[16:49:10]SAY: necron scarab/ : Establishing control of planet...
+[16:49:26]SAY: mouse/ : SQUEEK!
+[16:49:30]SAY: sentinel/ : Establishing control of planet...
+[16:49:32]SAY: sentinel/ : Eliminating hostiles...
+[16:49:34]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[16:49:38]SAY: sentinel/ : Eliminating hostiles...
+[16:49:48]EMOTE: monkey (22)/ : <B>The monkey (22)</B> jumps!
+[16:49:50]SAY: mouse/ : SQUEEK!
+[16:49:50]SAY: Featherbottom/ : Bwaak bwak.
+[16:49:54]SAY: grey baby slime (385)/ : Blorble...
+[16:50:25]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (153,240,1)
+[16:50:32]SAY: sentinel/ : Eliminating hostiles...
+[16:50:36]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/misslea at (163,232,1)
+[16:50:41]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (164,232,1)
+[16:51:00]SAY: necron scarab/ : Eliminating hostiles...
+[16:51:02]EMOTE: monkey (458)/ : <B>The monkey (458)</B> jumps!
+[16:51:08]GAME: Explosion with size (2, 2, 3, 0) in area Firing Range (155,225,1)
+[16:51:23]SAY: sentinel/ : Eliminating hostiles...
+[16:51:29]SAY: sentinel/ : Establishing control of planet...
+[16:51:33]SAY: necron scarab/ : Establishing control of planet...
+[16:51:38]SAY: necron scarab/ : Eliminating hostiles...
+[16:51:39]SAY: Betsy/ : MOOOOOO
+[16:51:43]SAY: necron scarab/ : Eliminating hostiles...
+[16:51:43]SAY: sentinel/ : Eliminating hostiles...
+[16:51:47]SAY: sentinel/ : Eliminating hostiles...
+[16:51:47]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+[16:51:53]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:51:55]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[16:52:06]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[16:52:14]SAY: sentinel/ : Establishing control of planet...
+[16:52:18]SAY: sentinel/ : Establishing control of planet...
+[16:52:28]SAY: sentinel/ : Establishing control of planet...
+[16:52:50]SAY: necron scarab/ : Eliminating hostiles...
+[16:53:04]SAY: sentinel/ : Eliminating hostiles...
+[16:53:06]SAY: mouse/ : Squeek?
+[16:53:14]SAY: sentinel/ : Eliminating hostiles...
+[16:53:14]SAY: sentinel/ : Establishing control of planet...
+[16:53:19]ADMIN: DrakeMarshall/(Unknown) called /proc/explode() with the arguments Unknown&40&40&0&0.
+[16:53:22]SAY: sentinel/ : Establishing control of planet...
+[16:53:22]SAY: sentinel/ : Eliminating hostiles...
+[16:53:22]SAY: necron scarab/ : Establishing control of planet...
+[16:53:22]SAY: sentinel/ : Establishing control of planet...
+[16:53:26]SAY: sentinel/ : Eliminating hostiles...
+[16:53:26]SAY: sentinel/ : Eliminating hostiles...
+[16:53:38]SAY: sentinel/ : Eliminating hostiles...
+[16:53:44]SAY: sentinel/ : Eliminating hostiles...
+[16:53:46]SAY: sentinel/ : Establishing control of planet...
+[16:53:46]SAY: necron scarab/ : Establishing control of planet...
+[16:53:52]SAY: sentinel/ : Eliminating hostiles...
+[16:53:54]ADMIN: DrakeMarshall/(Unknown) called /proc/explode() with the arguments Unknown&40&0&40&0.
+[16:53:54]SAY: sentinel/ : Establishing control of planet...
+[16:53:56]ACCESS: Logout: *no key*/(Unknown)
+[16:53:56]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[16:54:36]SAY: sentinel/ : Establishing control of planet...
+[16:54:42]SAY: sentinel/ : Establishing control of planet...
+[16:54:50]EMOTE: monkey (573)/ : <B>The monkey (573)</B> jumps!
+[16:54:56]SAY: sentinel/ : Establishing control of planet...
+[16:55:01]ACCESS: Logout: DrakeMarshall[DC]/(Unknown)

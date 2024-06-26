@@ -1,0 +1,126 @@
+
+
+Starting up. 19:44.54
+---------------------
+[20:13:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to inject Venatus Kyner(drakemarshall) with DNA injector (Tele.)</font>
+[20:13:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with DNA injector (Tele.)</font>
+[20:13:31]ATTACK: DrakeMarshall/(Venatus Kyner) injected DrakeMarshall/(Venatus Kyner) with the DNA injector (Tele.)
+[20:14:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with floor tile(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[20:14:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[20:14:17]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[20:14:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[20:14:19]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[20:14:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[20:17:46]ATTACK: <font color='red'>Unknown(drakemarshall) shot Venatus Kyner with The laser</font>
+[20:17:48]ATTACK: <font color='red'>Unknown(drakemarshall) shot Venatus Kyner with The laser</font>
+[20:17:57]ATTACK: <font color='red'>Unknown(drakemarshall) hit Venatus Kyner with Imperial Krak Grenade</font>
+[20:24:08]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (961) with The laser</font>
+[20:24:08]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (961) with The laser</font>
+[20:24:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (219) with The laser</font>
+[20:24:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (219) with The laser</font>
+[20:24:48]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (499) with The laser</font>
+[20:24:48]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (499) with The laser</font>
+[20:24:49]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (384) with The laser</font>
+[20:24:50]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (384) with The laser</font>
+[20:25:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (778) with The laser</font>
+[20:25:02]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (461) with The laser</font>
+[20:25:03]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (382) with The laser</font>
+[20:25:04]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (241) with The laser</font>
+[20:25:05]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (241) with The laser</font>
+[20:25:26]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (496) with The laser</font>
+[20:25:26]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (496) with The laser</font>
+[20:25:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (998) with The laser</font>
+[20:25:27]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (998) with The laser</font>
+[20:25:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (689) with The laser</font>
+[20:25:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (689) with The laser</font>
+[20:25:30]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (952) with The laser</font>
+[20:25:30]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (438) with The laser</font>
+[20:25:31]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (438) with The laser</font>
+[20:25:31]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (382) with The laser</font>
+[20:25:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (140) with The laser</font>
+[20:25:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (140) with The laser</font>
+[20:25:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (778) with The laser</font>
+[20:25:42]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (335) with The laser</font>
+[20:25:42]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (335) with The laser</font>
+[20:25:44]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (461) with The laser</font>
+[20:25:54]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (952) with The laser</font>
+[20:25:56]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (470) with The laser</font>
+[20:25:56]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (470) with The laser</font>
+[20:25:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (547) with The laser</font>
+[20:25:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (547) with The laser</font>
+[20:32:09]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[20:32:10]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[20:33:32]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown(drakemarshall) with pike(INTENT: HARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 20:44.06
+---------------------
+[20:50:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Pugley III with Bolt</font>
+[20:53:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) disarmed Venatus Kyner(drakemarshall) </font>
+[21:08:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[21:12:37]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Stimulant Injector(Satrophine and Psychon)</font>
+[21:17:32]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:17:43]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:17:52]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:17:54]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:18:00]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:18:05]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:18:07]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:18:09]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown </font>
+[21:18:15]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[21:18:16]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[21:18:25]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Burning Blade(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[21:19:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:12]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:12]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:13]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:15]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:23]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:24]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:25]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:28]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:29]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:30]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:31]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:32]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:35]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:36]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:38]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:38]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:39]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:40]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:53]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:19:54]ATTACK: <font color='red'>Unknown(drakemarshall) shot Explorator Servitor with The hellbeam</font>
+[21:40:06]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:07]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:10]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:11]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:15]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:16]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:18]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:20]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with Salilane Injector(Epinephrine, Tricordrazine and Inaprovaline)</font>
+[21:40:52]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (14) with The hellbeam</font>
+[21:41:10]ATTACK: <font color='red'>Unknown(drakemarshall) punched Unknown(drakemarshall) </font>
+[21:41:12]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (175) with The hellbeam</font>
+[21:41:13]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (422) with The hellbeam</font>
+[21:41:13]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (622) with The hellbeam</font>
+[21:41:14]ATTACK: <font color='red'>Unknown(drakemarshall) shot scarab (457) with The hellbeam</font>
+
+
+Starting up. 21:52.55
+---------------------
+[21:56:08]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:13]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>
+[21:56:14]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Bolt</font>

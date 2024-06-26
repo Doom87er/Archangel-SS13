@@ -1,0 +1,102 @@
+
+
+Starting up. 08:29.15
+---------------------
+[08:49:09]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:11]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:12]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:14]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:15]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:15]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:16]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:18]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:19]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:19]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[08:49:29]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to disarm Unknown </font>
+[08:49:29]ATTACK: <font color='red'>Unknown(drakemarshall) stunned Unknown </font>
+[08:49:31]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to disarm Unknown </font>
+[08:49:31]ATTACK: <font color='red'>Unknown(drakemarshall) stunned Unknown </font>
+[08:49:33]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:44]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:45]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:48]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:48]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:50]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:51]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:54]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:49:55]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Power Knife(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:51:13]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Combat Razor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:51:14]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Combat Razor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:51:14]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:51:15]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Unknown with Combat Razor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[08:51:15]ATTACK: <font color='red'>Unknown(drakemarshall) attacked Brother Achilles with Combat Razor(INTENT: HARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 14:04.01
+---------------------
+[14:08:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:08:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:08:59]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:09:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:09:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:09:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Combat Razor(INTENT: DISARM) (DAMTYE: BRUTE)</font>
+[14:09:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to disarm Unknown </font>
+[14:09:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[14:09:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:20]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:22]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:23]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:25]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:26]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:09:34]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) knocked back Unknown </font>
+[14:09:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:09:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:09:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:09:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to hamstring Unknown </font>
+[14:09:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:09:58]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:10:02]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:10:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:10:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) dealt a piercing blow to Unknown </font>
+[14:10:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[14:10:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+
+
+Starting up. 18:39.29
+---------------------
+[20:18:33]ATTACK: <font color='red'>Unknown(drakemarshall) attempted to inject Unknown(drakemarshall) with DNA injector (Xray)</font>
+[20:18:33]ATTACK: <font color='red'>Unknown(drakemarshall) injected Unknown(drakemarshall) with DNA injector (Xray)</font>
+[20:18:33]ATTACK: drakemarshall/(Unknown) injected drakemarshall/(Unknown) with the DNA injector (Xray)
+
+
+Starting up. 23:22.28
+---------------------
+[23:26:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Eviscerator (Wielded)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[23:26:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Eviscerator(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[23:30:27]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with jetpack (oxygen)(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[23:33:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to inject Venatus Kyner(drakemarshall) with DNA injector (Xray)</font>
+[23:33:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with DNA injector (Xray)</font>
+[23:33:01]ATTACK: DrakeMarshall/(Venatus Kyner) injected DrakeMarshall/(Venatus Kyner) with the DNA injector (Xray)

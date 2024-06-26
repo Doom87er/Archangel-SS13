@@ -1,0 +1,15 @@
+
+
+Starting up. 18:45.08
+---------------------
+
+
+Starting up. 20:14.59
+---------------------
+[20:24:50]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot Venatus Kyner(drakemarshall) with The electrode</font>
+[20:29:40]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>
+[20:29:41]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>
+[20:29:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>
+[20:29:42]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>
+[20:29:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>
+[20:29:43]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot crate with Bolt</font>

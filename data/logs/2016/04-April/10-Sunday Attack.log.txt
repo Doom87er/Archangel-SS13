@@ -1,0 +1,47 @@
+
+
+Starting up. 09:37.47
+---------------------
+
+
+Starting up. 09:41.24
+---------------------
+
+
+Starting up. 22:08.20
+---------------------
+[13:47:42]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:47:43]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:47:45]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:47:47]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:07]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:08]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:09]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:10]ATTACK: <font color='red'>Unknown(drakemarshall) shot Disciple Lidacus with The heavy plasma</font>
+[13:48:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:11]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:17]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:20]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:21]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:22]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:41]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The heavy plasma</font>
+[13:48:53]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:54]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:55]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:56]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:57]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:58]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:48:59]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:49:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot ravener (47) with The heavy plasma</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>
+[13:59:01]ATTACK: <font color='red'>Unknown(drakemarshall) shot Unknown with The pellet</font>

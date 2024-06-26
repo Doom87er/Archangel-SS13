@@ -1,0 +1,27 @@
+
+
+Starting up. 12:26.37
+---------------------
+
+
+Starting up. 13:02.36
+---------------------
+
+
+Starting up. 16:23.43
+---------------------
+[16:25:15]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) flashed Venatus Kyner(drakemarshall) with flash</font>
+[16:25:21]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) flashed Venatus Kyner(drakemarshall) with flash</font>
+[16:25:21]ATTACK: <font color='red'>NON-EXISTANT SUBJECT shot necron scarab with The freezing blast</font>
+
+
+Starting up. 17:00.53
+---------------------
+[17:04:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to inject Venatus Kyner(drakemarshall) with DNA injector (Blind)</font>
+[17:04:18]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) injected Venatus Kyner(drakemarshall) with DNA injector (Blind)</font>
+[17:04:18]ATTACK: DrakeMarshall/(Venatus Kyner) injected DrakeMarshall/(Venatus Kyner) with the DNA injector (Blind)
+[17:05:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attempted to hamstring Venatus Kyner(drakemarshall) </font>
+[17:06:00]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[17:06:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[17:06:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[17:06:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Venatus Kyner(drakemarshall) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>

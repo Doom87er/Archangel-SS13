@@ -1,0 +1,289 @@
+
+
+Starting up. 00:06.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[00:06:07]ADMIN: Loading Banlistjob
+[00:06:07]ADMIN: Loading jobban_rank
+[00:06:07]ADMIN: jobban_keylist was empty
+[00:06:07]ADMIN: Loading appearance_rank
+[00:06:07]ADMIN: appearance_keylist was empty
+[00:06:07]ADMIN: Updating jobbanfile!
+[00:06:07]ADMIN: Loading Banlist
+[00:06:07]ADMIN: Loading RTD lists
+[00:08:16]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[00:08:46]ADMIN: DrakeMarshall has started the game.
+[00:08:49]ACCESS: Logout: *no key*/(DrakeMarshall)
+[00:08:49]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[00:10:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/bpistol at (162,16,2)
+[00:10:11]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (160,14,2)
+[00:10:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (158,16,2)
+[00:10:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (158,18,2)
+[00:10:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (158,20,2)
+[00:10:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (159,23,2)
+[00:10:31]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (161,18,2)
+[00:10:47]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:10:58]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[00:11:03]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (99,70,1)
+[00:11:10]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:11:12]EMOTE: monkey (553)/ : <B>The monkey (553)</B> jumps!
+[00:11:25]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/autogun/full at (96,62,1)
+[00:11:44]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:11:46]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:12:00]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:12:18]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/lasgun/full at (107,81,1)
+[00:12:59]EMOTE: monkey (492)/ : <B>The monkey (492)</B> jumps!
+[00:13:27]EMOTE: monkey (492)/ : <B>The monkey (492)</B> jumps!
+[00:14:00]EMOTE: monkey (344)/ : <B>The monkey (344)</B> jumps!
+[00:15:08]EMOTE: monkey (344)/ : <B>The monkey (344)</B> jumps!
+[00:15:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/twohanded/required/hbolter at (88,144,1)
+[00:16:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/snazzgun at (88,133,1)
+[00:16:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/shoota at (88,134,1)
+[00:16:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/shotgun/shotta at (88,132,1)
+[00:17:23]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[00:17:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/ork/commando at (88,133,1)
+[00:17:51]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Ork Kommando.
+[00:17:51]ACCESS: Logout: *no key*/(Venatus Kyner)
+[00:17:51]ACCESS: Login: drakemarshall/(Ork Kommando) from 127.0.0.1-3229208445 || BYOND v510
+[00:17:57]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:17:59]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:17:59]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:17:59]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:00]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:00]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:00]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:00]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:00]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:01]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:02]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:02]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:22]ADMIN: drakemarshall/(Ork Kommando) spawned /obj/item/weapon/gun/projectile/shoota at (88,130,1)
+[00:18:24]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:25]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:18:31]EMOTE: monkey (675)/ : <B>The monkey (675)</B> jumps!
+[00:18:33]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:35]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:35]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:37]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:38]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:39]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:41]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:18:43]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:47]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:47]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:18:47]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:48]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:49]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:51]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:51]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:18:52]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:53]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:18:58]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:18:58]ADMIN: drakemarshall/(Ork Kommando) spawned /mob/living/carbon/human/OHinq at (107,115,1)
+[00:19:00]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:19:00]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:19:03]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:19:03]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:19:03]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:19:04]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:19:04]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:19:14]ADMIN: drakemarshall/(Ork Kommando) spawned /mob/living/carbon/human/OHinq at (108,115,1)
+[00:19:15]ADMIN: drakemarshall/(Ork Kommando) spawned /obj/item/weapon/gun/projectile/shoota at (108,115,1)
+[00:19:19]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:19:19]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:19:19]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:19:20]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:19:22]SAY: Ork Kommando/drakemarshall : WAAAAAAAAAAAAAAGH!!!
+[00:19:24]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:19:25]SAY: Ork Kommando/drakemarshall : DANCE HUMIE DANCE!
+[00:19:26]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:19:27]SAY: Ork Kommando/drakemarshall : LOOK AT MY FLASH!!
+[00:19:28]SAY: Ork Kommando/drakemarshall : I GOT DA BITS AND PIECES FOR DIS FIGHT!!!
+[00:20:05]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:20:07]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:20:17]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:20:33]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:20:49]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:21:09]ADMIN: drakemarshall/(Ork Kommando) spawned /obj/mecha/combat/sentinel/loaded at (89,129,1)
+[00:21:16]SAY: grey baby slime (839)/ : Rawr...
+[00:21:16]ADMIN: drakemarshall/(Ork Kommando) spawned /obj/item/weapon/twohanded/required/hflamer at (88,129,1)
+[00:21:22]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[00:21:34]EMOTE: monkey (220)/ : <B>The monkey (220)</B> jumps!
+[00:22:35]EMOTE: monkey (553)/ : <B>The monkey (553)</B> jumps!
+[00:22:37]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[00:22:45]ACCESS: Logout: drakemarshall[DC]/(Ork Kommando)
+
+
+Starting up. 12:57.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[12:57:47]ADMIN: Loading Banlistjob
+[12:57:47]ADMIN: Loading jobban_rank
+[12:57:47]ADMIN: jobban_keylist was empty
+[12:57:47]ADMIN: Loading appearance_rank
+[12:57:47]ADMIN: appearance_keylist was empty
+[12:57:47]ADMIN: Updating jobbanfile!
+[12:57:47]ADMIN: Loading Banlist
+[12:57:47]ADMIN: Loading RTD lists
+[12:59:02]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[12:59:27]ADMIN: DrakeMarshall has started the game.
+[12:59:27]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[12:59:29]ACCESS: Logout: *no key*/(DrakeMarshall)
+[12:59:29]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:00:36]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's step_x to 10
+[13:00:38]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's step_y to 10
+[13:00:45]SAY: grey baby slime (623)/ : Rawr...
+[13:01:08]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[13:01:14]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:01:20]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[13:01:24]EMOTE: monkey (315)/ : <B>The monkey (315)</B> jumps!
+[13:01:26]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 108,73,1 in the Departure Lounge
+[13:01:30]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:01:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (106,77,1)
+[13:02:48]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 13:14.19
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[13:14:19]ADMIN: Loading Banlistjob
+[13:14:19]ADMIN: Loading jobban_rank
+[13:14:19]ADMIN: jobban_keylist was empty
+[13:14:19]ADMIN: Loading appearance_rank
+[13:14:19]ADMIN: appearance_keylist was empty
+[13:14:19]ADMIN: Updating jobbanfile!
+[13:14:19]ADMIN: Loading Banlist
+[13:14:19]ADMIN: Loading RTD lists
+[13:17:43]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:18:00]ADMIN: DrakeMarshall has started the game.
+[13:18:00]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[13:18:02]ACCESS: Logout: *no key*/(DrakeMarshall)
+[13:18:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:20:39]EMOTE: monkey (460)/ : <B>The monkey (460)</B> jumps!
+[13:20:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/lasgun/full at (161,17,2)
+[13:20:51]EMOTE: monkey (230)/ : <B>The monkey (230)</B> jumps!
+[13:22:39]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[13:22:42]EMOTE: monkey (744)/ : <B>The monkey (744)</B> jumps!
+[13:22:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (107,72,1)
+[13:22:44]SAY: grey baby slime (430)/ : Lonely...
+[13:22:57]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 13:56.11
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[13:56:12]ADMIN: Loading Banlistjob
+[13:56:12]ADMIN: Loading jobban_rank
+[13:56:12]ADMIN: jobban_keylist was empty
+[13:56:12]ADMIN: Loading appearance_rank
+[13:56:12]ADMIN: appearance_keylist was empty
+[13:56:12]ADMIN: Updating jobbanfile!
+[13:56:12]ADMIN: Loading Banlist
+[13:56:12]ADMIN: Loading RTD lists
+[13:58:01]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[13:59:00]ADMIN: DrakeMarshall has started the game.
+[13:59:03]ACCESS: Logout: *no key*/(DrakeMarshall)
+[13:59:03]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[14:00:50]EMOTE: monkey (85)/ : <B>The monkey (85)</B> jumps!
+[14:01:27]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[14:01:32]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 100,71,1 in the Departure Lounge
+[14:01:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (100,74,1)
+[14:03:07]EMOTE: monkey (711)/ : <B>The monkey (711)</B> jumps!
+[14:03:42]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (107,76,1)
+[14:06:21]EMOTE: monkey (239)/ : <B>The monkey (239)</B> jumps!
+[14:06:45]EMOTE: monkey (711)/ : <B>The monkey (711)</B> jumps!
+[14:07:00]EMOTE: monkey (239)/ : <B>The monkey (239)</B> jumps!
+[14:08:01]SAY: grey baby slime (568)/ : Blop...
+[14:09:01]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 14:10.06
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[14:10:06]ADMIN: Loading Banlistjob
+[14:10:07]ADMIN: Loading jobban_rank
+[14:10:07]ADMIN: jobban_keylist was empty
+[14:10:07]ADMIN: Loading appearance_rank
+[14:10:07]ADMIN: appearance_keylist was empty
+[14:10:07]ADMIN: Updating jobbanfile!
+[14:10:07]ADMIN: Loading Banlist
+[14:10:07]ADMIN: Loading RTD lists
+[14:17:43]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[14:29:40]ACCESS: Logout: *no key*/(DrakeMarshall)
+[14:29:40]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[14:31:27]EMOTE: monkey (222)/ : <B>The monkey (222)</B> jumps!
+[14:31:38]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/stutterlas at (162,9,2)
+[14:31:48]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[14:31:52]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 107,70,1 in the Departure Lounge
+[14:32:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/portable_atmospherics/canister/sleeping_agent at (105,75,1)
+[14:33:08]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

@@ -1,0 +1,298 @@
+
+
+Starting up. 02:47.38
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:47:39]ADMIN: Loading Banlistjob
+[02:47:39]ADMIN: Loading jobban_rank
+[02:47:39]ADMIN: jobban_keylist was empty
+[02:47:39]ADMIN: Loading appearance_rank
+[02:47:39]ADMIN: appearance_keylist was empty
+[02:47:39]ADMIN: Updating jobbanfile!
+[02:47:39]ADMIN: Loading Banlist
+[02:47:39]ADMIN: Loading RTD lists
+
+
+Starting up. 02:59.34
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:59:34]ADMIN: Loading Banlistjob
+[02:59:34]ADMIN: Loading jobban_rank
+[02:59:34]ADMIN: jobban_keylist was empty
+[02:59:34]ADMIN: Loading appearance_rank
+[02:59:34]ADMIN: appearance_keylist was empty
+[02:59:34]ADMIN: Updating jobbanfile!
+[02:59:34]ADMIN: Loading Banlist
+[02:59:34]ADMIN: Loading RTD lists
+[03:01:35]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[03:02:24]ADMIN: Norc has started the game.
+[03:02:27]ACCESS: Logout: *no key*/(Norc)
+[03:02:27]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:02:35]EMOTE: monkey (694)/ : <B>The monkey (694)</B> jumps!
+[03:03:16]ADMIN: Norc/(Corey Feldman) modified Corey Feldman's purity to -16
+[03:04:03]ADMIN: Norc/(Corey Feldman) spawned /mob/living/carbon/human at (43,121,1)
+[03:04:07]ACCESS: Logout: *no key*/(Corey Feldman)
+[03:04:07]ACCESS: Login: Norc/(Corey Feldman) from 127.0.0.1-1324596339 || BYOND v510
+[03:04:52]EMOTE: monkey (817)/ : <B>The monkey (817)</B> jumps!
+[03:05:03]ADMIN: Norc/(Corey Feldman) initiated a reboot.
+[03:05:08]ACCESS: Logout: Norc[DC]/(Corey Feldman)
+
+
+Starting up. 03:07.54
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:07:54]ADMIN: Loading Banlistjob
+[03:07:54]ADMIN: Loading jobban_rank
+[03:07:54]ADMIN: jobban_keylist was empty
+[03:07:54]ADMIN: Loading appearance_rank
+[03:07:54]ADMIN: appearance_keylist was empty
+[03:07:54]ADMIN: Updating jobbanfile!
+[03:07:54]ADMIN: Loading Banlist
+[03:07:54]ADMIN: Loading RTD lists
+[03:09:50]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[03:12:44]ACCESS: Logout: Norc[DC]/(Norc)
+
+
+Starting up. 03:23.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:23:09]ADMIN: Loading Banlistjob
+[03:23:09]ADMIN: Loading jobban_rank
+[03:23:09]ADMIN: jobban_keylist was empty
+[03:23:09]ADMIN: Loading appearance_rank
+[03:23:09]ADMIN: appearance_keylist was empty
+[03:23:09]ADMIN: Updating jobbanfile!
+[03:23:09]ADMIN: Loading Banlist
+[03:23:09]ADMIN: Loading RTD lists
+
+
+Starting up. 03:29.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:29:01]ADMIN: Loading Banlistjob
+[03:29:01]ADMIN: Loading jobban_rank
+[03:29:01]ADMIN: jobban_keylist was empty
+[03:29:01]ADMIN: Loading appearance_rank
+[03:29:01]ADMIN: appearance_keylist was empty
+[03:29:01]ADMIN: Updating jobbanfile!
+[03:29:01]ADMIN: Loading Banlist
+[03:29:01]ADMIN: Loading RTD lists
+[03:31:14]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[03:32:27]ADMIN: Norc has started the game.
+[03:32:30]ACCESS: Logout: *no key*/(Norc)
+[03:32:30]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:32:58]ADMIN: Norc/(Brian Garrison) gave Norc/(Brian Garrison) the spell /obj/effect/proc_holder/spell/targeted/celeb/push.
+[03:33:08]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (188,13,2)
+[03:35:11]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 04:39.54
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:39:54]ADMIN: Loading Banlistjob
+[04:39:54]ADMIN: Loading jobban_rank
+[04:39:54]ADMIN: jobban_keylist was empty
+[04:39:54]ADMIN: Loading appearance_rank
+[04:39:54]ADMIN: appearance_keylist was empty
+[04:39:54]ADMIN: Updating jobbanfile!
+[04:39:54]ADMIN: Loading Banlist
+[04:39:54]ADMIN: Loading RTD lists
+[04:42:00]ACCESS: Login: Guest-1324596339/(Guest-1324596339) from 127.0.0.1-1324596339 || BYOND v510
+[04:42:32]ACCESS: Logout: Guest-1324596339[DC]/(Guest-1324596339)
+[04:42:34]ACCESS: Login: Guest-1324596339/(Guest-1324596339) from 127.0.0.1-1324596339 || BYOND v510
+[04:44:09]ACCESS: Logout: Guest-1324596339[DC]/(Guest-1324596339)
+
+
+Starting up. 04:47.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:47:47]ADMIN: Loading Banlistjob
+[04:47:47]ADMIN: Loading jobban_rank
+[04:47:47]ADMIN: jobban_keylist was empty
+[04:47:47]ADMIN: Loading appearance_rank
+[04:47:47]ADMIN: appearance_keylist was empty
+[04:47:47]ADMIN: Updating jobbanfile!
+[04:47:47]ADMIN: Loading Banlist
+[04:47:47]ADMIN: Loading RTD lists
+[04:51:57]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[04:52:26]ADMIN: Norc has started the game.
+[04:52:28]ACCESS: Logout: *no key*/(Norc)
+[04:52:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:52:53]EMOTE: monkey (371)/ : <B>The monkey (371)</B> jumps!
+[04:52:57]ADMIN: Norc/(Brian Garrison) gave Norc/(Brian Garrison) the spell /obj/effect/proc_holder/spell/targeted/celeb/ascention.
+[04:53:01]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:53:01]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:53:17]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (189,13,2)
+[04:53:17]EMOTE: monkey (371)/ : <B>The monkey (371)</B> jumps!
+[04:53:25]ADMIN: Norc/(Brian Garrison) assumed direct control of Unknown.
+[04:53:25]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:53:25]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:53:46]ACCESS: Logout: *no key*/(Unknown)
+[04:53:46]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:53:46]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:53:54]ADMIN: norc/(Unknown) spawned /mob/living/carbon/human at (187,11,2)
+[04:53:54]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:54:01]ADMIN: norc/(Unknown) assumed direct control of Unknown.
+[04:54:01]ACCESS: Logout: *no key*/(Unknown)
+[04:54:01]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:54:08]EMOTE: monkey (96)/ : <B>The monkey (96)</B> jumps!
+[04:54:22]ACCESS: Logout: *no key*/(Unknown)
+[04:54:22]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:54:26]EMOTE: monkey (303)/ : <B>The monkey (303)</B> jumps!
+[04:54:30]ADMIN: norc/(Unknown) deleted Daemonette at (189,21,2)
+[04:54:30]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:54:32]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:54:36]ADMIN: norc/(Unknown) spawned /mob/living/carbon/human at (184,22,2)
+[04:54:40]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:54:41]ADMIN: norc/(Unknown) spawned /mob/living/carbon/human at (184,20,2)
+[04:54:47]ADMIN: norc/(Unknown) assumed direct control of Unknown.
+[04:54:47]ACCESS: Logout: *no key*/(Unknown)
+[04:54:47]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:55:03]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:55:07]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:55:17]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:55:27]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:55:32]ADMIN: norc/(Unknown) gave norc/(Unknown) the spell /obj/effect/proc_holder/spell/targeted/celeb/push.
+[04:55:33]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:55:49]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:55:51]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[04:56:15]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:56:19]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:56:42]EMOTE: Unknown/@Norc : <B>Unknown</B> gasps!
+[04:56:44]ACCESS: Logout: norc[DC]/(Unknown)
+
+
+Starting up. 05:43.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[05:43:47]ADMIN: Loading Banlistjob
+[05:43:47]ADMIN: Loading jobban_rank
+[05:43:47]ADMIN: jobban_keylist was empty
+[05:43:47]ADMIN: Loading appearance_rank
+[05:43:47]ADMIN: appearance_keylist was empty
+[05:43:47]ADMIN: Updating jobbanfile!
+[05:43:47]ADMIN: Loading Banlist
+[05:43:47]ADMIN: Loading RTD lists
+[05:46:01]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[05:46:19]ADMIN: Norc has started the game.
+[05:46:21]ACCESS: Logout: *no key*/(Norc)
+[05:46:21]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:46:30]SAY: grey baby slime (978)/ : Lonely...
+[05:46:42]ADMIN: Norc/(Brian Garrison) gave Norc/(Brian Garrison) the spell /obj/effect/proc_holder/spell/targeted/celeb/push.
+[05:46:51]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (192,13,2)
+[05:46:55]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (193,13,2)
+[05:47:39]EMOTE: monkey (778)/ : <B>The monkey (778)</B> jumps!
+[05:48:22]EMOTE: monkey (862)/ : <B>The monkey (862)</B> jumps!
+[05:49:57]ACCESS: Logout: Norc[DC]/(Brian Garrison)

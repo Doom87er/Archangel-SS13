@@ -1,0 +1,916 @@
+
+
+Starting up. 03:24.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:24:20]ADMIN: Loading Banlistjob
+[03:24:20]ADMIN: Loading jobban_rank
+[03:24:20]ADMIN: jobban_keylist was empty
+[03:24:20]ADMIN: Loading appearance_rank
+[03:24:20]ADMIN: appearance_keylist was empty
+[03:24:20]ADMIN: Updating jobbanfile!
+[03:24:20]ADMIN: Loading Banlist
+[03:24:20]ADMIN: Loading RTD lists
+
+
+Starting up. 03:27.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:27:14]ADMIN: Loading Banlistjob
+[03:27:14]ADMIN: Loading jobban_rank
+[03:27:14]ADMIN: jobban_keylist was empty
+[03:27:14]ADMIN: Loading appearance_rank
+[03:27:14]ADMIN: appearance_keylist was empty
+[03:27:14]ADMIN: Updating jobbanfile!
+[03:27:14]ADMIN: Loading Banlist
+[03:27:14]ADMIN: Loading RTD lists
+[03:28:38]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[03:28:52]ADMIN: Norc has started the game.
+[03:28:52]GAME: Norc (ckey) has been selected as a Heretic
+[03:28:54]ACCESS: Logout: *no key*/(Norc)
+[03:28:54]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:29:05]ADMIN: Norc/(Brian Garrison) jumped to the Departure Lounge
+[03:29:55]ADMIN: Norc/(Brian Garrison) deleted the floor at (111,33,1)
+[03:30:28]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[03:30:45]ADMIN: Norc/(Brian Garrison) has toggled Norc/(Brian Garrison)'s nodamage to On
+[03:30:54]ADMIN: Norc/(Brian Garrison) dealt -50 amount of brute damage to Brian Garrison 
+[03:31:18]SAY: sentinel/ : Establishing control of planet...
+[03:31:24]ADMIN: Norc/(Brian Garrison) jumped to 47,68,7 in the necron catacombs
+[03:31:31]SAY: sentinel/ : Eliminating hostiles...
+[03:31:39]SAY: sentinel/ : Eliminating hostiles...
+[03:31:47]SAY: sentinel/ : Eliminating hostiles...
+[03:32:01]SAY: sentinel/ : Eliminating hostiles...
+[03:32:28]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:32:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:33:04]SAY: grey baby slime (175)/ : Rawr...
+[03:33:12]EMOTE: monkey (82)/ : <B>The monkey (82)</B> jumps!
+[03:33:18]SAY: sentinel/ : Eliminating hostiles...
+[03:33:20]SAY: sentinel/ : Establishing control of planet...
+[03:33:24]EMOTE: monkey (82)/ : <B>The monkey (82)</B> jumps!
+[03:33:24]EMOTE: monkey (918)/ : <B>The monkey (918)</B> jumps!
+[03:33:36]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/venomthropes at (93,84,7)
+[03:33:41]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/hormagaunt at (93,86,7)
+[03:33:45]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/lictor at (93,87,7)
+[03:33:50]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/ravener at (93,89,7)
+[03:33:53]SAY: sentinel/ : Eliminating hostiles...
+[03:33:59]SAY: grey baby slime (754)/ : Lonely...
+[03:34:01]SAY: sentinel/ : Establishing control of planet...
+[03:34:05]ADMIN: Norc/(Brian Garrison) assumed direct control of the ravener (273).
+[03:34:05]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:34:05]ACCESS: Login: norc/(ravener (273)) from 127.0.0.1-1324596339 || BYOND v510
+[03:34:24]ACCESS: Logout: *no key*/(ravener (273))
+[03:34:24]ACCESS: Login: norc/(ravener (273)) from 127.0.0.1-1324596339 || BYOND v510
+[03:34:27]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:31]EMOTE: hormagaunt (883)/ : <B>The hormagaunt (883)</B> gasps!
+[03:34:33]ADMIN: norc/(ravener (273)) spawned /mob/living/simple_animal/hostile/alien/ripper at (94,88,7)
+[03:34:35]EMOTE: venomthropes (976)/ : <B>The venomthropes (976)</B> gasps!
+[03:34:35]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:38]ADMIN: norc/(ravener (273)) spawned /mob/living/simple_animal/hostile/alien/ripper at (94,90,7)
+[03:34:43]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:47]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:47]EMOTE: hormagaunt (883)/ : <B>The hormagaunt (883)</B> gasps!
+[03:34:50]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:54]EMOTE: hormagaunt (883)/ : <B>The hormagaunt (883)</B> gasps!
+[03:34:58]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:34:58]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:35:02]EMOTE: hormagaunt (883)/ : <B>The hormagaunt (883)</B> gasps!
+[03:35:06]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:35:10]EMOTE: hormagaunt (883)/ : <B>The hormagaunt (883)</B> gasps!
+[03:35:15]EMOTE: lictor (425)/ : <B>The lictor (425)</B> gasps!
+[03:35:23]EMOTE: monkey (188)/ : <B>The monkey (188)</B> jumps!
+[03:36:44]ACCESS: Logout: norc[DC]/(ravener (273))
+
+
+Starting up. 03:37.44
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:37:44]ADMIN: Loading Banlistjob
+[03:37:44]ADMIN: Loading jobban_rank
+[03:37:44]ADMIN: jobban_keylist was empty
+[03:37:44]ADMIN: Loading appearance_rank
+[03:37:44]ADMIN: appearance_keylist was empty
+[03:37:44]ADMIN: Updating jobbanfile!
+[03:37:44]ADMIN: Loading Banlist
+[03:37:44]ADMIN: Loading RTD lists
+[03:40:05]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[03:40:30]ADMIN: Norc has started the game.
+[03:40:33]ACCESS: Logout: *no key*/(Norc)
+[03:40:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:40:39]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[03:40:49]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/alien/ripper at (161,7,2)
+[03:41:03]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/projectile/automatic/laspistol at (165,7,2)
+[03:41:40]EMOTE: monkey (896)/ : <B>The monkey (896)</B> jumps!
+[03:45:11]SAY: grey baby slime (570)/ : Lonely...
+[03:45:19]EMOTE: monkey (563)/ : <B>The monkey (563)</B> jumps!
+[03:45:56]SAY: grey baby slime (953)/ : Blop...
+[03:46:56]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/lictor at (125,179,1)
+[03:47:15]EMOTE: lictor (154)/ : <B>The lictor (154)</B> gasps!
+[03:48:35]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[03:48:36]EMOTE: monkey (896)/ : <B>The monkey (896)</B> jumps!
+[03:48:55]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[03:49:08]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> gasps!
+[03:49:09]ADMIN: Norc/(Brian Garrison) has toggled Norc/(Brian Garrison)'s nodamage to On
+[03:49:13]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[03:49:28]ADMIN: Norc/(Brian Garrison) jumped to 38,108,7 in the necron catacombs
+[03:49:38]ADMIN: Norc/(Brian Garrison) jumped to 37,108,7 in the necron catacombs
+[03:49:46]ADMIN: Norc/(Brian Garrison) jumped to 36,108,7 in the necron catacombs
+[03:49:55]ADMIN: Norc/(Brian Garrison) jumped to 36,107,7 in the necron catacombs
+[03:49:58]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:49:58]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:50:15]EMOTE: monkey (543)/ : <B>The monkey (543)</B> jumps!
+[03:50:44]ADMIN: Norc/(Brian Garrison) teleported @Norc[DC]/(Brian Garrison)
+[03:50:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:50:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:50:48]SAY: sentinel/ : Eliminating hostiles...
+[03:53:17]ADMIN: Norc/(Brian Garrison) jumped to Atmospherics
+[03:53:27]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:53:27]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:53:33]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[03:53:42]ADMIN: Norc/(Brian Garrison) changed their view range to 128.
+[03:53:59]EMOTE: monkey (588)/ : <B>The monkey (588)</B> jumps!
+[03:54:02]ADMIN: Norc/(Brian Garrison) changed their view range to 7.
+[03:56:17]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (39,81,7)
+[03:56:24]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (38,81,7)
+[03:56:30]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (36,81,7)
+[03:56:39]ADMIN: Norc/(Brian Garrison) teleported @Norc[DC]/(Brian Garrison)
+[03:56:52]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab at (47,87,7)
+[03:56:56]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/necron/scarab at (47,88,7)
+[03:57:08]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:57:08]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:57:38]EMOTE: monkey (822)/ : <B>The monkey (822)</B> jumps!
+[03:57:41]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:57:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[03:57:49]ADMIN: Norc/(Brian Garrison) jumped to Atmospherics
+[03:57:50]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:58:02]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/venomthropes at (168,121,1)
+[03:58:06]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/genestealer at (168,122,1)
+[03:58:09]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/hormagaunt at (168,123,1)
+[03:58:12]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/lictor at (168,124,1)
+[03:58:16]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/ravener at (169,124,1)
+[03:58:21]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:58:26]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/warrior at (171,124,1)
+[03:58:27]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:58:31]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/zoanthropes at (172,124,1)
+[03:58:37]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/larva/tyranid at (172,123,1)
+[03:58:59]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:59:06]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (171,114,1)
+[03:59:07]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:59:13]ADMIN: Norc/(Brian Garrison) assumed direct control of Unknown.
+[03:59:13]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:59:13]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[03:59:14]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[03:59:22]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> gasps!
+[03:59:24]ADMIN: norc/(Unknown) changed the equipment of norc/(Unknown) to khorne Berserker.
+[03:59:30]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:59:36]SAY: necron scarab/ : Establishing control of planet...
+[03:59:38]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:59:40]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[03:59:40]EMOTE: venomthropes (105)/ : <B>The venomthropes (105)</B> gasps!
+[03:59:46]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[03:59:48]EMOTE: venomthropes (105)/ : <B>The venomthropes (105)</B> gasps!
+[03:59:56]EMOTE: venomthropes (105)/ : <B>The venomthropes (105)</B> gasps!
+[04:00:08]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[04:00:10]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:00:12]EMOTE: monkey (446)/ : <B>The monkey (446)</B> jumps!
+[04:00:20]EMOTE: venomthropes (105)/ : <B>The venomthropes (105)</B> gasps!
+[04:00:27]EMOTE: venomthropes (105)/ : <B>The venomthropes (105)</B> gasps!
+[04:00:33]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:00:57]EMOTE: monkey (890)/ : <B>The monkey (890)</B> jumps!
+[04:00:57]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:01:13]EMOTE: monkey (543)/ : <B>The monkey (543)</B> jumps!
+[04:01:21]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:01:29]EMOTE: hormagaunt (669)/ : <B>The hormagaunt (669)</B> gasps!
+[04:01:44]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:01:52]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:02:16]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:02:32]EMOTE: ravener (713)/ : <B>The ravener (713)</B> gasps!
+[04:02:41]EMOTE: Brian Garrison/@Norc : <B>Brian Garrison</B> collapses!
+[04:03:48]ADMIN: norc/(Unknown) initiated a reboot.
+[04:03:48]ACCESS: Logout: norc[DC]/(Unknown)
+
+
+Starting up. 04:04.31
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:04:31]ADMIN: Loading Banlistjob
+[04:04:31]ADMIN: Loading jobban_rank
+[04:04:31]ADMIN: jobban_keylist was empty
+[04:04:31]ADMIN: Loading appearance_rank
+[04:04:31]ADMIN: appearance_keylist was empty
+[04:04:31]ADMIN: Updating jobbanfile!
+[04:04:31]ADMIN: Loading Banlist
+[04:04:31]ADMIN: Loading RTD lists
+[04:06:12]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[04:06:39]ADMIN: Norc has started the game.
+[04:06:42]ACCESS: Logout: *no key*/(Norc)
+[04:06:42]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:06:48]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:06:48]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:06:59]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/ravener at (164,7,2)
+[04:07:03]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:07:03]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:07:08]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/projectile/automatic/laspistol2 at (161,7,2)
+[04:07:21]EMOTE: monkey (445)/ : <B>The monkey (445)</B> jumps!
+[04:08:32]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/lictor at (160,7,2)
+[04:08:37]EMOTE: monkey (703)/ : <B>The monkey (703)</B> jumps!
+[04:08:53]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/venomthropes at (158,7,2)
+[04:08:59]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[04:10:14]EMOTE: monkey (703)/ : <B>The monkey (703)</B> jumps!
+[04:11:00]EMOTE: monkey (855)/ : <B>The monkey (855)</B> jumps!
+[04:12:38]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[04:13:33]SAY: grey baby slime (387)/ : Blop...
+[04:13:59]EMOTE: monkey (445)/ : <B>The monkey (445)</B> jumps!
+[04:14:15]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[04:16:37]EMOTE: lictor (728)/ : <B>The lictor (728)</B> gasps!
+[04:16:41]EMOTE: venomthropes (382)/ : <B>The venomthropes (382)</B> gasps!
+[04:16:44]EMOTE: lictor (728)/ : <B>The lictor (728)</B> gasps!
+[04:16:48]EMOTE: venomthropes (382)/ : <B>The venomthropes (382)</B> gasps!
+[04:16:52]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/energy/pulse_rifle/tau at (125,176,1)
+[04:16:52]EMOTE: lictor (728)/ : <B>The lictor (728)</B> gasps!
+[04:17:00]EMOTE: lictor (728)/ : <B>The lictor (728)</B> gasps!
+[04:17:20]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[04:17:20]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/venomthropes at (123,173,1)
+[04:17:23]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/genestealer at (123,172,1)
+[04:17:26]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/hormagaunt at (123,171,1)
+[04:17:30]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/lictor at (123,170,1)
+[04:17:33]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/ravener at (123,169,1)
+[04:17:39]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/warrior at (123,168,1)
+[04:17:43]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/alien/humanoid/tyranid/zoanthropes at (123,167,1)
+[04:18:05]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/energy/pulse_rifle/tau at (123,165,1)
+[04:18:29]ADMIN: Norc/(Brian Garrison) spawned /obj/item/ammo_casing/energy/laser/pulse2 at (122,165,1)
+[04:18:41]ADMIN: Norc/(Brian Garrison) spawned /obj/item/ammo_casing/energy/laser/pulse2 at (120,165,1)
+[04:19:05]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/energy/plasma/rifle at (119,165,1)
+[04:19:13]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/energy/pulse_rifle/trifle at (120,165,1)
+[04:19:28]EMOTE: zoanthropes (277)/ : <B>The zoanthropes (277)</B> gasps!
+[04:19:38]EMOTE: lictor (322)/ : <B>The lictor (322)</B> gasps!
+[04:19:44]EMOTE: zoanthropes (277)/ : <B>The zoanthropes (277)</B> gasps!
+[04:19:46]EMOTE: lictor (322)/ : <B>The lictor (322)</B> gasps!
+[04:20:10]EMOTE: venomthropes (859)/ : <B>The venomthropes (859)</B> gasps!
+[04:23:09]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[04:23:22]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab at (123,170,1)
+[04:23:44]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab at (111,165,1)
+[04:23:53]ADMIN: Norc/(Brian Garrison) jumped to 106,162,1 in the Brig
+[04:24:00]ADMIN: Norc/(Brian Garrison) jumped to 110,157,1 in the Courtroom
+[04:24:15]ADMIN: Norc/(Brian Garrison) deleted Brian Garrison at (114,148,1)
+[04:24:15]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:24:15]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:25:57]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[04:26:11]EMOTE: monkey (445)/ : <B>The monkey (445)</B> jumps!
+[04:26:26]SAY: grey baby slime (387)/ : Blorble...
+[04:26:42]EMOTE: monkey (445)/ : <B>The monkey (445)</B> jumps!
+[04:26:45]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[04:30:31]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (45,38,7)
+[04:30:38]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human at (45,37,7)
+[04:30:47]ADMIN: Norc/(Brian Garrison) assumed direct control of Unknown.
+[04:30:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:30:48]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:30:50]EMOTE: monkey (855)/ : <B>The monkey (855)</B> jumps!
+[04:31:02]ADMIN: norc/(Unknown) has entered build mode.
+[04:31:06]ADMIN: norc/(Unknown) has toggled norc/(Unknown)'s nodamage to On
+[04:31:46]EMOTE: monkey (445)/ : <B>The monkey (445)</B> jumps!
+[04:32:14]ACCESS: Logout: *no key*/(Unknown)
+[04:32:14]ACCESS: Login: norc/(Unknown) from 127.0.0.1-1324596339 || BYOND v510
+[04:32:35]ADMIN: norc/(Unknown) initiated a reboot.
+[04:32:40]ACCESS: Logout: norc[DC]/(Unknown)
+
+
+Starting up. 04:33.21
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:33:22]ADMIN: Loading Banlistjob
+[04:33:22]ADMIN: Loading jobban_rank
+[04:33:22]ADMIN: jobban_keylist was empty
+[04:33:22]ADMIN: Loading appearance_rank
+[04:33:22]ADMIN: appearance_keylist was empty
+[04:33:22]ADMIN: Updating jobbanfile!
+[04:33:22]ADMIN: Loading Banlist
+[04:33:22]ADMIN: Loading RTD lists
+[04:34:29]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[04:34:56]ADMIN: Norc has started the game.
+[04:34:57]GAME: Norc (ckey) has been selected as a Heretic
+[04:34:59]ACCESS: Logout: *no key*/(Norc)
+[04:34:59]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:35:09]ADMIN: Norc/(Brian Garrison) jumped to the Departure Lounge
+[04:35:18]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (106,71,1)
+[04:38:08]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (99,70,1)
+[04:38:11]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (100,70,1)
+[04:39:54]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 04:41.30
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[04:41:30]ADMIN: Loading Banlistjob
+[04:41:30]ADMIN: Loading jobban_rank
+[04:41:30]ADMIN: jobban_keylist was empty
+[04:41:30]ADMIN: Loading appearance_rank
+[04:41:30]ADMIN: appearance_keylist was empty
+[04:41:30]ADMIN: Updating jobbanfile!
+[04:41:30]ADMIN: Loading Banlist
+[04:41:30]ADMIN: Loading RTD lists
+[04:45:42]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[04:45:53]ADMIN: Norc has started the game.
+[04:45:54]GAME: Norc (ckey) has been selected as a Heretic
+[04:45:56]ACCESS: Logout: *no key*/(Norc)
+[04:45:56]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:46:05]ADMIN: Norc/(Brian Garrison) jumped to the Departure Lounge
+[04:46:12]ADMIN: Norc/(Brian Garrison) jumped to 105,69,1 in the Departure Lounge
+[04:46:28]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (105,69,1)
+[04:48:59]SAY: grey baby slime (966)/ : Blop...
+[04:49:44]EMOTE: monkey (614)/ : <B>The monkey (614)</B> jumps!
+[04:50:35]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[04:52:30]EMOTE: monkey (614)/ : <B>The monkey (614)</B> jumps!
+[04:53:05]SAY: grey baby slime (966)/ : Blop...
+[04:53:09]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[04:53:54]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[04:55:54]EMOTE: monkey (301)/ : <B>The monkey (301)</B> jumps!
+[04:56:16]EMOTE: monkey (614)/ : <B>The monkey (614)</B> jumps!
+[04:56:36]OOC: Brian Garrison/Norc : lag
+[04:56:45]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+[04:56:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:57:37]ACCESS: Logout: *no key*/(Brian Garrison)
+[04:57:37]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[04:57:45]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[04:58:02]ADMIN: Norc/(Brian Garrison) changed their view range to 128.
+[04:58:11]ADMIN: Norc/(Brian Garrison) changed their view range to 7.
+[04:59:06]ADMIN: Norc/(Brian Garrison) changed their view range to 128.
+[05:01:12]EMOTE: monkey (486)/ : <B>The monkey (486)</B> jumps!
+[05:01:40]ADMIN: Norc/(Brian Garrison) deleted the sentinel at (74,78,7)
+[05:02:31]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:02:31]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:02:40]ADMIN: Norc/(Brian Garrison) changed their view range to 7.
+[05:03:04]ADMIN: Norc/(Brian Garrison) healed / Revived Norc/(Brian Garrison)
+[05:03:43]EMOTE: monkey (486)/ : <B>The monkey (486)</B> jumps!
+[05:04:32]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:06:36]EMOTE: monkey (301)/ : <B>The monkey (301)</B> jumps!
+[05:06:52]EMOTE: monkey (256)/ : <B>The monkey (256)</B> jumps!
+[05:07:57]EMOTE: monkey (663)/ : <B>The monkey (663)</B> jumps!
+[05:08:17]ADMIN: Norc/(Brian Garrison) has toggled Norc/(Brian Garrison)'s nodamage to On
+[05:08:25]ADMIN: Norc/(Brian Garrison) jumped to the necron catacombs
+[05:08:48]ADMIN: Norc/(Brian Garrison) spawned /obj/item/device/flashlight at (90,81,7)
+[05:09:10]ADMIN: Norc/(Brian Garrison) jumped to 86,81,7 in the necron catacombs
+[05:09:19]ADMIN: Norc/(Brian Garrison) jumped to 82,85,7 in the necron catacombs
+[05:09:28]EMOTE: monkey (56)/ : <B>The monkey (56)</B> jumps!
+[05:09:36]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (77,90,7)
+[05:09:38]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (77,91,7)
+[05:09:41]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (77,92,7)
+[05:09:43]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (77,93,7)
+[05:10:13]SAY: grey baby slime (474)/ : Rawr...
+[05:10:46]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (78,86,7)
+[05:10:52]EMOTE: Brian Garrison/Norc : <B>Brian Garrison</B> screams!
+[05:10:54]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/scarab/sleeping at (65,89,7)
+[05:11:14]EMOTE: monkey (614)/ : <B>The monkey (614)</B> jumps!
+[05:11:30]EMOTE: monkey (301)/ : <B>The monkey (301)</B> jumps!
+[05:11:30]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[05:11:42]SAY: grey baby slime (474)/ : Blop...
+[05:11:49]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (68,90,7)
+[05:11:51]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (68,91,7)
+[05:11:53]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (68,92,7)
+[05:11:55]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/necron at (68,93,7)
+[05:12:35]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:12:35]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:14:00]SAY: grey baby slime (966)/ : Rawr...
+[05:15:01]EMOTE: monkey (245)/ : <B>The monkey (245)</B> jumps!
+[05:15:01]SAY: sentinel/ : Establishing control of planet...
+[05:16:44]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[05:17:43]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/satchel_cap at (68,99,7)
+[05:17:53]SAY: sentinel/ : Eliminating hostiles...
+[05:17:56]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:17:56]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:18:07]EMOTE: monkey (486)/ : <B>The monkey (486)</B> jumps!
+[05:18:21]EMOTE: monkey (245)/ : <B>The monkey (245)</B> jumps!
+[05:18:37]EMOTE: monkey (34)/ : <B>The monkey (34)</B> jumps!
+[05:21:50]SAY: sentinel/ : Eliminating hostiles...
+[05:21:54]EMOTE: monkey (301)/ : <B>The monkey (301)</B> jumps!
+[05:22:06]SAY: grey baby slime (474)/ : Blorble...
+[05:22:33]ADMIN: Norc/(Brian Garrison) has deleted all (18) instances of /mob/living/simple_animal/hostile/scarab.
+[05:22:58]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /mob/living/simple_animal/hostile/scarab.
+[05:23:04]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /mob/living/simple_animal/hostile/scarab.
+[05:23:17]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /mob/living/simple_animal/hostile/scarab.
+[05:23:52]ADMIN: Norc/(Brian Garrison) has deleted all (20) instances of /mob/living/simple_animal/hostile/scarab.
+[05:24:08]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /mob/living/simple_animal/hostile/scarab.
+[05:24:21]ADMIN: Norc/(Brian Garrison) has deleted all (0) instances of /mob/living/simple_animal/hostile/scarab.
+[05:24:28]EMOTE: monkey (256)/ : <B>The monkey (256)</B> jumps!
+[05:24:39]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 05:33.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[05:33:59]ADMIN: Loading Banlistjob
+[05:33:59]ADMIN: Loading jobban_rank
+[05:33:59]ADMIN: jobban_keylist was empty
+[05:33:59]ADMIN: Loading appearance_rank
+[05:33:59]ADMIN: appearance_keylist was empty
+[05:33:59]ADMIN: Updating jobbanfile!
+[05:33:59]ADMIN: Loading Banlist
+[05:33:59]ADMIN: Loading RTD lists
+[05:36:22]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[05:36:32]ADMIN: Norc has started the game.
+[05:36:34]ACCESS: Logout: *no key*/(Norc)
+[05:36:34]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:36:55]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/storage/backpack/satchel_chem at (161,7,2)
+[05:37:00]ACCESS: Logout: *no key*/(Brian Garrison)
+[05:37:00]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[05:37:33]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:15.36
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:15:36]ADMIN: Loading Banlistjob
+[06:15:36]ADMIN: Loading jobban_rank
+[06:15:36]ADMIN: jobban_keylist was empty
+[06:15:36]ADMIN: Loading appearance_rank
+[06:15:36]ADMIN: appearance_keylist was empty
+[06:15:36]ADMIN: Updating jobbanfile!
+[06:15:36]ADMIN: Loading Banlist
+[06:15:36]ADMIN: Loading RTD lists
+[06:16:49]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v510
+[06:16:58]ADMIN: Norc has started the game.
+[06:16:59]GAME: Norc (ckey) has been selected as a Heretic
+[06:17:01]ACCESS: Logout: *no key*/(Norc)
+[06:17:01]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[06:17:14]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:17:14]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v510
+[06:17:25]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:36.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:36:30]ADMIN: Loading Banlistjob
+[06:36:30]ADMIN: Loading jobban_rank
+[06:36:30]ADMIN: jobban_keylist was empty
+[06:36:30]ADMIN: Loading appearance_rank
+[06:36:30]ADMIN: appearance_keylist was empty
+[06:36:30]ADMIN: Updating jobbanfile!
+[06:36:30]ADMIN: Loading Banlist
+[06:36:30]ADMIN: Loading RTD lists
+
+
+Starting up. 06:47.01
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:47:01]ADMIN: Loading Banlistjob
+[06:47:01]ADMIN: Loading jobban_rank
+[06:47:01]ADMIN: jobban_keylist was empty
+[06:47:01]ADMIN: Loading appearance_rank
+[06:47:01]ADMIN: appearance_keylist was empty
+[06:47:01]ADMIN: Updating jobbanfile!
+[06:47:01]ADMIN: Loading Banlist
+[06:47:01]ADMIN: Loading RTD lists
+[06:49:42]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[06:49:58]ADMIN: Norc has started the game.
+[06:50:00]ACCESS: Logout: *no key*/(Norc)
+[06:50:00]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:50:10]EMOTE: monkey (659)/ : <B>The monkey (659)</B> jumps!
+[06:50:24]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:50:24]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[06:50:26]EMOTE: monkey (659)/ : <B>The monkey (659)</B> jumps!
+[06:50:54]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 07:00.20
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:00:20]ADMIN: Loading Banlistjob
+[07:00:20]ADMIN: Loading jobban_rank
+[07:00:20]ADMIN: jobban_keylist was empty
+[07:00:20]ADMIN: Loading appearance_rank
+[07:00:20]ADMIN: appearance_keylist was empty
+[07:00:20]ADMIN: Updating jobbanfile!
+[07:00:20]ADMIN: Loading Banlist
+[07:00:20]ADMIN: Loading RTD lists
+[07:03:01]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1800816647 || BYOND v510
+[07:03:15]ADMIN: Norc has started the game.
+[07:03:15]GAME: Norc (ckey) has been selected as a Heretic
+[07:03:17]ACCESS: Logout: *no key*/(Norc)
+[07:03:17]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:03:30]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:03:30]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1800816647 || BYOND v510
+[07:03:45]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 12:52.37
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[12:52:38]ADMIN: Loading Banlistjob
+[12:52:38]ADMIN: Loading jobban_rank
+[12:52:38]ADMIN: jobban_keylist was empty
+[12:52:38]ADMIN: Loading appearance_rank
+[12:52:38]ADMIN: appearance_keylist was empty
+[12:52:38]ADMIN: Updating jobbanfile!
+[12:52:38]ADMIN: Loading Banlist
+[12:52:38]ADMIN: Loading RTD lists
+[12:54:42]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[12:56:45]ADMIN: DrakeMarshall has started the game.
+[12:56:48]ACCESS: Logout: *no key*/(DrakeMarshall)
+[12:56:48]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[12:57:17]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[12:57:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (103,22,1)
+[12:57:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (104,22,1)
+[12:57:47]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (105,22,1)
+[12:58:50]EMOTE: monkey (782)/ : <B>The monkey (782)</B> jumps!
+[12:59:04]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the ornate gadget at (0,0,0)
+[12:59:11]SAY: sentinel/ : Eliminating hostiles...
+[12:59:11]SAY: sentinel/ : Establishing control of planet...
+[13:00:15]SAY: sentinel/ : Eliminating hostiles...
+[13:00:19]SAY: sentinel/ : Establishing control of planet...
+[13:00:52]SAY: sentinel/ : Eliminating hostiles...
+[13:01:04]SAY: sentinel/ : Establishing control of planet...
+[13:01:20]EMOTE: monkey (728)/ : <B>The monkey (728)</B> jumps!
+[13:01:36]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[13:01:53]SAY: sentinel/ : Establishing control of planet...
+[13:02:01]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[13:02:11]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[13:02:18]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:02:22]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[13:03:00]ADMIN: DrakeMarshall/(Venatus Kyner) used gibself.
+[13:03:01]ACCESS: Logout: *no key*/(Venatus Kyner)
+[13:03:01]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[13:03:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (108,114,1)
+[13:03:12]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[13:03:12]ACCESS: Logout: *no key*/(Venatus Kyner)
+[13:03:12]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[13:03:13]EMOTE: monkey (580)/ : <B>The monkey (580)</B> jumps!
+[13:03:36]SAY: sentinel/ : Establishing control of planet...
+[13:03:40]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[13:03:46]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/laspistol at (114,115,1)
+[13:04:00]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[13:05:19]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectile_type to /obj/item/projectile/bullet/inferno
+[13:05:31]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectiles_per_shot to 200
+[13:05:35]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's pellets to 10
+[13:05:41]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's variance to 2
+[13:05:45]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's variance to 1.5
+[13:05:48]SAY: sentinel/ : Eliminating hostiles...
+[13:05:52]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (109,115,1)
+[13:05:54]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (109,115,1)
+[13:05:54]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (109,115,1)
+[13:05:57]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (108,115,1)
+[13:05:59]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (107,115,1)
+[13:06:01]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (106,115,1)
+[13:06:03]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (107,116,1)
+[13:06:05]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (108,116,1)
+[13:06:09]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (108,114,1)
+[13:06:11]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/ork/nob at (107,114,1)
+[13:06:21]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (110,114,1)
+[13:06:24]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (111,114,1)
+[13:06:28]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (111,116,1)
+[13:06:30]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (110,116,1)
+[13:06:32]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (109,116,1)
+[13:06:33]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/pm at (111,117,1)
+[13:06:39]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/sm at (112,115,1)
+[13:06:45]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/alien/humanoid/tyranid/ravener at (112,115,1)
+[13:06:52]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/whitelisted/rg at (115,114,1)
+[13:06:59]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:01]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:01]EMOTE: Brother Augustus/ : <B>Brother Augustus</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:05]EMOTE: Disciple Soras/ : <B>Disciple Soras</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:09]EMOTE: Disciple Ferox/ : <B>Disciple Ferox</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:13]EMOTE: Disciple Nabrus/ : <B>Disciple Nabrus</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:13]EMOTE: Brother Sabius (as Brother Roman)/ : <B>Brother Sabius (as Brother Roman)</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:13]EMOTE: Disciple Logren/ : <B>Disciple Logren</B> gasps!
+[13:07:19]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[13:07:21]EMOTE: Disciple Treg/ : <B>Disciple Treg</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:23]EMOTE: Disciple Logren/ : <B>Disciple Logren</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:07:27]EMOTE: monkey (728)/ : <B>The monkey (728)</B> jumps!
+[13:07:27]EMOTE: Disciple Nabrus/ : <B>Disciple Nabrus</B> seizes up and falls limp, his eyes dead and lifeless...
+[13:09:27]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+[13:10:27]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[13:10:50]ADMIN: DrakeMarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/laspistol at (126,133,1)
+[13:11:55]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectile_type to /obj/item/projectile/temp/melta
+[13:12:01]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's fire_delay to 1
+[13:12:07]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectiles_per_shot to 200
+[13:12:14]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's pellets to 10
+[13:12:21]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's variance to 2
+[13:14:09]SAY: grey baby slime (673)/ : Blorble...
+[13:14:13]ACCESS: Logout: *no key*/(Unknown)
+[13:14:13]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[13:14:22]EMOTE: monkey (142)/ : <B>The monkey (142)</B> jumps!
+[13:14:36]EMOTE: monkey (436)/ : <B>The monkey (436)</B> jumps!
+[13:14:46]EMOTE: monkey (725)/ : <B>The monkey (725)</B> jumps!
+[13:14:54]ACCESS: Logout: *no key*/(Unknown)
+[13:14:54]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[13:15:01]ADMIN: DrakeMarshall/(Unknown) spawned /obj/item/weapon/gun/projectile/automatic/laspistol at (114,188,1)
+[13:16:26]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectile_type to /obj/item/projectile/beam/pulse2
+[13:16:44]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectiles_per_shot to 100
+[13:16:47]EMOTE: monkey (728)/ : <B>The monkey (728)</B> jumps!
+[13:16:48]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's pellets to 20
+[13:16:57]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's variance to 2.5
+[13:17:05]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's projectiles_per_shot to 150
+[13:17:13]ADMIN: DrakeMarshall/(Unknown) modified bullet casing's fire_delay to 2
+[13:17:17]ADMIN: DrakeMarshall/(Unknown) healed / Revived DrakeMarshall/(Unknown)
+[13:17:23]ADMIN: DrakeMarshall/(Unknown) modified Laspistol's name to Laspistol From Hell
+[13:17:44]GAME: DrakeMarshall/(Unknown) triggered a fueltank explosion.
+[13:17:48]EMOTE: monkey (580)/ : <B>The monkey (580)</B> jumps!
+[13:17:50]EMOTE: monkey (725)/ : <B>The monkey (725)</B> jumps!
+[13:17:51]GAME: DrakeMarshall/(Unknown) triggered a fueltank explosion.
+[13:17:52]EMOTE: monkey (5)/ : <B>The monkey (5)</B> jumps!
+[13:18:39]ADMIN: DrakeMarshall/(Unknown) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (94,183,1)
+[13:18:53]EMOTE: monkey (580)/ : <B>The monkey (580)</B> jumps!
+[13:19:00]ADMIN: DrakeMarshall/(Unknown) spawned /obj/item/projectile/magic/missle at (102,184,1)
+[13:19:25]ADMIN: DrakeMarshall/(Unknown) spawned /obj/item/weapon/misslea at (102,181,1)
+[13:20:17]ADMIN: DrakeMarshall/(Unknown) modified magic casing's projectile_type to /obj/item/projectile/bullet/vanquisher
+[13:20:26]ADMIN: DrakeMarshall/(Unknown) modified magic casing's projectiles_per_shot to 50
+[13:20:32]ADMIN: DrakeMarshall/(Unknown) modified magic casing's fire_delay to 5
+[13:20:38]ADMIN: DrakeMarshall/(Unknown) modified magic casing's pellets to 5
+[13:20:43]ADMIN: DrakeMarshall/(Unknown) modified magic casing's variance to 2
+[13:20:52]ADMIN: DrakeMarshall/(Unknown) modified Missile Launcher's name to ROKKIT LAUNCHA
+[13:21:00]ACCESS: Logout: *no key*/(Unknown)
+[13:21:00]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v510
+[13:21:26]EMOTE: monkey (643)/ : <B>The monkey (643)</B> jumps!
+[13:22:11]EMOTE: monkey (782)/ : <B>The monkey (782)</B> jumps!
+[13:22:28]ACCESS: Logout: DrakeMarshall[DC]/(Unknown)
+
+
+Starting up. 20:18.53
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:18:54]ADMIN: Loading Banlistjob
+[20:18:54]ADMIN: Loading jobban_rank
+[20:18:54]ADMIN: jobban_keylist was empty
+[20:18:54]ADMIN: Loading appearance_rank
+[20:18:54]ADMIN: appearance_keylist was empty
+[20:18:54]ADMIN: Updating jobbanfile!
+[20:18:54]ADMIN: Loading Banlist
+[20:18:54]ADMIN: Loading RTD lists
+[20:25:50]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v510
+[20:26:41]ADMIN: DrakeMarshall has started the game.
+[20:26:42]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[20:26:44]ACCESS: Logout: *no key*/(DrakeMarshall)
+[20:26:44]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:26:57]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:27:06]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to the Departure Lounge
+[20:27:11]SAY: grey baby slime (562)/ : Lonely...
+[20:27:11]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:27:28]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[20:28:47]SAY: grey baby slime (748)/ : Rawr...
+[20:29:05]EMOTE: monkey (715)/ : <B>The monkey (715)</B> jumps!
+[20:29:29]SAY: Venatus Kyner/DrakeMarshall : hm
+[20:29:35]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[20:29:55]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (102,33,1)
+[20:30:12]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[20:31:03]EMOTE: monkey (434)/ : <B>The monkey (434)</B> jumps!
+[20:31:03]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[20:33:10]EMOTE: monkey (26)/ : <B>The monkey (26)</B> jumps!
+[20:33:53]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[20:33:57]GAME: DrakeMarshall/(Venatus Kyner) planted C4 on lockdown door at (41,105,7) with 10 second fuse
+[20:33:57]EMOTE: monkey (807)/ : <B>The monkey (807)</B> jumps!
+[20:33:57]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:33:59]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:34:05]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:34:29]SAY: grey baby slime (562)/ : Blop...
+[20:35:54]EMOTE: monkey (712)/ : <B>The monkey (712)</B> jumps!
+[20:35:56]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:35:58]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:37:35]EMOTE: monkey (712)/ : <B>The monkey (712)</B> jumps!
+[20:38:09]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:38:58]SAY: sentinel/ : Eliminating hostiles...
+[20:39:25]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:39:39]SAY: sentinel/ : Eliminating hostiles...
+[20:39:39]SAY: sentinel/ : Establishing control of planet...
+[20:39:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/pill/bicaridine at (11,92,7)
+[20:39:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/pill/dermaline at (12,92,7)
+[20:39:56]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/reagent_containers/pill/smheal at (11,92,7)
+[20:40:05]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:40:13]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:40:19]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:41:30]SAY: sentinel/ : Establishing control of planet...
+[20:41:48]SAY: sentinel/ : Establishing control of planet...
+[20:41:48]SAY: sentinel/ : Eliminating hostiles...
+[20:44:30]SAY: sentinel/ : Establishing control of planet...
+[20:44:46]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:44:54]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:45:17]SAY: sentinel/ : Eliminating hostiles...
+[20:45:35]EMOTE: monkey (101)/ : <B>The monkey (101)</B> jumps!
+[20:45:37]EMOTE: monkey (101)/ : <B>The monkey (101)</B> jumps!
+[20:45:37]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:45:41]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:45:49]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:45:54]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:46:01]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[20:46:03]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:46:09]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:46:30]SAY: sentinel/ : Establishing control of planet...
+[20:46:56]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:47:04]SAY: sentinel/ : Eliminating hostiles...
+[20:47:24]SAY: sentinel/ : Establishing control of planet...
+[20:47:26]SAY: sentinel/ : Establishing control of planet...
+[20:47:35]EMOTE: monkey (712)/ : <B>The monkey (712)</B> jumps!
+[20:47:49]SAY: sentinel/ : Eliminating hostiles...
+[20:47:55]SAY: sentinel/ : Eliminating hostiles...
+[20:48:05]SAY: sentinel/ : Eliminating hostiles...
+[20:48:27]EMOTE: monkey (715)/ : <B>The monkey (715)</B> jumps!
+[20:48:27]SAY: sentinel/ : Eliminating hostiles...
+[20:48:38]SAY: sentinel/ : Eliminating hostiles...
+[20:49:00]SAY: sentinel/ : Establishing control of planet...
+[20:49:04]SAY: sentinel/ : Establishing control of planet...
+[20:49:08]ADMIN: DrakeMarshall/(Venatus Kyner) has granted DrakeMarshall full access.
+[20:49:12]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:49:28]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> twitches violently.
+[20:49:37]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:49:53]EMOTE: monkey (101)/ : <B>The monkey (101)</B> jumps!
+[20:50:01]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> twitches violently.
+[20:50:25]SAY: sentinel/ : Eliminating hostiles...
+[20:50:25]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> twitches violently.
+[20:50:39]SAY: sentinel/ : Establishing control of planet...
+[20:51:21]SAY: sentinel/ : Establishing control of planet...
+[20:51:38]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[20:52:00]SAY: sentinel/ : Establishing control of planet...
+[20:52:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (125,79,7)
+[20:52:38]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:52:40]SAY: sentinel/ : Eliminating hostiles...
+[20:52:42]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[20:52:43]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[20:52:46]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:52:46]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:52:53]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[20:53:02]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:53:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:53:03]EMOTE: Unknown/ : <B>Unknown</B> gasps!
+[20:53:07]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:53:07]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v510
+[20:53:13]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

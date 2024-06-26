@@ -1,0 +1,67 @@
+
+
+Starting up. 00:26.33
+---------------------
+[00:33:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:51]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:33:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:34:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:34:03]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:34:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:34:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The bullet</font>
+[00:34:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:44]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:45]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:46]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:48]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:34:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Brother Sabius with The plasma</font>
+[00:35:49]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:35:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:06]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:36]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:36:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:37:32]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) punched Unknown </font>
+[00:37:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The plasma</font>
+[00:37:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The plasma</font>
+[00:37:38]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with The plasma</font>
+[00:39:33]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) hit Unknown with Imperial Krak Grenade</font>
+[00:41:04]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:08]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:09]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:11]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:12]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:16]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Guardsman's Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:47]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:41:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[00:42:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with Power Sword(INTENT: HARM) (DAMTYE: BRUTE)</font>
+[00:42:01]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[00:42:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[00:42:08]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[00:42:10]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+[00:43:05]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) attacked Unknown with mercy chainsword(INTENT: GRAB) (DAMTYE: BRUTE)</font>
+[00:44:31]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) stunned Unknown </font>
+
+
+Starting up. 10:17.58
+---------------------

@@ -1,0 +1,177 @@
+
+
+Starting up. 09:04.30
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[09:04:30]ADMIN: Loading Banlistjob
+[09:04:30]ADMIN: Loading jobban_rank
+[09:04:30]ADMIN: jobban_keylist was empty
+[09:04:30]ADMIN: Loading appearance_rank
+[09:04:30]ADMIN: appearance_keylist was empty
+[09:04:30]ADMIN: Updating jobbanfile!
+[09:04:30]ADMIN: Loading Banlist
+[09:04:30]ADMIN: Loading RTD lists
+[09:12:12]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[09:12:20]ADMIN: DrakeMarshall has started the game.
+[09:12:21]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[09:12:24]ACCESS: Logout: *no key*/(DrakeMarshall)
+[09:12:24]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[09:12:31]SAY: grey baby slime (418)/ : Blorble...
+[09:12:39]ADMIN: DrakeMarshall/(Venatus Kyner) modified Venatus Kyner's dodging to 2
+[09:12:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (140,214,1)
+[09:12:56]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/krak at (141,224,1)
+[09:12:59]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Krak Grenade for detonation at Brig (141,224,1).
+[09:13:02]SAY: Venatus Kyner/DrakeMarshall : there
+[09:13:29]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (126,225,1)
+[09:13:32]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Brig (126,225,1).
+[09:13:58]SAY: sentinel/ : Eliminating hostiles...
+[09:14:00]SAY: Featherbottom/ : Cluck!
+[09:14:02]EMOTE: monkey (32)/ : <B>The monkey (32)</B> jumps!
+[09:14:06]SAY: Featherbottom/ : Bwaak bwak.
+[09:14:38]EMOTE: monkey (853)/ : <B>The monkey (853)</B> jumps!
+[09:14:41]SAY: sentinel/ : Establishing control of planet...
+[09:15:08]SAY: sentinel/ : Eliminating hostiles...
+[09:15:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/lemanruss at (118,225,1)
+[09:15:11]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 14:12.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[14:12:08]ADMIN: Loading Banlistjob
+[14:12:08]ADMIN: Loading jobban_rank
+[14:12:08]ADMIN: jobban_keylist was empty
+[14:12:08]ADMIN: Loading appearance_rank
+[14:12:08]ADMIN: appearance_keylist was empty
+[14:12:08]ADMIN: Updating jobbanfile!
+[14:12:08]ADMIN: Loading Banlist
+[14:12:08]ADMIN: Loading RTD lists
+[14:13:07]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[14:13:19]ADMIN: DrakeMarshall has started the game.
+[14:13:20]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[14:13:22]ACCESS: Logout: *no key*/(DrakeMarshall)
+[14:13:22]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[14:13:48]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:13:54]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:14:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/lemanruss at (141,217,1)
+[14:14:09]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/structure/mecha_wreckage/lemanruss at (142,220,1)
+[14:14:16]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the Leman Russ Vanquisher Tank at (142,220,1)
+[14:14:26]EMOTE: monkey (327)/ : <B>The monkey (327)</B> jumps!
+[14:14:52]SAY: mouse/ : Squeek!
+[14:14:58]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/chimera/valhallan/loaded at (0,0,0)
+[14:15:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/chimera/valhallan/loaded at (141,223,1)
+[14:16:01]EMOTE: monkey (980)/ : <B>The monkey (980)</B> jumps!
+[14:16:32]SAY: Featherbottom/ : Cluck!
+[14:16:55]EMOTE: monkey (916)/ : <B>The monkey (916)</B> jumps!
+[14:17:08]SAY: sentinel/ : Establishing control of planet...
+[14:17:20]SAY: sentinel/ : Eliminating hostiles...
+[14:18:14]EMOTE: monkey (870)/ : <B>The monkey (870)</B> jumps!
+[14:18:24]SAY: sentinel/ : Establishing control of planet...
+[14:18:32]SAY: Pugley III/ : YAP
+[14:18:57]SAY: Venatus Kyner/DrakeMarshall : well then
+[14:19:47]EMOTE: monkey (494)/ : <B>The monkey (494)</B> jumps!
+[14:19:49]SAY: sentinel/ : Eliminating hostiles...
+[14:20:26]SAY: sentinel/ : Eliminating hostiles...
+[14:20:29]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:20:44]EMOTE: monkey (137)/ : <B>The monkey (137)</B> jumps!
+[14:20:46]SAY: grey baby slime (529)/ : Rawr...
+[14:21:20]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[14:21:30]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:22:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (106,224,1)
+[14:22:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,224,1)
+[14:22:10]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,224,1)
+[14:22:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,223,1)
+[14:22:15]SAY: mouse/ : Squeek?
+[14:22:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (106,223,1)
+[14:22:19]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (106,222,1)
+[14:22:21]EMOTE: monkey (327)/ : <B>The monkey (327)</B> jumps!
+[14:22:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,222,1)
+[14:22:29]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/mecha/combat/lemanruss at (99,223,1)
+[14:22:39]SAY: mouse/ : SQUEEK!
+[14:22:53]SAY: grey baby slime (529)/ : Blop...
+[14:25:48]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:26:12]SAY: sentinel/ : Establishing control of planet...
+[14:26:28]SAY: mouse/ : Squeek?
+[14:26:48]SAY: mouse/ : Squeek!
+[14:27:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,230,1)
+[14:27:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,230,1)
+[14:27:10]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,229,1)
+[14:27:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,229,1)
+[14:27:18]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,231,1)
+[14:27:22]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,231,1)
+[14:27:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (110,234,1)
+[14:27:29]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (109,234,1)
+[14:27:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (108,234,1)
+[14:27:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (108,235,1)
+[14:27:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (109,235,1)
+[14:27:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (110,235,1)
+[14:27:51]SAY: Kentucky/ : Bwaak bwak.
+[14:28:12]SAY: Pugley III/ : AUUUUUU
+[14:28:30]SAY: Featherbottom/ : Bwaak bwak.
+[14:29:29]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[14:29:47]EMOTE: monkey (327)/ : <B>The monkey (327)</B> jumps!
+[14:30:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (106,225,1)
+[14:30:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (107,225,1)
+[14:30:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (108,225,1)
+[14:30:51]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (109,225,1)
+[14:30:53]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (110,225,1)
+[14:30:54]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (111,225,1)
+[14:30:58]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,225,1)
+[14:31:00]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,225,1)
+[14:31:01]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (103,225,1)
+[14:31:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (103,224,1)
+[14:31:05]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (104,224,1)
+[14:31:07]EMOTE: monkey (2)/ : <B>The monkey (2)</B> jumps!
+[14:31:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (105,224,1)
+[14:31:09]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (106,224,1)
+[14:31:10]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (107,224,1)
+[14:31:13]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (108,224,1)
+[14:31:14]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (109,224,1)
+[14:31:16]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (110,224,1)
+[14:31:18]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (111,224,1)
+[14:31:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (112,225,1)
+[14:31:22]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (112,224,1)
+[14:31:32]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (102,225,1)
+[14:31:34]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (102,224,1)
+[14:31:35]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (101,224,1)
+[14:31:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/fake_floor/fake_wall/r_wall/baneblade at (101,225,1)
+[14:31:45]EMOTE: monkey (327)/ : <B>The monkey (327)</B> jumps!
+[14:32:01]SAY: grey baby slime (465)/ : Blop...
+[14:32:48]SAY: Betsy/ : moo?
+[14:33:28]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[14:33:44]SAY: mouse/ : SQUEEK!
+[14:33:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (111,243,1)
+[14:34:11]EMOTE: monkey (916)/ : <B>The monkey (916)</B> jumps!
+[14:34:23]SAY: mouse/ : Squeek!
+[14:34:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plasmisslea at (112,243,1)
+[14:34:55]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[14:35:11]EMOTE: monkey (983)/ : <B>The monkey (983)</B> jumps!
+[14:35:14]ACCESS: Logout: *no key*/(Venatus Kyner)
+[14:35:14]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[14:35:35]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

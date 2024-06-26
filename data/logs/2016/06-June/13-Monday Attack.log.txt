@@ -1,0 +1,45 @@
+
+
+Starting up. 05:44.21
+---------------------
+
+
+Starting up. 06:29.21
+---------------------
+
+
+Starting up. 06:55.00
+---------------------
+
+
+Starting up. 07:37.04
+---------------------
+
+
+Starting up. 08:34.06
+---------------------
+
+
+Starting up. 08:37.24
+---------------------
+
+
+Starting up. 08:44.04
+---------------------
+
+
+Starting up. 08:50.27
+---------------------
+
+
+Starting up. 08:58.59
+---------------------
+
+
+Starting up. 22:24.18
+---------------------
+[22:35:46]ATTACK: <font color='red'>Sister Debra(drakemarshall) shot Venatus Kyner with The fire</font>
+[22:35:46]ATTACK: <font color='red'>Sister Debra(drakemarshall) shot Venatus Kyner with The fire</font>
+[22:35:52]ATTACK: <font color='red'>Sister Debra(drakemarshall) attempted to hamstring Sister Debra(drakemarshall) </font>
+[22:35:53]ATTACK: <font color='red'>Sister Debra(drakemarshall) attempted to hamstring Sister Debra(drakemarshall) </font>
+[22:35:56]ATTACK: <font color='red'>Sister Debra(drakemarshall) attacked Sister Debra(drakemarshall) with chainsword(INTENT: HARM) (DAMTYE: BRUTE)</font>

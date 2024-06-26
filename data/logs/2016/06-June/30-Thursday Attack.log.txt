@@ -1,0 +1,17 @@
+
+
+Starting up. 00:41.39
+---------------------
+
+
+Starting up. 12:30.55
+---------------------
+[13:12:50]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[13:12:52]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[13:12:53]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[13:12:54]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+[13:12:55]ATTACK: <font color='red'>Venatus Kyner(drakemarshall) shot Unknown with Inferno bolt</font>
+
+
+Starting up. 13:37.45
+---------------------

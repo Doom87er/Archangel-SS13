@@ -1,0 +1,462 @@
+
+
+Starting up. 02:27.45
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:27:46]ADMIN: Loading Banlistjob
+[02:27:46]ADMIN: Loading jobban_rank
+[02:27:46]ADMIN: jobban_keylist was empty
+[02:27:46]ADMIN: Loading appearance_rank
+[02:27:46]ADMIN: appearance_keylist was empty
+[02:27:46]ADMIN: Updating jobbanfile!
+[02:27:46]ADMIN: Loading Banlist
+[02:27:46]ADMIN: Loading RTD lists
+[02:30:11]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[02:30:22]ADMIN: Norc has started the game.
+[02:30:23]GAME: Norc (ckey) has been selected as a Heretic
+[02:30:25]ACCESS: Logout: *no key*/(Norc)
+[02:30:25]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:30:26]EMOTE: monkey (775)/ : <B>The monkey (775)</B> jumps!
+[02:30:33]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:30:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:30:45]ADMIN: Norc/(Brian Garrison) jumped to the Warehouse
+[02:30:51]SAY: Kentucky/ : Cluck!
+[02:30:52]ADMIN: Norc/(Brian Garrison) spawned /mob/living/simple_animal/hostile/retaliate/goose/sprucegoose at (71,155,1)
+[02:30:57]EMOTE: monkey (907)/ : <B>The monkey (907)</B> jumps!
+[02:31:01]ADMIN: Norc/(Brian Garrison) assumed direct control of Bruce.
+[02:31:01]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:31:01]ACCESS: Login: norc/(Goose) from 127.0.0.1-1324596339 || BYOND v509
+[02:31:44]EMOTE: monkey (263)/ : <B>The monkey (263)</B> jumps!
+[02:32:02]SAY: mouse/ : Squeek?
+[02:32:04]SAY: grey baby slime (414)/ : Blorble...
+[02:32:39]SAY: grey baby slime (414)/ : Blorble...
+[02:32:55]SAY: Featherbottom/ : Bwaak bwak.
+[02:33:04]ACCESS: Logout: *no key*/(Goose)
+[02:33:04]ACCESS: Login: norc/(Goose) from 127.0.0.1-1324596339 || BYOND v509
+[02:33:07]SAY: grey baby slime (414)/ : Blorble...
+[02:33:07]SAY: necron scarab/ : Eliminating hostiles...
+[02:33:15]ADMIN: norc/(Goose) spawned /mob/living/carbon/human/whitelisted/ksons at (74,155,1)
+[02:33:19]ADMIN: norc/(Goose) spawned /mob/living/carbon/human/whitelisted/ksonsleader at (74,154,1)
+[02:33:30]ADMIN: norc/(Goose) assumed direct control of Archeron The Eternal.
+[02:33:30]ACCESS: Logout: *no key*/(Goose)
+[02:33:30]ACCESS: Login: norc/(Archeron The Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[02:33:33]EMOTE: monkey (887)/ : <B>The monkey (887)</B> jumps!
+[02:33:35]SAY: Featherbottom/ : Bwaak bwak.
+[02:33:55]SAY: sentinel/ : Eliminating hostiles...
+[02:34:58]SAY: grey baby slime (414)/ : Lonely...
+[02:35:00]SAY: sentinel/ : Establishing control of planet...
+[02:35:18]EMOTE: monkey (516)/ : <B>The monkey (516)</B> jumps!
+[02:36:08]SAY: necron scarab/ : Establishing control of planet...
+[02:37:39]SAY: necron scarab/ : Establishing control of planet...
+[02:38:20]ACCESS: Logout: norc[DC]/(Archeron The Eternal)
+
+
+Starting up. 02:41.51
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:41:51]ADMIN: Loading Banlistjob
+[02:41:51]ADMIN: Loading jobban_rank
+[02:41:51]ADMIN: jobban_keylist was empty
+[02:41:51]ADMIN: Loading appearance_rank
+[02:41:51]ADMIN: appearance_keylist was empty
+[02:41:51]ADMIN: Updating jobbanfile!
+[02:41:51]ADMIN: Loading Banlist
+[02:41:51]ADMIN: Loading RTD lists
+[02:43:40]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[02:43:49]ADMIN: Norc has started the game.
+[02:43:51]ACCESS: Logout: *no key*/(Norc)
+[02:43:51]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:44:09]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksons at (183,17,2)
+[02:44:18]ADMIN: Norc/(Brian Garrison) assumed direct control of Zydire The Enlightened.
+[02:44:18]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:44:18]ACCESS: Login: norc/(Zydire The Enlightened) from 127.0.0.1-1324596339 || BYOND v509
+[02:44:39]SAY: mouse/ : Squeek!
+[02:44:56]ACCESS: Logout: norc[DC]/(Zydire The Enlightened)
+
+
+Starting up. 02:49.07
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:49:07]ADMIN: Loading Banlistjob
+[02:49:07]ADMIN: Loading jobban_rank
+[02:49:07]ADMIN: jobban_keylist was empty
+[02:49:07]ADMIN: Loading appearance_rank
+[02:49:07]ADMIN: appearance_keylist was empty
+[02:49:07]ADMIN: Updating jobbanfile!
+[02:49:07]ADMIN: Loading Banlist
+[02:49:07]ADMIN: Loading RTD lists
+[02:50:25]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[02:50:33]ADMIN: Norc has started the game.
+[02:50:33]GAME: Norc (ckey) has been selected as a Heretic
+[02:50:35]ACCESS: Logout: *no key*/(Norc)
+[02:50:35]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:50:38]EMOTE: monkey (140)/ : <B>The monkey (140)</B> jumps!
+[02:50:41]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:50:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:50:48]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[02:50:50]SAY: mouse/ : SQUEEK!
+[02:50:56]EMOTE: monkey (615)/ : <B>The monkey (615)</B> jumps!
+[02:51:04]EMOTE: monkey (680)/ : <B>The monkey (680)</B> jumps!
+[02:51:16]EMOTE: monkey (367)/ : <B>The monkey (367)</B> jumps!
+[02:51:17]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksons at (209,6,7)
+[02:51:22]ADMIN: Norc/(Brian Garrison) assumed direct control of Nazustix The Enlightened.
+[02:51:22]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:51:22]ACCESS: Login: norc/(Nazustix The Enlightened) from 127.0.0.1-1324596339 || BYOND v509
+[02:51:46]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[02:52:04]SAY: sentinel/ : Establishing control of planet...
+[02:52:05]ACCESS: Logout: norc[DC]/(Nazustix The Enlightened)
+
+
+Starting up. 02:58.10
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:58:10]ADMIN: Loading Banlistjob
+[02:58:10]ADMIN: Loading jobban_rank
+[02:58:10]ADMIN: jobban_keylist was empty
+[02:58:10]ADMIN: Loading appearance_rank
+[02:58:10]ADMIN: appearance_keylist was empty
+[02:58:10]ADMIN: Updating jobbanfile!
+[02:58:10]ADMIN: Loading Banlist
+[02:58:10]ADMIN: Loading RTD lists
+[02:59:35]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[02:59:48]ADMIN: Norc has started the game.
+[02:59:51]ACCESS: Logout: *no key*/(Norc)
+[02:59:51]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:59:54]ACCESS: Logout: *no key*/(Brian Garrison)
+[02:59:54]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:00:16]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[03:00:22]SAY: grey baby slime (732)/ : Blorble...
+[03:00:44]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksonsleader at (209,9,7)
+[03:00:54]ADMIN: Norc/(Brian Garrison) assumed direct control of Archeron The Eternal.
+[03:00:54]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:00:54]ACCESS: Login: norc/(Archeron The Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[03:01:04]SAY: grey baby slime (732)/ : Blop...
+[03:01:10]SAY: grey baby slime (925)/ : Blorble...
+[03:01:24]SAY: mouse/ : Squeek?
+[03:01:24]SAY: sentinel/ : Eliminating hostiles...
+[03:01:38]SAY: Pugley III/ : Bark!
+[03:01:40]EMOTE: monkey (540)/ : <B>The monkey (540)</B> jumps!
+[03:01:42]SAY: mouse/ : Squeek?
+[03:01:58]ADMIN: norc/(Archeron The Eternal) jumped to 113,61,2 in the Holding Facility
+[03:02:06]EMOTE: monkey (655)/ : <B>The monkey (655)</B> jumps!
+[03:02:13]ADMIN: norc/(Archeron The Eternal) jumped to 238,236,2 in the Holodeck - Beach
+[03:02:20]SAY: Pete/ : EHEHEHEHEH
+[03:02:23]ADMIN: norc/(Archeron The Eternal) jumped to 113,61,2 in the Holding Facility
+[03:02:48]EMOTE: monkey (655)/ : <B>The monkey (655)</B> jumps!
+[03:02:48]SAY: sentinel/ : Eliminating hostiles...
+[03:03:21]SAY: mouse/ : SQUEEK!
+[03:03:23]SAY: Featherbottom/ : Bwaak bwak.
+[03:03:25]EMOTE: monkey (781)/ : <B>The monkey (781)</B> jumps!
+[03:03:41]SAY: Kentucky/ : Cluck!
+[03:03:43]SAY: sentinel/ : Eliminating hostiles...
+[03:03:49]ACCESS: Logout: *no key*/(Archeron The Eternal)
+[03:03:49]ACCESS: Login: norc/(Archeron The Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[03:03:51]SAY: sentinel/ : Establishing control of planet...
+[03:03:59]ADMIN: norc/(Archeron The Eternal) jumped to Deep Warp
+[03:04:01]SAY: sentinel/ : Establishing control of planet...
+[03:04:07]ADMIN: norc/(Archeron The Eternal) jumped to the orkland
+[03:04:23]SAY: mouse/ : Squeek!
+[03:04:25]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[03:04:28]ADMIN: norc/(Archeron The Eternal) teleported @Norc[DC]/(Archeron The Eternal)
+[03:04:30]ACCESS: Logout: *no key*/(Archeron The Eternal)
+[03:04:30]ACCESS: Login: norc/(Archeron The Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[03:04:57]ACCESS: Logout: norc[DC]/(Archeron The Eternal)
+
+
+Starting up. 03:15.42
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:15:42]ADMIN: Loading Banlistjob
+[03:15:42]ADMIN: Loading jobban_rank
+[03:15:42]ADMIN: jobban_keylist was empty
+[03:15:42]ADMIN: Loading appearance_rank
+[03:15:42]ADMIN: appearance_keylist was empty
+[03:15:42]ADMIN: Updating jobbanfile!
+[03:15:42]ADMIN: Loading Banlist
+[03:15:42]ADMIN: Loading RTD lists
+[03:18:14]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[03:18:22]ADMIN: Norc has started the game.
+[03:18:23]GAME: Norc (ckey) has been selected as a Heretic
+[03:18:24]EMOTE: monkey (413)/ : <B>The monkey (413)</B> jumps!
+[03:18:25]ACCESS: Logout: *no key*/(Norc)
+[03:18:25]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:18:27]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:18:27]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:18:33]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[03:18:34]EMOTE: monkey (675)/ : <B>The monkey (675)</B> jumps!
+[03:18:34]SAY: Featherbottom/ : Bwaak bwak.
+[03:18:43]EMOTE: monkey (407)/ : <B>The monkey (407)</B> jumps!
+[03:18:51]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksonsleader at (209,8,7)
+[03:19:23]ADMIN: Norc/(Brian Garrison) assumed direct control of Archeron the Eternal.
+[03:19:23]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:19:23]ACCESS: Login: norc/(Archeron the Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[03:19:39]ACCESS: Logout: norc[DC]/(Archeron the Eternal)
+
+
+Starting up. 03:25.10
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:25:10]ADMIN: Loading Banlistjob
+[03:25:10]ADMIN: Loading jobban_rank
+[03:25:10]ADMIN: jobban_keylist was empty
+[03:25:10]ADMIN: Loading appearance_rank
+[03:25:10]ADMIN: appearance_keylist was empty
+[03:25:10]ADMIN: Updating jobbanfile!
+[03:25:10]ADMIN: Loading Banlist
+[03:25:10]ADMIN: Loading RTD lists
+[03:27:58]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[03:28:08]ADMIN: Norc has started the game.
+[03:28:08]GAME: Norc (ckey) has been selected as a Heretic
+[03:28:10]ACCESS: Logout: *no key*/(Norc)
+[03:28:10]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:28:21]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksonsleader at (183,18,2)
+[03:28:39]ADMIN: Norc/(Brian Garrison) assumed direct control of Archeron the Eternal.
+[03:28:39]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:28:39]ACCESS: Login: norc/(Archeron the Eternal) from 127.0.0.1-1324596339 || BYOND v509
+[03:28:41]SAY: sentinel/ : Eliminating hostiles...
+[03:28:47]ACCESS: Logout: norc[DC]/(Archeron the Eternal)
+
+
+Starting up. 03:44.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[03:44:29]ADMIN: Loading Banlistjob
+[03:44:29]ADMIN: Loading jobban_rank
+[03:44:29]ADMIN: jobban_keylist was empty
+[03:44:29]ADMIN: Loading appearance_rank
+[03:44:29]ADMIN: appearance_keylist was empty
+[03:44:29]ADMIN: Updating jobbanfile!
+[03:44:29]ADMIN: Loading Banlist
+[03:44:29]ADMIN: Loading RTD lists
+[03:45:27]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[03:45:56]ADMIN: Norc has started the game.
+[03:45:56]GAME: Norc (ckey) has been selected as a Heretic
+[03:45:58]ACCESS: Logout: *no key*/(Norc)
+[03:45:58]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[03:46:09]SAY: sentinel/ : Eliminating hostiles...
+[03:46:17]SAY: grey baby slime (633)/ : Blop...
+[03:46:22]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/whitelisted/ksons at (183,17,2)
+[03:46:32]ADMIN: Norc/(Brian Garrison) assumed direct control of Furfar The Enlightened.
+[03:46:32]ACCESS: Logout: *no key*/(Brian Garrison)
+[03:46:32]ACCESS: Login: norc/(Furfar The Enlightened) from 127.0.0.1-1324596339 || BYOND v509
+[03:46:33]SAY: mouse/ : Squeek?
+[03:46:54]WHISPER: Furfar The Enlightened/norc : AULIE OXIN FIERA
+[03:47:01]SAY: sentinel/ : Establishing control of planet...
+[03:47:07]ACCESS: Logout: norc[DC]/(Furfar The Enlightened)
+
+
+Starting up. 15:28.12
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[15:28:13]ADMIN: Loading Banlistjob
+[15:28:13]ADMIN: Loading jobban_rank
+[15:28:13]ADMIN: jobban_keylist was empty
+[15:28:13]ADMIN: Loading appearance_rank
+[15:28:13]ADMIN: appearance_keylist was empty
+[15:28:13]ADMIN: Updating jobbanfile!
+[15:28:13]ADMIN: Loading Banlist
+[15:28:13]ADMIN: Loading RTD lists
+[15:32:52]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[15:34:08]ADMIN: DrakeMarshall has started the game.
+[15:34:08]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[15:34:11]ACCESS: Logout: *no key*/(DrakeMarshall)
+[15:34:11]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:34:19]SAY: Featherbottom/ : Bwaak bwak.
+[15:34:37]SAY: sentinel/ : Eliminating hostiles...
+[15:35:39]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/complexsword/IGsword at (107,108,1)
+[15:35:48]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (107,107,1)
+[15:36:13]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:36:20]SAY: mouse/ : Squeek?
+[15:36:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/harl at (106,107,1)
+[15:36:34]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the blade slice at (106,107,1)
+[15:36:40]SAY: Featherbottom/ : Cluck!
+[15:36:41]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/powersword/harlequin at (106,109,1)
+[15:36:59]SAY: sentinel/ : Establishing control of planet...
+[15:36:59]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:37:40]SAY: mouse/ : Squeek!
+[15:37:59]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (92,144,1)
+[15:38:02]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[15:38:04]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human at (94,144,1)
+[15:38:08]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Central Primary Hallway (91,144,1).
+[15:38:14]GAME: *null* triggered a fueltank explosion.
+[15:38:15]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:38:15]GAME: *null* triggered a fueltank explosion.
+[15:38:24]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[15:38:29]EMOTE: monkey (738)/ : <B>The monkey (738)</B> jumps!
+[15:38:37]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived *no key*/(Unknown)
+[15:38:45]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/imperial at (98,143,1)
+[15:38:55]GAME: DrakeMarshall/(Venatus Kyner) has primed a Imperial Fragmentation Grenade for detonation at Central Primary Hallway (97,144,1).
+[15:39:01]SAY: Pete/ : eh?
+[15:39:13]ADMIN: DrakeMarshall/(Venatus Kyner) healed / Revived DrakeMarshall/(Venatus Kyner)
+[15:39:26]SAY: Pete/ : eh?
+[15:39:58]EMOTE: monkey (738)/ : <B>The monkey (738)</B> jumps!
+[15:40:08]SAY: grey baby slime (510)/ : Blorble...
+[15:40:31]EMOTE: monkey (669)/ : <B>The monkey (669)</B> jumps!
+[15:40:43]SAY: mouse/ : SQUEEK!
+[15:40:47]SAY: Pugley III/ : Woof!
+[15:41:24]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[15:41:36]SAY: mouse/ : SQUEEK!
+[15:41:52]EMOTE: monkey (951)/ : <B>The monkey (951)</B> jumps!
+[15:42:25]SAY: Featherbottom/ : Bwaak bwak.
+[15:42:35]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[15:43:15]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/storage/toolbox/syndicate at (97,144,1)
+[15:43:18]SAY: sentinel/ : Establishing control of planet...
+[15:43:35]SAY: mouse/ : Squeek?
+[15:43:41]EMOTE: Unknown/ : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[15:43:45]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:43:45]SAY: sentinel/ : Eliminating hostiles...
+[15:43:51]SAY: Betsy/ : moo?
+[15:43:57]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/necrodermis at (98,144,1)
+[15:44:44]SAY: Featherbottom/ : Cluck!
+[15:44:52]SAY: mouse/ : Squeek!
+[15:46:16]SAY: grey baby slime (512)/ : Blorble...
+[15:46:18]SAY: Pugley III/ : YAP
+[15:46:24]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/syndieminibomb at (107,120,1)
+[15:46:26]GAME: DrakeMarshall/(Venatus Kyner) has primed a blood pact grenade for detonation at Command Hallway (107,119,1).
+[15:46:26]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:46:41]SAY: sentinel/ : Establishing control of planet...
+[15:47:47]SAY: mouse/ : SQUEEK!
+[15:48:36]SAY: Kentucky/ : Bwaak bwak.
+[15:48:46]SAY: mouse/ : SQUEEK!
+[15:48:58]SAY: mouse/ : Squeek?
+[15:49:45]EMOTE: monkey (738)/ : <B>The monkey (738)</B> jumps!
+[15:49:56]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:49:56]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:50:02]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:50:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:50:08]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/pickaxe at (248,175,7)
+[15:50:29]EMOTE: monkey (726)/ : <B>The monkey (726)</B> jumps!
+[15:51:43]SAY: mouse/ : Squeek!
+[15:51:54]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/flashlight/lantern at (89,79,7)
+[15:51:57]SAY: Betsy/ : moo
+[15:52:32]SAY: sentinel/ : Eliminating hostiles...
+[15:53:11]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:53:13]SAY: Betsy/ : moo?
+[15:53:25]SAY: Featherbottom/ : Cluck!
+[15:53:50]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:53:53]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/plastique at (94,62,7)
+[15:54:04]SAY: sentinel/ : Establishing control of planet...
+[15:54:42]GAME: DrakeMarshall/(Venatus Kyner) planted C4 on *no key*/(sentinel) with 10 second fuse
+[15:55:00]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[15:55:25]SAY: Pugley III/ : AUUUUUU
+[15:55:37]EMOTE: monkey (447)/ : <B>The monkey (447)</B> jumps!
+[15:55:45]SAY: mouse/ : Squeek?
+[15:55:51]EMOTE: monkey (454)/ : <B>The monkey (454)</B> jumps!
+[15:56:27]SAY: grey baby slime (512)/ : Blorble...
+[15:56:37]SAY: sentinel/ : Eliminating hostiles...
+[15:56:40]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/stickbomb at (89,72,7)
+[15:56:46]ACCESS: Logout: *no key*/(Venatus Kyner)
+[15:56:46]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[15:58:46]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)

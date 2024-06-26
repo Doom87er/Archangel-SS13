@@ -1,0 +1,157 @@
+
+
+Starting up. 05:42.58
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[05:42:58]ADMIN: Loading Banlistjob
+[05:42:58]ADMIN: Loading jobban_rank
+[05:42:58]ADMIN: jobban_keylist was empty
+[05:42:58]ADMIN: Loading appearance_rank
+[05:42:58]ADMIN: appearance_keylist was empty
+[05:42:58]ADMIN: Updating jobbanfile!
+[05:42:58]ADMIN: Loading Banlist
+[05:42:58]ADMIN: Loading RTD lists
+[05:44:32]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[05:44:45]ADMIN: Norc has started the game.
+[05:44:45]GAME: Norc (ckey) has been selected as a Heretic
+[05:44:47]ACCESS: Logout: *no key*/(Norc)
+[05:44:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[05:45:04]SAY: mouse/ : SQUEEK!
+[05:46:36]SAY: mouse/ : Squeek!
+[05:47:28]SAY: Betsy/ : MOOOOOO
+[05:47:38]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[05:47:51]ADMIN: Norc/(Brian Garrison) jumped to 107,48,7 in the orkland
+[05:47:57]ADMIN: Norc/(Brian Garrison) jumped to 108,45,7 in Snow
+[05:48:04]SAY: mouse/ : Squeek!
+[05:48:14]EMOTE: monkey (368)/ : <B>The monkey (368)</B> jumps!
+[05:48:34]EMOTE: monkey (235)/ : <B>The monkey (235)</B> jumps!
+[05:48:43]ADMIN: Norc/(Brian Garrison) modified conveyor belt's operating to 1
+[05:49:08]ADMIN: Norc/(Brian Garrison) modified conveyor belt's use_power to 0
+[05:52:35]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[05:52:37]SAY: Betsy/ : moo?
+[05:52:37]SAY: Featherbottom/ : Cluck!
+[05:52:45]SAY: grey baby slime (399)/ : Rawr...
+[05:53:15]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[05:54:09]EMOTE: monkey (581)/ : <B>The monkey (581)</B> jumps!
+[05:54:27]EMOTE: monkey (47)/ : <B>The monkey (47)</B> jumps!
+[05:55:43]SAY: Featherbottom/ : Bwaak bwak.
+[05:55:45]SAY: mouse/ : Squeek!
+[05:56:01]SAY: mouse/ : SQUEEK!
+[05:56:09]EMOTE: monkey (368)/ : <B>The monkey (368)</B> jumps!
+[05:56:54]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor1
+[05:57:12]EMOTE: monkey (661)/ : <B>The monkey (661)</B> jumps!
+[05:57:18]ADMIN: Norc/(Brian Garrison) modified conveyor belt's forwards to 4
+[05:57:37]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 4
+[05:57:54]SAY: Betsy/ : MOOOOOO
+[05:58:43]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor2
+[05:58:48]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor3
+[05:58:52]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor4
+[05:58:57]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor5
+[05:59:01]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor01
+[05:59:05]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor0
+[05:59:10]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor2
+[05:59:14]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor1
+[05:59:16]SAY: Featherbottom/ : Bwaak bwak.
+[05:59:45]SAY: grey baby slime (710)/ : Rawr...
+[05:59:57]SAY: mouse/ : Squeek?
+[05:59:59]SAY: mouse/ : SQUEEK!
+[06:00:15]SAY: grey baby slime (399)/ : Blorble...
+[06:00:37]SAY: grey baby slime (710)/ : Rawr...
+[06:00:37]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[06:00:49]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[06:00:54]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 3
+[06:00:57]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 4
+[06:01:07]ADMIN: Norc/(Brian Garrison) modified conveyor belt's icon_state to conveyor1
+[06:01:33]ADMIN: Norc/(Brian Garrison) modified conveyor belt's operating to 1
+[06:01:36]SAY: mouse/ : Squeek!
+[06:02:18]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 5
+[06:02:22]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 6
+[06:02:26]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 7
+[06:02:28]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 8
+[06:02:43]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 9
+[06:02:47]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 10
+[06:02:49]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 11
+[06:02:51]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 12
+[06:02:54]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 13
+[06:02:57]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 14
+[06:03:02]EMOTE: monkey (685)/ : <B>The monkey (685)</B> jumps!
+[06:03:03]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 1
+[06:03:05]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 2
+[06:03:07]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 3
+[06:03:08]SAY: mouse/ : Squeek?
+[06:03:10]ADMIN: Norc/(Brian Garrison) modified conveyor belt's dir to 4
+[06:03:14]SAY: mouse/ : Squeek?
+[06:03:36]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[06:03:48]SAY: mouse/ : Squeek!
+[06:04:23]ADMIN: Norc/(Brian Garrison) modified conveyor belt's override to 1
+[06:04:29]ADMIN: Norc/(Brian Garrison) modified conveyor belt's panel_open to 0
+[06:04:38]SAY: Featherbottom/ : Cluck!
+[06:05:17]EMOTE: monkey (933)/ : <B>The monkey (933)</B> jumps!
+[06:05:57]EMOTE: monkey (368)/ : <B>The monkey (368)</B> jumps!
+[06:06:45]EMOTE: monkey (207)/ : <B>The monkey (207)</B> jumps!
+[06:06:51]SAY: Featherbottom/ : Bwaak bwak.
+[06:08:29]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:30.27
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:30:27]ADMIN: Loading Banlistjob
+[06:30:27]ADMIN: Loading jobban_rank
+[06:30:27]ADMIN: jobban_keylist was empty
+[06:30:27]ADMIN: Loading appearance_rank
+[06:30:27]ADMIN: appearance_keylist was empty
+[06:30:27]ADMIN: Updating jobbanfile!
+[06:30:27]ADMIN: Loading Banlist
+[06:30:27]ADMIN: Loading RTD lists
+[06:34:57]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[06:35:11]ADMIN: Norc has started the game.
+[06:35:13]ACCESS: Logout: *no key*/(Norc)
+[06:35:13]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[06:35:14]EMOTE: monkey (7)/ : <B>The monkey (7)</B> jumps!
+[06:35:19]EMOTE: monkey (7)/ : <B>The monkey (7)</B> jumps!
+[06:35:21]SAY: mouse/ : SQUEEK!
+[06:36:21]SAY: sentinel/ : Establishing control of planet...
+[06:36:27]EMOTE: monkey (240)/ : <B>The monkey (240)</B> jumps!
+[06:37:06]SAY: necron scarab/ : Establishing control of planet...
+[06:37:08]EMOTE: monkey (7)/ : <B>The monkey (7)</B> jumps!
+[06:37:12]EMOTE: monkey (134)/ : <B>The monkey (134)</B> jumps!
+[06:37:22]SAY: Featherbottom/ : Cluck!
+[06:37:58]SAY: sentinel/ : Establishing control of planet...
+[06:38:06]SAY: sentinel/ : Eliminating hostiles...
+[06:38:23]ADMIN: Norc/(Brian Garrison) jumped to the orkland
+[06:38:34]SAY: mouse/ : SQUEEK!
+[06:38:35]ADMIN: Norc/(Brian Garrison) jumped to 119,48,7 in the orkland
+[06:38:40]ADMIN: Norc/(Brian Garrison) jumped to 113,44,7 in Snow
+[06:39:14]ADMIN: Norc/(Brian Garrison) modified conveyor belt's operating to 1
+[06:39:34]ADMIN: Norc/(Brian Garrison) modified conveyor belt's operating to 1
+[06:39:36]SAY: Featherbottom/ : Bwaak bwak.
+[06:40:16]ACCESS: Logout: Norc[DC]/(Brian Garrison)

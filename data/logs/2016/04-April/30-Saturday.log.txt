@@ -1,0 +1,1234 @@
+
+
+Starting up. 11:04.41
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:04:41]ADMIN: Loading Banlistjob
+[11:04:41]ADMIN: Loading jobban_rank
+[11:04:42]ADMIN: jobban_keylist was empty
+[11:04:42]ADMIN: Loading appearance_rank
+[11:04:42]ADMIN: appearance_keylist was empty
+[11:04:42]ADMIN: Updating jobbanfile!
+[11:04:42]ADMIN: Loading Banlist
+[11:04:42]ADMIN: Loading RTD lists
+[11:08:01]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[11:08:18]ADMIN: DrakeMarshall has started the game.
+[11:08:19]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[11:08:22]ACCESS: Logout: *no key*/(DrakeMarshall)
+[11:08:22]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:08:29]EMOTE: monkey (642)/ : <B>The monkey (642)</B> jumps!
+[11:08:31]ADMIN: DrakeMarshall/(Venatus Kyner) initiated a reboot.
+[11:08:31]SAY: Pugley III/ : YAP
+[11:08:37]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 11:09.29
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:09:29]ADMIN: Loading Banlistjob
+[11:09:29]ADMIN: Loading jobban_rank
+[11:09:29]ADMIN: jobban_keylist was empty
+[11:09:29]ADMIN: Loading appearance_rank
+[11:09:29]ADMIN: appearance_keylist was empty
+[11:09:29]ADMIN: Updating jobbanfile!
+[11:09:29]ADMIN: Loading Banlist
+[11:09:29]ADMIN: Loading RTD lists
+[11:10:08]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[11:10:29]ADMIN: DrakeMarshall has started the game.
+[11:10:29]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[11:10:32]ACCESS: Logout: *no key*/(DrakeMarshall)
+[11:10:32]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:10:52]SAY: Kentucky/ : Cluck!
+[11:11:11]SAY: mouse/ : SQUEEK!
+[11:12:10]SAY: grey baby slime (284)/ : Blorble...
+[11:12:24]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[11:12:34]SAY: mouse/ : SQUEEK!
+[11:13:24]SAY: sentinel/ : Establishing control of planet...
+[11:13:39]SAY: sentinel/ : Establishing control of planet...
+[11:13:50]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/landmark/supplycommand at (107,121,1)
+[11:13:53]ACCESS: Logout: *no key*/(Venatus Kyner)
+[11:13:53]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:14:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/effect/light_emitter at (107,121,1)
+[11:14:20]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (107,121,1)
+[11:14:23]EMOTE: monkey (448)/ : <B>The monkey (448)</B> jumps!
+[11:14:27]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/grenade/chem_grenade/cleaner at (107,120,1)
+[11:14:31]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[11:14:34]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (107,117,1)
+[11:14:38]ACCESS: Logout: *no key*/(Venatus Kyner)
+[11:14:38]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:14:38]ADMIN: *no key*/(Venatus Kyner) assumed direct control of Venatus Kyner.
+[11:14:38]ACCESS: Logout: *no key*/(Venatus Kyner)
+[11:14:38]ACCESS: Login: drakemarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:14:47]ADMIN: drakemarshall/(Venatus Kyner) assumed direct control of Unknown.
+[11:14:47]ACCESS: Logout: *no key*/(Venatus Kyner)
+[11:14:47]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:14:54]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (107,120,1)
+[11:14:57]GAME: drakemarshall/(Unknown) has primed a cleaner grenade casing for detonation at Command Hallway (108,120,1).
+[11:15:06]SAY: Kentucky/ : Cluck!
+[11:15:18]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor
+[11:15:20]SAY: sentinel/ : Eliminating hostiles...
+[11:15:21]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor2
+[11:15:23]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor1
+[11:15:26]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor
+[11:15:34]SAY: sentinel/ : Establishing control of planet...
+[11:16:01]SAY: sentinel/ : Eliminating hostiles...
+[11:16:03]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor2
+[11:16:05]ADMIN: DrakeMarshall/(Unknown) modified Unknown's ID Card (Ordo Hereticus)'s icon_state to inquisitor3
+[11:16:19]SAY: sentinel/ : Establishing control of planet...
+[11:16:33]SAY: sentinel/ : Establishing control of planet...
+[11:17:34]SAY: sentinel/ : Eliminating hostiles...
+[11:17:46]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[11:17:54]EMOTE: monkey (666)/ : <B>The monkey (666)</B> jumps!
+[11:18:17]SAY: mouse/ : SQUEEK!
+[11:18:29]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[11:19:40]SAY: mouse/ : SQUEEK!
+[11:19:44]SAY: sentinel/ : Establishing control of planet...
+[11:20:09]SAY: sentinel/ : Eliminating hostiles...
+[11:20:44]SAY: sentinel/ : Eliminating hostiles...
+[11:20:52]SAY: sentinel/ : Establishing control of planet...
+[11:20:52]SAY: sentinel/ : Establishing control of planet...
+[11:20:54]SAY: sentinel/ : Eliminating hostiles...
+[11:20:56]EMOTE: monkey (666)/ : <B>The monkey (666)</B> jumps!
+[11:21:08]SAY: sentinel/ : Establishing control of planet...
+[11:21:18]SAY: mouse/ : SQUEEK!
+[11:21:31]SAY: Pete/ : eh?
+[11:22:44]SAY: mouse/ : SQUEEK!
+[11:22:56]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[11:22:58]EMOTE: monkey (666)/ : <B>The monkey (666)</B> jumps!
+[11:23:09]SAY: sentinel/ : Establishing control of planet...
+[11:23:25]SAY: sentinel/ : Establishing control of planet...
+[11:24:00]SAY: sentinel/ : Establishing control of planet...
+[11:24:29]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[11:24:38]SAY: sentinel/ : Establishing control of planet...
+[11:26:10]ACCESS: Logout: *no key*/(Unknown)
+[11:26:10]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:26:22]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (53,192,1)
+[11:26:26]ACCESS: Logout: *no key*/(Unknown)
+[11:26:26]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:26:33]ACCESS: Logout: *no key*/(Unknown)
+[11:26:33]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:26:40]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[11:26:40]ACCESS: Logout: *no key*/(Unknown)
+[11:26:40]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:26:53]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/syndieminibomb at (53,193,1)
+[11:26:56]GAME: drakemarshall/(Unknown) has primed a blood pact grenade for detonation at Snow (54,193,1).
+[11:27:04]ACCESS: Logout: *no key*/(Unknown)
+[11:27:04]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:27:21]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (50,200,1)
+[11:27:22]EMOTE: monkey (783)/ : <B>The monkey (783)</B> jumps!
+[11:27:22]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[11:27:22]ACCESS: Logout: *no key*/(Unknown)
+[11:27:22]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:27:32]SAY: sentinel/ : Eliminating hostiles...
+[11:27:36]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma at (49,200,1)
+[11:27:38]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[11:27:40]SAY: sentinel/ : Establishing control of planet...
+[11:27:40]SAY: Unknown/drakemarshall : FOR THE EMPEROR!
+[11:27:42]EMOTE: monkey (180)/ : <B>The monkey (180)</B> jumps!
+[11:27:43]ACCESS: Logout: *no key*/(Unknown)
+[11:27:43]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:27:48]SAY: mouse/ : Squeek!
+[11:28:54]SAY: sentinel/ : Establishing control of planet...
+[11:28:55]ADMIN: drakemarshall/(Unknown) assumed direct control of Unknown.
+[11:28:55]ACCESS: Logout: *no key*/(Unknown)
+[11:28:55]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:29:30]SAY: mouse/ : SQUEEK!
+[11:29:54]SAY: Featherbottom/ : Bwaak bwak.
+[11:30:00]SAY: mouse/ : Squeek?
+[11:30:44]SAY: sentinel/ : Eliminating hostiles...
+[11:31:27]EMOTE: monkey (496)/ : <B>The monkey (496)</B> jumps!
+[11:31:38]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[11:31:40]SAY: mouse/ : Squeek?
+[11:32:16]SAY: sentinel/ : Establishing control of planet...
+[11:32:36]SAY: Kentucky/ : Bwaak bwak.
+[11:32:52]SAY: mouse/ : Squeek?
+[11:33:39]SAY: Pete/ : EHEHEHEHEH
+[11:34:31]SAY: mouse/ : Squeek!
+[11:34:38]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[11:35:12]SAY: Featherbottom/ : Cluck!
+[11:35:48]SAY: mouse/ : SQUEEK!
+[11:36:21]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[11:36:36]SAY: mouse/ : Squeek?
+[11:36:43]SAY: Betsy/ : MOOOOOO
+[11:37:10]SAY: mouse/ : SQUEEK!
+[11:37:47]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[11:37:55]WHISPER: Unknown/drakemarshall : fuck
+[11:37:55]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[11:37:58]ACCESS: Logout: *no key*/(Unknown)
+[11:37:58]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[11:38:11]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[11:38:15]EMOTE: monkey (634)/ : <B>The monkey (634)</B> jumps!
+[11:38:41]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 11:45.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[11:45:59]ADMIN: Loading Banlistjob
+[11:46:00]ADMIN: Loading jobban_rank
+[11:46:00]ADMIN: jobban_keylist was empty
+[11:46:00]ADMIN: Loading appearance_rank
+[11:46:00]ADMIN: appearance_keylist was empty
+[11:46:00]ADMIN: Updating jobbanfile!
+[11:46:00]ADMIN: Loading Banlist
+[11:46:00]ADMIN: Loading RTD lists
+[11:49:10]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[11:49:19]ADMIN: DrakeMarshall has started the game.
+[11:49:19]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[11:49:21]ACCESS: Logout: *no key*/(DrakeMarshall)
+[11:49:21]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[11:49:37]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (124,96,1)
+[11:49:39]SAY: mouse/ : SQUEEK!
+[11:50:12]SAY: Venatus Kyner/DrakeMarshall : hm
+[11:50:51]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/device/phaseshifter at (120,72,1)
+[11:51:16]SAY: Venatus Kyner/DrakeMarshall : wow
+[11:51:45]EMOTE: monkey (704)/ : <B>The monkey (704)</B> jumps!
+[11:51:51]EMOTE: monkey (226)/ : <B>The monkey (226)</B> jumps!
+[11:52:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/structure/closet/crate at (120,65,1)
+[11:52:28]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[11:53:44]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (120,61,1)
+[11:53:46]SAY: grey baby slime (87)/ : Blorble...
+[11:54:06]EMOTE: monkey (763)/ : <B>The monkey (763)</B> jumps!
+[11:54:28]SAY: mouse/ : Squeek?
+[11:54:52]SAY: sentinel/ : Eliminating hostiles...
+[11:55:00]SAY: sentinel/ : Eliminating hostiles...
+[11:55:24]SAY: Kentucky/ : Cluck!
+[11:55:31]SAY: Venatus Kyner/DrakeMarshall : hm
+[11:56:03]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 12:34.54
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[12:34:54]ADMIN: Loading Banlistjob
+[12:34:54]ADMIN: Loading jobban_rank
+[12:34:54]ADMIN: jobban_keylist was empty
+[12:34:54]ADMIN: Loading appearance_rank
+[12:34:54]ADMIN: appearance_keylist was empty
+[12:34:54]ADMIN: Updating jobbanfile!
+[12:34:54]ADMIN: Loading Banlist
+[12:34:54]ADMIN: Loading RTD lists
+[12:36:40]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[12:36:56]ADMIN: DrakeMarshall has started the game.
+[12:36:56]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[12:36:57]SAY: Featherbottom/ : Bwaak bwak.
+[12:36:58]ACCESS: Logout: *no key*/(DrakeMarshall)
+[12:36:58]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:38:06]EMOTE: monkey (749)/ : <B>The monkey (749)</B> jumps!
+[12:38:30]EMOTE: monkey (197)/ : <B>The monkey (197)</B> jumps!
+[12:38:44]SAY: sentinel/ : Eliminating hostiles...
+[12:38:58]SAY: sentinel/ : Establishing control of planet...
+[12:39:11]SAY: sentinel/ : Establishing control of planet...
+[12:39:12]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (123,100,1)
+[12:39:32]SAY: sentinel/ : Eliminating hostiles...
+[12:39:40]SAY: Venatus Kyner/DrakeMarshall : what the hell?
+[12:39:44]SAY: sentinel/ : Establishing control of planet...
+[12:39:50]SAY: sentinel/ : Eliminating hostiles...
+[12:40:01]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:40:01]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:40:02]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:40:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:40:02]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[12:40:08]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:40:08]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[12:40:11]EMOTE: Venatus Kyner/@DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[12:40:15]EMOTE: Venatus Kyner/@DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[12:40:21]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (235,101,2)
+[12:40:26]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[12:40:26]ACCESS: Logout: *no key*/(Venatus Kyner)
+[12:40:26]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[12:40:37]EMOTE: Venatus Kyner/@DrakeMarshall : <B>Venatus Kyner</B> gasps!
+[12:40:54]EMOTE: Venatus Kyner/@DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[12:41:13]SAY: Pugley III/ : YAP
+[12:41:29]SAY: mouse/ : SQUEEK!
+[12:41:45]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[12:41:57]EMOTE: monkey (690)/ : <B>The monkey (690)</B> jumps!
+[12:42:07]SAY: Kentucky/ : Bwaak bwak.
+[12:42:09]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[12:42:12]SAY: Unknown/drakemarshall : odd
+[12:42:48]SAY: sentinel/ : Eliminating hostiles...
+[12:43:05]SAY: Featherbottom/ : Bwaak bwak.
+[12:43:07]SAY: mouse/ : Squeek?
+[12:43:11]SAY: sentinel/ : Eliminating hostiles...
+[12:44:20]SAY: sentinel/ : Establishing control of planet...
+[12:44:28]SAY: mouse/ : Squeek?
+[12:44:30]SAY: sentinel/ : Eliminating hostiles...
+[12:44:44]EMOTE: monkey (365)/ : <B>The monkey (365)</B> jumps!
+[12:46:39]SAY: sentinel/ : Establishing control of planet...
+[12:46:47]SAY: sentinel/ : Establishing control of planet...
+[12:47:03]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[12:47:54]EMOTE: monkey (197)/ : <B>The monkey (197)</B> jumps!
+[12:48:00]SAY: mouse/ : Squeek!
+[12:48:06]SAY: mouse/ : SQUEEK!
+[12:48:08]SAY: Kentucky/ : Cluck!
+[12:48:32]SAY: mouse/ : Squeek!
+[12:49:03]EMOTE: monkey (51)/ : <B>The monkey (51)</B> jumps!
+[12:49:13]SAY: mouse/ : SQUEEK!
+[12:49:29]SAY: sentinel/ : Establishing control of planet...
+[12:50:28]SAY: sentinel/ : Establishing control of planet...
+[12:51:57]SAY: mouse/ : Squeek?
+[12:51:57]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[12:52:09]SAY: mouse/ : SQUEEK!
+[12:52:15]SAY: Betsy/ : MOOOOOO
+[12:52:35]SAY: Kentucky/ : Cluck!
+[12:52:48]SAY: Kentucky/ : Cluck!
+[12:53:16]SAY: Featherbottom/ : Cluck!
+[12:53:32]SAY: sentinel/ : Eliminating hostiles...
+[12:53:53]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[12:53:55]SAY: mouse/ : SQUEEK!
+[12:54:17]SAY: mouse/ : Squeek!
+[12:56:06]EMOTE: monkey (749)/ : <B>The monkey (749)</B> jumps!
+[12:56:10]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[12:56:12]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[12:57:57]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[12:58:56]EMOTE: monkey (749)/ : <B>The monkey (749)</B> jumps!
+[12:59:40]SAY: mouse/ : Squeek?
+[12:59:46]EMOTE: monkey (365)/ : <B>The monkey (365)</B> jumps!
+[12:59:51]SAY: mouse/ : SQUEEK!
+[12:59:57]SAY: grey baby slime (558)/ : Blop...
+[13:01:00]EMOTE: monkey (690)/ : <B>The monkey (690)</B> jumps!
+[13:01:51]SAY: mouse/ : SQUEEK!
+[13:01:59]SAY: mouse/ : SQUEEK!
+[13:02:11]SAY: mouse/ : SQUEEK!
+[13:02:13]SAY: mouse/ : Squeek?
+[13:02:51]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:04:36]EMOTE: monkey (51)/ : <B>The monkey (51)</B> jumps!
+[13:05:08]EMOTE: monkey (365)/ : <B>The monkey (365)</B> jumps!
+[13:05:12]SAY: Pugley III/ : Bark!
+[13:05:44]EMOTE: monkey (690)/ : <B>The monkey (690)</B> jumps!
+[13:06:10]SAY: grey baby slime (440)/ : Rawr...
+[13:06:36]EMOTE: monkey (172)/ : <B>The monkey (172)</B> jumps!
+[13:06:41]SAY: Kentucky/ : Cluck!
+[13:06:52]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[13:07:20]SAY: mouse/ : Squeek!
+[13:07:26]EMOTE: monkey (365)/ : <B>The monkey (365)</B> jumps!
+[13:07:38]SAY: Featherbottom/ : Cluck!
+[13:08:37]SAY: mouse/ : Squeek?
+[13:08:51]SAY: mouse/ : SQUEEK!
+[13:09:23]EMOTE: monkey (197)/ : <B>The monkey (197)</B> jumps!
+[13:10:36]SAY: mouse/ : SQUEEK!
+[13:10:58]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:11:46]EMOTE: monkey (197)/ : <B>The monkey (197)</B> jumps!
+[13:12:26]SAY: mouse/ : Squeek?
+[13:12:26]SAY: mouse/ : Squeek!
+[13:12:45]SAY: mouse/ : Squeek?
+[13:12:55]EMOTE: monkey (233)/ : <B>The monkey (233)</B> jumps!
+[13:13:49]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma at (225,132,2)
+[13:13:59]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (219,143,2).
+[13:14:05]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[13:14:10]ADMIN: drakemarshall/(Unknown) jumped to 219,154,2 in Snow
+[13:14:13]ADMIN: drakemarshall/(Unknown) jumped to 219,150,2 in Snow
+[13:14:16]ADMIN: drakemarshall/(Unknown) jumped to 220,146,2 in Snow
+[13:14:24]ADMIN: drakemarshall/(Unknown) jumped to 218,144,2 in Snow
+[13:14:29]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[13:14:36]ADMIN: drakemarshall/(Unknown) jumped to 219,144,2 in Snow
+[13:14:39]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[13:14:46]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma at (219,142,2)
+[13:14:50]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (219,144,2).
+[13:14:57]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[13:15:20]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma at (215,142,2)
+[13:15:21]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[13:15:24]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (218,142,2).
+[13:15:33]SAY: grey baby slime (440)/ : Rawr...
+[13:15:38]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[13:15:59]ADMIN: drakemarshall/(Unknown) healed / Revived drakemarshall/(Unknown)
+[13:16:21]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 16:23.15
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+[16:23:15]ADMIN: Loading Banlistjob
+[16:23:15]ADMIN: Loading jobban_rank
+[16:23:15]ADMIN: jobban_keylist was empty
+[16:23:15]ADMIN: Loading appearance_rank
+[16:23:15]ADMIN: appearance_keylist was empty
+[16:23:15]ADMIN: Updating jobbanfile!
+[16:23:15]ADMIN: Loading Banlist
+[16:23:15]ADMIN: Loading RTD lists
+[16:24:40]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[16:25:12]ADMIN: DrakeMarshall/(DrakeMarshall) set the mode as necron.
+[16:26:07]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[16:26:07]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[16:26:52]ACCESS: Login: Arandomhuman/(Arandomhuman) from 127.0.0.1-3229208445 || BYOND v509
+[16:26:52]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[16:26:52]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[16:27:19]ACCESS: Login: GeorgeMelons420/(GeorgeMelons420) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:19]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[16:27:19]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[16:27:19]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[16:27:52]ADMIN: DrakeMarshall has started the game.
+[16:27:55]ACCESS: Logout: *no key*/(DrakeMarshall)
+[16:27:55]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:55]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[16:27:55]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[16:27:55]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[16:27:56]ACCESS: Logout: *no key*/(Someperson1)
+[16:27:56]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:56]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[16:27:56]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[16:27:56]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[16:27:56]ACCESS: Logout: *no key*/(Arandomhuman)
+[16:27:56]ACCESS: Login: Arandomhuman/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:56]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[16:27:56]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[16:27:56]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[16:27:56]ACCESS: Logout: *no key*/(GeorgeMelons420)
+[16:27:56]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:56]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[16:27:56]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[16:27:56]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[16:27:57]GAME: GeorgeMelons420 (ckey) has been selected as the Necron Lord
+[16:27:57]ACCESS: Logout: *no key*/(Arturo Winton)
+[16:27:57]ACCESS: Login: GeorgeMelons420/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[16:27:57]ACCESS: Notice: GeorgeMelons420/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[16:27:57]ACCESS: Notice: GeorgeMelons420/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[16:27:57]ACCESS: Notice: GeorgeMelons420/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[16:27:57]GAME: DrakeMarshall (ckey) has been selected as the Eldar Warlock
+[16:27:59]GAME: Antagonists at round end were...
+[16:27:59]GAME: Wizards: Venatus Kyner(DrakeMarshall).
+[16:27:59]GAME: Necron Lords: Arturo Winton(GeorgeMelons420).
+[16:28:25]EMOTE: monkey (645)/ : <B>The monkey (645)</B> jumps!
+[16:28:29]EMOTE: monkey (770)/ : <B>The monkey (770)</B> jumps!
+[16:28:33]SAY: Featherbottom/ : Bwaak bwak.
+[16:28:33]SAY: sentinel/ : Establishing control of planet...
+[16:28:33]ACCESS: Logout: DrakeMarshall[DC]/(Palando the Red)
+[16:28:37]ACCESS: Logout: GeorgeMelons420[DC]/(Lord Mekeshet)
+[16:28:39]ACCESS: Logout: Arandomhuman[DC]/(Averill Catherina)
+[16:28:39]EMOTE: monkey (184)/ : <B>The monkey (184)</B> jumps!
+[16:28:41]ACCESS: Logout: Someperson1[DC]/(Saul Albright)
+
+
+Starting up. 17:44.23
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'necron'
+[17:44:23]ADMIN: Loading Banlistjob
+[17:44:23]ADMIN: Loading jobban_rank
+[17:44:23]ADMIN: jobban_keylist was empty
+[17:44:23]ADMIN: Loading appearance_rank
+[17:44:23]ADMIN: appearance_keylist was empty
+[17:44:23]ADMIN: Updating jobbanfile!
+[17:44:23]ADMIN: Loading Banlist
+[17:44:23]ADMIN: Loading RTD lists
+[17:57:59]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[18:00:34]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[18:00:34]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:00:52]ACCESS: Login: Arandomhuman/(Arandomhuman) from 127.0.0.1-3229208445 || BYOND v509
+[18:00:52]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:00:52]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:01:15]ACCESS: Login: GeorgeMelons420/(GeorgeMelons420) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:15]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:01:15]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:01:15]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:01:38]ADMIN: DrakeMarshall has started the game.
+[18:01:41]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:01:41]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:41]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:01:41]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:01:41]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:01:41]ACCESS: Logout: *no key*/(Someperson1)
+[18:01:41]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:41]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:01:41]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:01:41]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:01:41]ACCESS: Logout: *no key*/(Arandomhuman)
+[18:01:41]ACCESS: Login: Arandomhuman/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:41]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:01:41]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:01:41]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:01:41]ACCESS: Logout: *no key*/(GeorgeMelons420)
+[18:01:41]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:41]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:01:41]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:01:41]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[18:01:42]GAME: DrakeMarshall (ckey) has been selected as the Necron Lord
+[18:01:42]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:01:42]ACCESS: Login: DrakeMarshall/(Lord Khedereh) from 127.0.0.1-3229208445 || BYOND v509
+[18:01:42]ACCESS: Notice: DrakeMarshall/(Lord Khedereh) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Corey Feldman).
+[18:01:42]ACCESS: Notice: DrakeMarshall/(Lord Khedereh) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[18:01:42]ACCESS: Notice: DrakeMarshall/(Lord Khedereh) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[18:01:42]GAME: Arandomhuman (ckey) has been selected as the Eldar Warlock
+[18:01:44]SAY: grey baby slime (588)/ : Blorble...
+[18:01:52]SAY: sentinel/ : Establishing control of planet...
+[18:02:41]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[18:02:53]EMOTE: monkey (96)/ : <B>The monkey (96)</B> jumps!
+[18:03:07]EMOTE: monkey (699)/ : <B>The monkey (699)</B> jumps!
+[18:03:18]SAY: sentinel/ : Eliminating hostiles...
+[18:04:47]SAY: Pugley III/ : Woof!
+[18:05:03]SAY: grey baby slime (588)/ : Blorble...
+[18:05:03]SAY: Betsy/ : moo?
+[18:06:54]ADMIN: DrakeMarshall/(Lord Khedereh) modified module's icon_state to necron
+[18:07:05]SAY: Pugley III/ : Bark!
+[18:08:35]EMOTE: monkey (74)/ : <B>The monkey (74)</B> jumps!
+[18:08:49]SAY: grey baby slime (588)/ : Rawr...
+[18:08:53]ACCESS: Logout: DrakeMarshall[DC]/(Lord Khedereh)
+[18:08:53]ACCESS: Logout: Someperson1[DC]/(Corey Feldman)
+[18:08:53]ACCESS: Logout: Arandomhuman[DC]/(Terefi the Gray)
+[18:08:53]ACCESS: Logout: GeorgeMelons420[DC]/(Arturo Winton)
+
+
+Starting up. 18:52.50
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'necron'
+[18:52:50]ADMIN: Loading Banlistjob
+[18:52:50]ADMIN: Loading jobban_rank
+[18:52:50]ADMIN: jobban_keylist was empty
+[18:52:50]ADMIN: Loading appearance_rank
+[18:52:50]ADMIN: appearance_keylist was empty
+[18:52:50]ADMIN: Updating jobbanfile!
+[18:52:50]ADMIN: Loading Banlist
+[18:52:50]ADMIN: Loading RTD lists
+[18:53:36]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[18:53:58]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[18:53:58]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:54:15]ACCESS: Login: Arandomhuman/(Arandomhuman) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:15]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:54:15]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:54:32]ACCESS: Login: GeorgeMelons420/(GeorgeMelons420) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:32]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[18:54:32]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:54:32]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:54:50]ADMIN: DrakeMarshall has started the game.
+[18:54:53]ACCESS: Logout: *no key*/(DrakeMarshall)
+[18:54:53]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:53]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[18:54:53]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:54:53]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:54:53]ACCESS: Logout: *no key*/(Someperson1)
+[18:54:53]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:53]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[18:54:53]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:54:53]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:54:53]ACCESS: Logout: *no key*/(Arandomhuman)
+[18:54:53]ACCESS: Login: Arandomhuman/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:53]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[18:54:53]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:54:53]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:54:53]ACCESS: Logout: *no key*/(GeorgeMelons420)
+[18:54:53]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:53]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:54:53]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:54:53]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[18:54:54]GAME: Arandomhuman (ckey) has been selected as the Necron Lord
+[18:54:54]ACCESS: Logout: *no key*/(Averill Catherina)
+[18:54:54]ACCESS: Login: Arandomhuman/(Lord Inakhnet) from 127.0.0.1-3229208445 || BYOND v509
+[18:54:54]ACCESS: Notice: Arandomhuman/(Lord Inakhnet) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:54:54]ACCESS: Notice: Arandomhuman/(Lord Inakhnet) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[18:54:54]ACCESS: Notice: Arandomhuman/(Lord Inakhnet) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[18:54:54]GAME: Someperson1 (ckey) has been selected as the Eldar Warlock
+[18:54:59]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[18:54:59]SAY: mouse/ : SQUEEK!
+[18:55:03]SAY: Venatus Kyner/DrakeMarshall : hm
+[18:55:36]SAY: mouse/ : SQUEEK!
+[18:55:44]SAY: mouse/ : Squeek!
+[18:55:46]SAY: Featherbottom/ : Cluck!
+[18:56:17]SAY: sentinel/ : Eliminating hostiles...
+[18:56:21]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[18:57:09]SAY: mouse/ : Squeek!
+[18:57:32]SAY: sentinel/ : Eliminating hostiles...
+[18:58:15]SAY: mouse/ : Squeek!
+[18:58:52]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[18:59:02]SAY: sentinel/ : Establishing control of planet...
+[18:59:02]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:59:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:59:02]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Gandalf the Destroyer).
+[18:59:02]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[18:59:02]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Inakhnet).
+[18:59:18]ACCESS: Logout: *no key*/(Venatus Kyner)
+[18:59:18]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[18:59:18]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Gandalf the Destroyer).
+[18:59:18]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[18:59:18]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Inakhnet).
+[18:59:28]ADMIN: *no key*/(Venatus Kyner) spawned /obj/effect/landmark/supplycommand at (0,0,0)
+[18:59:30]ACCESS: Logout: *no key*/(Arturo Winton)
+[18:59:30]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[18:59:30]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Gandalf the Destroyer).
+[18:59:30]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Inakhnet).
+[18:59:30]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[18:59:48]SAY: sentinel/ : Eliminating hostiles...
+[18:59:50]SAY: mouse/ : Squeek!
+[18:59:52]SAY: mouse/ : SQUEEK!
+[19:00:08]SAY: mouse/ : Squeek!
+[19:01:07]SAY: sentinel/ : Eliminating hostiles...
+[19:01:11]SAY: mouse/ : Squeek?
+[19:02:39]SAY: mouse/ : SQUEEK!
+[19:03:30]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[19:03:34]SAY: mouse/ : Squeek?
+[19:04:57]SAY: Necron Immortal/ : Establishing control of planet...
+[19:05:15]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:05:58]SAY: mouse/ : SQUEEK!
+[19:06:16]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[19:06:39]SAY: mouse/ : Squeek?
+[19:07:18]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[19:07:23]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[19:07:30]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:07:40]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[19:08:11]SAY: mouse/ : Squeek!
+[19:08:18]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[19:08:20]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:08:43]SAY: mouse/ : SQUEEK!
+[19:09:02]SAY: mouse/ : SQUEEK!
+[19:09:44]SAY: Kentucky/ : Cluck!
+[19:11:13]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:11:40]SAY: mouse/ : Squeek?
+[19:11:56]SAY: Featherbottom/ : Cluck!
+[19:12:15]SAY: mouse/ : Squeek!
+[19:12:22]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /mob/living/carbon/human/OHinq at (111,116,1)
+[19:12:25]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/computer/supplydrop at (111,116,1)
+[19:12:34]ADMIN: DrakeMarshall/(Venatus Kyner) assumed direct control of Unknown.
+[19:12:34]ACCESS: Logout: *no key*/(Venatus Kyner)
+[19:12:34]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[19:12:34]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Gandalf the Destroyer).
+[19:12:34]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Inakhnet).
+[19:12:34]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[19:12:42]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (111,115,1)
+[19:12:48]SAY: Unknown/drakemarshall : hm
+[19:12:52]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (111,115,1)
+[19:13:12]SAY: Unknown/drakemarshall : lets do this
+[19:13:21]SAY: Unknown/drakemarshall : interesting
+[19:13:22]SAY: Featherbottom/ : Bwaak bwak.
+[19:13:36]SAY: Unknown/drakemarshall : very interesting
+[19:14:32]SAY: Necron Immortal/ : Establishing control of planet...
+[19:14:52]SAY: mouse/ : Squeek?
+[19:15:00]SAY: mouse/ : Squeek!
+[19:15:10]SAY: Unknown/drakemarshall : shit
+[19:15:10]SAY: mouse/ : Squeek?
+[19:15:32]SAY: Unknown/drakemarshall : ow
+[19:15:36]SAY: mouse/ : Squeek!
+[19:17:16]SAY: mouse/ : Squeek!
+[19:17:31]SAY: Kentucky/ : Bwaak bwak.
+[19:17:38]SAY: grey baby slime (86)/ : Blorble...
+[19:18:12]SAY: grey baby slime (86)/ : Blorble...
+[19:18:58]SAY: Featherbottom/ : Cluck!
+[19:19:03]SAY: mouse/ : SQUEEK!
+[19:19:14]SAY: grey baby slime (646)/ : Rawr...
+[19:20:09]SAY: mouse/ : Squeek!
+[19:20:43]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:22:07]SAY: Kentucky/ : Bwaak bwak.
+[19:22:11]SAY: mouse/ : SQUEEK!
+[19:23:04]SAY: Pugley III/ : Woof!
+[19:23:38]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:23:48]SAY: Necron Immortal/ : Establishing control of planet...
+[19:24:10]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:25:29]SAY: mouse/ : SQUEEK!
+[19:25:51]SAY: Kentucky/ : Bwaak bwak.
+[19:27:03]SAY: mouse/ : Squeek?
+[19:27:05]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:27:17]GAME: SMES deleted at (Landed)
+[19:27:23]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:27:27]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:28:42]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:28:44]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[19:28:46]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[19:29:16]SAY: Kentucky/ : Bwaak bwak.
+[19:29:18]SAY: Kentucky/ : Bwaak bwak.
+[19:30:00]SAY: Featherbottom/ : Cluck!
+[19:30:25]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:30:51]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:30:53]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[19:31:40]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[19:31:46]SAY: Featherbottom/ : Cluck!
+[19:32:54]SAY: mouse/ : Squeek?
+[19:33:12]SAY: mouse/ : Squeek?
+[19:33:30]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[19:34:18]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[19:35:06]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:35:34]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:35:36]GAME: Emitter deleted at (179,164,1)
+[19:35:38]SAY: mouse/ : Squeek?
+[19:35:56]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[19:38:20]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[19:38:24]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:39:19]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:39:33]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:40:06]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[19:40:12]SAY: Necron Immortal/ : Establishing control of planet...
+[19:40:47]SAY: mouse/ : SQUEEK!
+[19:40:51]SAY: mouse/ : SQUEEK!
+[19:41:07]SAY: Necron Immortal/ : Establishing control of planet...
+[19:41:40]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[19:42:19]SAY: Necron Immortal/ : Establishing control of planet...
+[19:42:53]SAY: Necron Immortal/ : Establishing control of planet...
+[19:43:10]SAY: Pugley III/ : Bark!
+[19:43:40]SAY: Featherbottom/ : Bwaak bwak.
+[19:44:10]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:44:37]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:44:53]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[19:45:23]SAY: grey baby slime (86)/ : Lonely...
+[19:45:36]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[19:45:54]SAY: Featherbottom/ : Bwaak bwak.
+[19:46:12]SAY: mouse/ : SQUEEK!
+[19:46:14]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:46:16]SAY: Kentucky/ : Bwaak bwak.
+[19:46:24]SAY: Necron Immortal/ : Establishing control of planet...
+[19:46:26]SAY: grey baby slime (646)/ : I want to eat...
+[19:46:48]SAY: Kentucky/ : Bwaak bwak.
+[19:46:52]SAY: grey baby slime (646)/ : Lonely...
+[19:47:15]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:47:36]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:47:44]SAY: mouse/ : Squeek!
+[19:48:18]SAY: grey baby slime (646)/ : Rawr...
+[19:48:30]SAY: Necron Immortal/ : Establishing control of planet...
+[19:48:40]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[19:48:42]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[19:49:06]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[19:49:57]SAY: grey baby slime (646)/ : Lonely...
+[19:50:05]SAY: Betsy/ : MOOOOOO
+[19:50:37]SAY: mouse/ : Squeek?
+[19:50:47]SAY: mouse/ : Squeek?
+[19:50:49]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[19:51:12]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:51:26]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[19:52:18]SAY: mouse/ : Squeek?
+[19:52:38]SAY: mouse/ : SQUEEK!
+[19:52:52]SAY: grey baby slime (646)/ : Where is the food?
+[19:53:13]SAY: grey baby slime (646)/ : Where is the food?
+[19:53:55]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:53:59]SAY: Necron Immortal/ : Establishing control of planet...
+[19:54:13]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:54:15]SAY: Necron Immortal/ : Eliminating hostiles...
+[19:54:45]SAY: Kentucky/ : Bwaak bwak.
+[19:54:49]SAY: mouse/ : Squeek?
+[19:56:37]SAY: Necron Immortal/ : Establishing control of planet...
+[19:57:01]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[19:57:12]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[19:57:34]SAY: mouse/ : Squeek!
+[19:58:24]SAY: grey baby slime (646)/ : Hungry...
+[19:58:40]SAY: Necron Immortal/ : Establishing control of planet...
+[19:58:44]SAY: Kentucky/ : Cluck!
+[19:59:10]SAY: Necron Immortal/ : Establishing control of planet...
+[19:59:36]SAY: grey baby slime (646)/ : Blop...
+[19:59:45]SAY: mouse/ : SQUEEK!
+[19:59:48]SAY: grey baby slime (86)/ : Lonely...
+[20:00:07]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:00:13]SAY: Necron Immortal/ : Establishing control of planet...
+[20:02:01]SAY: Kentucky/ : Cluck!
+[20:03:23]GAME: SMES deleted at (Chief Engineer's office)
+[20:03:25]GAME: SMES deleted at (Chief Engineer's office)
+[20:04:00]SAY: mouse/ : SQUEEK!
+[20:04:58]SAY: mouse/ : Squeek!
+[20:05:55]SAY: grey baby slime (646)/ : Blop...
+[20:06:19]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[20:06:36]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:06:41]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[20:07:05]SAY: Necron Immortal/ : Establishing control of planet...
+[20:07:38]GAME: SMES deleted at (Chief Engineer's office)
+[20:08:00]SAY: mouse/ : Squeek!
+[20:08:12]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:08:52]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:10:11]SAY: Kentucky/ : Cluck!
+[20:10:28]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:10:40]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:11:38]SAY: Kentucky/ : Cluck!
+[20:11:44]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[20:11:54]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:12:14]SAY: mouse/ : Squeek!
+[20:12:30]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[20:14:19]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:15:44]SAY: Necron Immortal/ : Establishing control of planet...
+[20:16:01]SAY: grey baby slime (86)/ : Lonely...
+[20:16:37]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:16:47]SAY: mouse/ : Squeek?
+[20:16:53]SAY: Necron Immortal/ : Establishing control of planet...
+[20:16:55]SAY: Necron Immortal/ : Establishing control of planet...
+[20:17:09]SAY: Necron Immortal/ : Establishing control of planet...
+[20:17:32]SAY: mouse/ : Squeek!
+[20:17:44]SAY: Necron Immortal/ : Establishing control of planet...
+[20:18:10]SAY: mouse/ : SQUEEK!
+[20:18:53]SAY: grey baby slime (646)/ : Blorble...
+[20:19:11]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:21:24]SAY: grey baby slime (646)/ : Blorble...
+[20:21:52]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[20:21:54]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:24:22]SAY: grey baby slime (86)/ : Lonely...
+[20:24:34]SAY: mouse/ : Squeek!
+[20:24:51]SAY: Necron Immortal/ : Establishing control of planet...
+[20:24:59]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:25:31]SAY: Necron Immortal/ : Establishing control of planet...
+[20:26:27]SAY: mouse/ : Squeek!
+[20:26:45]SAY: mouse/ : SQUEEK!
+[20:26:46]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[20:26:54]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:27:00]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[20:27:18]SAY: mouse/ : SQUEEK!
+[20:27:22]SAY: mouse/ : SQUEEK!
+[20:28:03]SAY: Necron Immortal/ : Establishing control of planet...
+[20:28:37]SAY: mouse/ : Squeek?
+[20:28:45]SAY: grey baby slime (86)/ : Blop...
+[20:29:53]SAY: mouse/ : Squeek!
+[20:29:55]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:29:55]SAY: Necron Immortal/ : Establishing control of planet...
+[20:30:11]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:31:27]SAY: grey baby slime (86)/ : Lonely...
+[20:32:38]SAY: Necron Immortal/ : Establishing control of planet...
+[20:33:06]SAY: mouse/ : SQUEEK!
+[20:33:11]SAY: grey baby slime (646)/ : Hungry...
+[20:33:11]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:33:24]SAY: Necron Immortal/ : Establishing control of planet...
+[20:33:41]SAY: mouse/ : Squeek!
+[20:34:15]SAY: mouse/ : SQUEEK!
+[20:34:33]SAY: mouse/ : SQUEEK!
+[20:34:40]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:35:33]SAY: mouse/ : Squeek!
+[20:35:43]SAY: Necron Immortal/ : Establishing control of planet...
+[20:36:17]SAY: Necron Immortal/ : Establishing control of planet...
+[20:36:25]SAY: grey baby slime (86)/ : I want to eat...
+[20:37:27]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:37:37]SAY: grey baby slime (86)/ : I want to eat...
+[20:37:59]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:38:41]SAY: mouse/ : Squeek?
+[20:38:51]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:39:10]ADMIN: drakemarshall/(Unknown) jumped to 37,218,1 in Snow
+[20:39:11]SAY: mouse/ : Squeek?
+[20:39:14]ADMIN: drakemarshall/(Unknown) jumped to 34,217,1 in Snow
+[20:39:21]SAY: mouse/ : SQUEEK!
+[20:39:37]SAY: Necron Immortal/ : Establishing control of planet...
+[20:39:58]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[20:40:33]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[20:40:33]SAY: mouse/ : Squeek!
+[20:40:50]SAY: Pugley III/ : Bark!
+[20:41:14]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[20:41:54]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:43:19]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:43:27]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:44:21]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:44:37]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[20:45:01]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[20:45:03]SAY: Necron Immortal/ : Establishing control of planet...
+[20:45:39]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:46:15]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:46:21]SAY: Necron Immortal/ : Establishing control of planet...
+[20:46:34]SAY: grey baby slime (86)/ : Very... hungry...
+[20:46:56]SAY: mouse/ : Squeek!
+[20:47:14]SAY: grey baby slime (646)/ : Rawr...
+[20:47:55]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[20:48:11]SAY: grey baby slime (646)/ : So... hungry...
+[20:48:15]SAY: Necron Immortal/ : Establishing control of planet...
+[20:48:35]SAY: Necron Immortal/ : Establishing control of planet...
+[20:48:58]EMOTE: monkey (349)/ : <B>The monkey (349)</B> jumps!
+[20:49:20]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:49:35]SAY: mouse/ : SQUEEK!
+[20:49:39]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:49:47]SAY: grey baby slime (646)/ : Rawr...
+[20:49:47]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:50:01]SAY: mouse/ : SQUEEK!
+[20:50:07]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:50:27]EMOTE: monkey (959)/ : <B>The monkey (959)</B> jumps!
+[20:50:27]SAY: Necron Immortal/ : Establishing control of planet...
+[20:51:23]SAY: grey baby slime (86)/ : Lonely...
+[20:52:51]SAY: Necron Immortal/ : Eliminating hostiles...
+[20:53:09]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:53:46]SAY: grey baby slime (646)/ : Blop...
+[20:53:48]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:54:45]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (18,217,1)
+[20:56:08]SAY: Necron Immortal/ : Establishing control of planet...
+[20:56:12]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[20:56:43]SAY: grey baby slime (646)/ : Very... hungry...
+[20:56:51]EMOTE: monkey (153)/ : <B>The monkey (153)</B> jumps!
+[20:58:07]EMOTE: monkey (899)/ : <B>The monkey (899)</B> jumps!
+[20:58:36]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[20:58:39]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[20:58:51]EMOTE: monkey (164)/ : <B>The monkey (164)</B> jumps!
+[20:58:55]EMOTE: Unknown/drakemarshall : <B>Unknown</B> gasps!
+[20:59:05]SAY: grey baby slime (86)/ : Lonely...
+[20:59:07]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[20:59:59]ADMIN: drakemarshall/(Unknown) jumped to 31,226,1 in Snow
+[21:00:12]SAY: Necron Immortal/ : Establishing control of planet...
+[21:00:44]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/gun/magic/staff/misslelauncher at (28,227,1)
+[21:00:46]SAY: Necron Immortal/ : Establishing control of planet...
+[21:01:08]ADMIN: DrakeMarshall/(Unknown) modified External Blast Door's density to 1
+[21:01:32]ADMIN: DrakeMarshall/(Unknown) modified External Blast Door's icon_state to closed
+[21:01:38]ADMIN: DrakeMarshall/(Unknown) modified External Blast Door's opacity to 1
+[21:01:40]SAY: mouse/ : Squeek?
+[21:01:50]SAY: grey baby slime (86)/ : So... hungry...
+[21:01:50]EMOTE: monkey (199)/ : <B>The monkey (199)</B> jumps!
+[21:02:00]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/misslea at (28,228,1)
+[21:02:10]SAY: Unknown/drakemarshall : hm
+[21:02:25]EMOTE: Unknown/drakemarshall : <B>Unknown</B> seizes up and falls limp, his eyes dead and lifeless...
+[21:02:38]ACCESS: Logout: *no key*/(Unknown)
+[21:02:38]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[21:02:38]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Gandalf the Destroyer).
+[21:02:38]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Inakhnet).
+[21:02:38]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[21:03:11]SAY: grey baby slime (86)/ : Need... food...
+[21:03:11]SAY: Necron Immortal/ : Eliminating hostiles...
+[21:03:45]SAY: mouse/ : Squeek!
+[21:04:10]SAY: mouse/ : SQUEEK!
+[21:04:35]EMOTE: monkey (845)/ : <B>The monkey (845)</B> jumps!
+[21:05:51]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[21:06:10]SAY: mouse/ : Squeek?
+[21:06:12]EMOTE: monkey (75)/ : <B>The monkey (75)</B> jumps!
+[21:06:58]ACCESS: Logout: GeorgeMelons420[DC]/(Arturo Winton)
+[21:07:00]ACCESS: Logout: Arandomhuman[DC]/(Lord Inakhnet)
+[21:07:02]ACCESS: Logout: Someperson1[DC]/(Gandalf the Destroyer)
+[21:07:02]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+
+
+Starting up. 21:43.46
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'necron'
+[21:43:47]ADMIN: Loading Banlistjob
+[21:43:47]ADMIN: Loading jobban_rank
+[21:43:47]ADMIN: jobban_keylist was empty
+[21:43:47]ADMIN: Loading appearance_rank
+[21:43:47]ADMIN: appearance_keylist was empty
+[21:43:47]ADMIN: Updating jobbanfile!
+[21:43:47]ADMIN: Loading Banlist
+[21:43:47]ADMIN: Loading RTD lists
+[22:13:15]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[22:13:44]ACCESS: Login: GeorgeMelons420/(GeorgeMelons420) from 127.0.0.1-3229208445 || BYOND v509
+[22:13:44]ACCESS: Notice: GeorgeMelons420/(GeorgeMelons420) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[22:13:59]ACCESS: Login: Arandomhuman/(Arandomhuman) from 127.0.0.1-3229208445 || BYOND v509
+[22:13:59]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[22:13:59]ACCESS: Notice: Arandomhuman/(Arandomhuman) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[22:14:15]ACCESS: Login: Someperson1/(Someperson1) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:15]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(DrakeMarshall).
+[22:14:15]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[22:14:15]ACCESS: Notice: Someperson1/(Someperson1) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[22:14:37]ADMIN: DrakeMarshall has started the game.
+[22:14:40]ACCESS: Logout: *no key*/(DrakeMarshall)
+[22:14:40]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:40]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(GeorgeMelons420).
+[22:14:40]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[22:14:40]ACCESS: Notice: DrakeMarshall/(Venatus Kyner) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[22:14:40]ACCESS: Logout: *no key*/(GeorgeMelons420)
+[22:14:40]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:40]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Arandomhuman).
+[22:14:40]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[22:14:40]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[22:14:40]ACCESS: Logout: *no key*/(Arandomhuman)
+[22:14:40]ACCESS: Login: Arandomhuman/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:40]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Someperson1).
+[22:14:40]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[22:14:40]ACCESS: Notice: Arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:14:40]ACCESS: Logout: *no key*/(Someperson1)
+[22:14:40]ACCESS: Login: Someperson1/(Saul Albright) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:40]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[22:14:40]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:14:40]ACCESS: Notice: Someperson1/(Saul Albright) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Averill Catherina).
+[22:14:40]GAME: Arandomhuman (ckey) has been selected as the Necron Lord
+[22:14:40]ACCESS: Logout: *no key*/(Averill Catherina)
+[22:14:41]ACCESS: Login: Arandomhuman/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[22:14:41]ACCESS: Notice: Arandomhuman/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Venatus Kyner).
+[22:14:41]ACCESS: Notice: Arandomhuman/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:14:41]ACCESS: Notice: Arandomhuman/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[22:14:41]GAME: DrakeMarshall (ckey) has been selected as the Eldar Warlock
+[22:15:35]SAY: Pete/ : eh?
+[22:15:48]SAY: Arturo Winton/GeorgeMelons420 : hm
+[22:15:52]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[22:16:05]SAY: Arturo Winton/GeorgeMelons420 : hm
+[22:16:07]SAY: Arturo Winton/GeorgeMelons420 : odd
+[22:16:08]SAY: sentinel/ : Establishing control of planet...
+[22:17:38]SAY: mouse/ : Squeek?
+[22:17:38]SAY: sentinel/ : Eliminating hostiles...
+[22:17:53]SAY: Arturo Winton/GeorgeMelons420 : wow
+[22:18:43]SAY: Featherbottom/ : Cluck!
+[22:19:25]SAY: grey baby slime (168)/ : Blop...
+[22:20:30]EMOTE: monkey (517)/ : <B>The monkey (517)</B> jumps!
+[22:20:55]SAY: mouse/ : Squeek!
+[22:20:57]SAY: Betsy/ : moo?
+[22:21:27]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[22:21:45]SAY: Arturo Winton/GeorgeMelons420 : hm
+[22:21:46]EMOTE: monkey (388)/ : <B>The monkey (388)</B> jumps!
+[22:22:23]SAY: grey baby slime (168)/ : Rawr...
+[22:23:38]SAY: mouse/ : Squeek!
+[22:23:53]SAY: mouse/ : SQUEEK!
+[22:25:21]EMOTE: monkey (569)/ : <B>The monkey (569)</B> jumps!
+[22:25:52]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:25:58]ACCESS: Logout: *no key*/(Tenser the Amazing)
+[22:25:58]ACCESS: Login: DrakeMarshall/(Tenser the Amazing) from 127.0.0.1-3229208445 || BYOND v509
+[22:25:58]ACCESS: Notice: DrakeMarshall/(Tenser the Amazing) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:25:58]ACCESS: Notice: DrakeMarshall/(Tenser the Amazing) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[22:25:58]ACCESS: Notice: DrakeMarshall/(Tenser the Amazing) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:26:08]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:26:14]SAY: mouse/ : Squeek!
+[22:26:25]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:26:35]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:26:50]EMOTE: monkey (388)/ : <B>The monkey (388)</B> jumps!
+[22:26:56]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:27:19]SAY: Necron Immortal/ : Establishing control of planet...
+[22:28:00]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:28:18]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:28:36]SAY: mouse/ : Squeek?
+[22:28:46]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:28:48]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:28:52]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:28:56]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:28:58]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:29:00]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:29:08]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> gasps!
+[22:29:26]ADMIN: DrakeMarshall/(Tenser the Amazing) spawned /obj/effect/light_emitter at (167,124,1)
+[22:29:32]SAY: Necron Immortal/ : Establishing control of planet...
+[22:30:05]EMOTE: Saul Albright/Someperson1 : <B>Saul Albright</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:30:11]SAY: grey baby slime (168)/ : Blop...
+[22:30:25]EMOTE: monkey (583)/ : <B>The monkey (583)</B> jumps!
+[22:30:52]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[22:31:01]SAY: Featherbottom/ : Cluck!
+[22:32:38]SAY: grey baby slime (168)/ : Rawr...
+[22:33:25]SAY: Arandomhuman/(Lord Mekeshet) : Hm.
+[22:33:45]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:33:53]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:33:57]SAY: Kentucky/ : Bwaak bwak.
+[22:34:57]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[22:35:38]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:35:48]SAY: Featherbottom/ : Cluck!
+[22:36:39]SAY: Necron Immortal/ : Establishing control of planet...
+[22:36:59]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:37:15]SAY: Necron Immortal/ : Establishing control of planet...
+[22:37:18]ADMIN: DrakeMarshall/(Tenser the Amazing) spawned /obj/item/weapon/grenade/plasma at (53,183,1)
+[22:37:48]SAY: Pugley III/ : YAP
+[22:38:00]GAME: GeorgeMelons420/(Arturo Winton) has primed a Imperial Krak Grenade for detonation at Snow (48,195,1).
+[22:38:11]ACCESS: Logout: *no key*/(Arturo Winton)
+[22:38:11]ACCESS: Login: GeorgeMelons420/(Arturo Winton) from 127.0.0.1-3229208445 || BYOND v509
+[22:38:11]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[22:38:11]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:38:11]ACCESS: Notice: GeorgeMelons420/(Arturo Winton) has the same IP (127.0.0.1) and ID (3229208445) as DrakeMarshall/(Tenser the Amazing).
+[22:38:28]ADMIN: DrakeMarshall/(Tenser the Amazing) spawned /mob/living/carbon/human/OHinq at (53,190,1)
+[22:38:40]ADMIN: DrakeMarshall/(Tenser the Amazing) assumed direct control of Unknown.
+[22:38:40]ACCESS: Logout: *no key*/(Tenser the Amazing)
+[22:38:40]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:38:40]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[22:38:40]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:38:40]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:39:10]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma/lesser at (52,190,1)
+[22:39:12]SAY: Betsy/ : moo?
+[22:39:12]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma/lesser at (52,190,1)
+[22:39:20]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (53,190,1).
+[22:39:35]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (52,189,1).
+[22:40:05]ADMIN: drakemarshall/(Unknown) spawned /obj/item/weapon/grenade/plasma/lesser at (52,189,1)
+[22:40:08]GAME: drakemarshall/(Unknown) has primed a Plasma Grenade for detonation at Snow (53,189,1).
+[22:40:15]SAY: mouse/ : Squeek!
+[22:40:16]SAY: Unknown/drakemarshall : hm
+[22:40:21]EMOTE: monkey (388)/ : <B>The monkey (388)</B> jumps!
+[22:40:25]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:40:33]SAY: mouse/ : SQUEEK!
+[22:40:35]EMOTE: monkey (714)/ : <B>The monkey (714)</B> jumps!
+[22:40:50]SAY: Unknown/drakemarshall : hm
+[22:40:50]SAY: Unknown/drakemarshall : odd
+[22:40:55]SAY: Unknown/drakemarshall : there
+[22:40:58]SAY: Unknown/drakemarshall : good
+[22:41:00]SAY: Pugley III/ : YAP
+[22:41:00]SAY: Unknown/drakemarshall : perfect
+[22:41:23]SAY: Necron Immortal/ : Establishing control of planet...
+[22:41:33]SAY: mouse/ : SQUEEK!
+[22:41:47]ACCESS: Logout: *no key*/(Unknown)
+[22:41:47]ACCESS: Login: drakemarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:41:47]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Someperson1/(Saul Albright).
+[22:41:47]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:41:47]ACCESS: Notice: drakemarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as GeorgeMelons420/(Arturo Winton).
+[22:42:00]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/singularity at (64,186,1)
+[22:42:43]ADMIN: DrakeMarshall/(Unknown) modified gravitational singularity's allowed_size to 3
+[22:42:56]SAY: mouse/ : Squeek!
+[22:43:00]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[22:43:18]SAY: mouse/ : Squeek?
+[22:43:27]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/landmark/corpse/engineer at (64,186,1)
+[22:43:36]SAY: grey baby slime (168)/ : Lonely...
+[22:43:37]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (64,187,1)
+[22:43:44]ADMIN: drakemarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (63,178,1)
+[22:43:50]ADMIN: drakemarshall/(Unknown) spawned /obj/machinery/singularity at (67,177,1)
+[22:43:54]ADMIN: drakemarshall/(Unknown) spawned /obj/effect/light_emitter at (67,177,1)
+[22:43:57]SAY: Featherbottom/ : Bwaak bwak.
+[22:44:23]ACCESS: Logout: drakemarshall[DC]/(Unknown)
+[22:44:23]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:44:24]ACCESS: Logout: GeorgeMelons420[DC]/(Arturo Winton)
+[22:45:01]EMOTE: monkey (841)/ : <B>The monkey (841)</B> jumps!
+[22:46:01]EMOTE: monkey (583)/ : <B>The monkey (583)</B> jumps!
+[22:46:11]SAY: mouse/ : Squeek!
+[22:46:13]GAME: Emitter deleted at (171,146,1)
+[22:46:35]ACCESS: Logout: Someperson1[DC]/(Saul Albright)
+[22:46:41]ACCESS: Login: DrakeMarshall/(Unknown) from 127.0.0.1-3229208445 || BYOND v509
+[22:46:41]ACCESS: Notice: DrakeMarshall/(Unknown) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:47:37]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[22:48:18]SAY: Betsy/ : moo
+[22:48:36]SAY: mouse/ : Squeek?
+[22:48:38]SAY: Necron Immortal/ : Establishing control of planet...
+[22:48:52]SAY: Betsy/ : moo?
+[22:49:11]ADMIN: DrakeMarshall/(Unknown) spawned /mob/living/carbon/human/OHinq at (46,79,1)
+[22:49:16]ADMIN: DrakeMarshall/(Unknown) spawned /mob/living/carbon/human/elysian at (47,79,1)
+[22:49:19]ADMIN: DrakeMarshall/(Unknown) assumed direct control of #(80585).
+[22:49:19]ACCESS: Logout: *no key*/(Unknown)
+[22:49:19]ACCESS: Login: drakemarshall/(#(80585)) from 127.0.0.1-3229208445 || BYOND v509
+[22:49:19]ACCESS: Notice: drakemarshall/(#(80585)) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:49:23]ADMIN: drakemarshall/(#(80585)) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (46,79,1)
+[22:49:31]ADMIN: drakemarshall/(#(80585)) spawned /obj/item/weapon/reagent_containers/hypospray/stimpack at (47,79,1)
+[22:49:46]ADMIN: drakemarshall/(#(80585)) spawned /obj/item/weapon/grenade/plasma at (46,80,1)
+[22:49:49]ADMIN: drakemarshall/(#(80585)) spawned /obj/item/weapon/grenade/plasma at (48,80,1)
+[22:49:56]GAME: drakemarshall/(#(80585)) has primed a Imperial Krak Grenade for detonation at Snow (32,73,1).
+[22:50:01]SAY: Necron Immortal/ : Establishing control of planet...
+[22:50:07]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> collapses!
+[22:50:09]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> collapses!
+[22:50:13]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> collapses!
+[22:50:18]GAME: drakemarshall/(#(80585)) has primed a Imperial Fragmentation Grenade for detonation at Snow (28,64,1).
+[22:50:20]SAY: Betsy/ : moo
+[22:50:21]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> gasps!
+[22:50:24]EMOTE: monkey (709)/ : <B>The monkey (709)</B> jumps!
+[22:50:28]GAME: drakemarshall/(#(80585)) has primed a Plasma Grenade for detonation at Snow (37,66,1).
+[22:50:34]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> collapses!
+[22:50:40]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:50:42]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> gasps!
+[22:50:48]EMOTE: #(80585)/drakemarshall : <B>#(80585)</B> seizes up and falls limp, his eyes dead and lifeless...
+[22:50:52]ACCESS: Logout: *no key*/(#(80585))
+[22:50:52]ACCESS: Login: drakemarshall/(#(80585)) from 127.0.0.1-3229208445 || BYOND v509
+[22:50:52]ACCESS: Notice: drakemarshall/(#(80585)) has the same IP (127.0.0.1) and ID (3229208445) as Arandomhuman/(Lord Mekeshet).
+[22:51:47]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:52:32]ACCESS: Logout: *no key*/(Lord Mekeshet)
+[22:52:32]ACCESS: Login: arandomhuman/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[22:52:32]ACCESS: Notice: arandomhuman/(Averill Catherina) has the same IP (127.0.0.1) and ID (3229208445) as drakemarshall/(#(80585)).
+[22:52:32]ADMIN: drakemarshall/(#(80585)) assumed direct control of Lord Mekeshet.
+[22:52:32]ACCESS: Logout: *no key*/(#(80585))
+[22:52:32]ACCESS: Login: drakemarshall/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[22:52:32]ACCESS: Notice: drakemarshall/(Lord Mekeshet) has the same IP (127.0.0.1) and ID (3229208445) as arandomhuman/(Averill Catherina).
+[22:52:38]ACCESS: Logout: arandomhuman[DC]/(Averill Catherina)
+[22:54:04]EMOTE: monkey (583)/ : <B>The monkey (583)</B> jumps!
+[22:54:10]EMOTE: monkey (388)/ : <B>The monkey (388)</B> jumps!
+[22:54:42]ACCESS: Logout: *no key*/(Lord Mekeshet)
+[22:54:42]ACCESS: Login: drakemarshall/(Averill Catherina) from 127.0.0.1-3229208445 || BYOND v509
+[22:54:44]SAY: grey baby slime (469)/ : Rawr...
+[22:54:49]SAY: Necron Immortal/ : Establishing control of planet...
+[22:54:57]SAY: grey baby slime (168)/ : Blop...
+[22:55:15]ACCESS: Logout: *no key*/(Averill Catherina)
+[22:55:15]ACCESS: Login: drakemarshall/(Lord Mekeshet) from 127.0.0.1-3229208445 || BYOND v509
+[22:55:31]ADMIN: DrakeMarshall/(Lord Mekeshet) modified Lord Mekeshet's move_speed to 0
+[22:55:32]ADMIN: DrakeMarshall/(Lord Mekeshet) modified Lord Mekeshet's speed to 0
+[22:55:40]EMOTE: monkey (341)/ : <B>The monkey (341)</B> jumps!
+[22:56:11]SAY: Necron Immortal/ : Eliminating hostiles...
+[22:56:32]GAME: Antagonists at round end were...
+[22:56:32]GAME: Wizards: Tenser the Amazing(DrakeMarshall).
+[22:56:32]GAME: Necron Lords: Averill Catherina(drakemarshall).
+[22:56:35]SAY: Featherbottom/ : Bwaak bwak.
+[22:56:45]EMOTE: Unknown/ : <B>Unknown</B> collapses!
+[22:57:11]ACCESS: Logout: drakemarshall[DC]/(Lord Mekeshet)
+
+
+Starting up. 22:58.04
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'necron'
+[22:58:04]ADMIN: Loading Banlistjob
+[22:58:04]ADMIN: Loading jobban_rank
+[22:58:04]ADMIN: jobban_keylist was empty
+[22:58:04]ADMIN: Loading appearance_rank
+[22:58:04]ADMIN: appearance_keylist was empty
+[22:58:04]ADMIN: Updating jobbanfile!
+[22:58:04]ADMIN: Loading Banlist
+[22:58:04]ADMIN: Loading RTD lists

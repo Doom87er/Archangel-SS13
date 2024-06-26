@@ -1,0 +1,760 @@
+
+
+Starting up. 02:37.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[02:37:59]ADMIN: Loading Banlistjob
+[02:37:59]ADMIN: Loading jobban_rank
+[02:37:59]ADMIN: jobban_keylist was empty
+[02:37:59]ADMIN: Loading appearance_rank
+[02:37:59]ADMIN: appearance_keylist was empty
+[02:37:59]ADMIN: Updating jobbanfile!
+[02:37:59]ADMIN: Loading Banlist
+[02:37:59]ADMIN: Loading RTD lists
+[02:40:43]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[02:41:02]ADMIN: Norc has started the game.
+[02:41:04]ACCESS: Logout: *no key*/(Norc)
+[02:41:04]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[02:41:29]EMOTE: monkey (867)/ : <B>The monkey (867)</B> jumps!
+[02:41:45]EMOTE: monkey (961)/ : <B>The monkey (961)</B> jumps!
+[02:41:51]ADMIN: Norc/(Brian Garrison) spawned /obj/item/weapon/gun/projectile/BPMP at (184,17,2)
+[02:42:12]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[02:42:26]SAY: sentinel/ : Eliminating hostiles...
+[02:43:14]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[02:43:16]SAY: sentinel/ : Establishing control of planet...
+[02:43:30]SAY: Kentucky/ : Bwaak bwak.
+[02:44:08]EMOTE: monkey (867)/ : <B>The monkey (867)</B> jumps!
+[02:44:36]EMOTE: monkey (122)/ : <B>The monkey (122)</B> jumps!
+[02:44:59]SAY: grey baby slime (544)/ : Rawr...
+[02:45:05]SAY: mouse/ : SQUEEK!
+[02:45:31]SAY: sentinel/ : Eliminating hostiles...
+[02:45:33]ACCESS: Logout: Norc[DC]/(Brian Garrison)
+
+
+Starting up. 06:49.05
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[06:49:05]ADMIN: Loading Banlistjob
+[06:49:05]ADMIN: Loading jobban_rank
+[06:49:05]ADMIN: jobban_keylist was empty
+[06:49:05]ADMIN: Loading appearance_rank
+[06:49:05]ADMIN: appearance_keylist was empty
+[06:49:05]ADMIN: Updating jobbanfile!
+[06:49:05]ADMIN: Loading Banlist
+[06:49:05]ADMIN: Loading RTD lists
+[06:50:14]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[06:50:40]ADMIN: Norc has started the game.
+[06:50:40]GAME: Norc (ckey) has been selected as a Heretic
+[06:50:42]ACCESS: Logout: *no key*/(Norc)
+[06:50:42]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[06:50:53]SAY: mouse/ : Squeek!
+[06:51:00]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:51:00]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[06:51:05]ADMIN: Norc/(Brian Garrison) jumped to Engineering
+[06:51:18]ADMIN: Norc/(Brian Garrison) modified Emitter's active to 1
+[06:51:31]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (172,161,1)
+[06:51:37]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Romania.
+[06:51:37]ACCESS: Logout: *no key*/(Brian Garrison)
+[06:51:37]ACCESS: Login: norc/(Sister Romania) from 127.0.0.1-1324596339 || BYOND v509
+[06:51:52]EMOTE: monkey (843)/ : <B>The monkey (843)</B> jumps!
+[06:52:28]SAY: necron scarab/ : Eliminating hostiles...
+[06:52:34]ADMIN: norc/(Sister Romania) dealt 80 amount of fire damage to Sister Romania 
+[06:52:58]SAY: mouse/ : Squeek?
+[06:53:16]EMOTE: monkey (512)/ : <B>The monkey (512)</B> jumps!
+[06:53:44]SAY: mouse/ : Squeek?
+[06:53:48]SAY: mouse/ : SQUEEK!
+[06:54:00]SAY: Pugley III/ : AUUUUUU
+[06:54:08]EMOTE: monkey (378)/ : <B>The monkey (378)</B> jumps!
+[06:54:14]SAY: mouse/ : Squeek!
+[06:54:19]ADMIN: norc/(Sister Romania) dealt 200 amount of fire damage to Sister Romania 
+[06:54:56]ADMIN: norc/(Sister Romania) dealt 80 amount of oxygen damage to Sister Romania 
+[06:55:02]EMOTE: monkey (378)/ : <B>The monkey (378)</B> jumps!
+[06:55:12]ADMIN: norc/(Sister Romania) dealt 100 amount of oxygen damage to Sister Romania 
+[06:55:14]EMOTE: Sister Romania/norc : <B>Sister Romania</B> seizes up and falls limp, her eyes dead and lifeless...
+[06:55:30]SAY: mouse/ : Squeek!
+[06:55:52]SAY: Featherbottom/ : Bwaak bwak.
+[06:56:50]SAY: necron scarab/ : Eliminating hostiles...
+[06:56:53]SAY: Kentucky/ : Cluck!
+[06:57:07]SAY: Featherbottom/ : Cluck!
+[06:57:41]SAY: grey baby slime (871)/ : Blop...
+[06:58:39]SAY: mouse/ : Squeek!
+[06:59:31]SAY: mouse/ : Squeek?
+[06:59:35]EMOTE: monkey (401)/ : <B>The monkey (401)</B> jumps!
+[06:59:39]SAY: necron scarab/ : Establishing control of planet...
+[06:59:51]SAY: necron scarab/ : Establishing control of planet...
+[06:59:55]SAY: Featherbottom/ : Bwaak bwak.
+[06:59:55]SAY: mouse/ : Squeek?
+[07:00:49]SAY: mouse/ : Squeek?
+[07:00:49]SAY: mouse/ : Squeek!
+[07:01:33]EMOTE: monkey (988)/ : <B>The monkey (988)</B> jumps!
+[07:02:00]ACCESS: Logout: norc[DC]/(Sister Romania)
+
+
+Starting up. 07:06.14
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:06:14]ADMIN: Loading Banlistjob
+[07:06:14]ADMIN: Loading jobban_rank
+[07:06:14]ADMIN: jobban_keylist was empty
+[07:06:14]ADMIN: Loading appearance_rank
+[07:06:15]ADMIN: appearance_keylist was empty
+[07:06:15]ADMIN: Updating jobbanfile!
+[07:06:15]ADMIN: Loading Banlist
+[07:06:15]ADMIN: Loading RTD lists
+[07:08:11]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:08:23]ADMIN: Norc has started the game.
+[07:08:23]GAME: Norc (ckey) has been selected as a Heretic
+[07:08:25]ACCESS: Logout: *no key*/(Norc)
+[07:08:25]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:08:30]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:08:30]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:08:40]SAY: mouse/ : SQUEEK!
+[07:08:42]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (189,18,2)
+[07:08:44]SAY: grey baby slime (366)/ : Lonely...
+[07:08:45]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Drasa.
+[07:08:45]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:08:45]ACCESS: Login: norc/(Sister Drasa) from 127.0.0.1-1324596339 || BYOND v509
+[07:08:54]SAY: Pete/ : EHEHEHEHEH
+[07:09:07]ADMIN: norc/(Sister Drasa) dealt 185 amount of brute damage to Sister Drasa 
+[07:09:26]SAY: Pete/ : EHEHEHEHEH
+[07:10:38]ADMIN: norc/(Sister Drasa) dealt 20 amount of brute damage to Sister Drasa 
+[07:10:40]EMOTE: Sister Drasa/norc : <B>Sister Drasa</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:10:53]EMOTE: Sister Drasa/norc : <B>Sister Drasa</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:11:08]SAY: necron scarab/ : Establishing control of planet...
+[07:11:12]SAY: necron scarab/ : Eliminating hostiles...
+[07:12:00]ACCESS: Logout: norc[DC]/(Sister Drasa)
+
+
+Starting up. 07:22.57
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:22:57]ADMIN: Loading Banlistjob
+[07:22:57]ADMIN: Loading jobban_rank
+[07:22:57]ADMIN: jobban_keylist was empty
+[07:22:57]ADMIN: Loading appearance_rank
+[07:22:57]ADMIN: appearance_keylist was empty
+[07:22:57]ADMIN: Updating jobbanfile!
+[07:22:57]ADMIN: Loading Banlist
+[07:22:57]ADMIN: Loading RTD lists
+[07:26:11]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:26:26]ADMIN: Norc has started the game.
+[07:26:26]GAME: Norc (ckey) has been selected as a Heretic
+[07:26:28]ACCESS: Logout: *no key*/(Norc)
+[07:26:28]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:26:33]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:26:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:26:43]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (189,18,2)
+[07:26:47]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Julia.
+[07:26:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:26:47]ACCESS: Login: norc/(Sister Julia) from 127.0.0.1-1324596339 || BYOND v509
+[07:26:51]ADMIN: norc/(Sister Julia) dealt 199 amount of brute damage to Sister Julia 
+[07:27:11]ADMIN: norc/(Sister Julia) dealt 1 amount of brute damage to Sister Julia 
+[07:27:13]EMOTE: Sister Julia/norc : <B>Sister Julia</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:27:14]SAY: sentinel/ : Eliminating hostiles...
+[07:27:16]SAY: sentinel/ : Eliminating hostiles...
+[07:27:48]SAY: sentinel/ : Establishing control of planet...
+[07:27:52]SAY: mouse/ : SQUEEK!
+[07:28:00]EMOTE: monkey (595)/ : <B>The monkey (595)</B> jumps!
+[07:28:04]SAY: sentinel/ : Establishing control of planet...
+[07:28:40]ACCESS: Logout: norc[DC]/(Sister Julia)
+
+
+Starting up. 07:35.09
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:35:09]ADMIN: Loading Banlistjob
+[07:35:09]ADMIN: Loading jobban_rank
+[07:35:09]ADMIN: jobban_keylist was empty
+[07:35:09]ADMIN: Loading appearance_rank
+[07:35:09]ADMIN: appearance_keylist was empty
+[07:35:09]ADMIN: Updating jobbanfile!
+[07:35:09]ADMIN: Loading Banlist
+[07:35:09]ADMIN: Loading RTD lists
+[07:37:09]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:17]ADMIN: Norc has started the game.
+[07:37:17]GAME: Norc (ckey) has been selected as a Heretic
+[07:37:19]ACCESS: Logout: *no key*/(Norc)
+[07:37:19]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:23]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:37:23]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:31]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (189,17,2)
+[07:37:34]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Tina.
+[07:37:34]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:37:34]ACCESS: Login: norc/(Sister Tina) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:39]ADMIN: norc/(Sister Tina) dealt 200 amount of brute damage to Sister Tina 
+[07:37:40]EMOTE: Sister Tina/norc : <B>Sister Tina</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:37:48]ACCESS: Logout: *no key*/(Sister Tina)
+[07:37:48]ACCESS: Login: norc/(Sister Tina) from 127.0.0.1-1324596339 || BYOND v509
+[07:37:50]SAY: necron scarab/ : Establishing control of planet...
+[07:37:56]ADMIN: norc/(Sister Tina) spawned /mob/living/carbon/human/sob at (189,19,2)
+[07:38:01]ADMIN: norc/(Sister Tina) assumed direct control of Sister Elisa.
+[07:38:01]ACCESS: Logout: *no key*/(Sister Tina)
+[07:38:01]ACCESS: Login: norc/(Sister Elisa) from 127.0.0.1-1324596339 || BYOND v509
+[07:38:06]SAY: mouse/ : Squeek?
+[07:38:13]ADMIN: norc/(Sister Elisa) dealt 198 amount of toxin damage to Sister Elisa 
+[07:38:15]SAY: mouse/ : Squeek!
+[07:38:32]ADMIN: norc/(Sister Elisa) dealt 2 amount of toxin damage to Sister Elisa 
+[07:38:33]EMOTE: Sister Elisa/norc : <B>Sister Elisa</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:38:37]EMOTE: monkey (95)/ : <B>The monkey (95)</B> jumps!
+[07:38:41]SAY: mouse/ : SQUEEK!
+[07:39:33]SAY: mouse/ : Squeek!
+[07:39:35]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[07:39:47]SAY: mouse/ : Squeek!
+[07:39:53]SAY: Featherbottom/ : Cluck!
+[07:40:03]SAY: mouse/ : Squeek?
+[07:40:33]SAY: grey baby slime (462)/ : Blop...
+[07:40:47]EMOTE: monkey (343)/ : <B>The monkey (343)</B> jumps!
+[07:41:33]ACCESS: Logout: norc[DC]/(Sister Elisa)
+
+
+Starting up. 07:43.48
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:43:48]ADMIN: Loading Banlistjob
+[07:43:48]ADMIN: Loading jobban_rank
+[07:43:48]ADMIN: jobban_keylist was empty
+[07:43:48]ADMIN: Loading appearance_rank
+[07:43:48]ADMIN: appearance_keylist was empty
+[07:43:48]ADMIN: Updating jobbanfile!
+[07:43:48]ADMIN: Loading Banlist
+[07:43:48]ADMIN: Loading RTD lists
+[07:45:35]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[07:45:42]ADMIN: Norc has started the game.
+[07:45:44]ACCESS: Logout: *no key*/(Norc)
+[07:45:44]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:45:49]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:45:49]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[07:45:58]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,17,2)
+[07:46:08]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/tau at (189,18,2)
+[07:46:09]SAY: Kentucky/ : Cluck!
+[07:46:13]EMOTE: monkey (974)/ : <B>The monkey (974)</B> jumps!
+[07:46:17]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Verona.
+[07:46:17]ACCESS: Logout: *no key*/(Brian Garrison)
+[07:46:17]ACCESS: Login: norc/(Sister Verona) from 127.0.0.1-1324596339 || BYOND v509
+[07:46:25]SAY: mouse/ : SQUEEK!
+[07:46:31]ADMIN: norc/(Sister Verona) dealt 200 amount of brute damage to Sister Verona 
+[07:46:31]EMOTE: Sister Verona/norc : <B>Sister Verona</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:46:57]EMOTE: Sister Verona/norc : <B>Sister Verona</B> seizes up and falls limp, her eyes dead and lifeless...
+[07:47:13]ACCESS: Logout: norc[DC]/(Sister Verona)
+
+
+Starting up. 07:55.49
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[07:55:49]ADMIN: Loading Banlistjob
+[07:55:49]ADMIN: Loading jobban_rank
+[07:55:49]ADMIN: jobban_keylist was empty
+[07:55:49]ADMIN: Loading appearance_rank
+[07:55:49]ADMIN: appearance_keylist was empty
+[07:55:49]ADMIN: Updating jobbanfile!
+[07:55:49]ADMIN: Loading Banlist
+[07:55:49]ADMIN: Loading RTD lists
+[08:59:20]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[08:59:30]ADMIN: Norc has started the game.
+[08:59:31]GAME: Norc (ckey) has been selected as a Heretic
+[08:59:33]ACCESS: Logout: *no key*/(Norc)
+[08:59:33]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:59:39]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:59:39]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[08:59:47]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,17,2)
+[08:59:52]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Samantha.
+[08:59:52]ACCESS: Logout: *no key*/(Brian Garrison)
+[08:59:52]ACCESS: Login: norc/(Sister Samantha) from 127.0.0.1-1324596339 || BYOND v509
+[09:00:01]SAY: necron scarab/ : Eliminating hostiles...
+[09:00:06]ADMIN: norc/(Sister Samantha) dealt 200 amount of brute damage to Sister Samantha 
+[09:00:07]EMOTE: Sister Samantha/norc : <B>Sister Samantha</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:00:09]EMOTE: monkey (907)/ : <B>The monkey (907)</B> jumps!
+[09:00:45]EMOTE: Sister Samantha/norc : <B>Sister Samantha</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:01:06]SAY: mouse/ : SQUEEK!
+[09:01:16]EMOTE: monkey (652)/ : <B>The monkey (652)</B> jumps!
+[09:02:16]SAY: Kentucky/ : Cluck!
+[09:02:28]SAY: grey baby slime (521)/ : Blop...
+[09:02:30]ACCESS: Logout: *no key*/(Sister Samantha)
+[09:02:30]ACCESS: Login: norc/(Sister Samantha) from 127.0.0.1-1324596339 || BYOND v509
+[09:02:36]EMOTE: monkey (652)/ : <B>The monkey (652)</B> jumps!
+[09:02:40]ADMIN: norc/(Sister Samantha) spawned /mob/living/carbon/human/sob at (189,21,2)
+[09:02:44]ADMIN: norc/(Sister Samantha) assumed direct control of Sister Claria.
+[09:02:44]ACCESS: Logout: *no key*/(Sister Samantha)
+[09:02:44]ACCESS: Login: norc/(Sister Claria) from 127.0.0.1-1324596339 || BYOND v509
+[09:02:48]ADMIN: norc/(Sister Claria) dealt 200 amount of brute damage to Sister Claria 
+[09:02:48]EMOTE: Sister Claria/norc : <B>Sister Claria</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:03:00]EMOTE: monkey (268)/ : <B>The monkey (268)</B> jumps!
+[09:03:14]SAY: necron scarab/ : Establishing control of planet...
+[09:03:16]EMOTE: Sister Claria/norc : <B>Sister Claria</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:03:38]SAY: Pete/ : EHEHEHEHEH
+[09:03:40]EMOTE: monkey (916)/ : <B>The monkey (916)</B> jumps!
+[09:03:42]SAY: mouse/ : Squeek!
+[09:03:52]EMOTE: monkey (268)/ : <B>The monkey (268)</B> jumps!
+[09:03:58]SAY: mouse/ : Squeek!
+[09:04:03]EMOTE: Sister Claria/norc : <B>Sister Claria</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:04:13]ACCESS: Logout: *no key*/(Sister Claria)
+[09:04:13]ACCESS: Login: norc/(Sister Claria) from 127.0.0.1-1324596339 || BYOND v509
+[09:04:14]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[09:04:28]ADMIN: norc/(Sister Claria) spawned /mob/living/carbon/human/sob at (180,150,1)
+[09:04:32]ADMIN: norc/(Sister Claria) assumed direct control of Sister Verona.
+[09:04:32]ACCESS: Logout: *no key*/(Sister Claria)
+[09:04:32]ACCESS: Login: norc/(Sister Verona) from 127.0.0.1-1324596339 || BYOND v509
+[09:04:36]SAY: mouse/ : Squeek!
+[09:04:41]ADMIN: norc/(Sister Verona) dealt 200 amount of brute damage to Sister Verona 
+[09:04:42]EMOTE: Sister Verona/norc : <B>Sister Verona</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:04:51]ACCESS: Logout: norc[DC]/(Sister Verona)
+
+
+Starting up. 09:10.40
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[09:10:40]ADMIN: Loading Banlistjob
+[09:10:40]ADMIN: Loading jobban_rank
+[09:10:40]ADMIN: jobban_keylist was empty
+[09:10:40]ADMIN: Loading appearance_rank
+[09:10:40]ADMIN: appearance_keylist was empty
+[09:10:40]ADMIN: Updating jobbanfile!
+[09:10:40]ADMIN: Loading Banlist
+[09:10:40]ADMIN: Loading RTD lists
+[09:15:33]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:15:40]ADMIN: Norc has started the game.
+[09:15:43]ACCESS: Logout: *no key*/(Norc)
+[09:15:43]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:15:47]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:15:47]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:15:55]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (189,17,2)
+[09:16:00]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Samantha.
+[09:16:00]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:16:00]ACCESS: Login: norc/(Sister Samantha) from 127.0.0.1-1324596339 || BYOND v509
+[09:16:02]SAY: mouse/ : Squeek?
+[09:16:03]ADMIN: norc/(Sister Samantha) dealt 200 amount of brute damage to Sister Samantha 
+[09:16:04]EMOTE: Sister Samantha/norc : <B>Sister Samantha</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:16:18]SAY: mouse/ : Squeek!
+[09:16:26]SAY: sentinel/ : Establishing control of planet...
+[09:16:33]EMOTE: Sister Samantha/norc : <B>Sister Samantha</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:16:46]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:16:50]SAY: sentinel/ : Eliminating hostiles...
+[09:16:54]ACCESS: Logout: norc[DC]/(Sister Samantha)
+
+
+Starting up. 09:30.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[09:30:59]ADMIN: Loading Banlistjob
+[09:30:59]ADMIN: Loading jobban_rank
+[09:31:00]ADMIN: jobban_keylist was empty
+[09:31:00]ADMIN: Loading appearance_rank
+[09:31:00]ADMIN: appearance_keylist was empty
+[09:31:00]ADMIN: Updating jobbanfile!
+[09:31:00]ADMIN: Loading Banlist
+[09:31:00]ADMIN: Loading RTD lists
+[09:32:10]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[09:32:30]ADMIN: Norc has started the game.
+[09:32:32]ACCESS: Logout: *no key*/(Norc)
+[09:32:32]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:32:34]EMOTE: monkey (782)/ : <B>The monkey (782)</B> jumps!
+[09:32:37]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:32:37]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[09:32:46]SAY: mouse/ : Squeek!
+[09:32:47]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,16,2)
+[09:32:48]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:32:51]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Tammara.
+[09:32:51]ACCESS: Logout: *no key*/(Brian Garrison)
+[09:32:51]ACCESS: Login: norc/(Sister Tammara) from 127.0.0.1-1324596339 || BYOND v509
+[09:33:01]ADMIN: norc/(Sister Tammara) dealt 200 amount of brute damage to Sister Tammara 
+[09:33:02]EMOTE: Sister Tammara/norc : <B>Sister Tammara</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:33:38]EMOTE: Sister Tammara/norc : <B>Sister Tammara</B> seizes up and falls limp, her eyes dead and lifeless...
+[09:34:19]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:35:49]EMOTE: monkey (280)/ : <B>The monkey (280)</B> jumps!
+[09:37:24]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:38:12]SAY: Pete/ : eh?
+[09:38:30]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[09:38:42]SAY: sentinel/ : Eliminating hostiles...
+[09:38:56]SAY: sentinel/ : Eliminating hostiles...
+[09:39:48]EMOTE: monkey (3)/ : <B>The monkey (3)</B> jumps!
+[09:40:48]SAY: Pugley III/ : YAP
+[09:40:49]EMOTE: monkey (264)/ : <B>The monkey (264)</B> jumps!
+[09:41:13]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:41:29]SAY: mouse/ : SQUEEK!
+[09:41:33]SAY: mouse/ : Squeek!
+[09:41:47]SAY: Pete/ : EHEHEHEHEH
+[09:41:57]SAY: Pugley III/ : AUUUUUU
+[09:41:57]SAY: mouse/ : Squeek?
+[09:42:07]SAY: mouse/ : Squeek?
+[09:42:37]SAY: grey baby slime (676)/ : Blop...
+[09:42:45]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[09:43:39]SAY: Featherbottom/ : Cluck!
+[09:44:31]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:45:54]EMOTE: monkey (264)/ : <B>The monkey (264)</B> jumps!
+[09:46:02]SAY: mouse/ : Squeek!
+[09:46:06]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:46:22]SAY: mouse/ : Squeek?
+[09:46:45]EMOTE: monkey (264)/ : <B>The monkey (264)</B> jumps!
+[09:47:43]SAY: Pugley III/ : Woof!
+[09:48:36]EMOTE: monkey (207)/ : <B>The monkey (207)</B> jumps!
+[09:48:40]SAY: Featherbottom/ : Cluck!
+[09:48:48]SAY: grey baby slime (689)/ : Blorble...
+[09:49:08]SAY: mouse/ : Squeek!
+[09:50:06]EMOTE: monkey (924)/ : <B>The monkey (924)</B> jumps!
+[09:50:06]EMOTE: monkey (264)/ : <B>The monkey (264)</B> jumps!
+[09:50:22]SAY: mouse/ : SQUEEK!
+[09:50:54]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[09:51:08]SAY: mouse/ : Squeek?
+[09:51:08]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:51:20]SAY: grey baby slime (689)/ : Rawr...
+[09:51:28]SAY: Pugley III/ : AUUUUUU
+[09:52:24]SAY: Pugley III/ : AUUUUUU
+[09:52:34]SAY: Featherbottom/ : BWAAAAARK BWAK BWAK BWAK!
+[09:53:20]SAY: grey baby slime (689)/ : Blop...
+[09:53:48]SAY: necron scarab/ : Establishing control of planet...
+[09:54:08]SAY: Pete/ : EHEHEHEHEH
+[09:55:08]SAY: mouse/ : Squeek!
+[09:55:12]SAY: necron scarab/ : Eliminating hostiles...
+[09:55:24]SAY: Featherbottom/ : Cluck!
+[09:58:19]SAY: Featherbottom/ : Bwaak bwak.
+[09:58:37]SAY: necron scarab/ : Eliminating hostiles...
+[09:59:05]SAY: mouse/ : Squeek?
+[09:59:09]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[09:59:39]SAY: Betsy/ : MOOOOOO
+[09:59:41]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[10:00:06]EMOTE: monkey (562)/ : <B>The monkey (562)</B> jumps!
+[10:02:29]EMOTE: monkey (207)/ : <B>The monkey (207)</B> jumps!
+[10:02:42]ACCESS: Logout: *no key*/(Sister Tammara)
+[10:02:42]ACCESS: Login: norc/(Sister Tammara) from 127.0.0.1-1324596339 || BYOND v509
+[10:02:57]ADMIN: norc/(Sister Tammara) spawned /mob/living/carbon/human/sob at (174,147,1)
+[10:02:59]SAY: necron scarab/ : Eliminating hostiles...
+[10:03:09]ADMIN: Norc/(Sister Tammara) modified Sister Chandra's luminosity to 4
+[10:03:13]ADMIN: Norc/(Sister Tammara) modified Sister Chandra's luminosity to 5
+[10:03:16]ADMIN: Norc/(Sister Tammara) modified Sister Chandra's luminosity to 10
+[10:03:47]EMOTE: monkey (815)/ : <B>The monkey (815)</B> jumps!
+[10:04:25]ACCESS: Logout: norc[DC]/(Sister Tammara)
+
+
+Starting up. 10:06.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:06:35]ADMIN: Loading Banlistjob
+[10:06:35]ADMIN: Loading jobban_rank
+[10:06:35]ADMIN: jobban_keylist was empty
+[10:06:35]ADMIN: Loading appearance_rank
+[10:06:35]ADMIN: appearance_keylist was empty
+[10:06:35]ADMIN: Updating jobbanfile!
+[10:06:35]ADMIN: Loading Banlist
+[10:06:35]ADMIN: Loading RTD lists
+[10:07:31]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:07:46]ADMIN: Norc has started the game.
+[10:07:47]GAME: Norc (ckey) has been selected as a Heretic
+[10:07:49]ACCESS: Logout: *no key*/(Norc)
+[10:07:49]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:07:53]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:07:53]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:08:01]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,17,2)
+[10:08:04]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Debra.
+[10:08:04]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:08:04]ACCESS: Login: norc/(Sister Debra) from 127.0.0.1-1324596339 || BYOND v509
+[10:08:08]SAY: sentinel/ : Eliminating hostiles...
+[10:08:15]ADMIN: norc/(Sister Debra) dealt 200 amount of brute damage to Sister Debra 
+[10:08:16]EMOTE: Sister Debra/norc : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:08:24]EMOTE: monkey (483)/ : <B>The monkey (483)</B> jumps!
+[10:08:28]EMOTE: monkey (156)/ : <B>The monkey (156)</B> jumps!
+[10:08:52]EMOTE: Sister Debra/norc : <B>Sister Debra</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:09:24]SAY: sentinel/ : Eliminating hostiles...
+[10:09:30]EMOTE: monkey (251)/ : <B>The monkey (251)</B> jumps!
+[10:09:34]SAY: sentinel/ : Establishing control of planet...
+[10:09:42]EMOTE: monkey (156)/ : <B>The monkey (156)</B> jumps!
+[10:09:48]SAY: sentinel/ : Establishing control of planet...
+[10:09:55]ADMIN: Norc/(Sister Debra) modified A sister of battle's bag's icon_state to sister2
+[10:09:58]SAY: mouse/ : Squeek?
+[10:10:16]EMOTE: monkey (274)/ : <B>The monkey (274)</B> jumps!
+[10:10:56]SAY: sentinel/ : Eliminating hostiles...
+[10:10:58]SAY: mouse/ : Squeek?
+[10:11:10]SAY: Featherbottom/ : Bwaak bwak.
+[10:11:30]SAY: Betsy/ : moo
+[10:11:32]SAY: mouse/ : Squeek?
+[10:11:54]SAY: mouse/ : Squeek?
+[10:12:00]ACCESS: Logout: norc[DC]/(Sister Debra)
+
+
+Starting up. 10:16.35
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:16:35]ADMIN: Loading Banlistjob
+[10:16:35]ADMIN: Loading jobban_rank
+[10:16:35]ADMIN: jobban_keylist was empty
+[10:16:35]ADMIN: Loading appearance_rank
+[10:16:35]ADMIN: appearance_keylist was empty
+[10:16:35]ADMIN: Updating jobbanfile!
+[10:16:35]ADMIN: Loading Banlist
+[10:16:35]ADMIN: Loading RTD lists
+[10:17:33]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:17:40]ADMIN: Norc has started the game.
+[10:17:43]ACCESS: Logout: *no key*/(Norc)
+[10:17:43]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:17:45]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:17:45]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:17:58]EMOTE: monkey (467)/ : <B>The monkey (467)</B> jumps!
+[10:18:00]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/tau at (188,19,2)
+[10:18:05]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/tau/leader at (188,22,2)
+[10:18:14]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,22,2)
+[10:18:19]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Romania.
+[10:18:19]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:18:19]ACCESS: Login: norc/(Sister Romania) from 127.0.0.1-1324596339 || BYOND v509
+[10:18:45]ADMIN: norc/(Sister Romania) dealt 200 amount of brute damage to Sister Romania 
+[10:18:46]EMOTE: Sister Romania/norc : <B>Sister Romania</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:18:48]SAY: Kentucky/ : Bwaak bwak.
+[10:19:00]EMOTE: monkey (953)/ : <B>The monkey (953)</B> jumps!
+[10:19:19]EMOTE: Sister Romania/norc : <B>Sister Romania</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:19:59]EMOTE: monkey (86)/ : <B>The monkey (86)</B> jumps!
+[10:21:05]SAY: mouse/ : Squeek!
+[10:22:41]EMOTE: monkey (874)/ : <B>The monkey (874)</B> jumps!
+[10:22:43]EMOTE: monkey (953)/ : <B>The monkey (953)</B> jumps!
+[10:24:00]EMOTE: monkey (293)/ : <B>The monkey (293)</B> jumps!
+[10:24:06]ACCESS: Logout: norc[DC]/(Sister Romania)
+
+
+Starting up. 10:25.57
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:25:57]ADMIN: Loading Banlistjob
+[10:25:57]ADMIN: Loading jobban_rank
+[10:25:57]ADMIN: jobban_keylist was empty
+[10:25:57]ADMIN: Loading appearance_rank
+[10:25:57]ADMIN: appearance_keylist was empty
+[10:25:57]ADMIN: Updating jobbanfile!
+[10:25:57]ADMIN: Loading Banlist
+[10:25:57]ADMIN: Loading RTD lists
+[10:27:26]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:27:39]ADMIN: Norc has started the game.
+[10:27:41]ACCESS: Logout: *no key*/(Norc)
+[10:27:41]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:27:46]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:27:46]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:27:52]SAY: mouse/ : Squeek?
+[10:27:57]SAY: sentinel/ : Establishing control of planet...
+[10:28:00]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (189,17,2)
+[10:28:05]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Drasa.
+[10:28:05]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:28:05]ACCESS: Login: norc/(Sister Drasa) from 127.0.0.1-1324596339 || BYOND v509
+[10:28:09]ADMIN: norc/(Sister Drasa) dealt 200 amount of brute damage to Sister Drasa 
+[10:28:10]EMOTE: Sister Drasa/norc : <B>Sister Drasa</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:28:12]SAY: sentinel/ : Establishing control of planet...
+[10:28:14]SAY: sentinel/ : Eliminating hostiles...
+[10:28:16]SAY: mouse/ : Squeek!
+[10:28:24]SAY: sentinel/ : Establishing control of planet...
+[10:28:28]SAY: sentinel/ : Establishing control of planet...
+[10:28:43]EMOTE: Sister Drasa/norc : <B>Sister Drasa</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:29:00]SAY: Pete/ : eh?
+[10:29:06]SAY: Featherbottom/ : Cluck!
+[10:29:22]SAY: sentinel/ : Eliminating hostiles...
+[10:29:46]SAY: sentinel/ : Establishing control of planet...
+[10:29:51]ADMIN: Norc/(Sister Drasa) modified Sister Drasa's update_slimes to 1
+[10:30:00]ADMIN: Norc/(Sister Drasa) modified Sister Drasa's update_icon to 1
+[10:30:13]ADMIN: Norc/(Sister Drasa) modified Sister Drasa's update_icon to 1
+[10:30:14]SAY: sentinel/ : Establishing control of planet...
+[10:30:27]ACCESS: Logout: norc[DC]/(Sister Drasa)
+
+
+Starting up. 10:36.47
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[10:36:48]ADMIN: Loading Banlistjob
+[10:36:48]ADMIN: Loading jobban_rank
+[10:36:48]ADMIN: jobban_keylist was empty
+[10:36:48]ADMIN: Loading appearance_rank
+[10:36:48]ADMIN: appearance_keylist was empty
+[10:36:48]ADMIN: Updating jobbanfile!
+[10:36:48]ADMIN: Loading Banlist
+[10:36:48]ADMIN: Loading RTD lists
+[10:37:39]ACCESS: Login: Norc/(Norc) from 127.0.0.1-1324596339 || BYOND v509
+[10:37:49]ADMIN: Norc has started the game.
+[10:37:49]GAME: Norc (ckey) has been selected as a Heretic
+[10:37:51]ACCESS: Logout: *no key*/(Norc)
+[10:37:51]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:37:55]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:37:55]ACCESS: Login: Norc/(Brian Garrison) from 127.0.0.1-1324596339 || BYOND v509
+[10:38:04]ADMIN: Norc/(Brian Garrison) spawned /mob/living/carbon/human/sob at (188,17,2)
+[10:38:07]ADMIN: Norc/(Brian Garrison) assumed direct control of Sister Claria.
+[10:38:07]ACCESS: Logout: *no key*/(Brian Garrison)
+[10:38:07]ACCESS: Login: norc/(Sister Claria) from 127.0.0.1-1324596339 || BYOND v509
+[10:38:12]ADMIN: norc/(Sister Claria) dealt 200 amount of brute damage to Sister Claria 
+[10:38:13]EMOTE: Sister Claria/norc : <B>Sister Claria</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:38:46]EMOTE: Sister Claria/norc : <B>Sister Claria</B> seizes up and falls limp, her eyes dead and lifeless...
+[10:38:59]SAY: mouse/ : Squeek!
+[10:39:00]ACCESS: Logout: norc[DC]/(Sister Claria)

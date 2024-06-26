@@ -1,0 +1,123 @@
+
+
+Starting up. 18:45.08
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[18:45:08]ADMIN: Loading Banlistjob
+[18:45:08]ADMIN: Loading jobban_rank
+[18:45:08]ADMIN: jobban_keylist was empty
+[18:45:08]ADMIN: Loading appearance_rank
+[18:45:08]ADMIN: appearance_keylist was empty
+[18:45:08]ADMIN: Updating jobbanfile!
+[18:45:08]ADMIN: Loading Banlist
+[18:45:08]ADMIN: Loading RTD lists
+[19:16:18]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[19:16:55]ADMIN: DrakeMarshall has started the game.
+[19:16:57]ACCESS: Logout: *no key*/(DrakeMarshall)
+[19:16:57]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[19:17:07]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/projectile/automatic/bpistol at (124,95,1)
+[19:17:10]SAY: mouse/ : Squeek!
+[19:17:21]ADMIN: DrakeMarshall/(Venatus Kyner) called Venatus Kyner's grant_dual_wield() with no arguments.
+[19:17:33]SAY: sentinel/ : Establishing control of planet...
+[19:17:33]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/pistol at (124,95,1)
+[19:17:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/gun/energy/plasma/pistol at (124,94,1)
+[19:17:47]SAY: Betsy/ : MOOOOOO
+[19:17:59]SAY: sentinel/ : Establishing control of planet...
+[19:18:05]SAY: Kentucky/ : Cluck!
+[19:18:09]SAY: sentinel/ : Eliminating hostiles...
+[19:18:26]EMOTE: monkey (247)/ : <B>The monkey (247)</B> jumps!
+[19:18:39]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
+
+
+Starting up. 20:14.59
+---------------------
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode necron (necron) to configuration.
+Adding game mode Chaos Assault (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'secret'
+[20:14:59]ADMIN: Loading Banlistjob
+[20:15:00]ADMIN: Loading jobban_rank
+[20:15:00]ADMIN: jobban_keylist was empty
+[20:15:00]ADMIN: Loading appearance_rank
+[20:15:00]ADMIN: appearance_keylist was empty
+[20:15:00]ADMIN: Updating jobbanfile!
+[20:15:00]ADMIN: Loading Banlist
+[20:15:00]ADMIN: Loading RTD lists
+[20:18:47]ACCESS: Login: DrakeMarshall/(DrakeMarshall) from 127.0.0.1-3229208445 || BYOND v509
+[20:18:59]ADMIN: DrakeMarshall has started the game.
+[20:19:00]GAME: DrakeMarshall (ckey) has been selected as a Heretic
+[20:19:02]ACCESS: Logout: *no key*/(DrakeMarshall)
+[20:19:02]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:19:53]SAY: Betsy/ : moo?
+[20:20:09]SAY: grey baby slime (85)/ : Purr...
+[20:20:11]EMOTE: monkey (925)/ : <B>The monkey (925)</B> jumps!
+[20:20:26]SAY: necron scarab/ : Establishing control of planet...
+[20:20:38]GAME:  () has triggered a gibtonite deposit reaction at Mine (112, 32, 5).
+[20:20:42]SAY: mouse/ : Squeek?
+[20:21:54]SAY: necron scarab/ : Eliminating hostiles...
+[20:21:58]EMOTE: monkey (498)/ : <B>The monkey (498)</B> jumps!
+[20:22:00]SAY: sentinel/ : Establishing control of planet...
+[20:22:04]SAY: sentinel/ : Eliminating hostiles...
+[20:22:10]SAY: mouse/ : SQUEEK!
+[20:22:31]SAY: mouse/ : Squeek!
+[20:22:31]SAY: sentinel/ : Eliminating hostiles...
+[20:22:53]EMOTE: monkey (587)/ : <B>The monkey (587)</B> jumps!
+[20:23:14]SAY: mouse/ : Squeek?
+[20:23:28]SAY: Kentucky/ : BWAAAAARK BWAK BWAK BWAK!
+[20:23:52]SAY: sentinel/ : Eliminating hostiles...
+[20:24:36]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 122,156,1 in the Law Office
+[20:24:46]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/machinery/rack/hellpistol/full at (236,237,7)
+[20:24:53]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 235,233,7 in the Strange Station
+[20:24:58]ADMIN: DrakeMarshall/(Venatus Kyner) deleted the ED-209 Security Robot at (235,234,7)
+[20:25:01]SAY: grey baby slime (173)/ : Rawr...
+[20:25:05]ADMIN: DrakeMarshall/(Venatus Kyner) jumped to 236,236,7 in the Strange Station
+[20:25:26]SAY: necron scarab/ : Establishing control of planet...
+[20:25:52]SAY: sentinel/ : Eliminating hostiles...
+[20:25:54]SAY: sentinel/ : Eliminating hostiles...
+[20:25:56]SAY: necron scarab/ : Establishing control of planet...
+[20:27:15]SAY: necron scarab/ : Eliminating hostiles...
+[20:27:24]SAY: mouse/ : Squeek!
+[20:27:30]SAY: necron scarab/ : Eliminating hostiles...
+[20:27:52]EMOTE: monkey (925)/ : <B>The monkey (925)</B> jumps!
+[20:27:56]EMOTE: monkey (783)/ : <B>The monkey (783)</B> jumps!
+[20:28:14]SAY: Featherbottom/ : Bwaak bwak.
+[20:28:33]SAY: necron scarab/ : Eliminating hostiles...
+[20:28:36]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/pickaxe at (247,247,7)
+[20:28:43]ADMIN: DrakeMarshall/(Venatus Kyner) spawned /obj/item/weapon/pickaxe/diamonddrill at (247,248,7)
+[20:28:51]SAY: necron scarab/ : Establishing control of planet...
+[20:29:06]SAY: mouse/ : SQUEEK!
+[20:29:24]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:29:28]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:29:37]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:29:37]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:29:56]SAY: grey baby slime (173)/ : Blop...
+[20:30:05]WHISPER: Venatus Kyner/DrakeMarshall : owch
+[20:30:05]EMOTE: Venatus Kyner/DrakeMarshall : <B>Venatus Kyner</B> seizes up and falls limp, her eyes dead and lifeless...
+[20:30:07]ACCESS: Logout: *no key*/(Venatus Kyner)
+[20:30:07]ACCESS: Login: DrakeMarshall/(Venatus Kyner) from 127.0.0.1-3229208445 || BYOND v509
+[20:30:15]ACCESS: Logout: DrakeMarshall[DC]/(Venatus Kyner)
